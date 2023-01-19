@@ -32,7 +32,7 @@ bestiary-llk.json
 bestiary-lmop.json
 bestiary-lox.json
 bestiary-lr.json
-bestiary-mabjojson
+bestiary-mabjo.json
 bestiary-mcsc.json
 bestiary-mcdc.json
 bestiary-mff.json
