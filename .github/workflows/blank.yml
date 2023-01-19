@@ -26,10 +26,10 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: get 5etool resource
-        run: for i in `cat ./.github/workflows/bestiary-list.txt`;do wget https://raw.githubusercontent.com/5etools-mirror-1/5etools-mirror-1.github.io/master/data/bestiary/${i} -O ./en-json;done
+        run: for i in `cat ./.github/workflows/bestiary-list.txt`;do wget https://raw.githubusercontent.com/5etools-mirror-1/5etools-mirror-1.github.io/master/data/bestiary/${i} -O ./en-json/bestiary;done
       
       - name: Add & Commit
         uses: EndBug/add-and-commit@v7.2.1
         with:
-          add: "./en-json"
+          add: "./en-json/bestiary"
           branch: main
