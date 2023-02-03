@@ -8,7 +8,7 @@ jjson={}
 lod1='/home/runner/work/classpack-expansion/classpack-expansion/'
 #lod1='/'
 #nnmaame='dmg-sdr.db'
-nnmaame=sys.argv[1:]
+nnmaame=sys.argv[1]
 with open(lod1+'en-db/'+nnmaame) as readmoster:
         masterreadline=readmoster.readlines()
         n=0
