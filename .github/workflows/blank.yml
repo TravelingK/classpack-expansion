@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: get-reource
+name: trans
 
 # Controls when the workflow will run
 on:
@@ -27,10 +27,17 @@ jobs:
       # Runs a single command using the runners shell
       - name: translate from db
         run: |
-           for i in `ls /home/runner/work/classpack-expansion/classpack-expansion/en-db`;do python3 /home/runner/work/classpack-expansion/classpack-expansion/.github/trans.py $i;done
-          
-      - name: Add & Commit
+           python3 /home/runner/work/classpack-expansion/classpack-expansion/.github/trans_en2en.py
+      - name: translate to db
+        run: |
+           python3 /home/runner/work/classpack-expansion/classpack-expansion/.github/trans_zh2zh.py
+      - name: Add & Commit1
         uses: EndBug/add-and-commit@v7.2.1
         with:
           add: "/home/runner/work/classpack-expansion/classpack-expansion/json/en"
+          branch: main
+      - name: Add & Commit2
+        uses: EndBug/add-and-commit@v7.2.1
+        with:
+          add: "/home/runner/work/classpack-expansion/classpack-expansion/zh-db"
           branch: main
