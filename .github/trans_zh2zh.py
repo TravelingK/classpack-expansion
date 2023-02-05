@@ -39,18 +39,19 @@ for sdr1i in sdr1:
                 ij=json.loads(i)
                 if ij['name'] in ttss:
                     sdd=ttss.get(ij['name'])
-                    if (sdd['name']!=''):
-                        if sdd.__contains__('items')==True:
-                            if sdd['name']:
-                                for jsonitemsname in sdd['items']:
-                                    for dbitemsnum in range(len(ij['items'])):
-                                        if ij['items'][dbitemsnum]['name']==jsonitemsname:
-                                            dict_update(ij['items'][dbitemsnum],sdd['items'][jsonitemsname])
-                                            cleandb(ij['items'][dbitemsnum])        
-                            del sdd['items']          
-                        dict_update(ij,sdd)
-                        ij=cleandb(ij)
-                        strr=strr+str(json.dumps(ij,ensure_ascii=False))+'\n'
-                    
+                    if (sdd.__contains__('name')==True):
+                        if (sdd['name']!=''):
+                            if sdd.__contains__('items')==True:
+                                if sdd['name']:
+                                    for jsonitemsname in sdd['items']:
+                                        for dbitemsnum in range(len(ij['items'])):
+                                            if ij['items'][dbitemsnum]['name']==jsonitemsname:
+                                                dict_update(ij['items'][dbitemsnum],sdd['items'][jsonitemsname])
+                                                cleandb(ij['items'][dbitemsnum])        
+                                del sdd['items']          
+                            dict_update(ij,sdd)
+                            ij=cleandb(ij)
+                            strr=strr+str(json.dumps(ij,ensure_ascii=False))+'\n'
+                        
             with open(lod1+'/zh-db/'+sdr1i[:-4]+'db','w') as test4:
                 test4.write(strr)
