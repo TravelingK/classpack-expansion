@@ -20,7 +20,7 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v3
       - name: get sdr from fvtt5e
-        run: wget https://github.com/foundryvtt/dnd5e/raw/packs/monsters.db -O ./en-db/sdr.db
+        run: wget https://github.com/foundryvtt/dnd5e/raw//master/packs/monsters.db -O ./en-db/sdr.db
       - name: Add & Commit1
         uses: EndBug/add-and-commit@v7.2.1
         with:
