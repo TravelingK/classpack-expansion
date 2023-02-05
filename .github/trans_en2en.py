@@ -1,11 +1,10 @@
 #coding:utf-8
 import json,os
 
-jjson={}
-
 
 lod1=os.getcwd()
 for nnmaame in os.listdir(lod1+'/en-db/'):
+    jjson={}
     with open(lod1+'/en-db/'+nnmaame) as readmoster:
         masterreadline=readmoster.readlines()
         n=0
