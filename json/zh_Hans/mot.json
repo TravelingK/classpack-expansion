@@ -1,0 +1,4146 @@
+{
+    "Winged Lion": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Bite": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Claw": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Pounce": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Akroan Hoplite": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Spear": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Shield Bash": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Hold the Line": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Breastplate": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Shield": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Colossus of Akros": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Spear": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Sword": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Flames of Akros": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Crumbling Destruction": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Fire Absorption": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Immutable Form": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Magic Weapons": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Siege Monster": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Fleecemane Lion": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Bite": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Claw": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Keen Smell": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Pounce": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Running Leap": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Spell Turning": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Roar": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Legendary Actions": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Burnished Hart": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Antlers": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Hooves": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Charge": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Heated Body": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Sure-Footed": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Polukranos": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Bite": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Stomp": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Tail": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Acidic Blood": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Hold Breath": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Legendary Resistance": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Multiple Heads": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Reactive Heads": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Siege Monster": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Wakeful": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Detect": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Tail Swipe": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Trampling Charge": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Legendary Actions": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Oracle": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Eldritch Touch": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Blessings of the Gods": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Divine Insight": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Augury": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Scrying": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Bless": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Guiding Bolt": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Healing Word": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Hold Person": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Guidance": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Light": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Thaumaturgy": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Innate Spellcasting": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Returned Kakomantis": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Shortsword": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Underworld Bolt": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Fleeting Anger": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Turn Resistance": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Unreadable Face": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Anvilwrought Raptor": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Beak": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Keen Sight": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Recorded Mimicry": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Ironscale Hydra": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Bite": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Acidic Blood": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Hold Breath": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Multiple Heads": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Reactive Heads": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Wakeful": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Arasta": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Bite": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Claws": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Web of Hair": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Armor of Spiders (Mythic Trait; Recharges after a Short or Long Rest)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Legendary Resistance": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Magic Resistance": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Spider Climb": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Web Walker": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Swarm": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Toxic Web": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Legendary Actions": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Swipe": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Nyx Weave": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Mythic Actions": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Lair: Arasta learns about any creature touching ...": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Lair: Arasta casts the giant insect spell ...": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Regional Effects": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Eater of Hope": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Claws": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Breath of Hopelessness": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Insatiable Greed": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Magic Resistance": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Underworld Cerberus": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Bite": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Breath Weapon": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Aggressive": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Multiheaded": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Pack Tactics": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Medusa": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Snake Hair": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Shortsword": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Longbow": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Constrict": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Petrifying Gaze": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Gold-Forged Sentinel": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Ram": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Fire Breath": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Charge": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Spell Turning": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Woe Strider": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Claw": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Bite": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Antimagic Cone": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Bronze Sable": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Bite": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "False Appearance": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Pack Tactics": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Surprise Attack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Ghostblade Eidolon": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Ghostblade": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Blurred Form": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Incorporeal Movement": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Turn Resistance": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Satyr Reveler": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Ram": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Shortbow": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Enthralling Performance": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Magic Resistance": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Sleepless Reveler": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Returned Drifter": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Scimitar": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Sling": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Turn Resistance": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Unreadable Face": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Leather Armor": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Setessan Hoplite": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Scimitar": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Longbow": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Pack Tactics": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Leather Armor": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Shield": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Returned Palamnite": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Shortsword": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Fleeting Anger": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Turn Resistance": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Unreadable Face": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Nightmare Shepherd": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Claws": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Staff": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Herd the Underworld": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Aura of Nightmares": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Magic Resistance": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Confusion": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Dispel Magic": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Hold Person": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Suggestion": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Innate Spellcasting": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Two-Headed Cerberus": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Bite": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Breath Weapon": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Aggressive": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Multiheaded": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Pack Tactics": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Oread": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Fiery Touch": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Fire Bolt (Cantrip)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Invisible in Fire": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Magic Resistance": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Hellish Rebuke (2nd-Level Spell; 1/Day)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Hellish Rebuke": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Scorching Ray": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Burning Hands": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Fire Bolt": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Innate Spellcasting": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Leonin Iconoclast": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Claws": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Dart": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Evasion": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Unarmored Defense": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Banishment": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Detect Evil and Good": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Innate Spellcasting": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Hundred-Handed One": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Longsword": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Rock": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Reactive": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Vigilant": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Deflect Attack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Triton Shorestalker": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Urchin-Spine Shortsword": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Poisoned Spine": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Amphibious": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Nimble Escape": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Fog Cloud": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Gust of Wind": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Innate Spellcasting": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Meletian Hoplite": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Spear": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Shield Bash": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Ray of Frost (Cantrip)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Breastplate": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Shield": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Mage Hand": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Minor Illusion": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Ray of Frost": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Color Spray": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Expeditious Retreat": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Sleep": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Blur": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Cloud of Daggers": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Invisibility": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Spellcasting": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Ashen Rider": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Ashen Blade": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Bolt of Ash": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Aura of Silence": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Mount": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Attack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Coordinated Assault": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Reduce to Ash": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Legendary Actions": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Plate Armor": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Banishment": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Blade Barrier": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Command": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Compelled Duel": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Innate Spellcasting": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Flitterstep Eidolon": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Flickering Dagger": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Flitterstep": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Blurred Form": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Evasion": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Incorporeal Movement": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Turn Resistance": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Alseid": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Radiant Touch": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Hide in Plain Sight": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Magic Resistance": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Calm Emotions": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Lesser Restoration": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Plant Growth": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Cure Wounds": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Charm Person": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Sleep": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Innate Spellcasting": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Broken King Antigonos": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Greataxe": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Gore": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Amphora": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Charge": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Labyrinthine Recall": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Reckless": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Decrepit State": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Doomwake Giant": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Slam": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Noxious Gust": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Aura of Erebos": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Magic Resistance": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Abhorrent Overlord": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Claws": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Storm of Crows": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Insatiable Greed": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Magic Resistance": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Confusion": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Crown of Madness": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Suggestion": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Innate Spellcasting": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Lampad": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Necrotic Touch": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Chill Touch (Cantrip)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Corpse Stride": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Magic Resistance": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Chill Touch": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Gentle Repose": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Innate Spellcasting": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Nyx-Fleece Ram": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Ram": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Charge": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Magic Resistance": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Sure-Footed": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Tromokratis": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Pincer": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Tail": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Tentacle Grasp": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Bite": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Amphibious": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Hearts of the Kraken (Mythic Trait; Recharges after a Short or Long Rest)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Legendary Resistance": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Magic Weapons": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Siege Monster": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Spell-Resistant Carapace": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Move": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Legendary Actions": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Rampage": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Coral Growth": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Mythic Actions": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Theran Chimera": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Claws": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Head": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Tail": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Breath Weapon": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Spell Turning": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Typhon": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Flurry of Bites": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Constrict": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Maw": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Keen Smell": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Regeneration": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Archon of Falling Stars": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Radiant Spear": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Magic Resistance": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Mount": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Radiant Rebirth": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Attack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Coordinated Assault": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Return to Nyx": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Legendary Actions": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Plate Armor": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Crusader's Mantle": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Spirit Guardians": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Command": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Guiding Bolt": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Spare the Dying": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Innate Spellcasting": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Triton Master of Waves": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Wave Touch": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Ray of Frost (Cantrip)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Amphibious": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Summon Water Weird": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Frigid Shield": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Fog Cloud": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Gust of Wind": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Wind Wall": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Cone of Cold": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Ray of Frost": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Innate Spellcasting": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Phylaskia": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Longsword": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Strength Drain": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Gatekeeper's Aura": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Undead Fortitude": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Vigilant": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Plate Armor": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Hythonia": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Claws": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Constrict": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Snaky Hair": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Legendary Resistance": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Petrifying Gaze": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Shed Skin (Mythic Trait; Recharges after a Short or Long Rest)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Move": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Petrified Earth": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Legendary Actions": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Numbing Claws": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Look at Me": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Mythic Actions": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Lair: Hythonia briefly animates creatures that ...": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Lair: Hythonia causes spectral snakes to erupt ...": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Regional Effects": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Animate Objects": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Innate Spellcasting": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Satyr Thornbearer": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Ram": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Shortbow": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Hail of Arrows": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Magic Resistance": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Sleepless Reveler": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Leather Armor": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Blood-Toll Harpy": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Bite": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Claws": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Blood Frenzy": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Dark Devotion": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Anvilwrought Raptor Familiar": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Beak": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Keen Sight": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Recorded Mimicry": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Familiar": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Returned Sentry": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Spear (Melee)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Spear (Ranged)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Sling": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Pack Tactics": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Turn Resistance": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Unreadable Face": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Leather Armor": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Shield": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Hippocamp": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Hooves": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Ram": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Amphibious": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Charge": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Aphemia": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Bite": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Claws": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Discordant Song": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Grave Calling Song": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Legendary Resistance": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Magic Resistance": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Winged Bull": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Gore": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Charge": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Naiad": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Psychic Touch": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Amphibious": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Invisible in Water": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Magic Resistance": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Fly": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Hypnotic Pattern": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Phantasmal Force": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Minor Illusion": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Innate Spellcasting": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    }
+}

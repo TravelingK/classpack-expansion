@@ -1,0 +1,4290 @@
+{
+    "Archaic": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Force Strike (Melee)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Force Strike (Ranged)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Gravity Shift": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Teleport": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Enigmatic Mind": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Legendary Resistance": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Unusual Nature": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Spell Mimicry": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Strike": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Unravel Magic": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Legendary Actions": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Banishment": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Forcecage": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Detect Magic": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Divination": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Sending": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Spellcasting": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Art Elemental Mascot": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Joyful Flare": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Melancholic Bolt": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Captivating Artistry": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Death Burst": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Beledros Witherbloom": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Bite": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Claw": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Decaying Breath": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Miasmal Flow": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Legendary Resistance": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Unusual Nature": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Teeming with Life": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Legendary Actions": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Greater Restoration": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Mass Cure Wounds": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Plant Growth": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Revivify": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Speak with Dead": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Spellcasting": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Brackish Trudge": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Tusk": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Fungal Fortitude": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Cogwork Archivist": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Grasping Limb": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Magic Resistance": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Silence": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Dancing Lights": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Prestidigitation": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Spellcasting": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Daemogoth": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Agonizing Burst (Melee)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Agonizing Burst (Ranged)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Terrify": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Pact of Pain": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Daemogoth Titan": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Agonizing Burst (Melee)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Agonizing Burst (Ranged)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Teleport": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Legendary Resistance": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Pact of Suffering": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Attack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Stalking Nightmare": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Terrorize": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Legendary Actions": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "First-Year Student": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Magic Flare (Melee)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Magic Flare (Ranged)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Excited to Be Here": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Beginner's Luck": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Detect Magic": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Mage Hand": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Prestidigitation": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Spellcasting": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Fractal Mascot": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Quantum Strike": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Relative Density": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Augment": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Diminish": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Galazeth Prismari": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Bite": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Claw": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Dancing Elements Breath": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Legendary Resistance": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Lightning Flash": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Flowing Creation": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Legendary Actions": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Control Water": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Gust of Wind": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Wall of Stone": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Spellcasting": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Groff": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Bite": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Swamp Claw": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "False Appearance": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Hold Breath": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Inkling Mascot": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Blot": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Ink Spray": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Amorphous": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Shadow Stealth": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Lorehold Apprentice": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Scroll Bash": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Reduce to Memory": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Learn from the Past": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Comprehend Languages": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Locate Object": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Mage Armor": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Guidance": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Light": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Spellcasting": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Lorehold Pledgemage": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Scroll Bash": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Reduce to Memory": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Chronal Break": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Learn from the Past": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Mage Armor": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Speak with Dead": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Stone Shape": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Comprehend Languages": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Locate Object": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Guidance": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Light": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Spellcasting": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Lorehold Professor of Chaos": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Spectral Scroll": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Weight of History": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Voice from the Past": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Locate Object": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Mage Armor": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Passwall": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Comprehend Languages": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Dancing Lights": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Guidance": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Spellcasting": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Lorehold Professor of Order": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Repelling Burst": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Force Barrier": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Voice from the Past": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Arcane Stasis": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Dimension Door": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Locate Object": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Mage Armor": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Stone Shape": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Comprehend Languages": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Guidance": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Light": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Spellcasting": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Mage Hunter": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack (Hunter Form Only)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Claw (Hunter Form Only)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Tail": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Mage Tracker (Sentry Form Only)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Magic Sense": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Spider Climb (Hunter Form Only)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Shift Form": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Consume and Destroy": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Murgaxor": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Blood Lash": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Blood Boil": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Blood Aegis": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Oriq Mask": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Sanguine Sense": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Lair: Clay Behemoth": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Lair: Earthen Fist": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Lair: Necrotic Burst": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Lair: Summon Mephits": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Oracle of Strixhaven": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Magic Flare (Melee)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Magic Flare (Ranged)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Paradoxy": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Teleport": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Legendary Resistance": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Vector Shift": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Spellcasting": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Vortex Jaunt": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Legendary Actions": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Power Word Stun": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Scrying": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Wall of Force": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Dispel Magic": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Mage Armor": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Remove Curse": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Sending": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Detect Magic": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Oriq Blood Mage": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Blood Lash": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Blood Boil": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Blood Aegis": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Oriq Mask": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Sanguine Sense": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Oriq Recruiter": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Psychic Knife (Melee)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Psychic Knife (Ranged)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Misdirecting Defense": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Oriq Mask": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Suggestion": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Charm Person": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Disguise Self": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Silent Image": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Spellcasting": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Pest Mascot": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Bite": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Regeneration": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Spiny Hide": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Prismari Apprentice": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Elemental Strike (Melee)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Elemental Strike (Ranged)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Surge of Artistry": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Gust of Wind": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Mage Armor": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Silent Image": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Minor Illusion": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Spellcasting": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Prismari Pledgemage": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Elemental Strike (Melee)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Elemental Strike (Ranged)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Showstopper": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Evasion": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Surge of Artistry": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Mage Armor": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Water Walk": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Gust of Wind": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Silent Image": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Minor Illusion": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Spellcasting": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Prismari Professor of Expression": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Cinder Strike": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Lightning Flourish": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Flaming Leap": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Fog Cloud": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Gust of Wind": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Mage Armor": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Minor Illusion": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Spellcasting": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Prismari Professor of Perfection": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Tidal Strike (Melee)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Tidal Strike (Ranged)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Water Walking": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Rushing Wave": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Wall of Ice": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Control Water": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Create or Destroy Water": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Mage Armor": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Stone Shape": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Minor Illusion": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Spellcasting": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Quandrix Apprentice": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Exponential Lash (Melee)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Exponential Lash (Ranged)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Enlarge/Reduce": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Mage Armor": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Guidance": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Mage Hand": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Spellcasting": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Quandrix Pledgemage": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Exponential Lash (Melee)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Exponential Lash (Ranged)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Vortex Calculus": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Dimension Door": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Enlarge/Reduce": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Mage Armor": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Plant Growth": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Guidance": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Mage Hand": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Spellcasting": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Quandrix Professor of Substance": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Spatial Blade (Melee)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Spatial Blade (Ranged)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Dilation": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Expand": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Contract": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Avoidant Translation": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Creation": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Dimension Door": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Mage Armor": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Plant Growth": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Polymorph": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Guidance": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Mage Hand": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Mending": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Spellcasting": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Quandrix Professor of Theory": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Heuristic Lance (Melee)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Heuristic Lance (Ranged)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Overriding Theorem": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Divide by Zero": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Mage Armor": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Major Image": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Mirage Arcane": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Rary's Telepathic Bond": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Guidance": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Mage Hand": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Minor Illusion": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Spellcasting": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Relic Sloth": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Claws": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Slow but Sturdy": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Ruin Grinder": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Excavator": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Fire Absorption": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Siege Monster": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Tunneler": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Scufflecup Teacup": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Slam": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Shadrix Silverquill": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Bite": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Claw": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Illuminating Shadow Breath": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Legendary Resistance": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Shadow Slip": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Flash of Inspiration": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Legendary Actions": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Darkness": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Daylight": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Hypnotic Pattern": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Sending": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Suggestion": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Spellcasting": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Silverquill Apprentice": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Ink Blade (Melee)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Ink Blade (Ranged)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Rousing Verse": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Command": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Mage Armor": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Dancing Lights": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Friends": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Spellcasting": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Silverquill Pledgemage": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Ink Blade (Melee)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Ink Blade (Ranged)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Demotivate": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Rousing Verse": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Command": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Confusion": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Mage Armor": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Tongues": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Dancing Lights": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Friends": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Spellcasting": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Silverquill Professor of Radiance": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Radiant Strike (Melee)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Radiant Strike (Ranged)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Hypnotic Pattern": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Tongues": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Bless": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Command": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Cure Wounds": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Daylight": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Mage Armor": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Dancing Lights": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Friends": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Spellcasting": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Silverquill Professor of Shadow": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Ink Lance (Melee)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Ink Lance (Ranged)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Devil's Sight": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Tongues": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Bane": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Command": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Darkness": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Mage Armor": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Dancing Lights": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Friends": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Spellcasting": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Spirit Statue Mascot": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Slam": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Counsel of the Past": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Death Burst": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Strixhaven Campus Guide": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Slam": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Smile and Wave": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Campus Knowledge": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Univocal Speech": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Unusual Nature": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Need Directions": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Tanazir Quandrix": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Bite": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Claw": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Diminution Breath": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Teleport": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Legendary Resistance": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Fold Space": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Fractal Refraction": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Legendary Actions": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Divination": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Enlarge/Reduce": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Mirage Arcane": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Polymorph": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Scrying": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Seeming": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Spellcasting": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Velomachus Lorehold": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Bite": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Claw": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Battle Tide Breath": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Legendary Resistance": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Chaotic Flow": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Repeating History": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Legendary Actions": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Contact Other Plane": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Divination": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Move Earth": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Wall of Force": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Spellcasting": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Witherbloom Apprentice": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Briar Vine": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Regeneration": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Verdant Talisman": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Wither Burst": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Leather Armor": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Pass without Trace": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Druidcraft": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Spare the Dying": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Spellcasting": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Witherbloom Pledgemage": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Briar Vine": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Regeneration": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Verdant Talisman": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Vociferous Form": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Wither Burst": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Death Ward": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Pass without Trace": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Speak with Plants": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Druidcraft": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Spare the Dying": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Spellcasting": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Witherbloom Professor of Decay": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Mortality Spear (Melee)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Mortality Spear (Ranged)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Essence Pulse": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Essence Transfer": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Hide Armor": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Antilife Shell": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Bane": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Feign Death": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Speak with Dead": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Druidcraft": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Spare the Dying": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Spellcasting": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Witherbloom Professor of Growth": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Verdant Lash": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Summon Nature's Avatar": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Hide Armor": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Greater Restoration": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Lesser Restoration": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Mass Cure Wounds": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Pass without Trace": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Plant Growth": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Revivify": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Druidcraft": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Spare the Dying": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Spellcasting": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Y'demi": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Blood Lash": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Blood Boil": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Blood Aegis": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Oriq Mask": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Sanguine Sense": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Sanguine Tentacles": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    }
+}

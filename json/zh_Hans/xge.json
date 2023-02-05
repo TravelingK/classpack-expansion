@@ -1,0 +1,26 @@
+{
+    "Tiny Servant": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Slam": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    }
+}
