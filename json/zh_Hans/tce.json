@@ -1,0 +1,978 @@
+{
+    "Aberrant Spirit": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Eye Ray (Beholderkin Only)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Claws (Slaad Only)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Psychic Slam (Star Spawn Only)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Regeneration (Slaad Only)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Whispering Aura (Star Spawn Only)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Adult Red Dracolich": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Bite": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Claw": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Tail": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Frightful Presence": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Fire Breath": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Legendary Resistance": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Magic Resistance": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Detect": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Tail Attack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Wing Attack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Legendary Actions": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Beast of the Land": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Maul": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Charge": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Primal Bond": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Beast of the Sea": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Binding Strike": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Amphibious": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Primal Bond": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Beast of the Sky": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Shred": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Flyby": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Primal Bond": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Bestial Spirit": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Maul": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Water Breathing (Water Only)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Flyby (Air Only)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Pack Tactics (Land and Water Only)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Celestial Spirit": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Radiant Bow (Avenger Only)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Radiant Mace (Defender Only)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Healing Touch": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Construct Spirit": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Slam": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Heated Body (Metal Only)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Stony Lethargy (Stone Only)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Berserk Lashing (Clay Only)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Dancing Item": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Force-Empowered Slam": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Immutable Form": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Irrepressible Dance": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Elemental Spirit": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Slam": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Amorphous Form (Air, Fire, and Water Only)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Fey Spirit": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Shortsword": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Fey Step": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Fiendish Spirit": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Bite (Demon Only)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Claws (Yugoloth Only)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Hurl Flame (Devil Only)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Magic Resistance": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Death Throes (Demon Only)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Devil's Sight (Devil Only)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Juvenile Mimic": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Bite": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Shape-Shift": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "False Appearance (Object Form Only)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Spider Climb": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Mighty Servant of Leuk-o": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Destructive Fist": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Crushing Leap": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Immutable Existence": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Magic Resistance": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Regeneration": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Standing Leap": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Unusual Nature": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Reflection": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Strength Drain": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Amorphous": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Shadow Stealth": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Sunlight Weakness": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Shadow Spirit": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Chilling Rend": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Dreadful Scream": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Terror Frenzy (Fury Only)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Weight of Sorrow (Despair Only)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Shadow Stealth (Fear Only)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Undead Spirit": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Deathly Touch (Ghostly Only)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Grave Bolt (Skeletal Only)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Rotting Claw (Putrid Only)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Incorporeal Passage (Ghostly Only)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Festering Aura (Putrid Only)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Wildfire Spirit": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Flame Seed": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Fiery Teleportation": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    }
+}

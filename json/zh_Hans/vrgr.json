@@ -1,0 +1,3210 @@
+{
+    "Bodytaker Plant": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Vine Lash": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Entrapping Pod": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Podling Link": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Rejuvenation": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Unusual Nature": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Boneless": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Slam": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Crushing Embrace": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Compression": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Unusual Nature": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Brain in a Jar": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Chill Touch (Cantrip)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Mind Blast": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Detect Sentience": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Magic Resistance": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Unusual Nature": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Compulsion": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Hold Monster": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Sleep": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Tasha's Hideous Laughter": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Charm Person": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Hold Person": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Chill Touch": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Detect Thoughts": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Mage Hand": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Zone of Truth": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Innate Spellcasting (Psionics)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Carrion Stalker": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Tentacle": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Larval Burst": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Carrionette": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Silver Needle": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Soul Swap": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "False Object": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Unusual Nature": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Death's Head": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Gnashing Bite (Gnashing Head Only)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Mind-Bending Bite (Aberrant Head Only)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Petrifying Bite (Petrifying Head Only)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Beheaded Form": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Unusual Nature": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Dullahan": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Battleaxe": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Fiery Skull": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Headless Summoning": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Legendary Resistance": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Unusual Nature": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Attack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Frightful Presence": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Head Hunt": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Legendary Actions": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "(Unnamed)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Coordinated Assault": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Headless Wail": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Mythic Actions": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Breastplate": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Elise": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Slam": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Immutable Form": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Lightning Absorption": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Magic Resistance": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Magic Weapons": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Gallows Speaker": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Foretelling Touch": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Suffering Echoes": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Divination Senses": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Incorporeal Movement": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Unusual Nature": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Greater Star Spawn Emissary": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Lashing Maw": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Psychic Orb": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Unearthly Bile": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Legendary Resistance": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Unusual Nature": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Attack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Warp Space": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Mind Cloud": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Legendary Actions": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Gremishka": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Bite": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Magic Allergy": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Inquisitor of the Mind Fire": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Silver Longsword": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Mind Fire": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Inquisitor's Command": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Breastplate": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Mass Suggestion": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Modify Memory": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Arcane Eye": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Calm Emotions": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Detect Magic": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Detect Thoughts": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Dispel Magic": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Sending": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Suggestion": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Innate Spellcasting (Psionics)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Inquisitor of the Sword": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Silver Longsword": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Metabolic Control": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Blink Step": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Breastplate": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Dimension Door": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Fly": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Greater Invisibility": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Detect Magic": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Detect Thoughts": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Dispel Magic": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Sending": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Innate Spellcasting (Psionics)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Inquisitor of the Tome": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Force Bolt": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Silver Longsword": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Implode": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Telekinetic Deflection": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Otiluke's Resilient Sphere": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Telekinesis": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Detect Magic": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Dispel Magic": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Levitate": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Mage Armor": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Mage Hand": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Sending": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Innate Spellcasting (Psionics)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Isolde": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Nepenthe": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Fire Ray": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Fiendish Charm": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Fiendish Blessing": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Magic Resistance Aura": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Scale Mail": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Plane Shift": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Alter Self": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Command": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Detect Magic": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Innate Spellcasting": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Jiangshi": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Slam": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Consume Energy": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Change Shape": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Jiangshi Weaknesses": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Unusual Nature": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Lesser Star Spawn Emissary": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Lashing Maw": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Psychic Orb": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Change Shape": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Aberrant Rejuvenation": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Legendary Resistance": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Unusual Nature": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Teleportation Maw": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Psychic Lash": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Legendary Actions": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Loup Garou": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Bite (Dire Wolf or Hybrid Form Only)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Claws (Dire Wolf or Hybrid Form Only)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Longsword (Humanoid Form Only)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Blood Frenzy": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Legendary Resistance": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Regeneration": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Change Shape": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Swipe": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Mauling Pounce": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Bite": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Legendary Actions": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Necrichor": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Pseudopod": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Necrotic Bolt": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Blood Puppeteering": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Legendary Resistance": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Rejuvenation": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Spider Climb": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Unusual Nature": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Nosferatu": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Claw": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Bite": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Blood Disgorge": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Regeneration": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Spider Climb": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Sunlight Hypersensitivity": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Unusual Nature": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Podling": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Slam": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Semblance of Life": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Unusual Nature": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Priest of Osybus": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Soul Blade": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Necrotic Bolt": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Tattoo of Osybus": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Soul Tattoo": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Priest of Osybus (Blazing Boon)": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Soul Blade": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Necrotic Bolt": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Tattoo of Osybus": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Blazing Boon": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Soul Tattoo": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Priest of Osybus (Deathly Boon)": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Soul Blade": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Necrotic Bolt": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Circle of Death (Spell; (Recharge 5–6))": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Tattoo of Osybus": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Soul Tattoo": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Animate Dead": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Create Undead": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Circle of Death": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Innate Spellcasting": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Priest of Osybus (Dread Boon)": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Soul Blade": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Necrotic Bolt": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Tattoo of Osybus": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Dread Boon": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Soul Tattoo": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Priest of Osybus (Ectoplasmic Boon)": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Soul Blade": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Necrotic Bolt": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Tattoo of Osybus": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Ectoplasmic Boon": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Soul Tattoo": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Priest of Osybus (Spectral Boon)": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Soul Blade": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Necrotic Bolt": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Tattoo of Osybus": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Spectral Boon": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Soul Tattoo": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Priest of Osybus (Vampiric Boon)": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Soul Blade": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Necrotic Bolt": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Tattoo of Osybus": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Vampiric Boon": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Soul Tattoo": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Relentless Juggernaut": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Executioner's Pick": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Fist": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Deadly Shaping": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Flying Stone": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Scything Shrapnel": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Legendary Resistance": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Regeneration": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Unusual Nature": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Implacable Advance": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Rapid Shaping": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Legendary Actions": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Relentless Slasher": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Slasher's Knife (Melee)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Slasher's Knife (Ranged)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Legendary Resistance": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Shrouded Presence": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Slice": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Vanishing Strike": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Legendary Actions": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Strigoi": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Claw": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Proboscis": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Ravenous Children": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Stirge Telepathy": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Swarm of Gremishkas": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Bites": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Bites (Half Hit Points)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Limited Spell Immunity": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Swarm": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Spell Redirection": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Swarm of Maggots": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Infestation": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Infestation (Half Hit Points)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Swarm": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Swarm of Scarabs": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Ravenous Bites": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Ravenous Bites (Half Hit Points)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Swarm": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Skeletonize": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Spider Climb": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Swarm of Zombie Limbs": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Undead Mass": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Undead Mass (Half Hit Points)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Grasping Limbs": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Swarm": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Unusual Nature": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "The Bagman": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Bite": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Claw": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Keen Smell": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Regeneration": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Grappler": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Amorphous": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Alien Mind": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Unspeakable Horror": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Limbs": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Hex Blast": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Formed by the Mists": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Amorphous (Malleable Mass Only)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Bile Body (Oozing Organs Only)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Relentless Stride (Loathsome Limbs Only)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Unspeakable Horror (Customized)": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Limbs": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Hex Blast": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Formed by the Mists": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Amorphous (Malleable Mass Only)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Bile Body (Oozing Organs Only)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Relentless Stride (Loathsome Limbs Only)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Customizing a Horror": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Vampiric Mind Flayer": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Claw": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Tentacles": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Drink Sapience": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Spider Climb": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Sunlight Sensitivity": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Unusual Nature": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Disrupt Psyche": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Wereraven": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack (Human or Hybrid Form Only)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Beak (Raven or Hybrid Form Only)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Shortsword (Human or Hybrid Form Only)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Hand Crossbow (Human or Hybrid Form Only)": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Shapechanger": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Mimicry": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Regeneration": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Zombie Clot": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Slam": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Flesh Entomb": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Deathly Stench": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Undead Fortitude": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Unusual Nature": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    },
+    "Zombie Plague Spreader": {
+        "name": "",
+        "prototypeToken": {
+            "name": ""
+        },
+        "system": {
+            "details": {
+                "alignment": "",
+                "biography": {
+                    "value": ""
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Slam": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Virulent Miasma": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Undead Fortitude": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Unusual Nature": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            },
+            "Viral Aura": {
+                "name": "",
+                "system": {
+                    "description": {
+                        "value": ""
+                    }
+                }
+            }
+        }
+    }
+}
