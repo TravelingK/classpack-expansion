@@ -19,7 +19,13 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v3
-
+      - name: get sdr from fvtt5e
+        run: wget https://github.com/foundryvtt/dnd5e/raw/packs/monsters.db -O ./en-db/sdr.db
+      - name: Add & Commit1
+        uses: EndBug/add-and-commit@v7.2.1
+        with:
+          add: "./en-db/sdr.db"
+          branch: main
       # Runs a single command using the runners shell
       - name: translate from db
         run: |
@@ -27,13 +33,8 @@ jobs:
       - name: translate to db
         run: |
            python3 /home/runner/work/classpack-expansion/classpack-expansion/.github/trans_zh2zh.py
-      - name: Add & Commit1
-        uses: EndBug/add-and-commit@v7.2.1
-        with:
-          add: "/home/runner/work/classpack-expansion/classpack-expansion/json/en"
-          branch: main
       - name: Add & Commit2
         uses: EndBug/add-and-commit@v7.2.1
         with:
-          add: "/home/runner/work/classpack-expansion/classpack-expansion/zh-db"
+          add: "/json/*"
           branch: main
