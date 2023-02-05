@@ -36,5 +36,5 @@ jobs:
       - name: Add & Commit2
         uses: EndBug/add-and-commit@v7.2.1
         with:
-          add: "/json/*"
+          add: "./json/*"
           branch: main
