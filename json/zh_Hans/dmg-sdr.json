@@ -8,6 +8,2362 @@
             "details": {
                 "alignment": "中立邪恶"
             }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            },
+            "Scimitar": {
+                "name": "弯刀Scimitar"
+            },
+            "Chain Shirt": {
+                "name": "链甲衫Chain Shirt"
+            },
+            "Shield": {
+                "name": "盾牌Shield"
+            }
+        }
+    },
+    "Dao (Wishes)": {
+        "items": {
+            "Plane Shift": {
+                "name": "异界传送Plane Shift"
+            },
+            "Tongues": {
+                "name": "巧言术Tongues"
+            },
+            "Innate Spellcasting": {
+                "name": "天生施法Innate Spellcasting"
+            },
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            },
+            "Earth Glide": {
+                "name": "遁地Earth Glide"
+            },
+            "Elemental Demise": {
+                "name": "元素消亡Elemental Demise"
+            },
+            "Gaseous Form": {
+                "name": "气化形体Gaseous Form"
+            },
+            "Invisibility": {
+                "name": "隐形Invisibility"
+            },
+            "Detect Evil and Good": {
+                "name": "侦测善恶Detect Evil and Good"
+            },
+            "Detect Magic": {
+                "name": "侦测魔法Detect Magic"
+            }
+        }
+    },
+    "Ultroloth (Summoner)": {
+        "items": {
+            "Magic Resistance": {
+                "name": "魔法抗性Magic Resistance"
+            },
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            },
+            "Longsword": {
+                "name": "长剑 Longsword"
+            },
+            "Darkness": {
+                "name": "黑暗术Darkness"
+            },
+            "Detect Magic": {
+                "name": "侦测魔法Detect Magic"
+            },
+            "Invisibility": {
+                "name": "隐形Invisibility"
+            },
+            "Innate Spellcasting": {
+                "name": "天生施法Innate Spellcasting"
+            }
+        }
+    },
+    "Faerie Dragon (Yellow)": {
+        "items": {
+            "Magic Resistance": {
+                "name": "魔法抗性Magic Resistance"
+            },
+            "Dancing Lights": {
+                "name": "舞光术 Dancing Lights"
+            },
+            "Bite": {
+                "name": "啃咬Bite"
+            },
+            "Innate Spellcasting": {
+                "name": "天生施法Innate Spellcasting"
+            }
+        }
+    },
+    "Chasme (Summoner)": {
+        "items": {
+            "Spider Climb": {
+                "name": "蛛行 Spider Climb"
+            },
+            "Magic Resistance": {
+                "name": "魔法抗性Magic Resistance"
+            }
+        }
+    },
+    "Bone Naga (Spirit)": {
+        "items": {
+            "Bite": {
+                "name": "啃咬Bite"
+            }
+        }
+    },
+    "Arcanaloth (Summoner)": {
+        "items": {
+            "Invisibility": {
+                "name": "隐形Invisibility"
+            },
+            "Claws": {
+                "name": "爪击 Claws"
+            },
+            "Magic Resistance": {
+                "name": "魔法抗性Magic Resistance"
+            },
+            "Darkness": {
+                "name": "黑暗术Darkness"
+            },
+            "Detect Magic": {
+                "name": "侦测魔法Detect Magic"
+            },
+            "Shield": {
+                "name": "盾牌Shield"
+            },
+            "Innate Spellcasting": {
+                "name": "天生施法Innate Spellcasting"
+            }
+        }
+    },
+    "Marid (Wishes)": {
+        "items": {
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            },
+            "Elemental Demise": {
+                "name": "元素消亡Elemental Demise"
+            },
+            "Tongues": {
+                "name": "巧言术Tongues"
+            },
+            "Gaseous Form": {
+                "name": "气化形体Gaseous Form"
+            },
+            "Invisibility": {
+                "name": "隐形Invisibility"
+            },
+            "Plane Shift": {
+                "name": "异界传送Plane Shift"
+            },
+            "Water Breathing": {
+                "name": "水下呼吸 Water Breathing"
+            },
+            "Detect Evil and Good": {
+                "name": "侦测善恶Detect Evil and Good"
+            },
+            "Detect Magic": {
+                "name": "侦测魔法Detect Magic"
+            },
+            "Innate Spellcasting": {
+                "name": "天生施法Innate Spellcasting"
+            }
+        }
+    },
+    "Kuo-toa Whip": {
+        "items": {
+            "Bite": {
+                "name": "啃咬Bite"
+            },
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            },
+            "Sunlight Sensitivity": {
+                "name": "日照敏感 Sunlight Sensitivity"
+            }
+        }
+    },
+    "Green Slaad (Control Gem)": {
+        "items": {
+            "Innate Spellcasting": {
+                "name": "天生施法Innate Spellcasting"
+            },
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            },
+            "Magic Resistance": {
+                "name": "魔法抗性Magic Resistance"
+            },
+            "Invisibility": {
+                "name": "隐形Invisibility"
+            },
+            "Detect Magic": {
+                "name": "侦测魔法Detect Magic"
+            }
+        }
+    },
+    "Beholder": {
+        "items": {
+            "Legendary Actions": {
+                "name": "传奇动作 Legendary Actions"
+            },
+            "Bite": {
+                "name": "啃咬Bite"
+            },
+            "Regional Effects": {
+                "name": "区域效应Regional Effects"
+            }
+        }
+    },
+    "Nycaloth (Summoner)": {
+        "items": {
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            },
+            "Claw": {
+                "name": "爪击 Claw"
+            },
+            "Magic Resistance": {
+                "name": "魔法抗性Magic Resistance"
+            },
+            "Darkness": {
+                "name": "黑暗术Darkness"
+            },
+            "Detect Magic": {
+                "name": "侦测魔法Detect Magic"
+            },
+            "Invisibility": {
+                "name": "隐形Invisibility"
+            },
+            "Innate Spellcasting": {
+                "name": "天生施法Innate Spellcasting"
+            }
+        }
+    },
+    "Gray Slaad": {
+        "items": {
+            "Tongues": {
+                "name": "巧言术Tongues"
+            },
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            },
+            "Greatsword": {
+                "name": "巨剑Greatsword"
+            },
+            "Magic Resistance": {
+                "name": "魔法抗性Magic Resistance"
+            },
+            "Plane Shift": {
+                "name": "异界传送Plane Shift"
+            },
+            "Detect Magic": {
+                "name": "侦测魔法Detect Magic"
+            },
+            "Invisibility": {
+                "name": "隐形Invisibility"
+            },
+            "Major Image": {
+                "name": "高等幻影Major Image"
+            },
+            "Innate Spellcasting": {
+                "name": "天生施法Innate Spellcasting"
+            }
+        }
+    },
+    "Marid": {
+        "items": {
+            "Elemental Demise": {
+                "name": "元素消亡Elemental Demise"
+            },
+            "Gaseous Form": {
+                "name": "气化形体Gaseous Form"
+            },
+            "Tongues": {
+                "name": "巧言术Tongues"
+            },
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            },
+            "Invisibility": {
+                "name": "隐形Invisibility"
+            },
+            "Plane Shift": {
+                "name": "异界传送Plane Shift"
+            },
+            "Water Breathing": {
+                "name": "水下呼吸 Water Breathing"
+            },
+            "Detect Evil and Good": {
+                "name": "侦测善恶Detect Evil and Good"
+            },
+            "Detect Magic": {
+                "name": "侦测魔法Detect Magic"
+            },
+            "Innate Spellcasting": {
+                "name": "天生施法Innate Spellcasting"
+            }
+        }
+    },
+    "Blue Slaad (Control Gem)": {
+        "items": {
+            "Claw": {
+                "name": "爪击 Claw"
+            },
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            },
+            "Bite": {
+                "name": "啃咬Bite"
+            },
+            "Magic Resistance": {
+                "name": "魔法抗性Magic Resistance"
+            }
+        }
+    },
+    "Tridrone (Rogue)": {
+        "items": {
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            }
+        }
+    },
+    "Displacer Beast": {
+        "items": {
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            }
+        }
+    },
+    "Pteranodon": {
+        "system": {
+            "details": {
+                "alignment": "无阵营",
+                "biography": {
+                    "value": "无阵营"
+                }
+            }
+        },
+        "items": {
+            "Bite": {
+                "name": "啃咬Bite"
+            }
+        }
+    },
+    "Goristro": {
+        "items": {
+            "Charge": {
+                "name": "冲锋Charge"
+            },
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            },
+            "Magic Resistance": {
+                "name": "魔法抗性Magic Resistance"
+            }
+        }
+    },
+    "Kuo-toa Monitor": {
+        "items": {
+            "Bite": {
+                "name": "啃咬Bite"
+            },
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            },
+            "Sunlight Sensitivity": {
+                "name": "日照敏感 Sunlight Sensitivity"
+            }
+        }
+    },
+    "Death Tyrant": {
+        "items": {
+            "Legendary Actions": {
+                "name": "传奇动作 Legendary Actions"
+            },
+            "Bite": {
+                "name": "啃咬Bite"
+            },
+            "Regional Effects": {
+                "name": "区域效应Regional Effects"
+            }
+        }
+    },
+    "Vampire Warrior": {
+        "items": {
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            },
+            "Greatsword": {
+                "name": "巨剑Greatsword"
+            },
+            "Legendary Resistance": {
+                "name": "传奇抗性Legendary Resistance"
+            },
+            "Spider Climb": {
+                "name": "蛛行 Spider Climb"
+            },
+            "Bite": {
+                "name": "啃咬Bite"
+            },
+            "Legendary Actions": {
+                "name": "传奇动作 Legendary Actions"
+            },
+            "Regional Effects": {
+                "name": "区域效应Regional Effects"
+            },
+            "Plate Armor": {
+                "name": "板甲 Plate Armor"
+            }
+        }
+    },
+    "Slaad Tadpole": {
+        "items": {
+            "Bite": {
+                "name": "啃咬Bite"
+            },
+            "Magic Resistance": {
+                "name": "魔法抗性Magic Resistance"
+            }
+        }
+    },
+    "Helmed Horror": {
+        "items": {
+            "Shield": {
+                "name": "盾牌Shield"
+            },
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            },
+            "Longsword": {
+                "name": "长剑 Longsword"
+            },
+            "Magic Resistance": {
+                "name": "魔法抗性Magic Resistance"
+            },
+            "Plate Armor": {
+                "name": "板甲 Plate Armor"
+            }
+        },
+        "system": {
+            "details": {
+                "alignment": "无阵营",
+                "biography": {
+                    "value": "无阵营"
+                }
+            }
+        }
+    },
+    "Animated Object (Huge)": {
+        "items": {
+            "Slam": {
+                "name": "挥击 Slam"
+            }
+        },
+        "system": {
+            "details": {
+                "alignment": "无阵营",
+                "biography": {
+                    "value": "无阵营"
+                }
+            }
+        }
+    },
+    "Yuan-ti Abomination": {
+        "items": {
+            "Bite": {
+                "name": "啃咬Bite"
+            },
+            "Magic Resistance": {
+                "name": "魔法抗性Magic Resistance"
+            }
+        }
+    },
+    "Ultroloth": {
+        "items": {
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            },
+            "Longsword": {
+                "name": "长剑 Longsword"
+            },
+            "Magic Resistance": {
+                "name": "魔法抗性Magic Resistance"
+            },
+            "Darkness": {
+                "name": "黑暗术Darkness"
+            },
+            "Detect Magic": {
+                "name": "侦测魔法Detect Magic"
+            },
+            "Invisibility": {
+                "name": "隐形Invisibility"
+            },
+            "Innate Spellcasting": {
+                "name": "天生施法Innate Spellcasting"
+            }
+        }
+    },
+    "Crawling Claw": {
+        "items": {
+            "Claw": {
+                "name": "爪击 Claw"
+            }
+        }
+    },
+    "Winged Kobold": {
+        "items": {
+            "Sunlight Sensitivity": {
+                "name": "日照敏感 Sunlight Sensitivity"
+            },
+            "Pack Tactics": {
+                "name": "集群战术Pack Tactics"
+            }
+        }
+    },
+    "Drow Priestess of Lolth (Magic Equipment)": {
+        "items": {
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            },
+            "Fey Ancestry": {
+                "name": "精类血统 Fey Ancestry"
+            },
+            "Sunlight Sensitivity": {
+                "name": "日照敏感 Sunlight Sensitivity"
+            },
+            "Darkness": {
+                "name": "黑暗术Darkness"
+            },
+            "Faerie Fire": {
+                "name": "妖火 Faerie Fire"
+            },
+            "Dancing Lights": {
+                "name": "舞光术 Dancing Lights"
+            },
+            "Innate Spellcasting": {
+                "name": "天生施法Innate Spellcasting"
+            }
+        }
+    },
+    "Cambion": {
+        "items": {
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            },
+            "Plane Shift": {
+                "name": "异界传送Plane Shift"
+            },
+            "Detect Magic": {
+                "name": "侦测魔法Detect Magic"
+            },
+            "Innate Spellcasting": {
+                "name": "天生施法Innate Spellcasting"
+            }
+        }
+    },
+    "Grick Alpha": {
+        "items": {
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            },
+            "Tail": {
+                "name": "尾击 Tail"
+            },
+            "Tentacles": {
+                "name": "触须 Tentacles"
+            },
+            "Beak": {
+                "name": "喙啄Beak"
+            },
+            "Stone Camouflage": {
+                "name": "岩地伪装Stone Camouflage"
+            }
+        }
+    },
+    "Adult Blue Dracolich": {
+        "items": {
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            },
+            "Bite": {
+                "name": "啃咬Bite"
+            },
+            "Claw": {
+                "name": "爪击 Claw"
+            },
+            "Tail": {
+                "name": "尾击 Tail"
+            },
+            "Frightful Presence": {
+                "name": "骇人威仪Frightful Presence"
+            },
+            "Lightning Breath": {
+                "name": "闪电吐息 Lightning Breath"
+            },
+            "Legendary Resistance": {
+                "name": "传奇抗性Legendary Resistance"
+            },
+            "Magic Resistance": {
+                "name": "魔法抗性Magic Resistance"
+            },
+            "Detect": {
+                "name": "侦查Detect"
+            },
+            "Tail Attack": {
+                "name": "尾击攻击 Tail Attack"
+            },
+            "Wing Attack": {
+                "name": "振翅攻击Wing Attack"
+            },
+            "Legendary Actions": {
+                "name": "传奇动作 Legendary Actions"
+            },
+            "Regional Effects": {
+                "name": "区域效应Regional Effects"
+            }
+        }
+    },
+    "Faerie Dragon (Indigo)": {
+        "items": {
+            "Bite": {
+                "name": "啃咬Bite"
+            },
+            "Magic Resistance": {
+                "name": "魔法抗性Magic Resistance"
+            },
+            "Regional Effects": {
+                "name": "区域效应Regional Effects"
+            },
+            "Dancing Lights": {
+                "name": "舞光术 Dancing Lights"
+            },
+            "Major Image": {
+                "name": "高等幻影Major Image"
+            },
+            "Innate Spellcasting": {
+                "name": "天生施法Innate Spellcasting"
+            }
+        }
+    },
+    "Chasme": {
+        "items": {
+            "Magic Resistance": {
+                "name": "魔法抗性Magic Resistance"
+            },
+            "Spider Climb": {
+                "name": "蛛行 Spider Climb"
+            }
+        }
+    },
+    "Mezzoloth (Summoner)": {
+        "items": {
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            },
+            "Claws": {
+                "name": "爪击 Claws"
+            },
+            "Magic Resistance": {
+                "name": "魔法抗性Magic Resistance"
+            },
+            "Darkness": {
+                "name": "黑暗术Darkness"
+            },
+            "Innate Spellcasting": {
+                "name": "天生施法Innate Spellcasting"
+            }
+        }
+    },
+    "Death Knight": {
+        "items": {
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            },
+            "Longsword": {
+                "name": "长剑 Longsword"
+            },
+            "Magic Resistance": {
+                "name": "魔法抗性Magic Resistance"
+            },
+            "Parry": {
+                "name": "格挡Parry"
+            },
+            "Plate Armor": {
+                "name": "板甲 Plate Armor"
+            },
+            "Shield": {
+                "name": "盾牌Shield"
+            }
+        }
+    },
+    "Demilich": {
+        "items": {
+            "Legendary Resistance": {
+                "name": "传奇抗性Legendary Resistance"
+            },
+            "Legendary Actions": {
+                "name": "传奇动作 Legendary Actions"
+            },
+            "Regional Effects": {
+                "name": "区域效应Regional Effects"
+            }
+        }
+    },
+    "Spectator": {
+        "items": {
+            "Bite": {
+                "name": "啃咬Bite"
+            },
+            "Create Food and Water": {
+                "name": "造粮术Create Food and Water"
+            }
+        }
+    },
+    "Spined Devil": {
+        "items": {
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            },
+            "Bite": {
+                "name": "啃咬Bite"
+            },
+            "Magic Resistance": {
+                "name": "魔法抗性Magic Resistance"
+            }
+        }
+    },
+    "Marid (Disguises)": {
+        "items": {
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            },
+            "Elemental Demise": {
+                "name": "元素消亡Elemental Demise"
+            },
+            "Gaseous Form": {
+                "name": "气化形体Gaseous Form"
+            },
+            "Invisibility": {
+                "name": "隐形Invisibility"
+            },
+            "Plane Shift": {
+                "name": "异界传送Plane Shift"
+            },
+            "Tongues": {
+                "name": "巧言术Tongues"
+            },
+            "Water Breathing": {
+                "name": "水下呼吸 Water Breathing"
+            },
+            "Detect Evil and Good": {
+                "name": "侦测善恶Detect Evil and Good"
+            },
+            "Detect Magic": {
+                "name": "侦测魔法Detect Magic"
+            },
+            "Innate Spellcasting": {
+                "name": "天生施法Innate Spellcasting"
+            }
+        }
+    },
+    "Pixie": {
+        "items": {
+            "Magic Resistance": {
+                "name": "魔法抗性Magic Resistance"
+            },
+            "Dancing Lights": {
+                "name": "舞光术 Dancing Lights"
+            },
+            "Detect Evil and Good": {
+                "name": "侦测善恶Detect Evil and Good"
+            },
+            "Innate Spellcasting": {
+                "name": "天生施法Innate Spellcasting"
+            }
+        }
+    },
+    "Nothic": {
+        "items": {
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            },
+            "Claw": {
+                "name": "爪击 Claw"
+            }
+        }
+    },
+    "Yochlol (Summoner)": {
+        "items": {
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            },
+            "Magic Resistance": {
+                "name": "魔法抗性Magic Resistance"
+            },
+            "Spider Climb": {
+                "name": "蛛行 Spider Climb"
+            },
+            "Web Walker": {
+                "name": "蛛网行者 Web Walker"
+            },
+            "Innate Spellcasting": {
+                "name": "天生施法Innate Spellcasting"
+            }
+        }
+    },
+    "Ankylosaurus": {
+        "system": {
+            "details": {
+                "alignment": "无阵营",
+                "biography": {
+                    "value": "无阵营"
+                }
+            }
+        },
+        "items": {
+            "Tail": {
+                "name": "尾击 Tail"
+            }
+        }
+    },
+    "Carrion Crawler": {
+        "system": {
+            "details": {
+                "alignment": "无阵营",
+                "biography": {
+                    "value": "无阵营"
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            },
+            "Tentacles": {
+                "name": "触须 Tentacles"
+            },
+            "Bite": {
+                "name": "啃咬Bite"
+            },
+            "Spider Climb": {
+                "name": "蛛行 Spider Climb"
+            }
+        }
+    },
+    "Mezzoloth": {
+        "items": {
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            },
+            "Claws": {
+                "name": "爪击 Claws"
+            },
+            "Magic Resistance": {
+                "name": "魔法抗性Magic Resistance"
+            },
+            "Darkness": {
+                "name": "黑暗术Darkness"
+            },
+            "Innate Spellcasting": {
+                "name": "天生施法Innate Spellcasting"
+            }
+        }
+    },
+    "Arcanaloth": {
+        "items": {
+            "Claws": {
+                "name": "爪击 Claws"
+            },
+            "Magic Resistance": {
+                "name": "魔法抗性Magic Resistance"
+            },
+            "Darkness": {
+                "name": "黑暗术Darkness"
+            },
+            "Invisibility": {
+                "name": "隐形Invisibility"
+            },
+            "Detect Magic": {
+                "name": "侦测魔法Detect Magic"
+            },
+            "Shield": {
+                "name": "盾牌Shield"
+            },
+            "Innate Spellcasting": {
+                "name": "天生施法Innate Spellcasting"
+            }
+        }
+    },
+    "Quaggoth": {
+        "items": {
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            },
+            "Claw": {
+                "name": "爪击 Claw"
+            }
+        }
+    },
+    "Manes": {
+        "items": {
+            "Claws": {
+                "name": "爪击 Claws"
+            }
+        }
+    },
+    "Fomorian": {
+        "items": {
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            }
+        }
+    },
+    "Dao": {
+        "items": {
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            },
+            "Earth Glide": {
+                "name": "遁地Earth Glide"
+            },
+            "Elemental Demise": {
+                "name": "元素消亡Elemental Demise"
+            },
+            "Gaseous Form": {
+                "name": "气化形体Gaseous Form"
+            },
+            "Invisibility": {
+                "name": "隐形Invisibility"
+            },
+            "Plane Shift": {
+                "name": "异界传送Plane Shift"
+            },
+            "Tongues": {
+                "name": "巧言术Tongues"
+            },
+            "Detect Evil and Good": {
+                "name": "侦测善恶Detect Evil and Good"
+            },
+            "Detect Magic": {
+                "name": "侦测魔法Detect Magic"
+            },
+            "Innate Spellcasting": {
+                "name": "天生施法Innate Spellcasting"
+            }
+        }
+    },
+    "Mind Flayer Arcanist": {
+        "items": {
+            "Tentacles": {
+                "name": "触须 Tentacles"
+            },
+            "Magic Resistance": {
+                "name": "魔法抗性Magic Resistance"
+            },
+            "Plane Shift": {
+                "name": "异界传送Plane Shift"
+            },
+            "Dancing Lights": {
+                "name": "舞光术 Dancing Lights"
+            },
+            "Detect Magic": {
+                "name": "侦测魔法Detect Magic"
+            },
+            "Shield": {
+                "name": "盾牌Shield"
+            },
+            "Invisibility": {
+                "name": "隐形Invisibility"
+            }
+        }
+    },
+    "Hook Horror": {
+        "items": {
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            }
+        }
+    },
+    "Young Red Shadow Dragon": {
+        "items": {
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            },
+            "Bite": {
+                "name": "啃咬Bite"
+            },
+            "Claw": {
+                "name": "爪击 Claw"
+            },
+            "Sunlight Sensitivity": {
+                "name": "日照敏感 Sunlight Sensitivity"
+            }
+        }
+    },
+    "Orog": {
+        "items": {
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            },
+            "Plate Armor": {
+                "name": "板甲 Plate Armor"
+            }
+        }
+    },
+    "Yuan-ti Malison (Type 3)": {
+        "items": {
+            "Magic Resistance": {
+                "name": "魔法抗性Magic Resistance"
+            }
+        }
+    },
+    "Jackalwere": {
+        "items": {
+            "Pack Tactics": {
+                "name": "集群战术Pack Tactics"
+            }
+        }
+    },
+    "Twig Blight": {
+        "items": {
+            "Claws": {
+                "name": "爪击 Claws"
+            }
+        }
+    },
+    "Cyclops": {
+        "items": {
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            },
+            "Rock": {
+                "name": "掷石Rock"
+            }
+        }
+    },
+    "Mind Flayer": {
+        "items": {
+            "Tentacles": {
+                "name": "触须 Tentacles"
+            },
+            "Magic Resistance": {
+                "name": "魔法抗性Magic Resistance"
+            },
+            "Plane Shift": {
+                "name": "异界传送Plane Shift"
+            }
+        }
+    },
+    "Bullywug": {
+        "items": {
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            },
+            "Bite": {
+                "name": "啃咬Bite"
+            },
+            "Standing Leap": {
+                "name": "立定起跳 Standing Leap"
+            },
+            "Shield": {
+                "name": "盾牌Shield"
+            }
+        }
+    },
+    "Duodrone": {
+        "items": {
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            }
+        }
+    },
+    "Drow Elite Warrior": {
+        "items": {
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            },
+            "Shortsword": {
+                "name": "短剑 Shortsword"
+            },
+            "Hand Crossbow": {
+                "name": "手弩 Hand Crossbow"
+            },
+            "Fey Ancestry": {
+                "name": "精类血统 Fey Ancestry"
+            },
+            "Sunlight Sensitivity": {
+                "name": "日照敏感 Sunlight Sensitivity"
+            },
+            "Parry": {
+                "name": "格挡Parry"
+            },
+            "Shield": {
+                "name": "盾牌Shield"
+            },
+            "Darkness": {
+                "name": "黑暗术Darkness"
+            },
+            "Faerie Fire": {
+                "name": "妖火 Faerie Fire"
+            },
+            "Dancing Lights": {
+                "name": "舞光术 Dancing Lights"
+            },
+            "Innate Spellcasting": {
+                "name": "天生施法Innate Spellcasting"
+            }
+        }
+    },
+    "Animated Object (Tiny)": {
+        "system": {
+            "details": {
+                "alignment": "无阵营",
+                "biography": {
+                    "value": "无阵营"
+                }
+            }
+        },
+        "items": {
+            "Slam": {
+                "name": "挥击 Slam"
+            }
+        }
+    },
+    "Kuo-toa Archpriest": {
+        "items": {
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            },
+            "Sunlight Sensitivity": {
+                "name": "日照敏感 Sunlight Sensitivity"
+            },
+            "Detect Magic": {
+                "name": "侦测魔法Detect Magic"
+            },
+            "Tongues": {
+                "name": "巧言术Tongues"
+            }
+        }
+    },
+    "Quadrone": {
+        "items": {
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            }
+        }
+    },
+    "Troglodyte": {
+        "items": {
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            },
+            "Bite": {
+                "name": "啃咬Bite"
+            },
+            "Claw": {
+                "name": "爪击 Claw"
+            },
+            "Sunlight Sensitivity": {
+                "name": "日照敏感 Sunlight Sensitivity"
+            }
+        }
+    },
+    "Lizard Queen": {
+        "items": {
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            },
+            "Bite": {
+                "name": "啃咬Bite"
+            },
+            "Claws": {
+                "name": "爪击 Claws"
+            },
+            "Hold Breath": {
+                "name": "屏息Hold Breath"
+            }
+        }
+    },
+    "Gnoll Pack Lord": {
+        "items": {
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            },
+            "Bite": {
+                "name": "啃咬Bite"
+            },
+            "Longbow": {
+                "name": "长弓 Longbow"
+            },
+            "Chain Shirt": {
+                "name": "链甲衫Chain Shirt"
+            }
+        }
+    },
+    "Kuo-toa": {
+        "items": {
+            "Bite": {
+                "name": "啃咬Bite"
+            },
+            "Sunlight Sensitivity": {
+                "name": "日照敏感 Sunlight Sensitivity"
+            },
+            "Shield": {
+                "name": "盾牌Shield"
+            }
+        }
+    },
+    "Flameskull": {
+        "items": {
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            },
+            "Illumination": {
+                "name": "照明Illumination"
+            },
+            "Magic Resistance": {
+                "name": "魔法抗性Magic Resistance"
+            },
+            "Shield": {
+                "name": "盾牌Shield"
+            }
+        }
+    },
+    "Vampire Spellcaster": {
+        "items": {
+            "Legendary Resistance": {
+                "name": "传奇抗性Legendary Resistance"
+            },
+            "Spider Climb": {
+                "name": "蛛行 Spider Climb"
+            },
+            "Bite": {
+                "name": "啃咬Bite"
+            },
+            "Legendary Actions": {
+                "name": "传奇动作 Legendary Actions"
+            },
+            "Regional Effects": {
+                "name": "区域效应Regional Effects"
+            }
+        }
+    },
+    "Gnoll Fang of Yeenoghu": {
+        "items": {
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            },
+            "Bite": {
+                "name": "啃咬Bite"
+            },
+            "Claw": {
+                "name": "爪击 Claw"
+            }
+        }
+    },
+    "Yochlol": {
+        "items": {
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            },
+            "Magic Resistance": {
+                "name": "魔法抗性Magic Resistance"
+            },
+            "Spider Climb": {
+                "name": "蛛行 Spider Climb"
+            },
+            "Web Walker": {
+                "name": "蛛网行者 Web Walker"
+            },
+            "Innate Spellcasting": {
+                "name": "天生施法Innate Spellcasting"
+            }
+        }
+    },
+    "Death Slaad": {
+        "items": {
+            "Tongues": {
+                "name": "巧言术Tongues"
+            },
+            "Detect Magic": {
+                "name": "侦测魔法Detect Magic"
+            },
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            },
+            "Greatsword": {
+                "name": "巨剑Greatsword"
+            },
+            "Magic Resistance": {
+                "name": "魔法抗性Magic Resistance"
+            },
+            "Plane Shift": {
+                "name": "异界传送Plane Shift"
+            },
+            "Invisibility": {
+                "name": "隐形Invisibility"
+            },
+            "Major Image": {
+                "name": "高等幻影Major Image"
+            },
+            "Innate Spellcasting": {
+                "name": "天生施法Innate Spellcasting"
+            }
+        }
+    },
+    "Empyrean": {
+        "items": {
+            "Legendary Resistance": {
+                "name": "传奇抗性Legendary Resistance"
+            },
+            "Magic Resistance": {
+                "name": "魔法抗性Magic Resistance"
+            },
+            "Legendary Actions": {
+                "name": "传奇动作 Legendary Actions"
+            },
+            "Plane Shift": {
+                "name": "异界传送Plane Shift"
+            },
+            "Water Breathing": {
+                "name": "水下呼吸 Water Breathing"
+            },
+            "Innate Spellcasting": {
+                "name": "天生施法Innate Spellcasting"
+            }
+        }
+    },
+    "Quadrone (Rogue)": {
+        "items": {
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            }
+        }
+    },
+    "Faerie Dragon (Red)": {
+        "items": {
+            "Bite": {
+                "name": "啃咬Bite"
+            },
+            "Magic Resistance": {
+                "name": "魔法抗性Magic Resistance"
+            },
+            "Dancing Lights": {
+                "name": "舞光术 Dancing Lights"
+            },
+            "Innate Spellcasting": {
+                "name": "天生施法Innate Spellcasting"
+            }
+        }
+    },
+    "Duodrone (Rogue)": {
+        "items": {
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            }
+        }
+    },
+    "Blue Slaad": {
+        "items": {
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            },
+            "Bite": {
+                "name": "啃咬Bite"
+            },
+            "Claw": {
+                "name": "爪击 Claw"
+            },
+            "Magic Resistance": {
+                "name": "魔法抗性Magic Resistance"
+            }
+        }
+    },
+    "Hobgoblin Captain": {
+        "items": {
+            "Greatsword": {
+                "name": "巨剑Greatsword"
+            },
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            }
+        }
+    },
+    "Yeti": {
+        "items": {
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            },
+            "Claw": {
+                "name": "爪击 Claw"
+            }
+        }
+    },
+    "Sahuagin Baron": {
+        "items": {
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            },
+            "Bite": {
+                "name": "啃咬Bite"
+            },
+            "Claws": {
+                "name": "爪击 Claws"
+            }
+        }
+    },
+    "Thri-kreen (Weapons and Psionics)": {
+        "items": {
+            "Claws": {
+                "name": "爪击 Claws"
+            },
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            },
+            "Bite": {
+                "name": "啃咬Bite"
+            },
+            "Standing Leap": {
+                "name": "立定起跳 Standing Leap"
+            },
+            "Invisibility": {
+                "name": "隐形Invisibility"
+            }
+        }
+    },
+    "Allosaurus": {
+        "system": {
+            "details": {
+                "alignment": "无阵营",
+                "biography": {
+                    "value": "无阵营"
+                }
+            }
+        },
+        "items": {
+            "Bite": {
+                "name": "啃咬Bite"
+            },
+            "Claw": {
+                "name": "爪击 Claw"
+            }
+        }
+    },
+    "Peryton": {
+        "items": {
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            },
+            "Talons": {
+                "name": "禽爪Talons"
+            },
+            "Keen Sight and Smell": {
+                "name": "敏锐视嗅觉Keen Sight and Smell"
+            }
+        }
+    },
+    "Abominable Yeti": {
+        "items": {
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            },
+            "Claw": {
+                "name": "爪击 Claw"
+            },
+            "Cold Breath": {
+                "name": "冷冻吐息Cold Breath"
+            }
+        }
+    },
+    "Sahuagin Priestess": {
+        "items": {
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            },
+            "Bite": {
+                "name": "啃咬Bite"
+            },
+            "Claws": {
+                "name": "爪击 Claws"
+            },
+            "Detect Magic": {
+                "name": "侦测魔法Detect Magic"
+            },
+            "Tongues": {
+                "name": "巧言术Tongues"
+            }
+        }
+    },
+    "Galeb Duhr": {
+        "items": {
+            "Slam": {
+                "name": "挥击 Slam"
+            }
+        }
+    },
+    "Lizard King": {
+        "items": {
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            },
+            "Bite": {
+                "name": "啃咬Bite"
+            },
+            "Claws": {
+                "name": "爪击 Claws"
+            },
+            "Hold Breath": {
+                "name": "屏息Hold Breath"
+            }
+        }
+    },
+    "Drow Mage": {
+        "items": {
+            "Fey Ancestry": {
+                "name": "精类血统 Fey Ancestry"
+            },
+            "Sunlight Sensitivity": {
+                "name": "日照敏感 Sunlight Sensitivity"
+            },
+            "Darkness": {
+                "name": "黑暗术Darkness"
+            },
+            "Faerie Fire": {
+                "name": "妖火 Faerie Fire"
+            },
+            "Dancing Lights": {
+                "name": "舞光术 Dancing Lights"
+            },
+            "Shield": {
+                "name": "盾牌Shield"
+            },
+            "Innate Spellcasting": {
+                "name": "天生施法Innate Spellcasting"
+            }
+        }
+    },
+    "Gray Slaad (Control Gem)": {
+        "items": {
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            },
+            "Greatsword": {
+                "name": "巨剑Greatsword"
+            },
+            "Magic Resistance": {
+                "name": "魔法抗性Magic Resistance"
+            },
+            "Plane Shift": {
+                "name": "异界传送Plane Shift"
+            },
+            "Tongues": {
+                "name": "巧言术Tongues"
+            },
+            "Detect Magic": {
+                "name": "侦测魔法Detect Magic"
+            },
+            "Invisibility": {
+                "name": "隐形Invisibility"
+            },
+            "Major Image": {
+                "name": "高等幻影Major Image"
+            },
+            "Innate Spellcasting": {
+                "name": "天生施法Innate Spellcasting"
+            }
+        }
+    },
+    "Thri-kreen": {
+        "items": {
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            },
+            "Bite": {
+                "name": "啃咬Bite"
+            },
+            "Claws": {
+                "name": "爪击 Claws"
+            },
+            "Standing Leap": {
+                "name": "立定起跳 Standing Leap"
+            }
+        }
+    },
+    "Red Slaad (Control Gem)": {
+        "items": {
+            "Claw": {
+                "name": "爪击 Claw"
+            },
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            },
+            "Bite": {
+                "name": "啃咬Bite"
+            },
+            "Magic Resistance": {
+                "name": "魔法抗性Magic Resistance"
+            }
+        }
+    },
+    "Poltergeist": {
+        "items": {
+            "Sunlight Sensitivity": {
+                "name": "日照敏感 Sunlight Sensitivity"
+            },
+            "Invisibility": {
+                "name": "隐形Invisibility"
+            }
+        }
+    },
+    "Drow Elite Warrior (Magic Equipment)": {
+        "items": {
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            },
+            "Hand Crossbow": {
+                "name": "手弩 Hand Crossbow"
+            },
+            "Fey Ancestry": {
+                "name": "精类血统 Fey Ancestry"
+            },
+            "Sunlight Sensitivity": {
+                "name": "日照敏感 Sunlight Sensitivity"
+            },
+            "Parry": {
+                "name": "格挡Parry"
+            },
+            "Shield": {
+                "name": "盾牌Shield"
+            },
+            "Darkness": {
+                "name": "黑暗术Darkness"
+            },
+            "Faerie Fire": {
+                "name": "妖火 Faerie Fire"
+            },
+            "Dancing Lights": {
+                "name": "舞光术 Dancing Lights"
+            },
+            "Innate Spellcasting": {
+                "name": "天生施法Innate Spellcasting"
+            }
+        }
+    },
+    "Faerie Dragon (Blue)": {
+        "items": {
+            "Bite": {
+                "name": "啃咬Bite"
+            },
+            "Magic Resistance": {
+                "name": "魔法抗性Magic Resistance"
+            },
+            "Regional Effects": {
+                "name": "区域效应Regional Effects"
+            },
+            "Dancing Lights": {
+                "name": "舞光术 Dancing Lights"
+            },
+            "Major Image": {
+                "name": "高等幻影Major Image"
+            },
+            "Innate Spellcasting": {
+                "name": "天生施法Innate Spellcasting"
+            }
+        }
+    },
+    "Smoke Mephit (Summoner)": {
+        "items": {
+            "Claws": {
+                "name": "爪击 Claws"
+            },
+            "Dancing Lights": {
+                "name": "舞光术 Dancing Lights"
+            },
+            "Innate Spellcasting": {
+                "name": "天生施法Innate Spellcasting"
+            }
+        }
+    },
+    "Bugbear Chief": {
+        "items": {
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            },
+            "Chain Shirt": {
+                "name": "链甲衫Chain Shirt"
+            },
+            "Shield": {
+                "name": "盾牌Shield"
+            }
+        }
+    },
+    "Nycaloth": {
+        "items": {
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            },
+            "Claw": {
+                "name": "爪击 Claw"
+            },
+            "Magic Resistance": {
+                "name": "魔法抗性Magic Resistance"
+            },
+            "Darkness": {
+                "name": "黑暗术Darkness"
+            },
+            "Detect Magic": {
+                "name": "侦测魔法Detect Magic"
+            },
+            "Invisibility": {
+                "name": "隐形Invisibility"
+            },
+            "Innate Spellcasting": {
+                "name": "天生施法Innate Spellcasting"
+            }
+        }
+    },
+    "Smoke Mephit": {
+        "items": {
+            "Dancing Lights": {
+                "name": "舞光术 Dancing Lights"
+            },
+            "Innate Spellcasting": {
+                "name": "天生施法Innate Spellcasting"
+            },
+            "Claws": {
+                "name": "爪击 Claws"
+            }
+        }
+    },
+    "Red Slaad": {
+        "items": {
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            },
+            "Bite": {
+                "name": "啃咬Bite"
+            },
+            "Claw": {
+                "name": "爪击 Claw"
+            },
+            "Magic Resistance": {
+                "name": "魔法抗性Magic Resistance"
+            }
+        }
+    },
+    "Myconid Sovereign": {
+        "items": {
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            }
+        }
+    },
+    "Beholder Zombie": {
+        "items": {
+            "Bite": {
+                "name": "啃咬Bite"
+            }
+        }
+    },
+    "Faerie Dragon (Green)": {
+        "items": {
+            "Bite": {
+                "name": "啃咬Bite"
+            },
+            "Magic Resistance": {
+                "name": "魔法抗性Magic Resistance"
+            },
+            "Regional Effects": {
+                "name": "区域效应Regional Effects"
+            },
+            "Dancing Lights": {
+                "name": "舞光术 Dancing Lights"
+            },
+            "Innate Spellcasting": {
+                "name": "天生施法Innate Spellcasting"
+            }
+        }
+    },
+    "Yuan-ti Malison (Type 2)": {
+        "items": {
+            "Bite": {
+                "name": "啃咬Bite"
+            },
+            "Magic Resistance": {
+                "name": "魔法抗性Magic Resistance"
+            }
+        }
+    },
+    "Demilich (Trap Soul)": {
+        "items": {
+            "Legendary Resistance": {
+                "name": "传奇抗性Legendary Resistance"
+            },
+            "Legendary Actions": {
+                "name": "传奇动作 Legendary Actions"
+            },
+            "Regional Effects": {
+                "name": "区域效应Regional Effects"
+            }
+        }
+    },
+    "Young Remorhaz": {
+        "system": {
+            "details": {
+                "alignment": "无阵营",
+                "biography": {
+                    "value": "无阵营"
+                }
+            }
+        },
+        "items": {
+            "Bite": {
+                "name": "啃咬Bite"
+            }
+        }
+    },
+    "Drow Priestess of Lolth": {
+        "items": {
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            },
+            "Fey Ancestry": {
+                "name": "精类血统 Fey Ancestry"
+            },
+            "Sunlight Sensitivity": {
+                "name": "日照敏感 Sunlight Sensitivity"
+            },
+            "Darkness": {
+                "name": "黑暗术Darkness"
+            },
+            "Faerie Fire": {
+                "name": "妖火 Faerie Fire"
+            },
+            "Dancing Lights": {
+                "name": "舞光术 Dancing Lights"
+            },
+            "Innate Spellcasting": {
+                "name": "天生施法Innate Spellcasting"
+            }
+        }
+    },
+    "Yuan-ti Malison (Type 1)": {
+        "items": {
+            "Bite": {
+                "name": "啃咬Bite"
+            },
+            "Magic Resistance": {
+                "name": "魔法抗性Magic Resistance"
+            }
+        }
+    },
+    "Cave Bear": {
+        "system": {
+            "details": {
+                "alignment": "无阵营",
+                "biography": {
+                    "value": "无阵营"
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            },
+            "Bite": {
+                "name": "啃咬Bite"
+            },
+            "Claws": {
+                "name": "爪击 Claws"
+            }
+        }
+    },
+    "Tridrone": {
+        "items": {
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            }
+        }
+    },
+    "Quaggoth Thonot": {
+        "items": {
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            },
+            "Claw": {
+                "name": "爪击 Claw"
+            }
+        }
+    },
+    "Bone Naga (Guardian)": {
+        "items": {
+            "Bite": {
+                "name": "啃咬Bite"
+            }
+        }
+    },
+    "Gas Spore": {
+        "system": {
+            "details": {
+                "alignment": "无阵营",
+                "biography": {
+                    "value": "无阵营"
+                }
+            }
+        }
+    },
+    "Faerie Dragon (Orange)": {
+        "items": {
+            "Bite": {
+                "name": "啃咬Bite"
+            },
+            "Magic Resistance": {
+                "name": "魔法抗性Magic Resistance"
+            },
+            "Dancing Lights": {
+                "name": "舞光术 Dancing Lights"
+            },
+            "Innate Spellcasting": {
+                "name": "天生施法Innate Spellcasting"
+            }
+        }
+    },
+    "Umber Hulk": {
+        "items": {
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            },
+            "Claw": {
+                "name": "爪击 Claw"
+            }
+        }
+    },
+    "Grell": {
+        "items": {
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            },
+            "Tentacles": {
+                "name": "触须 Tentacles"
+            },
+            "Beak": {
+                "name": "喙啄Beak"
+            }
+        }
+    },
+    "Death Slaad (Control Gem)": {
+        "items": {
+            "Detect Magic": {
+                "name": "侦测魔法Detect Magic"
+            },
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            },
+            "Greatsword": {
+                "name": "巨剑Greatsword"
+            },
+            "Magic Resistance": {
+                "name": "魔法抗性Magic Resistance"
+            },
+            "Plane Shift": {
+                "name": "异界传送Plane Shift"
+            },
+            "Tongues": {
+                "name": "巧言术Tongues"
+            },
+            "Invisibility": {
+                "name": "隐形Invisibility"
+            },
+            "Major Image": {
+                "name": "高等幻影Major Image"
+            },
+            "Innate Spellcasting": {
+                "name": "天生施法Innate Spellcasting"
+            }
+        }
+    },
+    "Revenant": {
+        "items": {
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            }
+        }
+    },
+    "Kenku": {
+        "items": {
+            "Shortsword": {
+                "name": "短剑 Shortsword"
+            }
+        }
+    },
+    "Intellect Devourer": {
+        "items": {
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            },
+            "Claws": {
+                "name": "爪击 Claws"
+            }
+        }
+    },
+    "Githyanki Warrior": {
+        "items": {
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            },
+            "Greatsword": {
+                "name": "巨剑Greatsword"
+            }
+        }
+    },
+    "Dao (Disguises)": {
+        "items": {
+            "Detect Magic": {
+                "name": "侦测魔法Detect Magic"
+            },
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            },
+            "Earth Glide": {
+                "name": "遁地Earth Glide"
+            },
+            "Elemental Demise": {
+                "name": "元素消亡Elemental Demise"
+            },
+            "Gaseous Form": {
+                "name": "气化形体Gaseous Form"
+            },
+            "Invisibility": {
+                "name": "隐形Invisibility"
+            },
+            "Plane Shift": {
+                "name": "异界传送Plane Shift"
+            },
+            "Tongues": {
+                "name": "巧言术Tongues"
+            },
+            "Detect Evil and Good": {
+                "name": "侦测善恶Detect Evil and Good"
+            },
+            "Innate Spellcasting": {
+                "name": "天生施法Innate Spellcasting"
+            }
+        }
+    },
+    "Animated Object (Medium)": {
+        "system": {
+            "details": {
+                "alignment": "无阵营",
+                "biography": {
+                    "value": "无阵营"
+                }
+            }
+        },
+        "items": {
+            "Slam": {
+                "name": "挥击 Slam"
+            }
+        }
+    },
+    "Orc Eye of Gruumsh": {
+        "items": {
+            "Shield": {
+                "name": "盾牌Shield"
+            }
+        }
+    },
+    "Needle Blight": {
+        "items": {
+            "Claws": {
+                "name": "爪击 Claws"
+            }
+        }
+    },
+    "Pentadrone": {
+        "items": {
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            }
+        }
+    },
+    "Githzerai Zerth": {
+        "items": {
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            },
+            "Plane Shift": {
+                "name": "异界传送Plane Shift"
+            },
+            "Shield": {
+                "name": "盾牌Shield"
+            }
+        }
+    },
+    "Scarecrow": {
+        "items": {
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            },
+            "Claw": {
+                "name": "爪击 Claw"
+            }
+        }
+    },
+    "Lizardfolk Shaman": {
+        "items": {
+            "Bite": {
+                "name": "啃咬Bite"
+            },
+            "Change Shape": {
+                "name": "变形 Change Shape"
+            },
+            "Hold Breath": {
+                "name": "屏息Hold Breath"
+            }
+        }
+    },
+    "Barlgura (Summoner)": {
+        "items": {
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            },
+            "Bite": {
+                "name": "啃咬Bite"
+            },
+            "Invisibility": {
+                "name": "隐形Invisibility"
+            },
+            "Innate Spellcasting": {
+                "name": "天生施法Innate Spellcasting"
+            }
+        }
+    },
+    "Pentadrone (Rogue)": {
+        "items": {
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            }
+        }
+    },
+    "Animated Object (Large)": {
+        "system": {
+            "details": {
+                "alignment": "无阵营",
+                "biography": {
+                    "value": "无阵营"
+                }
+            }
+        },
+        "items": {
+            "Slam": {
+                "name": "挥击 Slam"
+            }
+        }
+    },
+    "Hobgoblin Warlord": {
+        "items": {
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            },
+            "Longsword": {
+                "name": "长剑 Longsword"
+            },
+            "Parry": {
+                "name": "格挡Parry"
+            },
+            "Plate Armor": {
+                "name": "板甲 Plate Armor"
+            },
+            "Shield": {
+                "name": "盾牌Shield"
+            }
+        }
+    },
+    "Quaggoth Spore Servant": {
+        "system": {
+            "details": {
+                "alignment": "无阵营",
+                "biography": {
+                    "value": "无阵营"
+                }
+            }
+        },
+        "items": {
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            },
+            "Claw": {
+                "name": "爪击 Claw"
+            }
+        }
+    },
+    "Faerie Dragon (Violet)": {
+        "items": {
+            "Bite": {
+                "name": "啃咬Bite"
+            },
+            "Magic Resistance": {
+                "name": "魔法抗性Magic Resistance"
+            },
+            "Regional Effects": {
+                "name": "区域效应Regional Effects"
+            },
+            "Dancing Lights": {
+                "name": "舞光术 Dancing Lights"
+            },
+            "Major Image": {
+                "name": "高等幻影Major Image"
+            },
+            "Innate Spellcasting": {
+                "name": "天生施法Innate Spellcasting"
+            }
+        }
+    },
+    "Fire Snake": {
+        "items": {
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            },
+            "Bite": {
+                "name": "啃咬Bite"
+            },
+            "Tail": {
+                "name": "尾击 Tail"
+            }
+        }
+    },
+    "Shadow Demon": {
+        "items": {
+            "Claws": {
+                "name": "爪击 Claws"
+            }
+        }
+    },
+    "Barlgura": {
+        "items": {
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            },
+            "Bite": {
+                "name": "啃咬Bite"
+            },
+            "Invisibility": {
+                "name": "隐形Invisibility"
+            },
+            "Innate Spellcasting": {
+                "name": "天生施法Innate Spellcasting"
+            }
+        }
+    },
+    "Piercer": {
+        "system": {
+            "details": {
+                "alignment": "无阵营",
+                "biography": {
+                    "value": "无阵营"
+                }
+            }
+        },
+        "items": {
+            "Spider Climb": {
+                "name": "蛛行 Spider Climb"
+            }
+        }
+    },
+    "Githzerai Monk": {
+        "items": {
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            },
+            "Shield": {
+                "name": "盾牌Shield"
+            }
+        }
+    },
+    "Orc War Chief": {
+        "items": {
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            }
+        }
+    },
+    "Animated Object (Small)": {
+        "system": {
+            "details": {
+                "alignment": "无阵营",
+                "biography": {
+                    "value": "无阵营"
+                }
+            }
+        },
+        "items": {
+            "Slam": {
+                "name": "挥击 Slam"
+            }
+        }
+    },
+    "Green Slaad": {
+        "items": {
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            },
+            "Magic Resistance": {
+                "name": "魔法抗性Magic Resistance"
+            },
+            "Invisibility": {
+                "name": "隐形Invisibility"
+            },
+            "Detect Magic": {
+                "name": "侦测魔法Detect Magic"
+            },
+            "Innate Spellcasting": {
+                "name": "天生施法Innate Spellcasting"
+            }
+        }
+    },
+    "Larva": {
+        "items": {
+            "Bite": {
+                "name": "啃咬Bite"
+            }
+        }
+    },
+    "Yuan-ti Pureblood": {
+        "items": {
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            },
+            "Scimitar": {
+                "name": "弯刀Scimitar"
+            },
+            "Magic Resistance": {
+                "name": "魔法抗性Magic Resistance"
+            },
+            "Innate Spellcasting": {
+                "name": "天生施法Innate Spellcasting"
+            }
+        }
+    },
+    "Githyanki Knight": {
+        "items": {
+            "Multiattack": {
+                "name": "多重攻击Multiattack"
+            },
+            "Plate Armor": {
+                "name": "板甲 Plate Armor"
+            },
+            "Plane Shift": {
+                "name": "异界传送Plane Shift"
+            },
+            "Tongues": {
+                "name": "巧言术Tongues"
+            }
         }
     }
 }

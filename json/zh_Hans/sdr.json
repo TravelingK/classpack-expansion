@@ -48,88 +48,88 @@
         }
     },
     "Spy": {
-        "name": "",
+        "name": "密探 Spy",
         "prototypeToken": {
-            "name": ""
+            "name": "密探 Spy"
         },
         "system": {
             "details": {
-                "alignment": "",
+                "alignment": "任意阵营",
                 "biography": {
-                    "value": ""
+                    "value": "任意阵营"
                 }
             }
         },
         "items": {
             "Cunning Action": {
-                "name": "",
+                "name": "灵巧动作Cunning Action",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>密探在其自己回合内可以用一个附赠动作执行疾走Dash，撤离Disengage，或躲藏Hide动作。</p>"
                     }
                 }
             },
             "Sneak Attack": {
-                "name": "",
+                "name": "偷袭Sneak Attack",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>密探对目标造成伤害时，如果其攻击检定具有优势，或者如果其攻击检定没有劣势且它在该目标身边5尺范围内有一个未处于失能状态的盟友。满足以上条件时，密探造成额外7（2d6）点伤害。"
                     }
                 }
             },
             "Multiattack": {
-                "name": "",
+                "name": "多重攻击Multiattack",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>密探发动两次近战攻击。</p>"
                     }
                 }
             },
             "Shortsword": {
-                "name": "",
+                "name": "短剑 Shortsword",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<section class=\"secret\">\n<p><em>近战武器攻击：</em><strong>命中+4</strong>，<strong>触及5尺，</strong>单一目标。伤害：<strong>5（1d6+2）点<em>穿刺伤害</em></strong>。</p></section>\n<p>密探使用短剑攻击。</p>"
                     }
                 }
             },
             "Hand Crossbow": {
-                "name": "",
+                "name": "手弩 Hand Crossbow",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<section class=\"secret\">\n<p>远程武器攻击：命中+4，射程30/120尺，单一目标。伤害：<strong>5（1d6+2）点<em>穿刺伤害</em></strong>。</p></section>\n<p>密探使用手弩攻击。</p>"
                     }
                 }
             }
         }
     },
     "Bulette": {
-        "name": "",
+        "name": "鲨蜥兽 Bulette",
         "prototypeToken": {
-            "name": ""
+            "name": "鲨蜥兽 Bulette"
         },
         "system": {
             "details": {
-                "alignment": "",
+                "alignment": "无阵营",
                 "biography": {
-                    "value": ""
+                    "value": "无阵营"
                 }
             }
         },
         "items": {
             "Bite": {
-                "name": "",
+                "name": "啃咬Bite",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<section class=\"secret\">\n<p><em>近战武器攻击：</em><strong>命中+7</strong>，<strong>触及5尺，</strong>单一目标。伤害:：<strong>30（4d12+4）点<em>穿刺伤害</em></strong>。</p></section>\n<p>鲨蜥兽进行啃咬攻击。</p>"
                     }
                 }
             },
             "Standing Leap": {
-                "name": "",
+                "name": "立定起跳 Standing Leap",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>无论是否助跑，鲨蜥兽最远可以跳<strong>30尺</strong>，最高<strong>15尺</strong>。</p>"
                     }
                 }
             },
@@ -144,127 +144,127 @@
         }
     },
     "Drider": {
-        "name": "",
+        "name": "蛛化精灵 Drider",
         "prototypeToken": {
-            "name": ""
+            "name": "蛛化精灵 Drider"
         },
         "system": {
             "details": {
-                "alignment": "",
+                "alignment": "混乱邪恶",
                 "biography": {
-                    "value": ""
+                    "value": "混乱邪恶"
                 }
             }
         },
         "items": {
             "Fey Ancestry": {
-                "name": "",
+                "name": "精类血统 Fey Ancestry",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>蛛化精灵抵抗魅惑时进行的豁免检定具有<strong>优势</strong>，并且不会因魔法效应而陷入睡眠。</p>"
                     }
                 }
             },
             "Innate Spellcasting": {
-                "name": "",
+                "name": "天生施法Innate Spellcasting",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "蛛化精灵天生施法的关键属性为感知（法术豁免DC 13）。蛛化精灵天生可施展下列法术而无需任何相应的材料成分：</p>\n<p>舞光术dancing lights</p>\n<p>每项1/日：黑暗术darkness，妖火faerie fire</p>"
                     }
                 }
             },
             "Spider Climb": {
-                "name": "",
+                "name": "蛛行 Spider Climb",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>蛛化精灵可以在困难地形的表面攀爬，包括倒吊在天花板上，且不需要进行属性检定。</p>"
                     }
                 }
             },
             "Sunlight Sensitivity": {
-                "name": "",
+                "name": "日照敏感 Sunlight Sensitivity",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>在阳光照射下，蛛化精灵进行的攻击检定具有<strong>劣势</strong>，此时其依赖视觉进行的感知（察觉）检定也具有<strong>劣势</strong>。</p>"
                     }
                 }
             },
             "Web Walker": {
-                "name": "",
+                "name": "蛛网行者 Web Walker",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>蛛化精灵在蛛网上移动时无视蛛网的移动限制。</p>"
                     }
                 }
             },
             "Multiattack": {
-                "name": "",
+                "name": "多重攻击Multiattack",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>蛛化精灵发动三次攻击，它可以在其长剑和长弓攻击中选择一种，此外它还可以用啃咬取代其中的一次攻击。</p>"
                     }
                 }
             },
             "Bite": {
-                "name": "",
+                "name": "啃咬Bite",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<section class=\"secret\">\n<p><em>近战武器攻击：</em><strong>命中+6</strong>，<strong>触及5尺</strong>，单一生物。伤害：2（1d4）点穿刺伤害，外加9（2d8）点毒素伤害。\n<p>蛛化精灵进行啃咬攻击。</p>"
                     }
                 }
             },
             "Longsword": {
-                "name": "",
+                "name": "长剑 Longsword",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<section class=\"secret\">\n<p><em>近战武器攻击：</em><strong>命中+6，触及5尺，</strong>单一目标。伤害：<strong>7（1d8+3）点<em>挥砍伤害</em></strong>，双手持时<strong>8（1d10+3）点<em>挥砍伤害</em></strong>。</p></section>\n<p>蛛化精灵使用长剑攻击。</p>"
                     }
                 }
             },
             "Longbow": {
-                "name": "",
+                "name": "长弓 Longbow",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<section class=\"secret\">\n<p>远程武器攻击：命中+6，射程150/600尺，单一目标。伤害：<strong>7（1d8+3）点<em>穿刺伤害</em></strong>，外加<strong>4（1d8）<em>毒素伤害</em></strong>。</p></section>\n<p>蛛化精灵使用长弓攻击。</p>"
                     }
                 }
             },
             "Dancing Lights": {
-                "name": "",
+                "name": "舞光术 Dancing Lights",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>你在施法距离内创造四个火把大小的光源。法术持续时间内，光源能够以火把，灯笼或光球的形态显现并在空中悬浮。你也可以将四个光源合为一个中型类人生物的模糊光影。无论选择哪种方式，每处光源都可以发出半径 10 尺的微光光照。</p><p>你在自己回合可以用一个附赠动作令这些光源在施法距离内移动至多 60 尺。每个光源必需在另一个光源周边 20 尺内，而离开施法距离的光源会随即熄灭。</p>"
                     }
                 }
             },
             "Darkness": {
-                "name": "",
+                "name": "黑暗术Darkness",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>你在施法距离内指定一点，并在法术持续时间内使魔法的黑暗充斥该点半径 15 尺的球状区域。该黑暗会绕过拐角扩散，连拥有黑暗视觉的生物也无法看穿这这种黑暗，而非魔法的光照也无法在区域内提供照明。</p>\n<p>如果你将法术目标设置于你正持握或未被穿着携带的物件，则黑暗将从物件周围漫出并跟随物件移动。将该物件完全掩盖时（比如用碗或头盔盖住），也会将其漫出的黑暗隔绝。</p>\n<p>如果法术区域内有任何二环或更低环阶法术创造的光源，则这些造光的法术将被解除。</p>"
                     }
                 }
             },
             "Faerie Fire": {
-                "name": "",
+                "name": "妖火 Faerie Fire",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>指定施法距离内一处 20 尺立方区域，其内每个物件都将被蓝色，绿色或紫色的光所包围（颜色由你指定）。区域内敏捷豁免失败的生物也会被光包围。受术物件和生物在法术持续时间内发出 10 尺半径的微光。</p>\n<p>受术生物或物件无法受益于隐形，且任何能看见他们的攻击者对其发动攻击检定时具有优势。</p>"
                     }
                 }
             }
         }
     },
     "Merrow": {
-        "name": "",
+        "name": "迈罗人鱼 Merrow",
         "prototypeToken": {
-            "name": ""
+            "name": "迈罗人鱼 Merrow"
         },
         "system": {
             "details": {
-                "alignment": "",
+                "alignment": "混乱邪恶",
                 "biography": {
-                    "value": ""
+                    "value": "混乱邪恶"
                 }
             }
         },
@@ -278,146 +278,146 @@
                 }
             },
             "Multiattack": {
-                "name": "",
+                "name": "多重攻击Multiattack",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>迈罗人鱼发动两次攻击：一次啃咬，以及一次爪击或鱼叉攻击。</p>"
                     }
                 }
             },
             "Bite": {
-                "name": "",
+                "name": "啃咬Bite",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<section class=\"secret\"><p><em>近战武器攻击：</em><strong>命中+6，触及5尺，</strong>单一目标。伤害：<strong>8（1d8+4）点<em>穿刺伤害</em></strong>。</p></section><p>迈罗人鱼进行啃咬攻击。</p>"
                     }
                 }
             },
             "Claws": {
-                "name": "",
+                "name": "爪击 Claws",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<section class=\"secret\"><p><em>近战武器攻击：</em><strong>命中+6，触及5尺，</strong>单一目标。伤害：<strong>9（2d4+4）点<em>挥砍伤害</em></strong>。</p></section><p>迈罗人鱼进行爪击。</p>"
                     }
                 }
             },
             "Harpoon": {
-                "name": "",
+                "name": "鱼叉Harpoon",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<section class=\"secret\"><p>近战或远程武器攻击：命中+6，触及5尺，或射程20/60尺，单一目标。伤害：<strong>11（2d6+4）点<em>穿刺伤害</em></strong>。</p><p>如果目标为巨型或更小体型生物，则目标必须进行力量检定并与迈罗人鱼的力量检定对抗，对抗失败者将被迈罗人鱼向其所在方向拉近20尺。</p></section><p>迈罗人鱼使用鱼叉攻击。如果目标为巨型或更小体型生物，则目标必须进行力量检定并与迈罗人鱼的力量检定对抗，对抗失败者将被迈罗人鱼向其所在方向拉近20尺。</p>"
                     }
                 }
             }
         }
     },
     "Drow": {
-        "name": "",
+        "name": "卓尔 Drow",
         "prototypeToken": {
-            "name": ""
+            "name": "卓尔 Drow"
         },
         "system": {
             "details": {
-                "alignment": "",
+                "alignment": "中立邪恶",
                 "biography": {
-                    "value": ""
+                    "value": "中立邪恶"
                 }
             }
         },
         "items": {
             "Fey Ancestry": {
-                "name": "",
+                "name": "精类血统 Fey Ancestry",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>卓尔进行对抗魅惑的豁免检定时具有<strong>优势</strong>，且魔法效应无法使卓尔陷入睡眠。</p>"
                     }
                 }
             },
             "Innate Spellcasting": {
-                "name": "",
+                "name": "天生施法Innate Spellcasting",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>卓尔天生施法的关键属性为魅力（法术豁免DC 11）。它天生可施展以下法术而无需任何材料成分：</p>\n<p>舞光术dancing lights</p>\n<p>每项1/日：黑暗术darkness，妖火faerie fire</p>"
                     }
                 }
             },
             "Sunlight Sensitivity": {
-                "name": "",
+                "name": "日照敏感 Sunlight Sensitivity",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>在阳光照射下，蛛化精灵进行的攻击检定具有<strong>劣势</strong>，此时其依赖视觉进行的感知（察觉）检定也具有<strong>劣势</strong>。"
                     }
                 }
             },
             "Shortsword": {
-                "name": "",
+                "name": "短剑 Shortsword",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<section class=\"secret\"><p><em>近战武器攻击：</em><strong>命中+4，触及5尺</strong>，<strong>单一目标</strong>。伤害：<strong>5（1d6+2）点<em>穿刺伤害</em></strong>。</p></section><p>卓尔使用短剑攻击。</p>"
                     }
                 }
             },
             "Hand Crossbow": {
-                "name": "",
+                "name": "手弩 Hand Crossbow",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<section class=\"secret\"><p>远程武器攻击：命中+4， 射程30/120尺，单一目标。伤害：<strong>5 (1d6 + 2) 点<em>穿刺伤害</em></strong>。</p><p>目标必须进行一次<strong>DC 13的体质</strong>豁免，豁免失败者将持续中毒1小时。如果豁免结果低至5或更低，则目标中毒的同时陷入昏迷。昏迷目标在受到伤害或在其他生物用一个动作摇醒它时恢复知觉。</p></section><p>卓尔使用手弩攻击。目标必须进行一次<strong>体质</strong>豁免。</p>"
                     }
                 }
             },
             "Chain Shirt": {
-                "name": "",
+                "name": "链甲衫Chain Shirt",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>该护甲由互相锁接的金属环组成，通常着装于布衣或皮衣的夹层之间。这种护甲为着装者的上半身提供了适中的保护，且锁环间相互碰撞的声音也可以被外层衣服减弱。</p>"
                     }
                 }
             },
             "Darkness": {
-                "name": "",
+                "name": "黑暗术Darkness",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>你在施法距离内指定一点，并在法术持续时间内使魔法的黑暗充斥该点半径 15 尺的球状区域。该黑暗会绕过拐角扩散，连拥有黑暗视觉的生物也无法看穿这这种黑暗，而非魔法的光照也无法在区域内提供照明。</p>\n<p>如果你将法术目标设置于你正持握或未被穿着携带的物件，则黑暗将从物件周围漫出并跟随物件移动。将该物件完全掩盖时（比如用碗或头盔盖住），也会将其漫出的黑暗隔绝。</p>\n<p>如果法术区域内有任何二环或更低环阶法术创造的光源，则这些造光的法术将被解除。</p>"
                     }
                 }
             },
             "Faerie Fire": {
-                "name": "",
+                "name": "妖火 Faerie Fire",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>指定施法距离内一处 20 尺立方区域，其内每个物件都将被蓝色，绿色或紫色的光所包围（颜色由你指定）。区域内敏捷豁免失败的生物也会被光包围。受术物件和生物在法术持续时间内发出 10 尺半径的微光。</p>\n<p>受术生物或物件无法受益于隐形，且任何能看见他们的攻击者对其发动攻击检定时具有优势。</p>"
                     }
                 }
             },
             "Dancing Lights": {
-                "name": "",
+                "name": "舞光术 Dancing Lights",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>你在施法距离内创造四个火把大小的光源。法术持续时间内，光源能够以火把，灯笼或光球的形态显现并在空中悬浮。你也可以将四个光源合为一个中型类人生物的模糊光影。无论选择哪种方式，每处光源都可以发出半径 10 尺的微光光照。</p><p>你在自己回合可以用一个附赠动作令这些光源在施法距离内移动至多 60 尺。每个光源必需在另一个光源周边 20 尺内，而离开施法距离的光源会随即熄灭。</p>"
                     }
                 }
             }
         }
     },
     "Ice Devil": {
-        "name": "",
+        "name": "冰魔 Ice Devil",
         "prototypeToken": {
-            "name": ""
+            "name": "冰魔 Ice Devil"
         },
         "system": {
             "details": {
-                "alignment": "",
+                "alignment": "守序邪恶",
                 "biography": {
-                    "value": ""
+                    "value": "守序邪恶"
                 }
             }
         },
         "items": {
             "Bite": {
-                "name": "",
+                "name": "啃咬Bite",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<section class=\"secret\"><p><em>近战武器攻击：</em><strong>命中+10，触及5尺，</strong>单一目标。伤害：<strong>12（2d6+5）点<em>穿刺伤害</em></strong>，外加<strong>10（3d6）点<em>冷冻伤害</em></strong>。</p></section><p>冰魔进行啃咬攻击。</p>"
                     }
                 }
             },
@@ -430,169 +430,169 @@
                 }
             },
             "Magic Resistance": {
-                "name": "",
+                "name": "魔法抗性Magic Resistance",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>魔鬼为抵抗法术和其它魔法效应而作的豁免检定具有<strong> 优势</strong>。</p>"
                     }
                 }
             },
             "Wall of Ice": {
-                "name": "",
+                "name": "冰墙Wall of Ice",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<section class=\"secret\">\n<p>冰魔在其周边60尺内一处它能看见的固体表面上以魔法创造一堵不透明的冰墙。冰墙有厚1尺，至多30尺长10尺高，或者形成一个直径至多20尺的半球体。</p>\n<p>冰墙出现的时候，在其出现位置的每个生物都被以最短的路径推开。除非陷入失能，否则该生物可以选择在冰墙的哪一侧落地。目标还必须进行一次<strong>DC 17的敏捷</strong> 豁免，豁免失败者将受到<strong>35（10d6）点<em>冷冻伤害</em></strong>，豁免成功则伤害减半。</p>\n冰墙会在冰魔死亡或陷入失能前持续存在1分钟。冰墙会受到伤害或者被凿穿。每10尺区域的冰墙拥有AC 5，30点生命值，<em>火焰伤害</em>易伤，强酸、冷冻、黯蚀、毒素与心灵伤害免疫。被破坏的冰墙区域会留下一片极寒冻气之后消失。任何生物在一回合内移动穿过冻气区域并在其内停留时，不论其是否自愿，该生物都必须进一次<strong>DC 17的体质</strong> 豁免，豁免失败则受到<strong>17（5d6）点<em>冷冻伤害</em></strong> ，豁免成功则伤害减半。冻气会在整个冰墙消失时与其他部分一同消失。</p>\n</section>\n<p>冰魔在其周边60尺内一处它能看见的固体表面上以魔法创造一堵不透明的冰墙。冰墙有厚1尺，至多30尺长10尺高，或者形成一个直径至多20尺的半球体。冰墙出现的时候，在其出现位置的每个生物都被以最短的路径推开。除非陷入失能，否则该生物可以选择在冰墙的哪一侧落地。目标还必须进行一次<strong>敏捷</strong> 豁免。</p>\n<p>冰墙会受到伤害或者被凿穿。被破坏的冰墙区域会留下一片极寒冻气之后消失。任何生物在一回合内移动穿过冻气区域并在其内停留时，不论其是否自愿，该生物都必须进一次<strong>体质</strong> 豁免。"
                     }
                 }
             },
             "Tail": {
-                "name": "",
+                "name": "尾击 Tail",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<section class=\"secret\">\n<p><em>近战武器攻击：</em><strong>命中+10，触及10尺，</strong>单一生物。伤害：<strong>12（2d6+5）点<em>钝击伤害</em></strong>，外加<strong>10（3d6）点<em>冷冻伤害</em></strong>。</p></section>\n<p>冰魔进行尾击。</p>"
                     }
                 }
             },
             "Claws": {
-                "name": "",
+                "name": "爪击 Claws",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<section class=\"secret\">\n<p><em>近战武器攻击：</em><strong>命中+10，触及5尺，</strong>单一目标。伤害：<strong>10（2d4+5）点<em>穿刺伤害</em></strong>，外加<strong>10（3d6）点<em>冷冻伤害</em></strong>。</p></section>\n<p>冰魔进行爪击。</p>"
                     }
                 }
             },
             "Multiattack": {
-                "name": "",
+                "name": "多重攻击Multiattack",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>冰魔发动三次攻击：一次啃咬，一次爪击，一次尾击。</p>"
                     }
                 }
             }
         }
     },
     "Spider": {
-        "name": "",
+        "name": "蜘蛛 Spider",
         "prototypeToken": {
-            "name": ""
+            "name": "蜘蛛 Spider"
         },
         "system": {
             "details": {
-                "alignment": "",
+                "alignment": "无阵营",
                 "biography": {
-                    "value": ""
+                    "value": "无阵营"
                 }
             }
         },
         "items": {
             "Spider Climb": {
-                "name": "",
+                "name": "蛛行 Spider Climb",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>蜘蛛可以在困难地形的表面攀爬，包括倒吊在天花板上，且不需要进行属性检定。</p>"
                     }
                 }
             },
             "Bite": {
-                "name": "",
+                "name": "啃咬Bite",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<section class=\"secret\"><p><em>近战武器攻击：</em><strong>命中+4，触及5尺，</strong>单一生物。伤害：<strong>1点<em>穿刺伤害</em></strong>，目标必须进行一次<strong>DC 9的体质</strong> 豁免，豁免失败则受到<strong>2（1d4）点<em>毒素伤害</em></strong>。</p></section><p>蜘蛛进行啃咬攻击。</p>目标必须进行一次<strong>体质</strong>豁免。</p>"
                     }
                 }
             },
             "Web Sense": {
-                "name": "",
+                "name": "蛛网感知Web Sense",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>与蛛网接触时，蜘蛛可以知晓其他与该蛛网接触生物的准确位置。</p>"
                     }
                 }
             },
             "Web Walker": {
-                "name": "",
+                "name": "蛛网行者 Web Walker",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>蜘蛛在蛛网上移动时无视蛛网的移动限制。</p>"
                     }
                 }
             }
         }
     },
     "Xorn": {
-        "name": "",
+        "name": "索尔石怪Xorn",
         "prototypeToken": {
-            "name": ""
+            "name": "索尔石怪Xorn"
         },
         "system": {
             "details": {
-                "alignment": "",
+                "alignment": "绝对中立",
                 "biography": {
-                    "value": ""
+                    "value": "绝对中立"
                 }
             }
         },
         "items": {
             "Bite": {
-                "name": "",
+                "name": "啃咬Bite",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<section class=\"secret\"><p><em>近战武器攻击：</em><strong>命中+6，触及5尺，</strong>单一目标。伤害：<strong>13（3d6+3）点<em>穿刺伤害</em></strong>。</p></section><p>索尔石怪进行啃咬攻击。</p>"
                     }
                 }
             },
             "Claw": {
-                "name": "",
+                "name": "爪击 Claw",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<section class=\"secret\"><p><em>近战武器攻击：</em><strong>命中+6，触及5尺，</strong>单一目标。伤害：<strong>6（1d6+3）点<em>挥砍伤害</em></strong>。</p></section><p>索尔石怪进行爪击。</p>"
                     }
                 }
             },
             "Earth Glide": {
-                "name": "",
+                "name": "遁地Earth Glide",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>索尔石怪可以潜入非魔法且未经加工的土层及岩层中移动。索尔石怪遁地时，并不会打断地质的连续性。</p>"
                     }
                 }
             },
             "Multiattack": {
-                "name": "",
+                "name": "多重攻击Multiattack",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>索尔石怪发动三次爪击和一次啃咬。</p>"
                     }
                 }
             },
             "Stone Camouflage": {
-                "name": "",
+                "name": "岩地伪装Stone Camouflage",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>索尔石怪在岩地地形中为进行躲藏而作的敏捷（隐匿）检定具有<strong> 优势</strong>。</p>"
                     }
                 }
             },
             "Treasure Sense": {
-                "name": "",
+                "name": "财宝感知 Treasure Sense",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>索尔石怪可以通过嗅觉，准确知道距离它<strong>60尺</strong>内贵重金属和矿石的确切位置，例如钱币和宝石。</p>"
                     }
                 }
             }
         }
     },
     "Ancient Bronze Dragon": {
-        "name": "",
+        "name": "远古青铜龙Ancient Bronze Dragon",
         "prototypeToken": {
-            "name": ""
+            "name": "远古青铜龙Ancient Bronze Dragon"
         },
         "system": {
             "details": {
-                "alignment": "",
+                "alignment": "守序善良",
                 "biography": {
-                    "value": ""
+                    "value": "守序善良"
                 }
             }
         },
@@ -606,50 +606,50 @@
                 }
             },
             "Legendary Resistance": {
-                "name": "",
+                "name": "传奇抗性Legendary Resistance",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>龙豁免失败时，可以将其改为豁免成功。</p>"
                     }
                 }
             },
             "Multiattack": {
-                "name": "",
+                "name": "多重攻击Multiattack",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>龙可以先使用它的骇人威仪。然后再发动三次攻击，一次啃咬和两次爪击。</p>"
                     }
                 }
             },
             "Bite": {
-                "name": "",
+                "name": "啃咬Bite",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<section class=\"secret\"><p><em>近战武器攻击：</em><strong>命中+16，触及15尺，</strong>单一目标。伤害：<strong>20（2d10+9）点<em>穿刺伤害</em></strong>。</p></section><p>远古青铜龙进行啃咬攻击。</p>"
                     }
                 }
             },
             "Claw": {
-                "name": "",
+                "name": "爪击 Claw",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<section class=\"secret\"><p><em>近战武器攻击：</em><strong>命中+16，触及10尺</strong>单一目标。伤害：<strong>16（2d6+9）点<em>挥砍伤害</em></strong>。</p></section><p>远古青铜龙进行爪击。</p>"
                     }
                 }
             },
             "Tail": {
-                "name": "",
+                "name": "尾击 Tail",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<section class=\"secret\"><p><em>近战武器攻击：</em><strong>命中+16，触及20尺，</strong>单一目标。伤害：<strong>18（2d8+9）点<em>钝击伤害</em></strong>。</p></section><p>远古青铜龙进行尾击。</p>"
                     }
                 }
             },
             "Frightful Presence": {
-                "name": "",
+                "name": "骇人威仪Frightful Presence",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<section class=\"secret\"><p>青铜龙指定周边<strong>120尺范围内</strong>若干意识到其存在的生物，每个目标都必须进行一次<strong>DC20的感知</strong>豁免，豁免失败者将陷入<strong>1分钟</strong>的恐慌状态。</p><p>该被恐慌生物可以在其自己回合结束时再进行一次该豁免，豁免成功则终止该生物身上的恐慌效应。豁免成功或身上的该效应结束的生物，将在接下来的24小时内免疫该龙的骇人威仪。</p></section><p>龙指定周边<strong>120尺范围内</strong>若干意识到其存在的生物，每个目标都必须进行一次<strong>感知</strong>豁免。该生物可以在其自己回合结束时再进行一次该豁免。</p>"
                     }
                 }
             },
@@ -662,626 +662,626 @@
                 }
             },
             "Lightning Breath": {
-                "name": "",
+                "name": "闪电吐息 Lightning Breath",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<section class=\"secret\">\n<p>**闪电吐息Lightning Breath。** 青铜龙呼出闪电并覆盖120尺长、10尺宽的线状区域。该区域内的每个生物都必须进行一次<strong>DC 23的敏捷</strong> 豁免，豁免失败者将受到<strong>88（16d10）点<em>闪电伤害</em></strong> ，豁免成功则伤害减半。</p>\n</section>\n<p>龙呼出闪电并覆盖120尺长、10尺宽的线状区域。该区域内的每个生物都必须进行一次<strong>敏捷</strong> 豁免。"
                     }
                 }
             },
             "Repulsion Breath": {
-                "name": "",
+                "name": "斥力吐息 Repulsion Breath",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<section class=\"secret\">\n<p>**斥力吐息 Repulsion Breath。**青铜龙呼出斥力能量并覆盖30尺的锥状区域。该区域内的每个生物都必须进行一次<strong>DC 23的力量</strong>豁免检定。豁免失败则被向龙所在的方向推后60尺。</p>\n</section>\n<p>青铜龙呼出斥力能量并覆盖30尺的锥状区域。该区域内的每个生物都必须进行一次<strong>力量</strong>豁免检定。</p>"
                     }
                 }
             },
             "Change Shape": {
-                "name": "",
+                "name": "变形 Change Shape",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>龙可以用魔法<strong>变形</strong>为挑战等级等于或低于其自身的<strong>类人生物</strong>或<strong>野兽</strong>，也可以同样用该动作恢复其真实形态。在死亡时，它也会恢复其真实形态。它携带或着装的任何装备都将转变为适应新形态，或是直接吸收为新形态的一部分（依照该龙的意愿）。</p>\n<p>在新形态下，龙将<strong>保留其阵营，生命骰，生命值，说话能力，传奇抗性，巢穴动作以及智力、感知、魅力数值，还有该动作</strong>。而其它的数据和能力则替换为新形态的相应条目（<strong>不包括新形态的职业特性和传奇动作</strong>）。</p>"
                     }
                 }
             },
             "Legendary Actions": {
-                "name": "",
+                "name": "传奇动作 Legendary Actions",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<section class=\"secret\">\n<p>龙拥有3传奇动作。它每次只可选择执行一个传奇动作项，且必须在另一生物回合结束时执行。龙在其回合开始时恢复所有消耗的传奇动作数。</p>\n</section>\n<p>龙拥有3传奇动作。</p>"
                     }
                 }
             },
             "Tail Attack": {
-                "name": "",
+                "name": "尾击攻击 Tail Attack",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>龙发动一次尾击攻击。</p>"
                     }
                 }
             },
             "Wing Attack": {
-                "name": "",
+                "name": "振翅攻击Wing Attack",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>龙挥动翅膀。其身边<strong>15尺</strong>内的每个生物都必须进行一次<strong>DC 24的敏捷</strong>豁免，豁免失败者将受到<strong>16（2d6+9）点钝击伤害</strong>，并应击倒地。以该方式挥动翅膀后，该龙还可以因该动作向上方飞行至多等于其飞行速度一半的距离。</p>"
                     }
                 }
             },
             "Detect": {
-                "name": "",
+                "name": "侦查Detect",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<section class=\"secret\">\n<p>龙进行一次感知（察觉）检定。</p>\n</section>\n<p>龙警戒着周围……</p>"
                     }
                 }
             },
             "Regional Effects": {
-                "name": "",
+                "name": "区域效应Regional Effects",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>传奇生物的存在使周围环境产生的惊人怪异效应。传奇生物死亡后，这些区域效应可能立即消失或是随着时间逐渐消退。</p>"
                     }
                 }
             }
         }
     },
     "Octopus": {
-        "name": "",
+        "name": "章鱼 Octopus",
         "prototypeToken": {
-            "name": ""
+            "name": "章鱼 Octopus"
         },
         "system": {
             "details": {
-                "alignment": "",
+                "alignment": "无阵营",
                 "biography": {
-                    "value": ""
+                    "value": "无阵营"
                 }
             }
         },
         "items": {
             "Tentacles": {
-                "name": "",
+                "name": "触须 Tentacles",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<section class=\"secret\"><p><em>近战武器攻击：</em><strong>命中+4，触及5尺</strong>，<strong>单一目标</strong>。伤害：<strong>1点<em>钝击伤害</em>。</strong></p><p>且目标其被擒抱（逃脱DC 10）。直至擒抱终止前，该目标被束缚，且章鱼无法再对另一目标使用其触须攻击。</p></section><p>章鱼使用触须攻击。目标被其擒抱。直至擒抱终止前，该目标被束缚，且章鱼无法再对另一目标使用其触须攻击。</p>"
                     }
                 }
             },
             "Hold Breath": {
-                "name": "",
+                "name": "屏息Hold Breath",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>离水后，章鱼可以憋气<strong>30分钟</strong>。</p>"
                     }
                 }
             },
             "Underwater Camouflage": {
-                "name": "",
+                "name": "水下伪装 Underwater Camouflage",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p> 章鱼在水下地形中进行躲藏时所作的敏捷（隐匿）检定具有<strong> 优势</strong>。</p>"
                     }
                 }
             },
             "Water Breathing": {
-                "name": "",
+                "name": "水下呼吸 Water Breathing",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>章鱼只能在水下呼吸。</p>"
                     }
                 }
             },
             "Ink Cloud": {
-                "name": "",
+                "name": "墨汁云Ink Cloud",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<section class=\"secret\"><p>章鱼在水下时可以向身边5尺半径范围内释放出墨汁。随后1分钟里该区域将处于重度遮蔽，不过一阵流经该地的水流即可以驱散墨汁。释放墨汁后，该章鱼即可用一个附赠动作来执行疾走Dash动作。</p></section><p>章鱼在水下时向身边5尺半径范围内释放出墨汁。</p>"
                     }
                 }
             }
         }
     },
     "Giant Crocodile": {
-        "name": "",
+        "name": "巨鳄 Giant Crocodile",
         "prototypeToken": {
-            "name": ""
+            "name": "巨鳄 Giant Crocodile"
         },
         "system": {
             "details": {
-                "alignment": "",
+                "alignment": "无阵营",
                 "biography": {
-                    "value": ""
+                    "value": "无阵营"
                 }
             }
         },
         "items": {
             "Hold Breath": {
-                "name": "",
+                "name": "屏息Hold Breath",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>鳄鱼可以憋气<strong>30分钟</strong>。</p>"
                     }
                 }
             },
             "Multiattack": {
-                "name": "",
+                "name": "多重攻击Multiattack",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>鳄鱼发动两次攻击：啃咬和一次尾击。</p>"
                     }
                 }
             },
             "Bite": {
-                "name": "",
+                "name": "啃咬Bite",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<section class=\"secret\">\n<p><em>近战武器攻击：</em><strong>命中+8，触及5尺，</strong>单一目标。伤害：<strong>21（3d10+5）点<em>穿刺伤害</em></strong>。</p>\n<p>且目标被擒抱（逃脱DC 16）。直至擒抱解除，目标陷入被束缚状态，且该鳄鱼不能啃咬另一目标。</p>\n</section>\n<p>巨鳄进行啃咬攻击。</p>若命中，目标被擒抱。直至擒抱解除，目标陷入被束缚状态，且该鳄鱼不能啃咬另一目标。</p>"
                     }
                 }
             },
             "Tail": {
-                "name": "",
+                "name": "尾击 Tail",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<section class=\"secret\">\n<p><em>近战武器攻击：</em><strong>命中+8，触及10尺，</strong> 单一<strong>未被该鳄鱼擒抱的</strong>目标。伤害：<strong>14（2d8+5）点<em>钝击伤害</em>。</strong></p>\n<p>如果目标是生物，则其必须成功通过一次<strong>DC 16的力量</strong>豁免，否则将应击倒地。</p>\n</section>\n<p>巨鳄进行尾击。如果目标是生物，则其必须成功通过一次<strong>力量</strong>豁免。</p>"
                     }
                 }
             }
         }
     },
     "Gelatinous Cube": {
-        "name": "",
+        "name": "胶质方块Gelatinous Cube",
         "prototypeToken": {
-            "name": ""
+            "name": "胶质方块Gelatinous Cube"
         },
         "system": {
             "details": {
-                "alignment": "",
+                "alignment": "无阵营",
                 "biography": {
-                    "value": ""
+                    "value": "无阵营"
                 }
             }
         },
         "items": {
             "Ooze Cube": {
-                "name": "",
+                "name": "泥怪方块Ooze Cube",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<section class=\"secret\"><p>方块占据其所在空间位置的整个区域。其他生物可以进入该空间，但如此做的生物会承受胶质方块的吞没能力，而其豁免具有<strong>劣势</strong>。在方块体内的生物可以被他人看到，但仍处于全身掩护状态。</p><p>方块<strong>周边5尺范围内</strong>的一个生物可以用一个动作将方块内的生物或物件拖出。此时该生物还必须成功通过一次<strong>DC 12的力量</strong>检定，且该生物必须承受<strong>10（3d6）点<em>强酸伤害</em></strong>。方块至多可以同时容纳一个大型生物，或至多4个中型或更小体型的生物。</p></section><p>方块占据其所在空间位置的整个区域。其他生物可以进入该空间，但如此做的生物会承受胶质方块的吞没能力，而其豁免具有<strong>劣势</strong>。在方块体内的生物可以被他人看到，但仍处于全身掩护状态。方块<strong>周边5尺范围内</strong>的一个生物可以用一个动作将方块内的生物或物件拖出此时该生物还必须成功通过一次<strong>力量</strong>检定。</p>"
                     }
                 }
             },
             "Transparent": {
-                "name": "",
+                "name": "透明Transparent",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<section class=\"secret\"><p>即使胶质方块身处于肉眼可见的位置，观察者仍然需要成功通过一次<strong>DC 15的感知（察觉）检定</strong>来发现一个未移动且未发动攻击的方块。块突袭。生物在未察觉的情况下尝试进入胶质方块所在空间时，视为被胶质方块突袭。</p></section><p>即使胶质方块身处于肉眼可见的位置，观察者仍然需要成功通过一次感知（察觉）检定来发现一个未移动且未发动攻击的方块。生物在未察觉的情况下尝试进入胶质方块所在空间时，视为被胶质方块突袭。</p>"
                     }
                 }
             },
             "Pseudopod": {
-                "name": "",
+                "name": "伪足Pseudopod",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<section class=\"secret\"><p><em>近战武器攻击：</em><strong>命中+4，触及5尺，</strong>单一生物。伤害：<strong>10（3d6）点<em>强酸伤害</em></strong>。</p></section><p>胶质方块使用伪足攻击。</p>"
                     }
                 }
             },
             "Engulf": {
-                "name": "",
+                "name": "吞没Engulf",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<section class=\"secret\"><p>胶质方块移动不超过其速度的距离。此时它可以进入大型或更小体型生物所在空间内。当胶质方块以任何方式进入某生物所在空间时，该生物必须进行一次<strong>DC 12的敏捷</strong>豁免。豁免成功的生物可以选择被方块向后或向侧面推离5尺。选择不被推开的生物将承受与豁免失败一样的后果。</p><p>豁免失败时，方块成功进入生物所占据的空间位置。该生物将受<strong>10（3d6）点<em>强酸伤害</em></strong>并被吞没。.被吞没的生物无法呼吸且被束缚，并在每次该方块的回合开始时受<strong>21（6d6）点<em>强酸伤害</em></strong>。胶质方块移动时，被吞没的生物也随之一起移动。 被吞没的生物可以用一个动作进行一次DC 12的力量检定以尝试逃脱。检定成功则意味着该生物成功逃脱，并进入方块周边5尺范围内的任一处空间位置。</p></section><p>当胶质方块以任何方式进入某生物所在空间时，该生物必须进行一次<strong>敏捷</strong>豁免。豁免成功的生物可以选择被方块向后或向侧面推离5尺。选择不被推开的生物将承受与豁免失败一样的后果。</p>"
                     }
                 }
             }
         }
     },
     "Erinyes": {
-        "name": "",
+        "name": "欲魔 Erinyes",
         "prototypeToken": {
-            "name": ""
+            "name": "欲魔 Erinyes"
         },
         "system": {
             "details": {
-                "alignment": "",
+                "alignment": "守序邪恶",
                 "biography": {
-                    "value": ""
+                    "value": "守序邪恶"
                 }
             }
         },
         "items": {
             "Hellish Weapons": {
-                "name": "",
+                "name": "地狱武器Hellish Weapons",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<section class=\"secret\">\n<p>欲魔的武器攻击视为魔法攻击，并且在命中时额外造成<strong>13（3d8）点<em>毒素伤害</em></strong>（已包含在动作项）。</p>\n</section>\n<p>欲魔的武器攻击视为魔法攻击，并且在命中时额外造成<em>毒素伤害</em>（已包含在动作项）。</p>"
                     }
                 }
             },
             "Longsword": {
-                "name": "",
+                "name": "长剑 Longsword",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<section class=\"secret\"><p><em>近战武器攻击：</em><strong>命中+8，触及5尺，</strong>单一目标。伤害：<strong>8（1d8+4）点<em>挥砍伤害</em></strong>，或双手持用时<strong>9（1d10+4）点<em>挥砍伤害</em></strong>，外加<strong>13（3d8）点<em>毒素伤害</em></strong>。</p></section><p>欲魔使用长剑攻击。</p>"
                     }
                 }
             },
             "Parry": {
-                "name": "",
+                "name": "格挡Parry",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<section class=\"secret\"><p>欲魔在被一次近战攻击命中时，其<strong>AC</strong>加上4。此时该欲魔必须能看见攻击者，且有在持用一把近战武器。</p></section><p>欲魔在被一次近战攻击命中时，其<strong>AC</strong>加上4。</p>"
                     }
                 }
             },
             "Magic Resistance": {
-                "name": "",
+                "name": "魔法抗性Magic Resistance",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>欲魔为抵抗法术和其它魔法效应而作的豁免检定具有<strong> 优势</strong>。</p>"
                     }
                 }
             },
             "Plate Armor": {
-                "name": "",
+                "name": "板甲 Plate Armor",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>板甲由覆盖全身，且相互连接的模铸金属板组成。一套板甲包括护手、重皮靴、一顶附面甲的头盔以及在护甲底层的厚重的布甲。其锁扣和皮带结构可以将护甲重量分配到身体各处。</p>"
                     }
                 }
             },
             "Longbow": {
-                "name": "",
+                "name": "长弓 Longbow",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<section class=\"secret\">\n<p>远程武器攻击：命中+7，射程150/600尺，单一目标。伤害：<strong>7（1d8+3）点<em>穿刺伤害</em></strong>，外加<strong>13（3d8）<em>毒素伤害</em></strong>。</p></section>\n<p>目标必须进行一次<strong>DC 14的体质</strong>豁免，豁免失败则则陷入中毒。中毒状态将持续至该目标被次级复原术lesser restoration或类似的法术治愈。</p>\n</section>\n<p>欲魔使用长弓攻击。</p>目标必须进行一次<strong>体质</strong>豁免。</p>"
                     }
                 }
             },
             "Multiattack": {
-                "name": "",
+                "name": "多重攻击Multiattack",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>欲魔发动三次攻击。</p>"
                     }
                 }
             }
         }
     },
     "Adult White Dragon": {
-        "name": "",
+        "name": "成年白龙 Adult White Dragon",
         "prototypeToken": {
-            "name": ""
+            "name": "成年白龙 Adult White Dragon"
         },
         "system": {
             "details": {
-                "alignment": "",
+                "alignment": "混乱邪恶",
                 "biography": {
-                    "value": ""
+                    "value": "混乱邪恶"
                 }
             }
         },
         "items": {
             "Regional Effects": {
-                "name": "",
+                "name": "区域效应Regional Effects",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>传奇生物的存在使周围环境产生的惊人怪异效应。传奇生物死亡后，这些区域效应可能立即消失或是随着时间逐渐消退。</p>"
                     }
                 }
             },
             "Bite": {
-                "name": "",
+                "name": "啃咬Bite",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<section class=\"secret\"><p><em>近战武器攻击：</em><strong>命中+11，触及10尺，</strong>单一目标。伤害：<strong>17（2d10+6）点<em>穿刺伤害</em></strong>，外加<strong>4（1d8）点<em>冷冻伤害</em></strong>。</p></section><p>成年白龙进行啃咬攻击。</p>"
                     }
                 }
             },
             "Claw": {
-                "name": "",
+                "name": "爪击 Claw",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<section class=\"secret\"><p><em>近战武器攻击：</em><strong>命中+11，触及5尺，</strong>单一目标。伤害：<strong>13（2d6+6）点<em>挥砍伤害</em></strong>。</p></section><p>成年白龙进行爪击。</p>"
                     }
                 }
             },
             "Cold Breath": {
-                "name": "",
+                "name": "冷冻吐息Cold Breath",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<section class=\"secret\"><p>白龙呼出冰暴并覆盖一处60尺的锥状区域。该区域内的每个生物都必须进行一次<strong>DC 19的体质</strong> 豁免，豁免失败者将受到<strong>54（12d8）点<em>冷冻伤害</em></strong> ，豁免成功则伤害减半。</p><p>龙呼出冰暴并覆盖一处60尺的锥状区域。该区域内的每个生物都必须进行一次<strong>体质</strong>豁免检定。</p>"
                     }
                 }
             },
             "Detect": {
-                "name": "",
+                "name": "侦查Detect",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<section class=\"secret\">\n<p>龙进行一次感知（察觉）检定。</p>\n</section>\n<p>龙警戒着周围……</p>"
                     }
                 }
             },
             "Frightful Presence": {
-                "name": "",
+                "name": "骇人威仪Frightful Presence",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<section class=\"secret\"><p>白龙指定周边<strong>120尺范围内</strong>若干意识到其存在的生物，每个目标都必须进行一次<strong>DC14的感知</strong>豁免，豁免失败者将陷入<strong>1分钟</strong>的恐慌状态。</p><p>该被恐慌生物可以在其自己回合结束时再进行一次该豁免，豁免成功则终止该生物身上的恐慌效应。豁免成功或身上的该效应结束的生物，将在接下来的24小时内免疫该龙的骇人威仪。</p></section><p>龙指定周边<strong>120尺范围内</strong>若干意识到其存在的生物，每个目标都必须进行一次<strong>感知</strong>豁免。该生物可以在其自己回合结束时再进行一次该豁免。</p>"
                     }
                 }
             },
             "Ice Walk": {
-                "name": "",
+                "name": "冰上行走Ice Walk",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>白龙可以在冰面上穿行和攀爬而无需进行属性检定。此外，其穿过由冰或雪组成的困难地形时也不需要花费额外的移动力。</p>"
                     }
                 }
             },
             "Lair Actions": {
-                "name": "",
+                "name": "巢穴动作Lair Actions",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<section class=\"secret\">\n<p>拥有巢穴动作的传奇生物，可以在其巢穴中用这些魔法效应御敌。先攻轮到20时（出现等值时视为后手），该生物可以可使用它其中一个巢穴动作项。它无法在失能或无法执行动作时实现该行为。受突袭的生物，要直到自己在本场战斗的第一个回合结束之后，才能执行它的巢穴动作。</p>\n</section>\n<p>拥有巢穴动作的传奇生物，可以在其巢穴中用这些魔法效应御敌。</p>"
                     }
                 }
             },
             "Legendary Actions": {
-                "name": "",
+                "name": "传奇动作 Legendary Actions",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<section class=\"secret\">\n<p>龙拥有3传奇动作。它每次只可选择执行一个传奇动作项，且必须在另一生物回合结束时执行。龙在其回合开始时恢复所有消耗的传奇动作数。</p>\n</section>\n<p>龙拥有3传奇动作。</p>"
                     }
                 }
             },
             "Legendary Resistance": {
-                "name": "",
+                "name": "传奇抗性Legendary Resistance",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>龙豁免失败时，可以将其改为豁免成功。</p>"
                     }
                 }
             },
             "Multiattack": {
-                "name": "",
+                "name": "多重攻击Multiattack",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>龙可以先使用它的骇人威仪。然后再发动三次攻击，一次啃咬和两次爪击。</p>"
                     }
                 }
             },
             "Tail": {
-                "name": "",
+                "name": "尾击 Tail",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<section class=\"secret\"><p><em>近战武器攻击：</em><strong>命中+11，触及15尺，</strong>单一目标。伤害：<strong>15（2d8+6）点<em>钝击伤害</em></strong>。</p></section><p>成年白龙进行尾击。</p>"
                     }
                 }
             },
             "Tail Attack": {
-                "name": "",
+                "name": "尾击攻击 Tail Attack",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>龙发动一次尾击攻击。</p>"
                     }
                 }
             },
             "Wing Attack": {
-                "name": "",
+                "name": "振翅攻击Wing Attack",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<section class=\"secret\">\n<p>龙发动一次尾击攻击。</p>\n</section>\n<p>龙挥动它的长尾巴抽击敌人！</p>"
                     }
                 }
             }
         }
     },
     "Fire Giant": {
-        "name": "",
+        "name": "火巨人Fire Giant",
         "prototypeToken": {
-            "name": ""
+            "name": "火巨人Fire Giant"
         },
         "system": {
             "details": {
-                "alignment": "",
+                "alignment": "守序邪恶",
                 "biography": {
-                    "value": ""
+                    "value": "守序邪恶"
                 }
             }
         },
         "items": {
             "Plate Armor": {
-                "name": "",
+                "name": "板甲 Plate Armor",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>板甲由覆盖全身，且相互连接的模铸金属板组成。一套板甲包括护手、重皮靴、一顶附面甲的头盔以及在护甲底层的厚重的布甲。其锁扣和皮带结构可以将护甲重量分配到身体各处。</p>"
                     }
                 }
             },
             "Multiattack": {
-                "name": "",
+                "name": "多重攻击Multiattack",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>巨人发动两次巨剑攻击。</p>"
                     }
                 }
             },
             "Greatsword": {
-                "name": "",
+                "name": "巨剑Greatsword",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<section class=\"secret\"><p><em>近战武器攻击：</em><strong>命中+11，触及10尺，</strong>单一目标。伤害：<strong>28（6d6+7）点<em>挥砍伤害</em></strong>。</p></section><p>火巨人使用巨剑攻击。</p>"
                     }
                 }
             },
             "Rock": {
-                "name": "",
+                "name": "掷石Rock",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<section class=\"secret\"><p>远程武器攻击：命中+11，射程60/240尺，单一目标。伤害：<strong>29（4d10+7）点<em>钝击伤害</em></strong>。</p></section><p>火巨人进行掷石攻击。</p>"
                     }
                 }
             }
         }
     },
     "Deer": {
-        "name": "",
+        "name": "鹿Deer",
         "prototypeToken": {
-            "name": ""
+            "name": "鹿Deer"
         },
         "system": {
             "details": {
-                "alignment": "",
+                "alignment": "无阵营",
                 "biography": {
-                    "value": ""
+                    "value": "无阵营"
                 }
             }
         },
         "items": {
             "Bite": {
-                "name": "",
+                "name": "啃咬Bite",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<section class=\"secret\">\n<p><em>近战武器攻击：</em><strong>命中+2，触及5尺，</strong>单一目标。伤害：<strong>2（1d4）点<em>穿刺伤害</em></strong>。</p></section>\n<p>鹿进行啃咬攻击。</p>"
                     }
                 }
             }
         }
     },
     "Plesiosaurus": {
-        "name": "",
+        "name": "蛇颈龙Plesiosaurus",
         "prototypeToken": {
-            "name": ""
+            "name": "蛇颈龙Plesiosaurus"
         },
         "system": {
             "details": {
-                "alignment": "",
+                "alignment": "无阵营",
                 "biography": {
-                    "value": ""
+                    "value": "无阵营"
                 }
             }
         },
         "items": {
             "Bite": {
-                "name": "",
+                "name": "啃咬Bite",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<section class=\"secret\"><p><em>近战武器攻击：</em><strong>命中+6，触及10尺，</strong>单一目标。伤害：<strong>14（3d6+4）点<em>穿刺伤害</em></strong>。</p></section><p>蛇颈龙进行啃咬攻击。</p>"
                     }
                 }
             },
             "Hold Breath": {
-                "name": "",
+                "name": "屏息Hold Breath",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>蛇颈龙可以憋气1小时。</p>"
                     }
                 }
             }
         }
     },
     "Giant Vulture": {
-        "name": "",
+        "name": "巨秃鹫Giant Vulture",
         "prototypeToken": {
-            "name": ""
+            "name": "巨秃鹫Giant Vulture"
         },
         "system": {
             "details": {
-                "alignment": "",
+                "alignment": "中立邪恶",
                 "biography": {
-                    "value": ""
+                    "value": "中立邪恶"
                 }
             }
         },
         "items": {
             "Keen Sight and Smell": {
-                "name": "",
+                "name": "敏锐视嗅觉Keen Sight and Smell",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>秃鹫依赖视觉或嗅觉进行的感知（察觉）检定具有<strong> 优势</strong>。</p>"
                     }
                 }
             },
             "Pack Tactics": {
-                "name": "",
+                "name": "集群战术Pack Tactics",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>秃鹫至少有一个未处于失能的盟友在目标生物<strong>5尺</strong>内时，它对该生物发动的攻击检定有<strong> 优势</strong>。</p>"
                     }
                 }
             },
             "Multiattack": {
-                "name": "",
+                "name": "多重攻击Multiattack",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>秃鹫发动两次攻击：一次喙啄和一次爪击。</p>"
                     }
                 }
             },
             "Beak": {
-                "name": "",
+                "name": "喙啄Beak",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<section class=\"secret\">\n<p><em>近战武器攻击：</em><strong>命中+4</strong>，<strong>触及5尺，</strong>单一目标。伤害：<strong>7（2d4+2）点<em>穿刺伤害</em></strong>。</p></section>\n<p>巨秃鹫进行喙啄攻击。</p>"
                     }
                 }
             },
             "Talons": {
-                "name": "",
+                "name": "禽爪Talons",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<section class=\"secret\">\n<p><em>近战武器攻击：</em><strong>命中+4</strong>，<strong>触及5尺，</strong>单一目标。伤害：<strong>9（2d6+2）点<em>挥砍伤害</em></strong>。</p></section>\n<p>巨秃鹫使用禽爪攻击。</p>"
                     }
                 }
             }
         }
     },
     "Giant Wasp": {
-        "name": "",
+        "name": "巨黄蜂Giant Wasp",
         "prototypeToken": {
-            "name": ""
+            "name": "巨黄蜂Giant Wasp"
         },
         "system": {
             "details": {
-                "alignment": "",
+                "alignment": "无阵营",
                 "biography": {
-                    "value": ""
+                    "value": "无阵营"
                 }
             }
         },
         "items": {
             "Sting": {
-                "name": "",
+                "name": "钉刺Sting",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<section class=\"secret\">\n<p><em>近战武器攻击：</em><strong>命中+4，触及5尺，</strong>单一生物。伤害：<strong>5 (1d6 + 2) 点<em>穿刺伤害</em></strong>。</p>\n目标还必须进行一次<strong>DC 11的体质</strong> 豁免，豁免失败者将受到<strong>10（3d6）点<em>毒素伤害</em></strong>，豁免成功则伤害减半。</p>如果该<em>毒素伤害</em>将目标生命值降至0，则目标伤势稳定但中毒1小时。恢复生命值无法让目标摆脱该中毒效应，且其在以该方式中毒期间同时陷入麻痹。</p>\n</section>\n<p>巨黄蜂使用钉刺攻击。目标必须进行一次<strong>体质</strong>豁免。</p>"
                     }
                 }
             }
         }
     },
     "Swarm of Spiders": {
-        "name": "",
+        "name": "蜘蛛群Swarm of Spiders",
         "prototypeToken": {
-            "name": ""
+            "name": "蜘蛛群Swarm of Spiders"
         },
         "system": {
             "details": {
-                "alignment": "",
+                "alignment": "无阵营",
                 "biography": {
-                    "value": ""
+                    "value": "无阵营"
                 }
             }
         },
         "items": {
             "Swarm": {
-                "name": "",
+                "name": "集群Swarm",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>集群可以进驻另一生物身处的空间位置，反之亦然。而且集群可以通过任何足够一只微型昆虫通过的通道。集群不能恢复<strong>生命值</strong>也不能获得临时<strong>生命值</strong>。</p>"
                     }
                 }
             },
@@ -1294,194 +1294,194 @@
                 }
             },
             "Spider Climb": {
-                "name": "",
+                "name": "蛛行 Spider Climb",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>蜘蛛群可以在困难地形的表面攀爬，包括倒吊在天花板上，且不需要进行属性检定。</p>"
                     }
                 }
             },
             "Web Sense": {
-                "name": "",
+                "name": "蛛网感知Web Sense",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>与蛛网接触时，蜘蛛群可以知晓其他与该蛛网接触生物的准确位置。</p>"
                     }
                 }
             },
             "Web Walker": {
-                "name": "",
+                "name": "蛛网行者 Web Walker",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>蜘蛛群在蛛网上移动时无视蛛网的移动限制。</p>"
                     }
                 }
             }
         }
     },
     "Elk": {
-        "name": "",
+        "name": "麋鹿Elk",
         "prototypeToken": {
-            "name": ""
+            "name": "麋鹿Elk"
         },
         "system": {
             "details": {
-                "alignment": "",
+                "alignment": "无阵营",
                 "biography": {
-                    "value": ""
+                    "value": "无阵营"
                 }
             }
         },
         "items": {
             "Charge": {
-                "name": "",
+                "name": "冲锋Charge",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<section class=\"secret\">\n<p>若麋鹿向其目标直线移动至少20尺，且在同一回合里以冲撞攻击命中该目标，则该目标受额外7（2d6）点伤害。</p>\n<p>如果目标是生物，则该生物必须成功通过一次<strong>DC 13的力量</strong>豁免，否则应击倒地。</p>\n</section>\n<p>若麋鹿向其目标直线移动至少20尺，且在同一回合里以冲撞攻击命中该目标，则该目标受额外伤害。如果目标是生物，则目标必须成功通过一次<strong>力量</strong>豁免，否则将应击倒地。</p>"
                     }
                 }
             },
             "Ram": {
-                "name": "",
+                "name": "冲撞Ram",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<section class=\"secret\">\n<p><em>近战武器攻击：</em><strong>命中+5，触及5尺，</strong>单一目标。伤害：<strong>6（1d6+3）点<em>钝击伤害</em></strong>。</p></section>\n<p>麋鹿进行冲撞攻击。</p>"
                     }
                 }
             },
             "Hooves": {
-                "name": "",
+                "name": "蹄击Hooves",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<section class=\"secret\">\n<p><em>近战武器攻击：</em><strong>命中+5，触及5尺，</strong>单一<strong>倒地</strong>目标。伤害：<strong>8（2d4+3）点<em>钝击伤害</em></strong>。</p></section>\n<p>麋鹿进行蹄击。</p>"
                     }
                 }
             }
         }
     },
     "Lizardfolk": {
-        "name": "",
+        "name": "蜥蜴人Lizardfolk",
         "prototypeToken": {
-            "name": ""
+            "name": "蜥蜴人Lizardfolk"
         },
         "system": {
             "details": {
-                "alignment": "",
+                "alignment": "绝对中立",
                 "biography": {
-                    "value": ""
+                    "value": "绝对中立"
                 }
             }
         },
         "items": {
             "Hold Breath": {
-                "name": "",
+                "name": "屏息Hold Breath",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>蜥蜴人可以憋气<strong>15分钟</strong>。</p>"
                     }
                 }
             },
             "Multiattack": {
-                "name": "",
+                "name": "多重攻击Multiattack",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>蜥蜴人发动两次近战攻击，每次攻击必须使用不同的武器。</p>"
                     }
                 }
             },
             "Bite": {
-                "name": "",
+                "name": "啃咬Bite",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<section class=\"secret\"><p><em>近战武器攻击：</em><strong>命中+4，触及5尺</strong>，<strong>单一目标</strong>。伤害：<strong>5（1d6+2）点<em>穿刺伤害</em></strong>。</p></section><p>蜥蜴人进行啃咬攻击。</p>"
                     }
                 }
             },
             "Heavy Club": {
-                "name": "",
+                "name": "重棒Heavy Club",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<section class=\"secret\"><p><em>近战武器攻击：</em><strong>命中+4，触及5尺</strong>，<strong>单一目标</strong>。伤害：<strong>5（1d6+2）点<em>钝击伤害</em></strong>。</p></section><p>蜥蜴人使用重棒攻击。</p>"
                     }
                 }
             },
             "Javelin": {
-                "name": "",
+                "name": "标枪Javelin",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<section class=\"secret\"><p>近战或远程武器攻击：命中+4，触及5尺，或射程30/120尺，单一目标。伤害：<strong>5（1d6+2）点<em>穿刺伤害</em></strong>。</p></section><p>蜥蜴人使用标枪攻击。</p>"
                     }
                 }
             },
             "Spiked Shield": {
-                "name": "",
+                "name": "刺盾Spiked Shield",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<section class=\"secret\"><p><em>近战武器攻击：</em><strong>命中+4，触及5尺</strong>，<strong>单一目标</strong>。伤害：<strong>5（1d6+2）点<em>穿刺伤害</em></strong>。</p></section><p>蜥蜴人使用刺盾攻击。</p>"
                     }
                 }
             },
             "Shield": {
-                "name": "",
+                "name": "盾牌Shield",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>盾牌通常由木材或金属制成，可以单手进行持用。持用一面盾牌可以令你的护甲等级加2。不过同一时间里你只能从一面盾牌中受益。</p>"
                     }
                 }
             }
         }
     },
     "Djinni": {
-        "name": "",
+        "name": "气巨灵Djinni",
         "prototypeToken": {
-            "name": ""
+            "name": "气巨灵Djinni"
         },
         "system": {
             "details": {
-                "alignment": "",
+                "alignment": "混乱善良",
                 "biography": {
-                    "value": ""
+                    "value": "混乱善良"
                 }
             }
         },
         "items": {
             "Elemental Demise": {
-                "name": "",
+                "name": "元素消亡Elemental Demise",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>气巨灵死亡时，它的身体将分解为温暖的微风，只留下该气巨灵原先着装或携带的装备。</p>"
                     }
                 }
             },
             "Innate Spellcasting": {
-                "name": "",
+                "name": "天生施法Innate Spellcasting",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>气巨灵天生施法的关键属性为魅力（法术豁免DC 17，法术攻击命中+9）。它天生可施展以下法术而无需任何材料成分：</p>\n<p>随意：侦测善恶detect evil and good，侦测魔法detect magic，雷鸣波thunderwave</p>\n<p>每项3/日：造粮术create food and water（可以造出红酒来代替水），巧言术tongues，御风而行wind walk</p>\n<p>每项1/日：召唤元素生物conjure elemental（仅气元素），造物术creation，气化形体gaseous form，隐形术invisibility，高等幻影major image，异界传送plane shif</p>"
                     }
                 }
             },
             "Multiattack": {
-                "name": "",
+                "name": "多重攻击Multiattack",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>气巨灵发动三次弯刀攻击。</p>"
                     }
                 }
             },
             "Scimitar": {
-                "name": "",
+                "name": "弯刀Scimitar",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<section class=\"secret\"><p><em>近战武器攻击：</em><strong>命中+9，触及5尺，</strong>单一目标。伤害：<strong>12（2d6+5）点<em>挥砍伤害</em></strong>外加<strong>3（1d6）的<em>闪电或雷鸣伤害</em></strong>（由气巨灵选择）。</p><p>气巨灵使用弯刀攻击。</p>"
                     }
                 }
             },
             "Create Whirlwind": {
-                "name": "",
+                "name": "生成旋风Create Whirlwind",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<section class=\"secret\">\n<p>一个半径5尺，高30尺的圆柱状回旋气体由魔法生成于气巨灵身边120尺内它能看见的一点。旋风在该气巨灵维持专注时持续存在（等同于维持法术专注）。</p>\n<p>除该气巨灵之外的其他生物进入旋风区域内时必须进行一次<strong>DC 18的力量</strong>豁免，豁免失败则将陷入受旋风束缚的状态。该气巨灵可以花费一个动作让旋风移动至多60尺，而被旋风束缚的生物也将随之一起移动。旋风在离开气巨灵视野范围后将立即终止。</p>\n<p>任一生物都可以用自己的动作解救被旋风束缚的生物，包括该生物本身。花费该动作时，该生物可以进行一次DC 18的力量检定，检定成功则目标生物不再受束缚并移动到旋风外最进一出空间位置。</p>\n</section>\n<p>一个半径5尺，高30尺的圆柱状回旋气体由魔法生成于气巨灵身边120尺内它能看见的一点。除该气巨灵之外的其他生物进入旋风区域内时必须进行一次<strong>力量</strong>豁免，豁免失败则将陷入受旋风束缚的状态。该气巨灵可以花费一个动作让旋风移动至多60尺，而被旋风束缚的生物也将随之一起移动。任一生物都可以用自己的动作解救被旋风束缚的生物，包括该生物本身。花费该动作时，该生物可以进行一次力量检定，检定成功则目标生物不再受束缚并移动到旋风外最进一出空间位置。</p>"
                     }
                 }
             },
@@ -1494,202 +1494,202 @@
                 }
             },
             "Detect Evil and Good": {
-                "name": "",
+                "name": "侦测善恶Detect Evil and Good",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>你在法术持续时间内能感觉到身边 30 尺内出现的任一异怪、天界生物、元素生物、精类生物、邪魔或不死生物的存在，并掌握其具体位置。另外，你也可以知晓 30 尺内的物件或地点是否被祝福或亵渎。</p><p>该法术可以穿透大多障碍，但仍会被 1 尺厚石质或 1 寸厚金属质，或一层薄铅质，或 3 尺厚木质或泥质材料阻隔。</p>"
                     }
                 }
             },
             "Detect Magic": {
-                "name": "",
+                "name": "侦测魔法Detect Magic",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>你在法术持续时间内能感测到30尺内存在的魔法。感测到魔法的存在后，你可以使用动作，来看到任何你能看见的具有魔法的生物或物件周围环绕着微弱的灵光，并分辨出其所属的魔法学派（若有）。</p><p>该法术可以穿透大多障碍，但仍会被 1 尺厚石质或 1 寸厚金属质，或一层薄铅质，或 3 尺厚木质或泥质材料阻隔。</p>"
                     }
                 }
             },
             "Thunderwave": {
-                "name": "",
+                "name": "雷鸣波Thunderwave",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>一道雷鸣波从你的身体向外扫去。在以你为源点 15 尺立方区域内的每个生物必须进行一次<strong>体质</strong> 豁免。豁免失败者将受到 2d8 点雷鸣伤害，并被推离 10 尺。豁免成功则伤害减半，且不会被推离。</p>\n<p>此外，所有完全位于该区域内且没被固定住的物件都将被自动推离 10 尺。而该法术还会发出方圆 300 尺内都能听见的雷霆巨响。</p>\n<p><strong>升环施法效应。</strong>使用二环或更高法术位施展该法术时，你使用的法术位每比一环高一环，法术的伤害就增加 1d8。</p>"
                     }
                 }
             },
             "Create Food and Water": {
-                "name": "",
+                "name": "造粮术Create Food and Water",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>你在施法距离内的地面或容器上创造 45 磅的食物和 30 加仑的水，其总量可以满足十五个类人生物或者五匹坐骑 24 小时的补给需求。食物非常清淡但营养丰富，并且如果 24 小时内不食用即会变坏。创造的水清洁可饮用且不会以该方式变质。</p>\n<p>（可以造出红酒来代替水）</p>"
                     }
                 }
             },
             "Tongues": {
-                "name": "",
+                "name": "巧言术Tongues",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>该法术赋予你所触碰生物听懂任何语言的能力。此外，当目标生物说话时，任何能听见其话语且掌握至少一门语言的生物都能听懂它的话。</p>"
                     }
                 }
             },
             "Wind Walk": {
-                "name": "",
+                "name": "御风而行Wind Walk",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>你和施法距离内你能看见的至多十个自愿生物在法术持续时间内变为气化形态，其外观有如一团云雾。处于该云雾形态的生物具有 300 尺的飞行速度，并且对非魔法武器造成的伤害具有抗性。该形态下的生物除疾走和变回原形以外不能执行其他动作。变回原形需要花一分钟的时间，在这段时间内该生物处于失能状态且不能移动。在法术终止前，该生物还可以再次变成云雾形态，而再次进行变形同样要花一分钟时间。</p>\n<p>如果法术终止时受术生物正以云雾形态飞行，则该生物将在 1 分钟内以每轮 60 尺的速度降落直至安全着陆。如果该生物降落1分钟后还没着陆，则在余下的距离中它将会如正常情况一样坠落。</p>"
                     }
                 }
             },
             "Creation": {
-                "name": "",
+                "name": "造物术Creation",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>你从堕影冥界取来一些暗影物质，并在施法距离内创造一个非活体的物件。你可以创造一个植物质（类似纺织品、绳索、木质等）的物件。你也可以创造一个矿物质（类似石质、水晶、金属等）的物件。创造出来的物件大小必需在 5 立方尺内，且其形态与材质你必需曾经见过。</p>\n<p>法术的持续时间由所创造物件的材质决定。如果所创造物件由多种材质组合而成，则其存在时间取其中最短者。</p>\n<ul>\n<li>植物质｜vegetable matter&nbsp;- 1日</li>\n<li>石质｜stone，水晶｜crystal&nbsp;- 12小时</li>\n<li>贵金属｜precious metals&nbsp;- 1小时</li>\n<li>宝石｜gems&nbsp;- 10分钟</li>\n<li>精金｜adamantine，秘银｜mithral&nbsp;- 1分钟</li>\n</ul>\n<p>施展其他法术时，如果以这些创造物作为其材料成分将会使该法术施法失败。</p>\n<p><strong>升环施法效应。</strong>使用六环或更高法术位施展该法术时，你使用的法术位每比五环高一环，创造物尺寸的立方边长就加大 5 尺。</p>"
                     }
                 }
             },
             "Gaseous Form": {
-                "name": "",
+                "name": "气化形体Gaseous Form",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>在法术持续时间内，你将触碰到的一个自愿生物连同其穿着携带物一起转化为一团云雾。如果生物的生命值降至 0 则法术终止。非实体的生物不受该效应影响。非实体的生物不受该效应影响。</p>\n<p>在该形态下，目标唯一的移动方式即是 10 尺的飞行速度。该目标可以进入并占据一个已有生物占据的空间。其拥有非魔法伤害的抗性，且进行力量、敏捷和体质豁免时具有优势。该目标可以穿过小洞、狭隙、甚至裂缝，但他会将液态物质视为固体表面。目标即使处于震慑或者失能状态时，也不会坠落并且保持在空中悬浮。</p>\n<p>云雾形态的目标不能讲话或操作物件，其随身携带或持握的物件不会掉落，也不能被使用或与之互动。另外，目标也不能攻击或施法。</p>"
                     }
                 }
             },
             "Invisibility": {
-                "name": "",
+                "name": "隐形Invisibility",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>你触碰的一个生物变为隐形并维持至法术终止。目标的穿着物和携带物只要保持在其身上也随之保持隐形状态。如果目标发动攻击或施展法术，则该法术终止。</p>\n<p><strong>升环施法效应。</strong>使用三环或更高的法术位施展该法术时，你使用的法术位每比二环高一环就可以额外指定一个目标。</p>"
                     }
                 }
             },
             "Major Image": {
-                "name": "",
+                "name": "高等幻影Major Image",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>你创造一个影像，其形象来自一个大小不超过边长 20 尺立方体的物件，生物或其他的可视现象。影像出现在施法距离内你能看见的一处位置并在法术持续时间内维持存在。它看起来完全是真实的，并且还具有相应的声音、气味和温度。你不能创造出足以造成伤害的酷热或严寒，也不能创造出音量大到足以造成雷鸣伤害或者震聋生物的声响，同样不能创造出会使生物恶心的气味（近似战蜥人的恶臭那种）。<p>在该幻象施法距离内时，你可以用你的动作将影像移动到施法距离内的另一个位置。影像改变位置时，你可以改变影像的外表来使它移动得更自然。例如，如果你创造了一个生物的影像并移动它，则你可以改变影像，使它看起来就像是在走路。或者你也可以让影像在不同的时间发出不同的声音，甚至可以让它参与一场对话。由于影像无法被碰到，任何与该影像进行的物理互动都会暴露其幻象的本质。一个生物用其动作调查影像时，它可以进行一次对抗你的法术豁免 DC 的智力（调查）检定，以判定是否看穿幻象。辨出幻象的生物可以看破该影像，而影像的其他感官效应在该生物看来会变得微弱而模糊。</p>"
                     }
                 }
             },
             "Plane Shift": {
-                "name": "",
+                "name": "异界传送Plane Shift",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>你和至多八个自愿生物手拉手站成一圈，然后被传送到一个不同的存在位面中。你可以概括地指名一个目的地（比如火元素位面的黄铜城，或者九层地狱第二层迪斯帕特的宫殿），然后你将出现在目的地里或其附近附近。假设你想到达黄铜城，按照 DM 的判断，你可能会传送到达它的钢铁大道上，或它的灰烬之门前，又或者与城市隔着火焰之海相望之处。</p><p>另外，如果你知道某个处于另一位面的传送法阵的印记序列，则该法术可以把你带到该法阵处。如果该传送法阵太小而装不下所有你传送的生物，则他们会出现在离传送法阵最近的未占据空间里。</p><p>你可以用该法术放逐一个非自愿的生物到另一位面。指定一个你触及范围内的生物并对它进行一次近战法术攻击。命中时，此生物必须进行一次<strong>魅力</strong>豁免。豁免失败者将被传送到你指定位面的一个随机地点。被这样传送走的生物必须自行寻找回到你现在位面的路。</p>"
                     }
                 }
             }
         }
     },
     "Nightmare": {
-        "name": "",
+        "name": "梦魇Nightmare",
         "prototypeToken": {
-            "name": ""
+            "name": "梦魇Nightmare"
         },
         "system": {
             "details": {
-                "alignment": "",
+                "alignment": "中立邪恶",
                 "biography": {
-                    "value": ""
+                    "value": "中立邪恶"
                 }
             }
         },
         "items": {
             "Confer Fire Resistance": {
-                "name": "",
+                "name": "赋予火焰抗性Confer Fire Resistance",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>。梦魇可以给任何骑乘它的对象赋予<em>火焰伤害</em>的抗性。</p>"
                     }
                 }
             },
             "Illumination": {
-                "name": "",
+                "name": "照明Illumination",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>梦魇散发出<strong>半径10尺</strong>的明亮光照，以及其外<strong>10尺</strong>的微光光照。</p>"
                     }
                 }
             },
             "Hooves": {
-                "name": "",
+                "name": "蹄击Hooves",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<section class=\"secret\"><p><em>近战武器攻击：</em><strong>命中+6，触及5尺，</strong>单一目标。伤害：<strong>13（2d8+4）点<em>钝击伤害</em></strong>，外加<strong>7（2d6）点<em>火焰伤害</em></strong>。</p></section><p>梦魇进行蹄击攻击。</p>"
                     }
                 }
             },
             "Ethereal Stride": {
-                "name": "",
+                "name": "以太跳跃Ethereal Stride",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>梦魇可以连同其身边5尺内至多三个自愿的生物一起从物质位面进入以太位面，反之亦然。</p>"
                     }
                 }
             }
         }
     },
     "Half-Red Dragon Veteran": {
-        "name": "",
+        "name": "半红龙老兵Half-Red Dragon Veteran",
         "prototypeToken": {
-            "name": ""
+            "name": "半红龙老兵Half-Red Dragon Veteran"
         },
         "system": {
             "details": {
-                "alignment": "",
+                "alignment": "任意阵营",
                 "biography": {
-                    "value": ""
+                    "value": "任意阵营"
                 }
             }
         },
         "items": {
             "Plate Armor": {
-                "name": "",
+                "name": "板甲 Plate Armor",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>板甲由覆盖全身，且相互连接的模铸金属板组成。一套板甲包括护手、重皮靴、一顶附面甲的头盔以及在护甲底层的厚重的布甲。其锁扣和皮带结构可以将护甲重量分配到身体各处。</p>"
                     }
                 }
             },
             "Multiattack": {
-                "name": "",
+                "name": "多重攻击Multiattack",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>老兵发动两次长剑攻击。如果它拔出了一柄短剑，那么它还可以发动一次短剑攻击。</p>"
                     }
                 }
             },
             "Longsword": {
-                "name": "",
+                "name": "长剑 Longsword",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<section class=\"secret\">\n<p><em>近战武器攻击：</em><strong>命中+5，触及5尺，</strong>单一目标。伤害：<strong>7（1d8+3）点<em>挥砍伤害</em></strong>，双手持时<strong>8（1d10+3）点<em>挥砍伤害</em></strong>。</p></section>\n<p>半红龙老兵使用长剑攻击。</p>"
                     }
                 }
             },
             "Shortsword": {
-                "name": "",
+                "name": "短剑 Shortsword",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<section class=\"secret\"><p><em>近战武器攻击：</em><strong>命中+5，触及5尺，</strong>单一目标。伤害：<strong>6（1d6+3）点<em>穿刺伤害</em></strong>。</p></section><p>半红龙老兵使用短剑攻击。</p>"
                     }
                 }
             },
             "Heavy Crossbow": {
-                "name": "",
+                "name": "重弩 Heavy Crossbow",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<section class=\"secret\"><p>远程武器攻击：命中+3，射程100/400尺，单一目标。伤害：<strong>6（1d10+1）点<em>穿刺伤害</em></strong>。</p></section><p>半红龙老兵使用重弩攻击。</p>"
                     }
                 }
             },
             "Fire Breath": {
-                "name": "",
+                "name": "火焰吐息Fire Breath",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<section class=\"secret\"><p>老兵呼出火焰并覆盖一处15尺的锥状区域。该区域内的每个生物都必须进行一次<strong>DC 15的敏捷</strong> 豁免，豁免失败者将受到<strong>24（7d6）点<em>火焰伤害</em></strong> ，豁免成功则伤害减半。</p></section><p>老兵呼出火焰并覆盖一处15尺的锥状区域。该区域内的每个生物都必须进行一次<strong>敏捷</strong> 豁免。</p>"
                     }
                 }
             }
