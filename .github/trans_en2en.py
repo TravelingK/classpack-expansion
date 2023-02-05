@@ -12,11 +12,9 @@ for nnmaame in os.listdir(lod1+'/en-db/'):
             aas={}
             ijson=json.loads(i)
             aas['name']=ijson['name']
-            aas.update({'prototypeToken':{'name':ijson['prototypeToken']['name']},'system':{'details':{'alignment':ijson['system']['details']['alignment'],'biography':{'value':ijson['system']['details']['alignment']}}}})
+            aas.update({'prototypeToken':{'name':ijson['prototypeToken']['name']},'system':{'details':{'alignment':ijson['system']['details']['alignment'],'biography':{'value':ijson['system']['details']['biography']['value']}}}})
             aas['items']={}
-                
             for key in ijson['items']:
-                    
                 aas['items'].update({key['name']:{'name':key['name'],'system':{'description':{'value':key['system']['description']['value']}}}})
                 jjson[ijson['name']]=aas
 
