@@ -1,23 +1,23 @@
 {
     "Tiny Servant": {
-        "name": "",
+        "name": "迷你仆役 Tiny Servant",
         "prototypeToken": {
-            "name": ""
+            "name": "迷你仆役 Tiny Servant"
         },
         "system": {
             "details": {
-                "alignment": "",
+                "alignment": "无阵营",
                 "biography": {
-                    "value": ""
+                    "value": "无阵营"
                 }
             }
         },
         "items": {
             "Slam": {
-                "name": "",
+                "name": "挥击 Slam",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<div  class=\"rd__b  rd__b--3\"><p><i>近战武器攻击：</i>命中[[/r 1d20+5]](+5)，触及 5 尺，单一目标。<i>伤害：</i>5([[/r 1d4 + 3]]) 钝击伤害。</p><div class=\"rd__spc-inline-post\"></div></div>"
                     }
                 }
             }
