@@ -206,7 +206,7 @@
         },
         "items": {
             "Bites": {
-                "name": "",
+                "name": "啃咬 Bites",
                 "system": {
                     "description": {
                         "value": ""
@@ -2310,7 +2310,7 @@
                 }
             },
             "Breath Weapons": {
-                "name": "",
+                "name": "吐息武器 Breath Weapons",
                 "system": {
                     "description": {
                         "value": ""
@@ -3054,7 +3054,7 @@
                 }
             },
             "Amphibious": {
-                "name": "",
+                "name": "水陆两栖 Amphibious",
                 "system": {
                     "description": {
                         "value": ""
@@ -3710,7 +3710,7 @@
                 }
             },
             "Amphibious": {
-                "name": "",
+                "name": "水陆两栖 Amphibious",
                 "system": {
                     "description": {
                         "value": ""
@@ -3758,7 +3758,7 @@
                 }
             },
             "Amphibious": {
-                "name": "",
+                "name": "水陆两栖 Amphibious",
                 "system": {
                     "description": {
                         "value": ""
@@ -3934,7 +3934,7 @@
                 }
             },
             "Amphibious": {
-                "name": "",
+                "name": "水陆两栖 Amphibious",
                 "system": {
                     "description": {
                         "value": ""
