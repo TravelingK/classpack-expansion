@@ -4446,26 +4446,26 @@
                 }
             },
             "Bite (Rat or Hybrid Form Only)": {
-                "name": "",
+                "name": "啃咬 Bite（仅鼠与半人形态）",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<section class=\"secret\"><p><em>近战武器攻击：</em><strong>命中+4，触及5尺</strong>，<strong>单一目标</strong>。伤害：<strong>4 (1d4 + 2) 点<em>穿刺伤害</em></strong>。</p><p>如果目标是类人生物，则目标必须成功通过一次<strong>DC 11的体质</strong>豁免，否则将遭受鼠人兽化诅咒。</p></section><p>鼠人进行啃咬攻击。如果目标是类人生物，则目标必须成功通过一次<strong>体质</strong>豁免。</p>"
                     }
                 }
             },
             "Hand Crossbow (Humanoid or Hybrid Form Only)": {
-                "name": "",
+                "name": "手弩 Hand Crossbow（仅类人与半人形态）",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<section class=\"secret\">\n<p>远程武器攻击：命中+4，射程30/120尺，单一目标。伤害：<strong>5 (1d6 + 2) 点<em>穿刺伤害</em></strong>。</p>\n</section>\n<p>鼠人使用手弩攻击。</p>"
                     }
                 }
             },
             "Shortsword (Humanoid or Hybrid Form Only)": {
-                "name": "",
+                "name": "短剑 Shortsword（仅类人与半人形态）",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<section class=\"secret\">\n<p><em>近战武器攻击：</em><strong>命中+4</strong>，<strong>触及5尺，</strong>单一目标。伤害：<strong>5 (1d6 + 2) 点<em>穿刺伤害</em></strong>。</p></section>\n\n<p>鼠人使用短剑攻击。</p>"
                     }
                 }
             }
@@ -4737,23 +4737,23 @@
                 "name": "多重攻击 Multiattack（仅限吸血鬼形态）",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>吸血鬼发动两次攻击，其中啃咬Bite攻击只能使用一次。</p>"
                     }
                 }
             },
             "Unarmed Strike (Vampire Form Only)": {
-                "name": "",
+                "name": "徒手打击 Unarmed Strike（仅限吸血鬼形态）",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<section class=\"secret\"><p><em>近战武器攻击：</em><strong>命中+9，触及5尺，</strong>单一生物。伤害：<strong>8（1d8+4）点<em>钝击伤害</em></strong>。</p><p>或者选择不造成伤害，而让吸血鬼以此擒抱目标（逃脱DC 18）。</p></section><p>吸血鬼进行徒手打击。</p>"
                     }
                 }
             },
             "Bite (Bat or Vampire Form Only)": {
-                "name": "",
+                "name": "啃咬 Bite（仅蝙蝠与吸血鬼形态）",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<section class=\"secret\"><p><em>近战武器攻击：</em><strong>命中+9</strong>，<strong>触及5尺</strong>，单一自愿生物，或单一被吸血鬼擒抱生物，以及失能生物、被束缚生物。伤害：<strong>7（1d6+4）点<em>穿刺伤害</em></strong>，外加<strong>10（3d6）点<em>黯蚀伤害</em></strong>。</p><p>目标的生命值上限承受等同该<em>黯蚀伤害</em>数值的减损，吸血鬼则回复等量的生命值。减损效应持续至目标完成一次长休。如果该攻击将目标的生命值上限降至0，则目标死亡。以该方式死亡并被葬入土中的类人生物，将在随后的夜晚复活为受控于该吸血鬼的吸血鬼衍体。</p></section><p>吸血鬼进行啃咬攻击。</p>"
                     }
                 }
             },
@@ -5086,10 +5086,10 @@
                 }
             },
             "Wraith - Life Drain": {
-                "name": "",
+                "name": "缚灵-吸取生命 Wraith - Life Drain",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<section class=\"secret\"><p><em>近战武器攻击：</em><strong>命中+6</strong>，<strong>触及5尺，</strong>单一生物。伤害：<strong>21（4d8 + 3）<em>黯蚀伤害</em></strong>。</p><p>目标必须成功通过一次<strong>DC 14的体质</strong>豁免检定，否则其生命值上限将承受等于该伤害数值的减损。该减损效应持续至该目标完成一次长休。如果该效应将目标的生命值上限降至0，则目标死亡。</p></section><p>缚灵吸取生命攻击。目标必须进行一次<strong>体质</strong>豁免。</p>"
                     }
                 }
             },
@@ -6054,50 +6054,50 @@
         },
         "items": {
             "Berserk": {
-                "name": "",
+                "name": "失心狂怒 Berserk",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<section class=\"secret\"><p>魔像以<strong>40或更低生命值</strong>开始其自己回合时骰一次d6，骰值为6时，魔像开始失心狂怒。魔像将在狂怒持续期间每个自己回合里攻击距离它最近且它能看见的生物。</p><p>如果在其移动并攻击的范围内没有符合条件的生物，则该魔像将攻击一个物件，并且会优先选择比自己体型尺寸更小的物件。魔像一旦开始狂怒，便会一直持续到被破坏或回复<strong>所有生命值</strong>为止。已经狂怒魔像的其制作者如果在身边<strong>60尺</strong>范围内，则可以尝试以坚定的说服性话语使其冷静下来。该魔像必须可以听到其制作者的话，而制作者必须执行一个动作来进行一次<strong>DC 15的魅力（游说）检定</strong>。如果检定成功，则该魔像停止狂怒。如果它再以<strong>40或更低生命值</strong>受伤害，则该魔像可能再次开始狂怒。</p></section><p>魔像开始失心狂怒。魔像将在狂怒持续期间每个自己回合里攻击距离它最近且它能看见的生物。如果在其移动并攻击的范围内没有符合条件的生物，则该魔像将攻击一个物件，并且会优先选择比自己体型尺寸更小的物件。</p>"
                     }
                 }
             },
             "Aversion of Fire": {
-                "name": "",
+                "name": "厌火 Aversion of Fire",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<section class=\"secret\"><p>受<strong><em>火焰伤害</em></strong>后，魔像直至自己的下一回合结束前，其进行的攻击检定和属性检定都具有<strong>劣势</strong>。</p></section><p>受<strong><em>火焰伤害</em></strong>后，魔像进行的一些检定具有<strong>劣势</strong>。</p>"
                     }
                 }
             },
             "Immutable Form": {
-                "name": "",
+                "name": "不变形态 Immutable Form",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>魔像免疫任何可以改变其形态的法术或效应。</p>"
                     }
                 }
             },
             "Lightning Absorption": {
-                "name": "",
+                "name": "闪电吸收 Lightning Absorption",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>魔像受<strong><em>闪电伤害</em></strong>时不会损伤，反而会恢复与伤害值相等的<strong>生命值</strong>。</p>"
                     }
                 }
             },
             "Magic Resistance": {
-                "name": "",
+                "name": "魔法抗性 Magic Resistance",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>魔像为抵抗法术和其它魔法效应而作的豁免检定具有<strong> 优势</strong>。</p>"
                     }
                 }
             },
             "Magic Weapons": {
-                "name": "",
+                "name": "魔法武器Magic Weapons",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>魔像的武器攻击视为魔法攻击。</p>"
                     }
                 }
             },
@@ -6105,15 +6105,15 @@
                 "name": "多重攻击 Multiattack",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>魔像发动两次猛击攻击。</p>"
                     }
                 }
             },
             "Slam": {
-                "name": "",
+                "name": "猛击 Slam",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<section class=\"secret\"><p><em>近战武器攻击：</em><strong>命中+7</strong>，<strong>触及5尺，</strong>单一目标。伤害：<strong>13（2d8+4）点<em>钝击伤害</em></strong>。</p></section><p>肉身魔像进行猛击。</p>"
                     }
                 }
             }
@@ -6478,18 +6478,18 @@
         },
         "items": {
             "Charge (Boar or Hybrid Form Only)": {
-                "name": "",
+                "name": "冲锋 Charge（仅野猪与半人形态）",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<section class=\"secret\"><p>若野猪人向其目标直线移动至少15尺，且在同一回合里以牙撕攻击命中该目标，则该目标受额外<strong>7（2d6）<em>点挥砍伤害</em></strong>。</p><p>若目标是生物，则该生物必须成功通过一次<strong>DC 13的力量</strong>豁免，否则应击倒地。</p></section><p>若野猪人向其目标直线移动至少15尺，且在同一回合里以牙撕攻击命中该目标，则该目标受额外的<em>挥砍伤害</em>。如果目标是生物，则其必须成功通过一次力量豁免，否则将应击倒地。</p>"
                     }
                 }
             },
             "Multiattack (Humanoid or Hybrid Form Only)": {
-                "name": "",
+                "name": "多重攻击 Multiattack（仅类人与半人形态）",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>野猪人发动两次攻击，其中牙撕Tusks攻击只能使用一次。</p>"
                     }
                 }
             },
@@ -6510,18 +6510,18 @@
                 }
             },
             "Tusks (Boar or Hybrid Form Only)": {
-                "name": "",
+                "name": "牙撕 Tusks（仅野猪与半人形态）",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<section class=\"secret\"><p><em>近战武器攻击：</em><strong>命中+5</strong>，<strong>触及5尺，</strong>单一目标。伤害：<strong>10(2d6 + 3) 点<em>挥砍伤害</em></strong>。</p><p>如果目标是类人生物，则目标必须成功通过一次<strong>DC 12的体质</strong>豁免，否则将承受野猪人兽化诅咒。</p></section><p>野猪人进行牙撕攻击。</p><p>如果目标是类人生物，则目标必须成功通过一次<strong>体质</strong>豁免。</p>"
                     }
                 }
             },
             "Maul (Humanoid or Hybrid Form Only)": {
-                "name": "",
+                "name": "巨锤 Maul（仅类人与半人形态）",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<section class=\"secret\">\n<p><em>近战武器攻击：</em><strong>命中+5</strong>，<strong>触及5尺，</strong>单一目标。伤害：<strong>10（2d6+3）点<em>钝击伤害</em></strong>。</p>\n</section>\n<p>野猪人使用巨锤攻击。</p>"
                     }
                 }
             }
@@ -10808,13 +10808,13 @@
         }
     },
     "Succubus/Incubus": {
-        "name": "",
+        "name": "魅魔 Succubus／梦魔 Incubus",
         "prototypeToken": {
-            "name": ""
+            "name": "魅魔 Succubus／梦魔 Incubus"
         },
         "system": {
             "details": {
-                "alignment": "",
+                "alignment": "中立邪恶",
                 "biography": {
                     "value": ""
                 }
@@ -10822,50 +10822,50 @@
         },
         "items": {
             "Telepathic Bond": {
-                "name": "",
+                "name": "传念连接Telepathic Bond",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>该邪魔与受其魅惑的生物进行心灵感应交流时无视距离限制。他们甚至可以不在同一位面。</p>"
                     }
                 }
             },
             "Shapechanger": {
-                "name": "",
+                "name": "变形生物Shapechanger",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<section class=\"secret\"><p>该邪魔以一个动作，<strong>变形</strong>一个小型或中型体型的类人生物，或以同样的动作恢复其真实形态。变形后，该邪魔失去其飞行能力。除体型和速度外，其所有资料均不会发生改变。</p><p>其着装或携带的装备也不会随变形发生变化。死亡时它将恢复其真实形态。</p></section><p>该邪魔以一个动作，<strong>变形</strong>一个类人生物，或以同样的动作恢复其真实形态。</p>"
                     }
                 }
             },
             "Claw (Fiend Form Only)": {
-                "name": "",
+                "name": "爪击 Claw（仅邪魔形态）",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<section class=\"secret\"><p><em>近战武器攻击：</em><strong>命中+5</strong>，<strong>触及5尺，</strong>单一目标。伤害：<strong>6（1d6+3）点</strong><em>挥砍伤害</em></strong>。</p></section><p>魅魔／梦魔进行爪击。</p>"
                     }
                 }
             },
             "Charm": {
-                "name": "",
+                "name": "魅惑Charm",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<section class=\"secret\"><p>该邪魔指定其身边30尺范围内一个它能看见的生物，该生物必须成功通过一次DC 15的<strong>感知</strong>豁免。否则将受魔法魅惑1日。被魅惑目标听从该邪魔口头或心灵感应所传达的命令。</p><p>当目标受到伤害或收到自残命令时，可以再次进行该豁免，并在豁免成功时终止其魅惑效应。豁免成功或效应终止后，该生物将在24小时内免疫该邪魔的魅惑效应。该邪魔一次只能魅惑一个目标。它成功魅惑另一目标时，旧目标的魅惑效应也将随之立即结束。</p></section><p>该邪魔指定其身边30尺范围内一个它能看见的生物，该生物必须成功通过一次<strong>感知</strong>豁免。</p>"
                     }
                 }
             },
             "Draining Kiss": {
-                "name": "",
+                "name": "汲命之吻 Draining Kiss",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<section class=\"secret\"><p>该邪魔吻向受其魅惑或自愿接受的生物。该生物必须进行一次<strong>DC 15的体质</strong>豁免，以对抗该魔法。豁免失败时，目标生物受<strong>32（5d10+5）点<em>心灵伤害</em></strong>。豁免成功则伤害减半。</p><p>目标生命值上限将承受总伤害等量的减损。该减损效应持续至该目标完成一次长休。如果该效应将目标的生命值上限降至0，则目标死亡。</p></section><p>生物必须进行一次<strong>体质</strong>豁免，以对抗该魔法。</p>"
                     }
                 }
             },
             "Etherealness": {
-                "name": "",
+                "name": "以太化Etherealness",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>该邪魔用魔法从主物质位面进入以太位面，或者从该位面返回。</p>"
                     }
                 }
             }
@@ -10952,13 +10952,13 @@
         }
     },
     "Ankheg": {
-        "name": "",
+        "name": "掘地虫 Ankheg",
         "prototypeToken": {
-            "name": ""
+            "name": "掘地虫 Ankheg"
         },
         "system": {
             "details": {
-                "alignment": "",
+                "alignment": "无阵营",
                 "biography": {
                     "value": ""
                 }
@@ -10966,18 +10966,18 @@
         },
         "items": {
             "Bite": {
-                "name": "",
+                "name": "啃咬 Bite",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<section class=\"secret\">\n<p><em>近战武器攻击：</em><strong>命中+5</strong>，<strong>触及5尺</strong>，单一目标。伤害：<strong>10（2d6+3）点<em>挥砍伤害</em></strong>，外加<strong>3（1d6）点<em>强酸伤害</em></strong>。</p>\n<p>如果目标为大型或更小体型的生物，则目标被擒抱（逃脱DC 13）。直至擒抱结束前，掘地虫只能啃咬该被擒抱生物，且对其发动的攻击检定具有优势。</p>\n</section>\n<p>j掘地虫进行啃咬攻击！</p>"
                     }
                 }
             },
             "Acid Spray": {
-                "name": "",
+                "name": "酸液喷射 Acid Spray",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<section class=\"secret\">\n<p>如果掘地虫没有擒抱生物，则它可以吐出一道酸液，覆盖长30尺宽5尺的线状区域。</p>\n<p>酸液范围内的所有生物必须进行一次<strong>DC 13的敏捷</strong>豁免，豁免失败者将受到<strong>10（3d6）点<em>强酸伤害</em></strong>，豁免成功则伤害减半。</p>\n</section>\n<p>掘地虫吐出一道酸液，覆盖长30尺宽5尺的线状区域，酸液范围内的所有生物必须进行一次<strong>敏捷</strong>豁免。</p>"
                     }
                 }
             }
@@ -11368,13 +11368,13 @@
         }
     },
     "Giant Fire Beetle": {
-        "name": "",
+        "name": "巨火甲虫 Giant Fire Beetle",
         "prototypeToken": {
-            "name": ""
+            "name": "巨火甲虫 Giant Fire Beetle"
         },
         "system": {
             "details": {
-                "alignment": "",
+                "alignment": "无阵营",
                 "biography": {
                     "value": ""
                 }
@@ -11382,18 +11382,18 @@
         },
         "items": {
             "Bite": {
-                "name": "",
+                "name": "啃咬 Bite",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<section class=\"secret\">\n<p><em>近战武器攻击：</em><strong>命中+1</strong>，<strong>触及5尺</strong>，单一目标。伤害：2（1d6-1）点<em>挥砍伤害</em>。</p></section>\n<p>巨火甲虫进行啃咬攻击。</p>"
                     }
                 }
             },
             "Illumination": {
-                "name": "",
+                "name": "照明 Illumination",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>甲虫向身边<strong>半径10尺范围</strong>散发出明亮光照，以及其外<strong>10尺</strong>的微光光照。</p>"
                     }
                 }
             }
@@ -13408,13 +13408,13 @@
         }
     },
     "Marilith": {
-        "name": "",
+        "name": "六臂蛇魔 Marilith",
         "prototypeToken": {
-            "name": ""
+            "name": "六臂蛇魔 Marilith"
         },
         "system": {
             "details": {
-                "alignment": "",
+                "alignment": "混乱邪恶",
                 "biography": {
                     "value": ""
                 }
@@ -13422,18 +13422,18 @@
         },
         "items": {
             "Magic Resistance": {
-                "name": "",
+                "name": "魔法抗性 Magic Resistance",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>六臂蛇魔为抵抗法术和其它魔法效应而作的豁免检定具有<strong> 优势</strong>。</p>"
                     }
                 }
             },
             "Magic Weapons": {
-                "name": "",
+                "name": "魔法武器 Magic Weapons",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>六臂蛇魔的武器攻击视为魔法攻击。</p>"
                     }
                 }
             },
