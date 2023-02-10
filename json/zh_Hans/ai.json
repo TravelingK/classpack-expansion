@@ -1798,7 +1798,7 @@
                 }
             },
             "Blindness/Deafness": {
-                "name": "",
+                "name": "目盲／耳聋术 Blindness/Deafness",
                 "system": {
                     "description": {
                         "value": ""

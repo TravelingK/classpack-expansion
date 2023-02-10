@@ -334,7 +334,7 @@
                 }
             },
             "Sure-Footed": {
-                "name": "",
+                "name": "稳步Sure-Footed",
                 "system": {
                     "description": {
                         "value": ""
@@ -1966,7 +1966,7 @@
                 }
             },
             "Reactive": {
-                "name": "",
+                "name": "灵敏反应 Reactive",
                 "system": {
                     "description": {
                         "value": ""
@@ -2862,7 +2862,7 @@
                 }
             },
             "Sure-Footed": {
-                "name": "",
+                "name": "稳步Sure-Footed",
                 "system": {
                     "description": {
                         "value": ""

@@ -326,7 +326,7 @@
                 }
             },
             "Blindness/Deafness": {
-                "name": "",
+                "name": "目盲／耳聋术 Blindness/Deafness",
                 "system": {
                     "description": {
                         "value": ""
@@ -2398,7 +2398,7 @@
                 }
             },
             "Blindness/Deafness": {
-                "name": "",
+                "name": "目盲／耳聋术 Blindness/Deafness",
                 "system": {
                     "description": {
                         "value": ""
@@ -3302,7 +3302,7 @@
                 }
             },
             "Blindness/Deafness": {
-                "name": "",
+                "name": "目盲／耳聋术 Blindness/Deafness",
                 "system": {
                     "description": {
                         "value": ""
@@ -8766,7 +8766,7 @@
                 }
             },
             "Sure-Footed": {
-                "name": "",
+                "name": "稳步Sure-Footed",
                 "system": {
                     "description": {
                         "value": ""
@@ -15798,7 +15798,7 @@
                 }
             },
             "Blindness/Deafness": {
-                "name": "",
+                "name": "目盲／耳聋术 Blindness/Deafness",
                 "system": {
                     "description": {
                         "value": ""
