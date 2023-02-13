@@ -11,16 +11,40 @@
         },
         "items": {
             "Multiattack": {
-                "name": "多重攻击Multiattack"
+                "name": "多重攻击Multiattack",
+                "system": {
+                    "description": {
+                        "value": "<div  class=\"rd__b  rd__b--3\"><p>地精发动两次弯刀攻击。第二次攻击具有劣势。</p><div class=\"rd__spc-inline-post\"></div></div>"
+                    }
+                }
             },
             "Scimitar": {
-                "name": "弯刀Scimitar"
+                "name": "弯刀Scimitar",
+                "system": {
+                    "description": {
+                        "value": "<div  class=\"rd__b  rd__b--3\"><p><i>近战武器攻击：</i>命中[[/r 1d20+4]]（+4），触及5尺，单一目标。<i>伤害：</i>5（[[/r 1d6 + 2]]）点挥砍伤害。</p><div class=\"rd__spc-inline-post\"></div></div>"
+                    }
+                }
             },
             "Chain Shirt": {
                 "name": "链甲衫Chain Shirt"
             },
             "Shield": {
                 "name": "盾牌Shield"
+            },
+            "Nimble Escape": {
+                "name": "迅捷逃逸 Nimble Escape",
+                "system": {
+                    "description": {
+                        "value": "<div  class=\"rd__b  rd__b--3\"><p>地精可在自己的回合，以一个附赠动作来执行撤离Disengage或躲藏Hide动作。</p><div class=\"rd__spc-inline-post\"></div></div>"
+                    }
+                }
+            },
+            "Javelin (Melee)": {
+                "name": "标枪Javelin（近战）"
+            },
+            "Javelin (Ranged)": {
+                "name": "标枪 Javelin（远程）"
             }
         }
     },
