@@ -734,7 +734,7 @@
                 }
             },
             "Javelin (Melee)": {
-                "name": "",
+                "name": "标枪Javelin（近战）",
                 "system": {
                     "description": {
                         "value": ""
@@ -742,7 +742,7 @@
                 }
             },
             "Javelin (Ranged)": {
-                "name": "",
+                "name": "标枪 Javelin（远程）",
                 "system": {
                     "description": {
                         "value": ""
@@ -2974,7 +2974,7 @@
                 }
             },
             "Blindness/Deafness": {
-                "name": "",
+                "name": "目盲／耳聋术 Blindness/Deafness",
                 "system": {
                     "description": {
                         "value": ""
@@ -3446,7 +3446,7 @@
                 }
             },
             "Aversion of Fire": {
-                "name": "",
+                "name": "厌火 Aversion of Fire",
                 "system": {
                     "description": {
                         "value": ""
