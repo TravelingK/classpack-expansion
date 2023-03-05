@@ -79,6 +79,17 @@
             },
             "Detect Magic": {
                 "name": "侦测魔法Detect Magic"
+            },
+            "Fist": {
+                "name": "拳击Fist"
+            },
+            "Sure-Footed": {
+                "name": "稳步Sure-Footed"
+            }
+        },
+        "system": {
+            "details": {
+                "alignment": "中立邪恶"
             }
         }
     },
@@ -104,6 +115,35 @@
             },
             "Innate Spellcasting": {
                 "name": "天生施法Innate Spellcasting"
+            },
+            "Teleport": {
+                "name": "传送 Teleport"
+            },
+            "Magic Weapons": {
+                "name": "魔法武器 Magic Weapons"
+            },
+            "Wall of Fire": {
+                "name": "火墙术Wall of Fire"
+            },
+            "Clairvoyance": {
+                "name": "鹰眼术Clairvoyance"
+            },
+            "Detect Thoughts": {
+                "name": "侦测思想Detect Thoughts"
+            },
+            "Dispel Magic": {
+                "name": "解除魔法Dispel Magic"
+            },
+            "Dimension Door": {
+                "name": "任意门Dimension Door"
+            },
+            "Suggestion": {
+                "name": "暗示术Suggestion"
+            }
+        },
+        "system": {
+            "details": {
+                "alignment": "中立邪恶"
             }
         }
     },
@@ -120,6 +160,18 @@
             },
             "Innate Spellcasting": {
                 "name": "天生施法Innate Spellcasting"
+            },
+            "Limited Telepathy": {
+                "name": "有限感应Limited Telepathy"
+            },
+            "Mirror Image": {
+                "name": "镜影术Mirror Image"
+            },
+            "Mage Hand": {
+                "name": "法师之手Mage Hand"
+            },
+            "Minor Illusion": {
+                "name": "次级幻影Minor Illusion"
             }
         }
     },
@@ -137,6 +189,33 @@
         "items": {
             "Bite": {
                 "name": "啃咬Bite"
+            },
+            "Mage Hand": {
+                "name": "法师之手Mage Hand"
+            },
+            "Minor Illusion": {
+                "name": "次级幻影Minor Illusion"
+            },
+            "Lightning Bolt": {
+                "name": "闪电束Lightning Bolt"
+            },
+            "Ray of Frost": {
+                "name": "冷冻射线Ray of Frost"
+            },
+            "Charm Person": {
+                "name": "魅惑人类Charm Person"
+            },
+            "Sleep": {
+                "name": "睡眠术Sleep"
+            },
+            "Detect Thoughts": {
+                "name": "侦测思想Detect Thoughts"
+            },
+            "Hold Person": {
+                "name": "人类定身术Hold Person"
+            },
+            "Spellcasting": {
+                "name": "施法Spellcasting"
             }
         }
     },
@@ -162,6 +241,71 @@
             },
             "Innate Spellcasting": {
                 "name": "天生施法Innate Spellcasting"
+            },
+            "Teleport": {
+                "name": "传送 Teleport"
+            },
+            "Heat Metal": {
+                "name": "灼热金属Heat Metal"
+            },
+            "Magic Missile": {
+                "name": "魔法飞弹Magic Missile"
+            },
+            "Mage Hand": {
+                "name": "法师之手Mage Hand"
+            },
+            "Prestidigitation": {
+                "name": "魔法伎俩Prestidigitation"
+            },
+            "Counterspell": {
+                "name": "法术反制Counterspell"
+            },
+            "Fireball": {
+                "name": "火球术Fireball"
+            },
+            "Banishment": {
+                "name": "放逐术Banishment"
+            },
+            "Finger of Death": {
+                "name": "死亡一指Finger of Death"
+            },
+            "Mind Blank": {
+                "name": "心灵屏障Mind Blank"
+            },
+            "Magic Weapons": {
+                "name": "魔法武器Magic Weapons"
+            },
+            "Fire Bolt": {
+                "name": "火焰箭Fire Bolt"
+            },
+            "Minor Illusion": {
+                "name": "次级幻影Minor Illusion"
+            },
+            "Identify": {
+                "name": "鉴定术Identify"
+            },
+            "Detect Thoughts": {
+                "name": "侦测思想Detect Thoughts"
+            },
+            "Mirror Image": {
+                "name": "镜影术Mirror Image"
+            },
+            "Suggestion": {
+                "name": "暗示术Suggestion"
+            },
+            "Dimension Door": {
+                "name": "任意门Dimension Door"
+            },
+            "Hold Monster": {
+                "name": "怪物定身术Hold Monster"
+            },
+            "Spellcasting": {
+                "name": "施法Spellcasting"
+            }
+        },
+        "system": {
+            "details": {
+                "alignment": "中立邪恶"
             }
         }
     },
@@ -196,6 +340,12 @@
             },
             "Innate Spellcasting": {
                 "name": "天生施法Innate Spellcasting"
+            },
+            "Amphibious": {
+                "name": "水陆两栖 Amphibious"
+            },
+            "Fog Cloud": {
+                "name": "云雾术Fog Cloud"
             }
         }
     },
@@ -209,6 +359,26 @@
             },
             "Sunlight Sensitivity": {
                 "name": "日照敏感 Sunlight Sensitivity"
+            },
+            "Amphibious": {
+                "name": "水陆两栖 Amphibious"
+            },
+            "Sacred Flame": {
+                "name": "圣火术Sacred Flame"
+            },
+            "Spellcasting": {
+                "name": "施法Spellcasting"
+            },
+            "Thaumaturgy": {
+                "name": "奇术Thaumaturgy"
+            },
+            "Shield of Faith": {
+                "name": "虔诚护盾Shield of Faith"
+            }
+        },
+        "system": {
+            "details": {
+                "alignment": "中立邪恶"
             }
         }
     },
@@ -228,6 +398,24 @@
             },
             "Detect Magic": {
                 "name": "侦测魔法Detect Magic"
+            },
+            "Hurl Flame": {
+                "name": "投掷烈焰Hurl Flame"
+            },
+            "Detect Thoughts": {
+                "name": "侦测思想Detect Thoughts"
+            },
+            "Shapechanger": {
+                "name": "变形生物Shapechanger"
+            },
+            "Regeneration": {
+                "name": "再生Regeneration"
+            },
+            "Fireball": {
+                "name": "火球术Fireball"
+            },
+            "Mage Hand": {
+                "name": "法师之手Mage Hand"
             }
         }
     },
@@ -266,6 +454,26 @@
             },
             "Innate Spellcasting": {
                 "name": "天生施法Innate Spellcasting"
+            },
+            "Greataxe": {
+                "name": "巨斧Greataxe"
+            },
+            "Teleport": {
+                "name": "传送 Teleport"
+            },
+            "Magic Weapons": {
+                "name": "魔法武器Magic Weapons"
+            },
+            "Dispel Magic": {
+                "name": "解除魔法Dispel Magic"
+            },
+            "Mirror Image": {
+                "name": "镜影术Mirror Image"
+            }
+        },
+        "system": {
+            "details": {
+                "alignment": "中立邪恶"
             }
         }
     },
@@ -297,6 +505,27 @@
             },
             "Innate Spellcasting": {
                 "name": "天生施法Innate Spellcasting"
+            },
+            "Shapechanger": {
+                "name": "变形生物Shapechanger"
+            },
+            "Magic Weapons": {
+                "name": "魔法武器 Magic Weapons"
+            },
+            "Regeneration": {
+                "name": "再生Regeneration"
+            },
+            "Fly": {
+                "name": "飞行术Fly"
+            },
+            "Fireball": {
+                "name": "火球术Fireball"
+            },
+            "Detect Thoughts": {
+                "name": "侦测思想Detect Thoughts"
+            },
+            "Mage Hand": {
+                "name": "法师之手Mage Hand"
             }
         }
     },
@@ -331,6 +560,12 @@
             },
             "Innate Spellcasting": {
                 "name": "天生施法Innate Spellcasting"
+            },
+            "Amphibious": {
+                "name": "水陆两栖 Amphibious"
+            },
+            "Fog Cloud": {
+                "name": "云雾术Fog Cloud"
             }
         }
     },
@@ -347,6 +582,9 @@
             },
             "Magic Resistance": {
                 "name": "魔法抗性Magic Resistance"
+            },
+            "Regeneration": {
+                "name": "再生Regeneration"
             }
         }
     },
@@ -354,6 +592,20 @@
         "items": {
             "Multiattack": {
                 "name": "多重攻击Multiattack"
+            },
+            "Fist": {
+                "name": "拳击Fist"
+            },
+            "Javelin (Melee)": {
+                "name": "标枪Javelin（近战）"
+            },
+            "Javelin (Ranged)": {
+                "name": "标枪 Javelin（远程）"
+            }
+        },
+        "system": {
+            "details": {
+                "alignment": "任意阵营"
             }
         }
     },
@@ -361,6 +613,9 @@
         "items": {
             "Multiattack": {
                 "name": "多重攻击Multiattack"
+            },
+            "Tentacle": {
+                "name": "触须Tentacle"
             }
         }
     },
@@ -376,6 +631,9 @@
         "items": {
             "Bite": {
                 "name": "啃咬Bite"
+            },
+            "Flyby": {
+                "name": "飞掠Flyby"
             }
         }
     },
@@ -389,6 +647,18 @@
             },
             "Magic Resistance": {
                 "name": "魔法抗性Magic Resistance"
+            },
+            "Fist": {
+                "name": "拳击Fist"
+            },
+            "Gore": {
+                "name": "顶撞Gore"
+            },
+            "Labyrinthine Recall": {
+                "name": "迷宫追忆Labyrinthine Recall"
+            },
+            "Siege Monster": {
+                "name": "攻城怪物Siege Monster"
             }
         }
     },
@@ -402,6 +672,17 @@
             },
             "Sunlight Sensitivity": {
                 "name": "日照敏感 Sunlight Sensitivity"
+            },
+            "Unarmed Strike": {
+                "name": "徒手打击Unarmed Strike"
+            },
+            "Amphibious": {
+                "name": "水陆两栖 Amphibious"
+            }
+        },
+        "system": {
+            "details": {
+                "alignment": "中立邪恶"
             }
         }
     },
@@ -443,6 +724,39 @@
             },
             "Plate Armor": {
                 "name": "板甲 Plate Armor"
+            },
+            "Multiattack (Vampire Form Only)": {
+                "name": "多重攻击 Multiattack（仅限吸血鬼形态）"
+            },
+            "Unarmed Strike (Vampire Form Only)": {
+                "name": "徒手打击 Unarmed Strike（仅限吸血鬼形态）"
+            },
+            "Bite (Bat or Vampire Form Only)": {
+                "name": "啃咬 Bite（仅蝙蝠与吸血鬼形态）"
+            },
+            "Charm": {
+                "name": "魅惑Charm"
+            },
+            "Children of the Night": {
+                "name": "夜之子Children of the Night"
+            },
+            "Shapechanger": {
+                "name": "变形生物Shapechanger"
+            },
+            "Misty Escape": {
+                "name": "雾遁Misty Escape"
+            },
+            "Regeneration": {
+                "name": "再生Regeneration"
+            },
+            "Vampire Weaknesses": {
+                "name": "吸血鬼弱点Vampire Weaknesses"
+            },
+            "Move": {
+                "name": "移动Move"
+            },
+            "Unarmed Strike": {
+                "name": "徒手打击Unarmed Strike"
             }
         }
     },
@@ -505,6 +819,20 @@
             },
             "Magic Resistance": {
                 "name": "魔法抗性Magic Resistance"
+            },
+            "Shapechanger": {
+                "name": "变形生物Shapechanger"
+            },
+            "Suggestion": {
+                "name": "暗示术Suggestion"
+            },
+            "Constrict": {
+                "name": "绞缠Constrict"
+            }
+        },
+        "system": {
+            "details": {
+                "alignment": "中立邪恶"
             }
         }
     },
@@ -530,6 +858,35 @@
             },
             "Innate Spellcasting": {
                 "name": "天生施法Innate Spellcasting"
+            },
+            "Teleport": {
+                "name": "传送术Teleport"
+            },
+            "Dimension Door": {
+                "name": "任意门Dimension Door"
+            },
+            "Detect Thoughts": {
+                "name": "侦测思想Detect Thoughts"
+            },
+            "Dispel Magic": {
+                "name": "解除魔法Dispel Magic"
+            },
+            "Suggestion": {
+                "name": "暗示术Suggestion"
+            },
+            "Magic Weapons": {
+                "name": "魔法武器 Magic Weapons"
+            },
+            "Wall of Fire": {
+                "name": "火墙术Wall of Fire"
+            },
+            "Clairvoyance": {
+                "name": "鹰眼术Clairvoyance"
+            }
+        },
+        "system": {
+            "details": {
+                "alignment": "中立邪恶"
             }
         }
     },
@@ -537,6 +894,14 @@
         "items": {
             "Claw": {
                 "name": "爪击 Claw"
+            },
+            "Turn Immunity": {
+                "name": "驱散免疫Turn Immunity"
+            }
+        },
+        "system": {
+            "details": {
+                "alignment": "中立邪恶"
             }
         }
     },
@@ -547,6 +912,9 @@
             },
             "Pack Tactics": {
                 "name": "集群战术Pack Tactics"
+            },
+            "Dagger": {
+                "name": "匕首Dagger"
             }
         }
     },
@@ -572,6 +940,47 @@
             },
             "Innate Spellcasting": {
                 "name": "天生施法Innate Spellcasting"
+            },
+            "Levitate": {
+                "name": "浮空术Levitate"
+            },
+            "Lesser Restoration": {
+                "name": "次级复原术Lesser Restoration"
+            },
+            "Web": {
+                "name": "蛛网Web"
+            },
+            "Spare the Dying": {
+                "name": "维生术Spare the Dying"
+            },
+            "Thaumaturgy": {
+                "name": "奇术Thaumaturgy"
+            },
+            "Cure Wounds": {
+                "name": "疗伤术Cure Wounds"
+            },
+            "Protection from Poison": {
+                "name": "防护毒素Protection from Poison"
+            },
+            "Dispel Magic": {
+                "name": "解除魔法Dispel Magic"
+            },
+            "Divination": {
+                "name": "预言系"
+            },
+            "Freedom of Movement": {
+                "name": "行动自如Freedom of Movement"
+            },
+            "Insect Plague": {
+                "name": "疫病虫群Insect Plague"
+            },
+            "Spellcasting": {
+                "name": "施法Spellcasting"
+            }
+        },
+        "system": {
+            "details": {
+                "alignment": "中立邪恶"
             }
         }
     },
@@ -588,6 +997,12 @@
             },
             "Innate Spellcasting": {
                 "name": "天生施法Innate Spellcasting"
+            },
+            "Scale Mail": {
+                "name": "鳞甲Scale Mail"
+            },
+            "Command": {
+                "name": "命令术Command"
             }
         }
     },
@@ -672,6 +1087,21 @@
             },
             "Innate Spellcasting": {
                 "name": "天生施法Innate Spellcasting"
+            },
+            "Mage Hand": {
+                "name": "法师之手Mage Hand"
+            },
+            "Minor Illusion": {
+                "name": "次级幻影Minor Illusion"
+            },
+            "Suggestion": {
+                "name": "暗示术Suggestion"
+            },
+            "Limited Telepathy": {
+                "name": "有限感应Limited Telepathy"
+            },
+            "Mirror Image": {
+                "name": "镜影术Mirror Image"
             }
         }
     },
@@ -701,6 +1131,23 @@
             },
             "Innate Spellcasting": {
                 "name": "天生施法Innate Spellcasting"
+            },
+            "Teleport": {
+                "name": "传送术Teleport"
+            },
+            "Cloudkill": {
+                "name": "死云术Cloudkill"
+            },
+            "Magic Weapons": {
+                "name": "魔法武器Magic Weapons"
+            },
+            "Dispel Magic": {
+                "name": "解除魔法Dispel Magic"
+            }
+        },
+        "system": {
+            "details": {
+                "alignment": "中立邪恶"
             }
         }
     },
@@ -723,6 +1170,21 @@
             },
             "Shield": {
                 "name": "盾牌Shield"
+            },
+            "Banishment": {
+                "name": "放逐术Banishment"
+            },
+            "Spellcasting": {
+                "name": "施法Spellcasting"
+            },
+            "Command": {
+                "name": "命令术Command"
+            },
+            "Hold Person": {
+                "name": "人类定身术Hold Person"
+            },
+            "Dispel Magic": {
+                "name": "解除魔法Dispel Magic"
             }
         }
     },
@@ -736,6 +1198,17 @@
             },
             "Regional Effects": {
                 "name": "区域效应Regional Effects"
+            },
+            "Turn Immunity": {
+                "name": "驱散免疫Turn Immunity"
+            },
+            "Life Drain": {
+                "name": "吸取生命Life Drain"
+            }
+        },
+        "system": {
+            "details": {
+                "alignment": "中立邪恶"
             }
         }
     },
@@ -759,6 +1232,15 @@
             },
             "Magic Resistance": {
                 "name": "魔法抗性Magic Resistance"
+            },
+            "Fork": {
+                "name": "叉击Fork"
+            },
+            "Devil's Sight": {
+                "name": "魔鬼视界 Devil's Sight"
+            },
+            "Flyby": {
+                "name": "飞掠Flyby"
             }
         }
     },
@@ -793,6 +1275,15 @@
             },
             "Innate Spellcasting": {
                 "name": "天生施法Innate Spellcasting"
+            },
+            "Amphibious": {
+                "name": "水陆两栖 Amphibious"
+            },
+            "Fog Cloud": {
+                "name": "云雾术Fog Cloud"
+            },
+            "Disguise Self": {
+                "name": "易容术Disguise Self"
             }
         }
     },
@@ -809,6 +1300,30 @@
             },
             "Innate Spellcasting": {
                 "name": "天生施法Innate Spellcasting"
+            },
+            "Confusion": {
+                "name": "困惑术Confusion"
+            },
+            "Detect Thoughts": {
+                "name": "侦测思想Detect Thoughts"
+            },
+            "Sleep": {
+                "name": "睡眠术Sleep"
+            },
+            "Dispel Magic": {
+                "name": "解除魔法Dispel Magic"
+            },
+            "Entangle": {
+                "name": "纠缠术Entangle"
+            },
+            "Fly": {
+                "name": "飞行术Fly"
+            },
+            "Polymorph": {
+                "name": "变形"
+            },
+            "Druidcraft": {
+                "name": "德鲁伊伎俩Druidcraft"
             }
         }
     },
@@ -819,6 +1334,14 @@
             },
             "Claw": {
                 "name": "爪击 Claw"
+            },
+            "Keen Sight": {
+                "name": "敏锐视觉Keen Sight"
+            }
+        },
+        "system": {
+            "details": {
+                "alignment": "中立邪恶"
             }
         }
     },
@@ -838,6 +1361,18 @@
             },
             "Innate Spellcasting": {
                 "name": "天生施法Innate Spellcasting"
+            },
+            "Dominate Person": {
+                "name": "支配人类Dominate Person"
+            },
+            "Web": {
+                "name": "蛛网Web"
+            },
+            "Shapechanger": {
+                "name": "变形生物Shapechanger"
+            },
+            "Detect Thoughts": {
+                "name": "侦测思想Detect Thoughts"
             }
         }
     },
@@ -877,6 +1412,9 @@
             },
             "Spider Climb": {
                 "name": "蛛行 Spider Climb"
+            },
+            "Keen Smell": {
+                "name": "敏锐嗅觉Keen Smell"
             }
         }
     },
@@ -896,6 +1434,23 @@
             },
             "Innate Spellcasting": {
                 "name": "天生施法Innate Spellcasting"
+            },
+            "Cloudkill": {
+                "name": "死云术Cloudkill"
+            },
+            "Dispel Magic": {
+                "name": "解除魔法Dispel Magic"
+            },
+            "Teleport": {
+                "name": "传送 Teleport"
+            },
+            "Magic Weapons": {
+                "name": "魔法武器Magic Weapons"
+            }
+        },
+        "system": {
+            "details": {
+                "alignment": "中立邪恶"
             }
         }
     },
@@ -921,6 +1476,71 @@
             },
             "Innate Spellcasting": {
                 "name": "天生施法Innate Spellcasting"
+            },
+            "Teleport": {
+                "name": "传送 Teleport"
+            },
+            "Heat Metal": {
+                "name": "灼热金属Heat Metal"
+            },
+            "Magic Missile": {
+                "name": "魔法飞弹Magic Missile"
+            },
+            "Fire Bolt": {
+                "name": "火焰箭Fire Bolt"
+            },
+            "Minor Illusion": {
+                "name": "次级幻影Minor Illusion"
+            },
+            "Identify": {
+                "name": "鉴定术Identify"
+            },
+            "Mirror Image": {
+                "name": "镜影术Mirror Image"
+            },
+            "Finger of Death": {
+                "name": "死亡一指Finger of Death"
+            },
+            "Spellcasting": {
+                "name": "施法Spellcasting"
+            },
+            "Magic Weapons": {
+                "name": "魔法武器 Magic Weapons"
+            },
+            "Mage Hand": {
+                "name": "法师之手Mage Hand"
+            },
+            "Prestidigitation": {
+                "name": "魔法伎俩Prestidigitation"
+            },
+            "Detect Thoughts": {
+                "name": "侦测思想Detect Thoughts"
+            },
+            "Suggestion": {
+                "name": "暗示术Suggestion"
+            },
+            "Counterspell": {
+                "name": "法术反制Counterspell"
+            },
+            "Fireball": {
+                "name": "火球术Fireball"
+            },
+            "Banishment": {
+                "name": "放逐术Banishment"
+            },
+            "Dimension Door": {
+                "name": "任意门Dimension Door"
+            },
+            "Hold Monster": {
+                "name": "怪物定身术Hold Monster"
+            },
+            "Mind Blank": {
+                "name": "心灵屏障Mind Blank"
+            }
+        },
+        "system": {
+            "details": {
+                "alignment": "中立邪恶"
             }
         }
     },
@@ -945,6 +1565,9 @@
         "items": {
             "Multiattack": {
                 "name": "多重攻击Multiattack"
+            },
+            "Greatclub": {
+                "name": "巨棒Greatclub"
             }
         }
     },
@@ -979,6 +1602,17 @@
             },
             "Innate Spellcasting": {
                 "name": "天生施法Innate Spellcasting"
+            },
+            "Sure-Footed": {
+                "name": "稳步Sure-Footed"
+            },
+            "Fist": {
+                "name": "拳击Fist"
+            }
+        },
+        "system": {
+            "details": {
+                "alignment": "中立邪恶"
             }
         }
     },
@@ -1004,6 +1638,54 @@
             },
             "Invisibility": {
                 "name": "隐形Invisibility"
+            },
+            "Breastplate": {
+                "name": "胸甲Breastplate"
+            },
+            "Dominate Monster": {
+                "name": "支配怪物Dominate Monster"
+            },
+            "Detect Thoughts": {
+                "name": "侦测思想Detect Thoughts"
+            },
+            "Levitate": {
+                "name": "浮空术Levitate"
+            },
+            "Mage Hand": {
+                "name": "法师之手Mage Hand"
+            },
+            "Disguise Self": {
+                "name": "易容术Disguise Self"
+            },
+            "Ray of Enfeeblement": {
+                "name": "衰弱射线Ray of Enfeeblement"
+            },
+            "Clairvoyance": {
+                "name": "鹰眼术Clairvoyance"
+            },
+            "Confusion": {
+                "name": "困惑术Confusion"
+            },
+            "Spellcasting": {
+                "name": "施法Spellcasting"
+            },
+            "Shocking Grasp": {
+                "name": "电爪Shocking Grasp"
+            },
+            "Sleep": {
+                "name": "睡眠术Sleep"
+            },
+            "Blur": {
+                "name": "朦胧术Blur"
+            },
+            "Lightning Bolt": {
+                "name": "闪电束Lightning Bolt"
+            },
+            "Telekinesis": {
+                "name": "心灵遥控Telekinesis"
+            },
+            "Wall of Force": {
+                "name": "力场墙Wall of Force"
             }
         }
     },
@@ -1011,6 +1693,12 @@
         "items": {
             "Multiattack": {
                 "name": "多重攻击Multiattack"
+            },
+            "Echolocation": {
+                "name": "回声定位Echolocation"
+            },
+            "Keen Hearing": {
+                "name": "敏锐听觉Keen Hearing"
             }
         }
     },
@@ -1027,6 +1715,9 @@
             },
             "Sunlight Sensitivity": {
                 "name": "日照敏感 Sunlight Sensitivity"
+            },
+            "Shadow Stealth": {
+                "name": "幽影隐匿Shadow Stealth"
             }
         }
     },
@@ -1037,6 +1728,18 @@
             },
             "Plate Armor": {
                 "name": "板甲 Plate Armor"
+            },
+            "Javelin (Ranged)": {
+                "name": "标枪 Javelin（远程）"
+            },
+            "Greataxe": {
+                "name": "巨斧Greataxe"
+            },
+            "Javelin (Melee)": {
+                "name": "标枪Javelin（近战）"
+            },
+            "Aggressive": {
+                "name": "好斗Aggressive"
             }
         }
     },
@@ -1044,6 +1747,20 @@
         "items": {
             "Magic Resistance": {
                 "name": "魔法抗性Magic Resistance"
+            },
+            "Constrict": {
+                "name": "绞缠Constrict"
+            },
+            "Shapechanger": {
+                "name": "变形生物Shapechanger"
+            },
+            "Suggestion": {
+                "name": "暗示术Suggestion"
+            }
+        },
+        "system": {
+            "details": {
+                "alignment": "中立邪恶"
             }
         }
     },
@@ -1051,6 +1768,19 @@
         "items": {
             "Pack Tactics": {
                 "name": "集群战术Pack Tactics"
+            },
+            "Shapechanger": {
+                "name": "变形生物Shapechanger"
+            },
+            "Keen Hearing and Smell": {
+                "name": "敏锐嗅听觉Keen Hearing and Smell"
+            },
+            "Scimitar (Human or Hybrid Form Only)": {
+                "system": {
+                    "description": {
+                        "value": "<div  class=\"rd__b  rd__b--3\"><p><i>近战武器攻击：</i>命中[[/r 1d20+4]]（+4），触及5尺，单一目标。<i>伤害：</i>5（[[/r 1d6 + 2]]）点挥砍伤害。</p><div class=\"rd__spc-inline-post\"></div></div>"
+                    }
+                }
             }
         }
     },
@@ -1058,6 +1788,14 @@
         "items": {
             "Claws": {
                 "name": "爪击 Claws"
+            },
+            "False Appearance": {
+                "name": "拟形 False Appearance"
+            }
+        },
+        "system": {
+            "details": {
+                "alignment": "中立邪恶"
             }
         }
     },
@@ -1068,6 +1806,9 @@
             },
             "Rock": {
                 "name": "掷石Rock"
+            },
+            "Greatclub": {
+                "name": "巨棒Greatclub"
             }
         }
     },
@@ -1081,6 +1822,18 @@
             },
             "Plane Shift": {
                 "name": "异界传送Plane Shift"
+            },
+            "Breastplate": {
+                "name": "胸甲Breastplate"
+            },
+            "Dominate Monster": {
+                "name": "支配怪物Dominate Monster"
+            },
+            "Detect Thoughts": {
+                "name": "侦测思想Detect Thoughts"
+            },
+            "Levitate": {
+                "name": "浮空术Levitate"
             }
         }
     },
@@ -1097,6 +1850,17 @@
             },
             "Shield": {
                 "name": "盾牌Shield"
+            },
+            "Amphibious": {
+                "name": "水陆两栖 Amphibious"
+            },
+            "Hide Armor": {
+                "name": "兽皮甲Hide Armor"
+            }
+        },
+        "system": {
+            "details": {
+                "alignment": "中立邪恶"
             }
         }
     },
@@ -1104,6 +1868,15 @@
         "items": {
             "Multiattack": {
                 "name": "多重攻击Multiattack"
+            },
+            "Fist": {
+                "name": "拳击Fist"
+            },
+            "Javelin (Melee)": {
+                "name": "标枪Javelin（近战）"
+            },
+            "Javelin (Ranged)": {
+                "name": "标枪 Javelin（远程）"
             }
         }
     },
@@ -1141,6 +1914,17 @@
             },
             "Innate Spellcasting": {
                 "name": "天生施法Innate Spellcasting"
+            },
+            "Studded Leather Armor": {
+                "name": "镶钉皮甲Studded Leather Armor"
+            },
+            "Levitate": {
+                "name": "浮空术Levitate"
+            }
+        },
+        "system": {
+            "details": {
+                "alignment": "中立邪恶"
             }
         }
     },
@@ -1172,6 +1956,47 @@
             },
             "Tongues": {
                 "name": "巧言术Tongues"
+            },
+            "Unarmed Strike": {
+                "name": "徒手打击Unarmed Strike"
+            },
+            "Amphibious": {
+                "name": "水陆两栖 Amphibious"
+            },
+            "Sacred Flame": {
+                "name": "圣火术Sacred Flame"
+            },
+            "Thaumaturgy": {
+                "name": "奇术Thaumaturgy"
+            },
+            "Sanctuary": {
+                "name": "庇护术Sanctuary"
+            },
+            "Shield of Faith": {
+                "name": "虔诚护盾Shield of Faith"
+            },
+            "Hold Person": {
+                "name": "人类定身术Hold Person"
+            },
+            "Spiritual Weapon": {
+                "name": "灵体武器Spiritual Weapon"
+            },
+            "Spirit Guardians": {
+                "name": "灵体卫士Spirit Guardians"
+            },
+            "Divination": {
+                "name": "预言系"
+            },
+            "Scrying": {
+                "name": "探知Scrying"
+            },
+            "Spellcasting": {
+                "name": "施法Spellcasting"
+            }
+        },
+        "system": {
+            "details": {
+                "alignment": "中立邪恶"
             }
         }
     },
@@ -1179,6 +2004,12 @@
         "items": {
             "Multiattack": {
                 "name": "多重攻击Multiattack"
+            },
+            "Fist": {
+                "name": "拳击Fist"
+            },
+            "Shortbow": {
+                "name": "短弓Shortbow"
             }
         }
     },
@@ -1195,6 +2026,9 @@
             },
             "Sunlight Sensitivity": {
                 "name": "日照敏感 Sunlight Sensitivity"
+            },
+            "Stench": {
+                "name": "恶臭Stench"
             }
         }
     },
@@ -1227,6 +2061,12 @@
             },
             "Chain Shirt": {
                 "name": "链甲衫Chain Shirt"
+            },
+            "Glaive": {
+                "name": "长柄刀Glaive"
+            },
+            "Rampage": {
+                "name": "横行Rampage"
             }
         }
     },
@@ -1240,6 +2080,14 @@
             },
             "Shield": {
                 "name": "盾牌Shield"
+            },
+            "Amphibious": {
+                "name": "水陆两栖 Amphibious"
+            }
+        },
+        "system": {
+            "details": {
+                "alignment": "中立邪恶"
             }
         }
     },
@@ -1256,6 +2104,29 @@
             },
             "Shield": {
                 "name": "盾牌Shield"
+            },
+            "Rejuvenation": {
+                "name": "复生Rejuvenation"
+            },
+            "Mage Hand": {
+                "name": "法师之手Mage Hand"
+            },
+            "Magic Missile": {
+                "name": "魔法飞弹Magic Missile"
+            },
+            "Blur": {
+                "name": "朦胧术Blur"
+            },
+            "Fireball": {
+                "name": "火球术Fireball"
+            },
+            "Spellcasting": {
+                "name": "施法Spellcasting"
+            }
+        },
+        "system": {
+            "details": {
+                "alignment": "中立邪恶"
             }
         }
     },
@@ -1275,6 +2146,81 @@
             },
             "Regional Effects": {
                 "name": "区域效应Regional Effects"
+            },
+            "Multiattack (Vampire Form Only)": {
+                "name": "多重攻击 Multiattack（仅限吸血鬼形态）"
+            },
+            "Unarmed Strike (Vampire Form Only)": {
+                "name": "徒手打击 Unarmed Strike（仅限吸血鬼形态）"
+            },
+            "Bite (Bat or Vampire Form Only)": {
+                "name": "啃咬 Bite（仅蝙蝠与吸血鬼形态）"
+            },
+            "Charm": {
+                "name": "魅惑Charm"
+            },
+            "Children of the Night": {
+                "name": "夜之子Children of the Night"
+            },
+            "Shapechanger": {
+                "name": "变形生物Shapechanger"
+            },
+            "Misty Escape": {
+                "name": "雾遁Misty Escape"
+            },
+            "Regeneration": {
+                "name": "再生Regeneration"
+            },
+            "Vampire Weaknesses": {
+                "name": "吸血鬼弱点Vampire Weaknesses"
+            },
+            "Move": {
+                "name": "移动Move"
+            },
+            "Unarmed Strike": {
+                "name": "徒手打击Unarmed Strike"
+            },
+            "Mage Hand": {
+                "name": "法师之手Mage Hand"
+            },
+            "Prestidigitation": {
+                "name": "魔法伎俩Prestidigitation"
+            },
+            "Ray of Frost": {
+                "name": "冷冻射线Ray of Frost"
+            },
+            "Fog Cloud": {
+                "name": "云雾术Fog Cloud"
+            },
+            "Sleep": {
+                "name": "睡眠术Sleep"
+            },
+            "Detect Thoughts": {
+                "name": "侦测思想Detect Thoughts"
+            },
+            "Mirror Image": {
+                "name": "镜影术Mirror Image"
+            },
+            "Animate Dead": {
+                "name": "操纵死尸Animate Dead"
+            },
+            "Bestow Curse": {
+                "name": "降咒Bestow Curse"
+            },
+            "Nondetection": {
+                "name": "回避侦测Nondetection"
+            },
+            "Blight": {
+                "name": "枯萎术Blight"
+            },
+            "Greater Invisibility": {
+                "name": "高等隐形术Greater Invisibility"
+            },
+            "Dominate Person": {
+                "name": "支配人类Dominate Person"
+            },
+            "Spellcasting": {
+                "name": "施法Spellcasting"
             }
         }
     },
@@ -1288,6 +2234,12 @@
             },
             "Claw": {
                 "name": "爪击 Claw"
+            },
+            "Rampage": {
+                "name": "横行Rampage"
+            },
+            "Hide Armor": {
+                "name": "兽皮甲Hide Armor"
             }
         }
     },
@@ -1307,6 +2259,18 @@
             },
             "Innate Spellcasting": {
                 "name": "天生施法Innate Spellcasting"
+            },
+            "Shapechanger": {
+                "name": "变形生物Shapechanger"
+            },
+            "Dominate Person": {
+                "name": "支配人类Dominate Person"
+            },
+            "Detect Thoughts": {
+                "name": "侦测思想Detect Thoughts"
+            },
+            "Web": {
+                "name": "蛛网Web"
             }
         }
     },
@@ -1338,6 +2302,30 @@
             },
             "Innate Spellcasting": {
                 "name": "天生施法Innate Spellcasting"
+            },
+            "Shapechanger": {
+                "name": "变形生物Shapechanger"
+            },
+            "Fireball": {
+                "name": "火球术Fireball"
+            },
+            "Fly": {
+                "name": "飞行术Fly"
+            },
+            "Magic Weapons": {
+                "name": "魔法武器 Magic Weapons"
+            },
+            "Regeneration": {
+                "name": "再生Regeneration"
+            },
+            "Cloudkill": {
+                "name": "死云术Cloudkill"
+            },
+            "Detect Thoughts": {
+                "name": "侦测思想Detect Thoughts"
+            },
+            "Mage Hand": {
+                "name": "法师之手Mage Hand"
             }
         }
     },
@@ -1360,6 +2348,24 @@
             },
             "Innate Spellcasting": {
                 "name": "天生施法Innate Spellcasting"
+            },
+            "Commune": {
+                "name": "通神术Commune"
+            },
+            "Magic Weapons": {
+                "name": "魔法武器 Magic Weapons"
+            },
+            "Attack": {
+                "name": "攻击Attack"
+            },
+            "Dispel Evil and Good": {
+                "name": "反制善恶Dispel Evil and Good"
+            },
+            "Greater Restoration": {
+                "name": "高等复原术Greater Restoration"
+            },
+            "Pass without Trace": {
+                "name": "行动无踪Pass without Trace"
             }
         }
     },
@@ -1367,6 +2373,17 @@
         "items": {
             "Multiattack": {
                 "name": "多重攻击Multiattack"
+            },
+            "Fist": {
+                "name": "拳击Fist"
+            },
+            "Shortbow": {
+                "name": "短弓Shortbow"
+            }
+        },
+        "system": {
+            "details": {
+                "alignment": "任意阵营"
             }
         }
     },
@@ -1383,6 +2400,15 @@
             },
             "Innate Spellcasting": {
                 "name": "天生施法Innate Spellcasting"
+            },
+            "Limited Telepathy": {
+                "name": "有限感应Limited Telepathy"
+            },
+            "Mage Hand": {
+                "name": "法师之手Mage Hand"
+            },
+            "Minor Illusion": {
+                "name": "次级幻影Minor Illusion"
             }
         }
     },
@@ -1390,6 +2416,20 @@
         "items": {
             "Multiattack": {
                 "name": "多重攻击Multiattack"
+            },
+            "Fist": {
+                "name": "拳击Fist"
+            },
+            "Javelin (Melee)": {
+                "name": "标枪Javelin（近战）"
+            },
+            "Javelin (Ranged)": {
+                "name": "标枪 Javelin（远程）"
+            }
+        },
+        "system": {
+            "details": {
+                "alignment": "任意阵营"
             }
         }
     },
@@ -1406,6 +2446,9 @@
             },
             "Magic Resistance": {
                 "name": "魔法抗性Magic Resistance"
+            },
+            "Regeneration": {
+                "name": "再生Regeneration"
             }
         }
     },
@@ -1416,6 +2459,18 @@
             },
             "Multiattack": {
                 "name": "多重攻击Multiattack"
+            },
+            "Javelin (Melee)": {
+                "name": "标枪Javelin（近战）"
+            },
+            "Javelin (Ranged)": {
+                "name": "标枪 Javelin（远程）"
+            },
+            "Leadership": {
+                "name": "领导Leadership"
+            },
+            "Martial Advantage": {
+                "name": "成军优势Martial Advantage"
             }
         }
     },
@@ -1426,6 +2481,12 @@
             },
             "Claw": {
                 "name": "爪击 Claw"
+            },
+            "Keen Smell": {
+                "name": "敏锐嗅觉Keen Smell"
+            },
+            "Snow Camouflage": {
+                "name": "雪地伪装Snow Camouflage"
             }
         }
     },
@@ -1439,6 +2500,18 @@
             },
             "Claws": {
                 "name": "爪击 Claws"
+            },
+            "Blood Frenzy": {
+                "name": "血腥狂怒Blood Frenzy"
+            },
+            "Limited Amphibiousness": {
+                "name": "有限两栖Limited Amphibiousness"
+            },
+            "Shark Telepathy": {
+                "name": "鲨心感应Shark Telepathy"
+            },
+            "Breastplate": {
+                "name": "胸甲Breastplate"
             }
         }
     },
@@ -1458,6 +2531,12 @@
             },
             "Invisibility": {
                 "name": "隐形Invisibility"
+            },
+            "Blur": {
+                "name": "朦胧术Blur"
+            },
+            "Mage Hand": {
+                "name": "法师之手Mage Hand"
             }
         }
     },
@@ -1476,6 +2555,9 @@
             },
             "Claw": {
                 "name": "爪击 Claw"
+            },
+            "Pounce": {
+                "name": "猛扑 Pounce"
             }
         }
     },
@@ -1489,6 +2571,12 @@
             },
             "Keen Sight and Smell": {
                 "name": "敏锐视嗅觉Keen Sight and Smell"
+            },
+            "Gore": {
+                "name": "顶撞Gore"
+            },
+            "Flyby": {
+                "name": "飞掠Flyby"
             }
         }
     },
@@ -1502,6 +2590,12 @@
             },
             "Cold Breath": {
                 "name": "冷冻吐息Cold Breath"
+            },
+            "Keen Smell": {
+                "name": "敏锐嗅觉 Keen Smell"
+            },
+            "Snow Camouflage": {
+                "name": "雪地伪装Snow Camouflage"
             }
         }
     },
@@ -1521,6 +2615,33 @@
             },
             "Tongues": {
                 "name": "巧言术Tongues"
+            },
+            "Blood Frenzy": {
+                "name": "血腥狂怒Blood Frenzy"
+            },
+            "Limited Amphibiousness": {
+                "name": "有限两栖Limited Amphibiousness"
+            },
+            "Guiding Bolt": {
+                "name": "曳光弹Guiding Bolt"
+            },
+            "Shark Telepathy": {
+                "name": "鲨心感应Shark Telepathy"
+            },
+            "Thaumaturgy": {
+                "name": "奇术Thaumaturgy"
+            },
+            "Bless": {
+                "name": "祝福术Bless"
+            },
+            "Hold Person": {
+                "name": "人类定身术Hold Person"
+            },
+            "Spiritual Weapon": {
+                "name": "灵体武器Spiritual Weapon"
+            },
+            "Spellcasting": {
+                "name": "施法Spellcasting"
             }
         }
     },
@@ -1528,6 +2649,9 @@
         "items": {
             "Slam": {
                 "name": "挥击 Slam"
+            },
+            "False Appearance": {
+                "name": "拟形 False Appearance"
             }
         }
     },
@@ -1569,6 +2693,50 @@
             },
             "Innate Spellcasting": {
                 "name": "天生施法Innate Spellcasting"
+            },
+            "Levitate": {
+                "name": "浮空术Levitate"
+            },
+            "Mage Hand": {
+                "name": "法师之手Mage Hand"
+            },
+            "Magic Missile": {
+                "name": "魔法飞弹Magic Missile"
+            },
+            "Greater Invisibility": {
+                "name": "高等隐形术Greater Invisibility"
+            },
+            "Cloudkill": {
+                "name": "死云术Cloudkill"
+            },
+            "Mage Armor": {
+                "name": "法师护甲Mage Armor"
+            },
+            "Lightning Bolt": {
+                "name": "闪电束Lightning Bolt"
+            },
+            "Minor Illusion": {
+                "name": "次级幻影Minor Illusion"
+            },
+            "Ray of Frost": {
+                "name": "冷冻射线Ray of Frost"
+            },
+            "Misty Step": {
+                "name": "迷踪步Misty Step"
+            },
+            "Web": {
+                "name": "蛛网Web"
+            },
+            "Fly": {
+                "name": "飞行术Fly"
+            },
+            "Spellcasting": {
+                "name": "施法Spellcasting"
+            }
+        },
+        "system": {
+            "details": {
+                "alignment": "中立邪恶"
             }
         }
     },
@@ -1600,6 +2768,27 @@
             },
             "Innate Spellcasting": {
                 "name": "天生施法Innate Spellcasting"
+            },
+            "Shapechanger": {
+                "name": "变形生物Shapechanger"
+            },
+            "Magic Weapons": {
+                "name": "魔法武器 Magic Weapons"
+            },
+            "Regeneration": {
+                "name": "再生Regeneration"
+            },
+            "Fireball": {
+                "name": "火球术Fireball"
+            },
+            "Detect Thoughts": {
+                "name": "侦测思想Detect Thoughts"
+            },
+            "Mage Hand": {
+                "name": "法师之手Mage Hand"
+            },
+            "Fly": {
+                "name": "飞行术Fly"
             }
         }
     },
@@ -1632,6 +2821,9 @@
             },
             "Magic Resistance": {
                 "name": "魔法抗性Magic Resistance"
+            },
+            "Regeneration": {
+                "name": "再生Regeneration"
             }
         }
     },
@@ -1642,6 +2834,9 @@
             },
             "Invisibility": {
                 "name": "隐形Invisibility"
+            },
+            "Incorporeal Movement": {
+                "name": "虚体移动Incorporeal Movement"
             }
         }
     },
@@ -1676,6 +2871,14 @@
             },
             "Innate Spellcasting": {
                 "name": "天生施法Innate Spellcasting"
+            },
+            "Levitate": {
+                "name": "浮空术Levitate"
+            }
+        },
+        "system": {
+            "details": {
+                "alignment": "中立邪恶"
             }
         }
     },
@@ -1698,6 +2901,21 @@
             },
             "Innate Spellcasting": {
                 "name": "天生施法Innate Spellcasting"
+            },
+            "Minor Illusion": {
+                "name": "次级幻影Minor Illusion"
+            },
+            "Limited Telepathy": {
+                "name": "有限感应Limited Telepathy"
+            },
+            "Mage Hand": {
+                "name": "法师之手Mage Hand"
+            },
+            "Mirror Image": {
+                "name": "镜影术Mirror Image"
+            },
+            "Suggestion": {
+                "name": "暗示术Suggestion"
             }
         }
     },
@@ -1711,6 +2929,14 @@
             },
             "Innate Spellcasting": {
                 "name": "天生施法Innate Spellcasting"
+            },
+            "Death Burst": {
+                "name": "自爆Death Burst"
+            }
+        },
+        "system": {
+            "details": {
+                "alignment": "中立邪恶"
             }
         }
     },
@@ -1724,6 +2950,21 @@
             },
             "Shield": {
                 "name": "盾牌Shield"
+            },
+            "Morningstar": {
+                "name": "钉头锤Morningstar"
+            },
+            "Javelin (Melee)": {
+                "name": "标枪Javelin（近战）"
+            },
+            "Javelin (Ranged)": {
+                "name": "标枪 Javelin（远程）"
+            },
+            "Brute": {
+                "name": "残暴Brute"
+            },
+            "Surprise Attack": {
+                "name": "突袭打击Surprise Attack"
             }
         }
     },
@@ -1749,6 +2990,26 @@
             },
             "Innate Spellcasting": {
                 "name": "天生施法Innate Spellcasting"
+            },
+            "Greataxe": {
+                "name": "巨斧Greataxe"
+            },
+            "Teleport": {
+                "name": "传送 Teleport"
+            },
+            "Magic Weapons": {
+                "name": "魔法武器Magic Weapons"
+            },
+            "Dispel Magic": {
+                "name": "解除魔法Dispel Magic"
+            },
+            "Mirror Image": {
+                "name": "镜影术Mirror Image"
+            }
+        },
+        "system": {
+            "details": {
+                "alignment": "中立邪恶"
             }
         }
     },
@@ -1762,6 +3023,14 @@
             },
             "Claws": {
                 "name": "爪击 Claws"
+            },
+            "Death Burst": {
+                "name": "自爆Death Burst"
+            }
+        },
+        "system": {
+            "details": {
+                "alignment": "中立邪恶"
             }
         }
     },
@@ -1778,6 +3047,9 @@
             },
             "Magic Resistance": {
                 "name": "魔法抗性Magic Resistance"
+            },
+            "Regeneration": {
+                "name": "再生Regeneration"
             }
         }
     },
@@ -1785,6 +3057,9 @@
         "items": {
             "Multiattack": {
                 "name": "多重攻击Multiattack"
+            },
+            "Fist": {
+                "name": "拳击Fist"
             }
         }
     },
@@ -1792,6 +3067,14 @@
         "items": {
             "Bite": {
                 "name": "啃咬Bite"
+            },
+            "Undead Fortitude": {
+                "name": "不死坚韧Undead Fortitude"
+            }
+        },
+        "system": {
+            "details": {
+                "alignment": "中立邪恶"
             }
         }
     },
@@ -1811,6 +3094,21 @@
             },
             "Innate Spellcasting": {
                 "name": "天生施法Innate Spellcasting"
+            },
+            "Limited Telepathy": {
+                "name": "有限感应Limited Telepathy"
+            },
+            "Suggestion": {
+                "name": "暗示术Suggestion"
+            },
+            "Mage Hand": {
+                "name": "法师之手Mage Hand"
+            },
+            "Minor Illusion": {
+                "name": "次级幻影Minor Illusion"
+            },
+            "Mirror Image": {
+                "name": "镜影术Mirror Image"
             }
         }
     },
@@ -1821,6 +3119,17 @@
             },
             "Magic Resistance": {
                 "name": "魔法抗性Magic Resistance"
+            },
+            "Shapechanger": {
+                "name": "变形生物Shapechanger"
+            },
+            "Suggestion": {
+                "name": "暗示术Suggestion"
+            }
+        },
+        "system": {
+            "details": {
+                "alignment": "中立邪恶"
             }
         }
     },
@@ -1834,6 +3143,17 @@
             },
             "Regional Effects": {
                 "name": "区域效应Regional Effects"
+            },
+            "Life Drain": {
+                "name": "吸取生命Life Drain"
+            },
+            "Turn Immunity": {
+                "name": "驱散免疫Turn Immunity"
+            }
+        },
+        "system": {
+            "details": {
+                "alignment": "中立邪恶"
             }
         }
     },
@@ -1849,6 +3169,9 @@
         "items": {
             "Bite": {
                 "name": "啃咬Bite"
+            },
+            "Heated Body": {
+                "name": "灼热之躯Heated Body"
             }
         }
     },
@@ -1874,6 +3197,50 @@
             },
             "Innate Spellcasting": {
                 "name": "天生施法Innate Spellcasting"
+            },
+            "Scale Mail": {
+                "name": "鳞甲Scale Mail"
+            },
+            "Levitate": {
+                "name": "浮空术Levitate"
+            },
+            "Spellcasting": {
+                "name": "施法Spellcasting"
+            },
+            "Spare the Dying": {
+                "name": "维生术Spare the Dying"
+            },
+            "Thaumaturgy": {
+                "name": "奇术Thaumaturgy"
+            },
+            "Cure Wounds": {
+                "name": "疗伤术Cure Wounds"
+            },
+            "Lesser Restoration": {
+                "name": "次级复原术Lesser Restoration"
+            },
+            "Protection from Poison": {
+                "name": "防护毒素Protection from Poison"
+            },
+            "Web": {
+                "name": "蛛网Web"
+            },
+            "Dispel Magic": {
+                "name": "解除魔法Dispel Magic"
+            },
+            "Divination": {
+                "name": "预言系"
+            },
+            "Freedom of Movement": {
+                "name": "行动自如Freedom of Movement"
+            },
+            "Insect Plague": {
+                "name": "疫病虫群Insect Plague"
+            }
+        },
+        "system": {
+            "details": {
+                "alignment": "中立邪恶"
             }
         }
     },
@@ -1884,6 +3251,17 @@
             },
             "Magic Resistance": {
                 "name": "魔法抗性Magic Resistance"
+            },
+            "Shapechanger": {
+                "name": "变形生物Shapechanger"
+            },
+            "Suggestion": {
+                "name": "暗示术Suggestion"
+            }
+        },
+        "system": {
+            "details": {
+                "alignment": "中立邪恶"
             }
         }
     },
@@ -1905,6 +3283,9 @@
             },
             "Claws": {
                 "name": "爪击 Claws"
+            },
+            "Keen Smell": {
+                "name": "敏锐嗅觉 Keen Smell"
             }
         }
     },
@@ -1912,6 +3293,15 @@
         "items": {
             "Multiattack": {
                 "name": "多重攻击Multiattack"
+            },
+            "Fist": {
+                "name": "拳击Fist"
+            },
+            "Javelin (Melee)": {
+                "name": "标枪Javelin（近战）"
+            },
+            "Javelin (Ranged)": {
+                "name": "标枪 Javelin（远程）"
             }
         }
     },
@@ -1922,6 +3312,24 @@
             },
             "Claw": {
                 "name": "爪击 Claw"
+            },
+            "Cure Wounds": {
+                "name": "疗伤术Cure Wounds"
+            },
+            "Mirror Image": {
+                "name": "镜影术Mirror Image"
+            },
+            "Feather Fall": {
+                "name": "羽落术Feather Fall"
+            },
+            "Enlarge/Reduce": {
+                "name": "变巨/缩小术 Enlarge/Reduce"
+            },
+            "Heat Metal": {
+                "name": "灼热金属Heat Metal"
+            },
+            "Mage Hand": {
+                "name": "法师之手Mage Hand"
             }
         }
     },
@@ -1929,6 +3337,33 @@
         "items": {
             "Bite": {
                 "name": "啃咬Bite"
+            },
+            "Shield of Faith": {
+                "name": "虔诚护盾Shield of Faith"
+            },
+            "Command": {
+                "name": "命令术Command"
+            },
+            "Calm Emotions": {
+                "name": "安定心神Calm Emotions"
+            },
+            "Hold Person": {
+                "name": "人类定身术Hold Person"
+            },
+            "Bestow Curse": {
+                "name": "降咒Bestow Curse"
+            },
+            "Spellcasting": {
+                "name": "施法Spellcasting"
+            },
+            "Mending": {
+                "name": "修复术Mending"
+            },
+            "Sacred Flame": {
+                "name": "圣火术Sacred Flame"
+            },
+            "Thaumaturgy": {
+                "name": "奇术Thaumaturgy"
             }
         }
     },
@@ -1939,6 +3374,14 @@
                 "biography": {
                     "value": ""
                 }
+            }
+        },
+        "items": {
+            "Touch": {
+                "name": "触击Touch"
+            },
+            "Death Burst": {
+                "name": "自爆Death Burst"
             }
         }
     },
@@ -1955,6 +3398,15 @@
             },
             "Innate Spellcasting": {
                 "name": "天生施法Innate Spellcasting"
+            },
+            "Limited Telepathy": {
+                "name": "有限感应Limited Telepathy"
+            },
+            "Mage Hand": {
+                "name": "法师之手Mage Hand"
+            },
+            "Minor Illusion": {
+                "name": "次级幻影Minor Illusion"
             }
         }
     },
@@ -1965,6 +3417,9 @@
             },
             "Claw": {
                 "name": "爪击 Claw"
+            },
+            "Tunneler": {
+                "name": "掘道者Tunneler"
             }
         }
     },
@@ -1978,6 +3433,11 @@
             },
             "Beak": {
                 "name": "喙啄Beak"
+            }
+        },
+        "system": {
+            "details": {
+                "alignment": "中立邪恶"
             }
         }
     },
@@ -2009,6 +3469,30 @@
             },
             "Innate Spellcasting": {
                 "name": "天生施法Innate Spellcasting"
+            },
+            "Shapechanger": {
+                "name": "变形生物Shapechanger"
+            },
+            "Magic Weapons": {
+                "name": "魔法武器 Magic Weapons"
+            },
+            "Regeneration": {
+                "name": "再生Regeneration"
+            },
+            "Cloudkill": {
+                "name": "死云术Cloudkill"
+            },
+            "Fireball": {
+                "name": "火球术Fireball"
+            },
+            "Detect Thoughts": {
+                "name": "侦测思想Detect Thoughts"
+            },
+            "Mage Hand": {
+                "name": "法师之手Mage Hand"
+            },
+            "Fly": {
+                "name": "飞行术Fly"
             }
         }
     },
@@ -2016,6 +3500,21 @@
         "items": {
             "Multiattack": {
                 "name": "多重攻击Multiattack"
+            },
+            "Fist": {
+                "name": "拳击Fist"
+            },
+            "Regeneration": {
+                "name": "再生Regeneration"
+            },
+            "Rejuvenation": {
+                "name": "复生Rejuvenation"
+            },
+            "Turn Immunity": {
+                "name": "驱散免疫Turn Immunity"
+            },
+            "Leather Armor": {
+                "name": "皮甲Leather Armor"
             }
         }
     },
@@ -2023,6 +3522,15 @@
         "items": {
             "Shortsword": {
                 "name": "短剑 Shortsword"
+            },
+            "Shortbow": {
+                "name": "短弓Shortbow"
+            },
+            "Ambusher": {
+                "name": "伏击Ambusher"
+            },
+            "Mimicry": {
+                "name": "拟声Mimicry"
             }
         }
     },
@@ -2043,6 +3551,15 @@
             },
             "Greatsword": {
                 "name": "巨剑Greatsword"
+            },
+            "Misty Step": {
+                "name": "迷踪步Misty Step"
+            },
+            "Nondetection": {
+                "name": "回避侦测Nondetection"
+            },
+            "Mage Hand": {
+                "name": "法师之手Mage Hand"
             }
         }
     },
@@ -2077,6 +3594,20 @@
             },
             "Innate Spellcasting": {
                 "name": "天生施法Innate Spellcasting"
+            },
+            "Fist": {
+                "name": "拳击Fist"
+            },
+            "Sure-Footed": {
+                "name": "稳步Sure-Footed"
+            },
+            "Disguise Self": {
+                "name": "易容术Disguise Self"
+            }
+        },
+        "system": {
+            "details": {
+                "alignment": "中立邪恶"
             }
         }
     },
@@ -2099,6 +3630,24 @@
         "items": {
             "Shield": {
                 "name": "盾牌Shield"
+            },
+            "Aggressive": {
+                "name": "好斗Aggressive"
+            },
+            "Thaumaturgy": {
+                "name": "奇术Thaumaturgy"
+            },
+            "Bless": {
+                "name": "祝福术Bless"
+            },
+            "Command": {
+                "name": "命令术Command"
+            },
+            "Spiritual Weapon": {
+                "name": "灵体武器Spiritual Weapon"
+            },
+            "Spellcasting": {
+                "name": "施法Spellcasting"
             }
         }
     },
@@ -2106,6 +3655,11 @@
         "items": {
             "Claws": {
                 "name": "爪击 Claws"
+            }
+        },
+        "system": {
+            "details": {
+                "alignment": "中立邪恶"
             }
         }
     },
@@ -2126,6 +3680,15 @@
             },
             "Shield": {
                 "name": "盾牌Shield"
+            },
+            "Unarmed Strike": {
+                "name": "徒手打击Unarmed Strike"
+            },
+            "Feather Fall": {
+                "name": "羽落术Feather Fall"
+            },
+            "Mage Hand": {
+                "name": "法师之手Mage Hand"
             }
         }
     },
@@ -2136,6 +3699,9 @@
             },
             "Claw": {
                 "name": "爪击 Claw"
+            },
+            "False Appearance": {
+                "name": "拟形 False Appearance"
             }
         }
     },
@@ -2149,6 +3715,21 @@
             },
             "Hold Breath": {
                 "name": "屏息Hold Breath"
+            },
+            "Heat Metal": {
+                "name": "灼热金属Heat Metal"
+            },
+            "Druidcraft": {
+                "name": "德鲁伊伎俩Druidcraft"
+            },
+            "Produce Flame": {
+                "name": "燃火术Produce Flame"
+            },
+            "Entangle": {
+                "name": "纠缠术Entangle"
+            },
+            "Fog Cloud": {
+                "name": "云雾术Fog Cloud"
             }
         }
     },
@@ -2165,6 +3746,21 @@
             },
             "Innate Spellcasting": {
                 "name": "天生施法Innate Spellcasting"
+            },
+            "Fist": {
+                "name": "拳击Fist"
+            },
+            "Reckless": {
+                "name": "鲁莽Reckless"
+            },
+            "Running Leap": {
+                "name": "助跑起跳Running Leap"
+            },
+            "Entangle": {
+                "name": "纠缠术Entangle"
+            },
+            "Disguise Self": {
+                "name": "易容术Disguise Self"
             }
         }
     },
@@ -2172,6 +3768,11 @@
         "items": {
             "Multiattack": {
                 "name": "多重攻击Multiattack"
+            }
+        },
+        "system": {
+            "details": {
+                "alignment": "任意阵营"
             }
         }
     },
@@ -2206,6 +3807,21 @@
             },
             "Shield": {
                 "name": "盾牌Shield"
+            },
+            "Shield Bash": {
+                "name": "盾击Shield Bash"
+            },
+            "Javelin (Melee)": {
+                "name": "标枪Javelin（近战）"
+            },
+            "Javelin (Ranged)": {
+                "name": "标枪 Javelin（远程）"
+            },
+            "Leadership": {
+                "name": "领导Leadership"
+            },
+            "Martial Advantage": {
+                "name": "成军优势Martial Advantage"
             }
         }
     },
@@ -2246,6 +3862,24 @@
             },
             "Innate Spellcasting": {
                 "name": "天生施法Innate Spellcasting"
+            },
+            "Limited Telepathy": {
+                "name": "有限感应Limited Telepathy"
+            },
+            "Mage Hand": {
+                "name": "法师之手Mage Hand"
+            },
+            "Minor Illusion": {
+                "name": "次级幻影Minor Illusion"
+            },
+            "Mirror Image": {
+                "name": "镜影术Mirror Image"
+            },
+            "Polymorph": {
+                "name": "变形"
+            },
+            "Suggestion": {
+                "name": "暗示术Suggestion"
             }
         }
     },
@@ -2259,6 +3893,14 @@
             },
             "Tail": {
                 "name": "尾击 Tail"
+            },
+            "Heated Body": {
+                "name": "灼热之躯Heated Body"
+            }
+        },
+        "system": {
+            "details": {
+                "alignment": "中立邪恶"
             }
         }
     },
@@ -2266,6 +3908,15 @@
         "items": {
             "Claws": {
                 "name": "爪击 Claws"
+            },
+            "Incorporeal Movement": {
+                "name": "虚体移动Incorporeal Movement"
+            },
+            "Light Sensitivity": {
+                "name": "光照敏感Light Sensitivity"
+            },
+            "Shadow Stealth": {
+                "name": "幽影隐匿Shadow Stealth"
             }
         }
     },
@@ -2282,6 +3933,21 @@
             },
             "Innate Spellcasting": {
                 "name": "天生施法Innate Spellcasting"
+            },
+            "Fist": {
+                "name": "拳击Fist"
+            },
+            "Reckless": {
+                "name": "鲁莽Reckless"
+            },
+            "Running Leap": {
+                "name": "助跑起跳Running Leap"
+            },
+            "Entangle": {
+                "name": "纠缠术Entangle"
+            },
+            "Disguise Self": {
+                "name": "易容术Disguise Self"
             }
         }
     },
@@ -2297,6 +3963,9 @@
         "items": {
             "Spider Climb": {
                 "name": "蛛行 Spider Climb"
+            },
+            "False Appearance": {
+                "name": "拟形 False Appearance"
             }
         }
     },
@@ -2307,6 +3976,15 @@
             },
             "Shield": {
                 "name": "盾牌Shield"
+            },
+            "Unarmed Strike": {
+                "name": "徒手打击Unarmed Strike"
+            },
+            "Feather Fall": {
+                "name": "羽落术Feather Fall"
+            },
+            "Mage Hand": {
+                "name": "法师之手Mage Hand"
             }
         }
     },
@@ -2314,6 +3992,15 @@
         "items": {
             "Multiattack": {
                 "name": "多重攻击Multiattack"
+            },
+            "Chain Mail": {
+                "name": "链甲Chain Mail"
+            },
+            "Greataxe": {
+                "name": "巨斧Greataxe"
+            },
+            "Aggressive": {
+                "name": "好斗Aggressive"
             }
         }
     },
@@ -2348,6 +4035,24 @@
             },
             "Innate Spellcasting": {
                 "name": "天生施法Innate Spellcasting"
+            },
+            "Hurl Flame": {
+                "name": "投掷烈焰Hurl Flame"
+            },
+            "Shapechanger": {
+                "name": "变形生物Shapechanger"
+            },
+            "Regeneration": {
+                "name": "再生Regeneration"
+            },
+            "Fireball": {
+                "name": "火球术Fireball"
+            },
+            "Detect Thoughts": {
+                "name": "侦测思想Detect Thoughts"
+            },
+            "Mage Hand": {
+                "name": "法师之手Mage Hand"
             }
         }
     },
@@ -2355,6 +4060,11 @@
         "items": {
             "Bite": {
                 "name": "啃咬Bite"
+            }
+        },
+        "system": {
+            "details": {
+                "alignment": "中立邪恶"
             }
         }
     },
@@ -2371,6 +4081,17 @@
             },
             "Innate Spellcasting": {
                 "name": "天生施法Innate Spellcasting"
+            },
+            "Shortbow": {
+                "name": "短弓Shortbow"
+            },
+            "Suggestion": {
+                "name": "暗示术Suggestion"
+            }
+        },
+        "system": {
+            "details": {
+                "alignment": "中立邪恶"
             }
         }
     },
@@ -2387,6 +4108,155 @@
             },
             "Tongues": {
                 "name": "巧言术Tongues"
+            },
+            "Telekinesis": {
+                "name": "心灵遥控Telekinesis"
+            },
+            "Misty Step": {
+                "name": "迷踪步Misty Step"
+            },
+            "Nondetection": {
+                "name": "回避侦测Nondetection"
+            },
+            "Mage Hand": {
+                "name": "法师之手Mage Hand"
+            }
+        }
+    },
+    "Mud Mephit": {
+        "system": {
+            "details": {
+                "alignment": "中立邪恶"
+            }
+        },
+        "items": {
+            "Death Burst": {
+                "name": "自爆Death Burst"
+            },
+            "False Appearance": {
+                "name": "拟形False Appearance"
+            }
+        }
+    },
+    "Vine Blight": {
+        "system": {
+            "details": {
+                "alignment": "中立邪恶"
+            }
+        },
+        "items": {
+            "Constrict": {
+                "name": "绞缠Constrict"
+            },
+            "False Appearance": {
+                "name": "拟形 False Appearance"
+            }
+        }
+    },
+    "Aarakocra": {
+        "name": "阿兰寇拉语",
+        "prototypeToken": {
+            "name": "阿兰寇拉语"
+        },
+        "items": {
+            "Javelin (Melee)": {
+                "name": "标枪Javelin（近战）"
+            },
+            "Javelin (Ranged)": {
+                "name": "标枪 Javelin（远程）"
+            }
+        }
+    },
+    "Water Weird": {
+        "items": {
+            "Constrict": {
+                "name": "绞缠Constrict"
+            }
+        }
+    },
+    "Myconid Adult": {
+        "items": {
+            "Fist": {
+                "name": "拳击Fist"
+            }
+        }
+    },
+    "Monodrone (Rogue)": {
+        "system": {
+            "details": {
+                "alignment": "任意阵营"
+            }
+        },
+        "items": {
+            "Dagger": {
+                "name": "匕首Dagger"
+            },
+            "Javelin (Melee)": {
+                "name": "标枪Javelin（近战）"
+            },
+            "Javelin (Ranged)": {
+                "name": "标枪 Javelin（远程）"
+            }
+        }
+    },
+    "Mud Mephit (Summoner)": {
+        "system": {
+            "details": {
+                "alignment": "中立邪恶"
+            }
+        },
+        "items": {
+            "Death Burst": {
+                "name": "自爆Death Burst"
+            },
+            "False Appearance": {
+                "name": "拟形False Appearance"
+            }
+        }
+    },
+    "Half-Ogre (Ogrillon)": {
+        "items": {
+            "Battleaxe": {
+                "name": "战斧Battleaxe"
+            },
+            "Javelin (Melee)": {
+                "name": "标枪Javelin（近战）"
+            },
+            "Javelin (Ranged)": {
+                "name": "标枪 Javelin（远程）"
+            },
+            "Hide Armor": {
+                "name": "兽皮甲Hide Armor"
+            }
+        }
+    },
+    "Monodrone": {
+        "items": {
+            "Dagger": {
+                "name": "匕首Dagger"
+            },
+            "Javelin (Melee)": {
+                "name": "标枪Javelin（近战）"
+            },
+            "Javelin (Ranged)": {
+                "name": "标枪 Javelin（远程）"
+            }
+        }
+    },
+    "Banshee": {
+        "items": {
+            "Horrifying Visage": {
+                "name": "恐惧面容Horrifying Visage"
+            },
+            "Incorporeal Movement": {
+                "name": "虚体移动Incorporeal Movement"
+            }
+        }
+    },
+    "Myconid Sprout": {
+        "items": {
+            "Fist": {
+                "name": "拳击Fist"
             }
         }
     }
