@@ -6,7 +6,7 @@
         },
         "system": {
             "details": {
-                "alignment": "",
+                "alignment": "中立邪恶",
                 "biography": {
                     "value": ""
                 }
@@ -14,7 +14,7 @@
         },
         "items": {
             "Multiattack": {
-                "name": "",
+                "name": "多重攻击 Multiattack",
                 "system": {
                     "description": {
                         "value": ""
@@ -22,7 +22,7 @@
                 }
             },
             "Bite": {
-                "name": "",
+                "name": "啃咬Bite",
                 "system": {
                     "description": {
                         "value": ""
@@ -30,7 +30,7 @@
                 }
             },
             "Claws": {
-                "name": "",
+                "name": "爪击 Claws",
                 "system": {
                     "description": {
                         "value": ""
@@ -46,7 +46,7 @@
                 }
             },
             "Flyby": {
-                "name": "",
+                "name": "飞掠Flyby",
                 "system": {
                     "description": {
                         "value": ""
@@ -54,7 +54,7 @@
                 }
             },
             "Sunlight Sensitivity": {
-                "name": "",
+                "name": "日照敏感 Sunlight Sensitivity",
                 "system": {
                     "description": {
                         "value": ""
@@ -78,7 +78,7 @@
         },
         "items": {
             "Multiattack": {
-                "name": "",
+                "name": "多重攻击 Multiattack",
                 "system": {
                     "description": {
                         "value": ""
@@ -110,7 +110,7 @@
                 }
             },
             "Flyby": {
-                "name": "",
+                "name": "飞掠Flyby",
                 "system": {
                     "description": {
                         "value": ""
@@ -118,7 +118,7 @@
                 }
             },
             "Magic Resistance": {
-                "name": "",
+                "name": "魔法抗性 Magic Resistance",
                 "system": {
                     "description": {
                         "value": ""
@@ -126,7 +126,7 @@
                 }
             },
             "Raise Dead": {
-                "name": "",
+                "name": "死者复活Raise Dead",
                 "system": {
                     "description": {
                         "value": ""
@@ -134,7 +134,7 @@
                 }
             },
             "Charm Person": {
-                "name": "",
+                "name": "魅惑人类Charm Person",
                 "system": {
                     "description": {
                         "value": ""
@@ -142,7 +142,7 @@
                 }
             },
             "Darkness": {
-                "name": "",
+                "name": "黑暗术Darkness",
                 "system": {
                     "description": {
                         "value": ""
@@ -150,7 +150,7 @@
                 }
             },
             "Suggestion": {
-                "name": "",
+                "name": "暗示术Suggestion",
                 "system": {
                     "description": {
                         "value": ""
@@ -158,7 +158,7 @@
                 }
             },
             "Command": {
-                "name": "",
+                "name": "命令术Command",
                 "system": {
                     "description": {
                         "value": ""
@@ -166,7 +166,7 @@
                 }
             },
             "Detect Evil and Good": {
-                "name": "",
+                "name": "侦测善恶Detect Evil and Good",
                 "system": {
                     "description": {
                         "value": ""
@@ -174,7 +174,7 @@
                 }
             },
             "Innate Spellcasting": {
-                "name": "",
+                "name": "天生施法Innate Spellcasting",
                 "system": {
                     "description": {
                         "value": ""
@@ -190,7 +190,7 @@
         },
         "system": {
             "details": {
-                "alignment": "",
+                "alignment": "中立邪恶",
                 "biography": {
                     "value": ""
                 }
@@ -222,7 +222,7 @@
                 }
             },
             "Pack Tactics": {
-                "name": "",
+                "name": "集群战术 Pack Tactics",
                 "system": {
                     "description": {
                         "value": ""
@@ -230,7 +230,7 @@
                 }
             },
             "Spider Climb": {
-                "name": "",
+                "name": "蛛行 Spider Climb",
                 "system": {
                     "description": {
                         "value": ""
@@ -254,7 +254,7 @@
         },
         "items": {
             "Bite": {
-                "name": "",
+                "name": "啃咬 Bite",
                 "system": {
                     "description": {
                         "value": ""
@@ -278,7 +278,7 @@
                 }
             },
             "Mimicry": {
-                "name": "",
+                "name": "拟声Mimicry",
                 "system": {
                     "description": {
                         "value": ""
@@ -294,7 +294,7 @@
                 }
             },
             "Fire Bolt": {
-                "name": "",
+                "name": "火焰箭Fire Bolt",
                 "system": {
                     "description": {
                         "value": ""
@@ -302,7 +302,7 @@
                 }
             },
             "Innate Spellcasting": {
-                "name": "",
+                "name": "天生施法Innate Spellcasting",
                 "system": {
                     "description": {
                         "value": ""
@@ -326,7 +326,7 @@
         },
         "items": {
             "Life Drain": {
-                "name": "",
+                "name": "吸取生命Life Drain",
                 "system": {
                     "description": {
                         "value": ""
@@ -350,7 +350,7 @@
                 }
             },
             "Ethereal Sight": {
-                "name": "",
+                "name": "以太视界Ethereal Sight",
                 "system": {
                     "description": {
                         "value": ""
@@ -358,7 +358,7 @@
                 }
             },
             "Incorporeal Movement": {
-                "name": "",
+                "name": "虚体移动Incorporeal Movement",
                 "system": {
                     "description": {
                         "value": ""
@@ -366,7 +366,7 @@
                 }
             },
             "Legendary Resistance": {
-                "name": "",
+                "name": "传奇抗性 Legendary Resistance",
                 "system": {
                     "description": {
                         "value": ""
@@ -390,7 +390,7 @@
                 }
             },
             "Legendary Actions": {
-                "name": "",
+                "name": "传奇动作 Legendary Actions",
                 "system": {
                     "description": {
                         "value": ""
@@ -398,7 +398,7 @@
                 }
             },
             "Sanctuary": {
-                "name": "",
+                "name": "庇护术Sanctuary",
                 "system": {
                     "description": {
                         "value": ""
@@ -406,7 +406,7 @@
                 }
             },
             "Spirit Guardians": {
-                "name": "",
+                "name": "灵体卫士Spirit Guardians",
                 "system": {
                     "description": {
                         "value": ""
@@ -422,7 +422,7 @@
                 }
             },
             "Innate Spellcasting": {
-                "name": "",
+                "name": "天生施法Innate Spellcasting",
                 "system": {
                     "description": {
                         "value": ""
@@ -438,7 +438,7 @@
         },
         "system": {
             "details": {
-                "alignment": "",
+                "alignment": "中立邪恶",
                 "biography": {
                     "value": ""
                 }
@@ -446,7 +446,7 @@
         },
         "items": {
             "Multiattack": {
-                "name": "",
+                "name": "多重攻击 Multiattack",
                 "system": {
                     "description": {
                         "value": ""
@@ -470,7 +470,7 @@
                 }
             },
             "Rapier": {
-                "name": "",
+                "name": "刺剑Rapier",
                 "system": {
                     "description": {
                         "value": ""
@@ -478,7 +478,7 @@
                 }
             },
             "Cunning Action": {
-                "name": "",
+                "name": "灵巧动作Cunning Action",
                 "system": {
                     "description": {
                         "value": ""
@@ -486,7 +486,7 @@
                 }
             },
             "Leather Armor": {
-                "name": "",
+                "name": "皮甲Leather Armor",
                 "system": {
                     "description": {
                         "value": ""
@@ -494,7 +494,7 @@
                 }
             },
             "Blur": {
-                "name": "",
+                "name": "朦胧术Blur",
                 "system": {
                     "description": {
                         "value": ""
@@ -502,7 +502,7 @@
                 }
             },
             "Detect Thoughts": {
-                "name": "",
+                "name": "侦测思想Detect Thoughts",
                 "system": {
                     "description": {
                         "value": ""
@@ -510,7 +510,7 @@
                 }
             },
             "Gaseous Form": {
-                "name": "",
+                "name": "气化形体Gaseous Form",
                 "system": {
                     "description": {
                         "value": ""
@@ -518,7 +518,7 @@
                 }
             },
             "Charm Person": {
-                "name": "",
+                "name": "魅惑人类Charm Person",
                 "system": {
                     "description": {
                         "value": ""
@@ -526,7 +526,7 @@
                 }
             },
             "Disguise Self": {
-                "name": "",
+                "name": "易容术Disguise Self",
                 "system": {
                     "description": {
                         "value": ""
@@ -566,7 +566,7 @@
         },
         "items": {
             "Multiattack": {
-                "name": "",
+                "name": "多重攻击Multiattack",
                 "system": {
                     "description": {
                         "value": ""
@@ -574,7 +574,7 @@
                 }
             },
             "Bite": {
-                "name": "",
+                "name": "啃咬 Bite",
                 "system": {
                     "description": {
                         "value": ""
@@ -582,7 +582,7 @@
                 }
             },
             "Claws": {
-                "name": "",
+                "name": "爪击 Claws",
                 "system": {
                     "description": {
                         "value": ""
@@ -598,7 +598,7 @@
                 }
             },
             "Keen Hearing and Sight": {
-                "name": "",
+                "name": "敏锐视听觉Keen Hearing and Sight",
                 "system": {
                     "description": {
                         "value": ""
@@ -606,7 +606,7 @@
                 }
             },
             "Pounce": {
-                "name": "",
+                "name": "猛扑 Pounce",
                 "system": {
                     "description": {
                         "value": ""
@@ -622,7 +622,7 @@
         },
         "system": {
             "details": {
-                "alignment": "",
+                "alignment": "中立邪恶",
                 "biography": {
                     "value": ""
                 }
@@ -638,7 +638,7 @@
                 }
             },
             "Legendary Resistance": {
-                "name": "",
+                "name": "传奇抗性 Legendary Resistance",
                 "system": {
                     "description": {
                         "value": ""
@@ -646,7 +646,7 @@
                 }
             },
             "Regeneration": {
-                "name": "",
+                "name": "再生Regeneration",
                 "system": {
                     "description": {
                         "value": ""
@@ -654,7 +654,7 @@
                 }
             },
             "Turn Resistance": {
-                "name": "",
+                "name": "抵抗驱散Turn Resistance",
                 "system": {
                     "description": {
                         "value": ""
@@ -662,7 +662,7 @@
                 }
             },
             "Undead Fortitude": {
-                "name": "",
+                "name": "不死坚韧Undead Fortitude",
                 "system": {
                     "description": {
                         "value": ""
@@ -670,7 +670,7 @@
                 }
             },
             "Cantrip": {
-                "name": "",
+                "name": "戏法",
                 "system": {
                     "description": {
                         "value": ""
@@ -678,7 +678,7 @@
                 }
             },
             "Disrupt Life": {
-                "name": "",
+                "name": "扰乱生命Disrupt Life",
                 "system": {
                     "description": {
                         "value": ""
@@ -686,7 +686,7 @@
                 }
             },
             "Legendary Actions": {
-                "name": "",
+                "name": "传奇动作 Legendary Actions",
                 "system": {
                     "description": {
                         "value": ""
@@ -710,7 +710,7 @@
                 }
             },
             "Mage Hand": {
-                "name": "",
+                "name": "法师之手Mage Hand",
                 "system": {
                     "description": {
                         "value": ""
@@ -726,7 +726,7 @@
                 }
             },
             "Prestidigitation": {
-                "name": "",
+                "name": "魔法伎俩Prestidigitation",
                 "system": {
                     "description": {
                         "value": ""
@@ -742,7 +742,7 @@
                 }
             },
             "Magic Missile": {
-                "name": "",
+                "name": "魔法飞弹Magic Missile",
                 "system": {
                     "description": {
                         "value": ""
@@ -766,7 +766,7 @@
                 }
             },
             "Ray of Enfeeblement": {
-                "name": "",
+                "name": "衰弱射线Ray of Enfeeblement",
                 "system": {
                     "description": {
                         "value": ""
@@ -774,7 +774,7 @@
                 }
             },
             "Spider Climb": {
-                "name": "",
+                "name": "蛛行 Spider Climb",
                 "system": {
                     "description": {
                         "value": ""
@@ -782,7 +782,7 @@
                 }
             },
             "Web": {
-                "name": "",
+                "name": "蛛网Web",
                 "system": {
                     "description": {
                         "value": ""
@@ -790,7 +790,7 @@
                 }
             },
             "Animate Dead": {
-                "name": "",
+                "name": "操纵死尸Animate Dead",
                 "system": {
                     "description": {
                         "value": ""
@@ -798,7 +798,7 @@
                 }
             },
             "Bestow Curse": {
-                "name": "",
+                "name": "降咒Bestow Curse",
                 "system": {
                     "description": {
                         "value": ""
@@ -822,7 +822,7 @@
                 }
             },
             "Blight": {
-                "name": "",
+                "name": "枯萎术Blight",
                 "system": {
                     "description": {
                         "value": ""
@@ -838,7 +838,7 @@
                 }
             },
             "Cloudkill": {
-                "name": "",
+                "name": "死云术Cloudkill",
                 "system": {
                     "description": {
                         "value": ""
@@ -846,7 +846,7 @@
                 }
             },
             "Insect Plague": {
-                "name": "",
+                "name": "疫病虫群Insect Plague",
                 "system": {
                     "description": {
                         "value": ""
@@ -870,7 +870,7 @@
                 }
             },
             "Finger of Death": {
-                "name": "",
+                "name": "死亡一指Finger of Death",
                 "system": {
                     "description": {
                         "value": ""
@@ -878,7 +878,7 @@
                 }
             },
             "Spellcasting": {
-                "name": "",
+                "name": "施法Spellcasting",
                 "system": {
                     "description": {
                         "value": ""
@@ -902,7 +902,7 @@
         },
         "items": {
             "Multiattack": {
-                "name": "",
+                "name": "多重攻击Multiattack",
                 "system": {
                     "description": {
                         "value": ""
@@ -910,7 +910,7 @@
                 }
             },
             "Longsword": {
-                "name": "",
+                "name": "长剑 Longsword",
                 "system": {
                     "description": {
                         "value": ""
@@ -918,7 +918,7 @@
                 }
             },
             "Leadership": {
-                "name": "",
+                "name": "领导Leadership",
                 "system": {
                     "description": {
                         "value": ""
@@ -934,7 +934,7 @@
                 }
             },
             "Legendary Resistance": {
-                "name": "",
+                "name": "传奇抗性Legendary Resistance",
                 "system": {
                     "description": {
                         "value": ""
@@ -942,7 +942,7 @@
                 }
             },
             "Magic Resistance": {
-                "name": "",
+                "name": "魔法抗性Magic Resistance",
                 "system": {
                     "description": {
                         "value": ""
@@ -950,7 +950,7 @@
                 }
             },
             "Parry": {
-                "name": "",
+                "name": "格挡Parry",
                 "system": {
                     "description": {
                         "value": ""
@@ -990,7 +990,7 @@
                 }
             },
             "Legendary Actions": {
-                "name": "",
+                "name": "传奇动作 Legendary Actions",
                 "system": {
                     "description": {
                         "value": ""
@@ -1014,7 +1014,7 @@
         },
         "items": {
             "Multiattack": {
-                "name": "",
+                "name": "多重攻击Multiattack",
                 "system": {
                     "description": {
                         "value": ""
@@ -1062,7 +1062,7 @@
                 }
             },
             "Shield": {
-                "name": "",
+                "name": "护卫Shield",
                 "system": {
                     "description": {
                         "value": ""
@@ -1086,7 +1086,7 @@
         },
         "items": {
             "Multiattack": {
-                "name": "",
+                "name": "多重攻击Multiattack",
                 "system": {
                     "description": {
                         "value": ""
@@ -1094,7 +1094,7 @@
                 }
             },
             "Longsword": {
-                "name": "",
+                "name": "长剑 Longsword",
                 "system": {
                     "description": {
                         "value": ""
@@ -1102,7 +1102,7 @@
                 }
             },
             "Flyby": {
-                "name": "",
+                "name": "飞掠Flyby",
                 "system": {
                     "description": {
                         "value": ""
@@ -1110,7 +1110,7 @@
                 }
             },
             "Magic Resistance": {
-                "name": "",
+                "name": "魔法抗性Magic Resistance",
                 "system": {
                     "description": {
                         "value": ""
@@ -1118,7 +1118,7 @@
                 }
             },
             "Relentless": {
-                "name": "",
+                "name": "坚韧Relentless",
                 "system": {
                     "description": {
                         "value": ""
@@ -1126,7 +1126,7 @@
                 }
             },
             "Plate Armor": {
-                "name": "",
+                "name": "板甲 Plate Armor",
                 "system": {
                     "description": {
                         "value": ""
@@ -1142,7 +1142,7 @@
                 }
             },
             "Fireball": {
-                "name": "",
+                "name": "火球术Fireball",
                 "system": {
                     "description": {
                         "value": ""
@@ -1158,7 +1158,7 @@
                 }
             },
             "Guiding Bolt": {
-                "name": "",
+                "name": "曳光弹Guiding Bolt",
                 "system": {
                     "description": {
                         "value": ""
@@ -1166,7 +1166,7 @@
                 }
             },
             "Innate Spellcasting": {
-                "name": "",
+                "name": "天生施法Innate Spellcasting",
                 "system": {
                     "description": {
                         "value": ""
@@ -1182,7 +1182,7 @@
         },
         "system": {
             "details": {
-                "alignment": "",
+                "alignment": "中立邪恶",
                 "biography": {
                     "value": ""
                 }
@@ -1190,7 +1190,7 @@
         },
         "items": {
             "Multiattack": {
-                "name": "",
+                "name": "多重攻击 Multiattack",
                 "system": {
                     "description": {
                         "value": ""
@@ -1198,7 +1198,7 @@
                 }
             },
             "Claw": {
-                "name": "",
+                "name": "爪击 Claw",
                 "system": {
                     "description": {
                         "value": ""
@@ -1206,7 +1206,7 @@
                 }
             },
             "Petrifying Gaze": {
-                "name": "",
+                "name": "石化凝视Petrifying Gaze",
                 "system": {
                     "description": {
                         "value": ""
@@ -1214,7 +1214,7 @@
                 }
             },
             "Magic Resistance": {
-                "name": "",
+                "name": "魔法抗性 Magic Resistance",
                 "system": {
                     "description": {
                         "value": ""
@@ -1222,7 +1222,7 @@
                 }
             },
             "Surprise Attack": {
-                "name": "",
+                "name": "突袭打击Surprise Attack",
                 "system": {
                     "description": {
                         "value": ""
@@ -1238,7 +1238,7 @@
                 }
             },
             "Fog Cloud": {
-                "name": "",
+                "name": "云雾术Fog Cloud",
                 "system": {
                     "description": {
                         "value": ""
@@ -1246,7 +1246,7 @@
                 }
             },
             "Misty Step": {
-                "name": "",
+                "name": "迷踪步Misty Step",
                 "system": {
                     "description": {
                         "value": ""
@@ -1254,7 +1254,7 @@
                 }
             },
             "Innate Spellcasting": {
-                "name": "",
+                "name": "天生施法Innate Spellcasting",
                 "system": {
                     "description": {
                         "value": ""
@@ -1270,7 +1270,7 @@
         },
         "system": {
             "details": {
-                "alignment": "",
+                "alignment": "无阵营",
                 "biography": {
                     "value": ""
                 }
@@ -1278,7 +1278,7 @@
         },
         "items": {
             "Multiattack": {
-                "name": "",
+                "name": "多重攻击 Multiattack",
                 "system": {
                     "description": {
                         "value": ""
@@ -1286,7 +1286,7 @@
                 }
             },
             "Bite": {
-                "name": "",
+                "name": "啃咬 Bite",
                 "system": {
                     "description": {
                         "value": ""
@@ -1294,7 +1294,7 @@
                 }
             },
             "Claws": {
-                "name": "",
+                "name": "爪击 Claws",
                 "system": {
                     "description": {
                         "value": ""
@@ -1302,7 +1302,7 @@
                 }
             },
             "Tail": {
-                "name": "",
+                "name": "尾击 Tail",
                 "system": {
                     "description": {
                         "value": ""
@@ -1310,7 +1310,7 @@
                 }
             },
             "Amphibious": {
-                "name": "",
+                "name": "水陆两栖 Amphibious",
                 "system": {
                     "description": {
                         "value": ""
@@ -1326,7 +1326,7 @@
         },
         "system": {
             "details": {
-                "alignment": "",
+                "alignment": "无阵营",
                 "biography": {
                     "value": ""
                 }
@@ -1334,7 +1334,7 @@
         },
         "items": {
             "Claws": {
-                "name": "",
+                "name": "爪击 Claws",
                 "system": {
                     "description": {
                         "value": ""
@@ -1342,7 +1342,7 @@
                 }
             },
             "Rock": {
-                "name": "",
+                "name": "掷石Rock",
                 "system": {
                     "description": {
                         "value": ""
@@ -1374,7 +1374,7 @@
         },
         "items": {
             "Multiattack": {
-                "name": "",
+                "name": "多重攻击 Multiattack",
                 "system": {
                     "description": {
                         "value": ""
@@ -1382,7 +1382,7 @@
                 }
             },
             "Bite": {
-                "name": "",
+                "name": "啃咬 Bite",
                 "system": {
                     "description": {
                         "value": ""
@@ -1390,7 +1390,7 @@
                 }
             },
             "Claws": {
-                "name": "",
+                "name": "爪击 Claws",
                 "system": {
                     "description": {
                         "value": ""
@@ -1406,7 +1406,7 @@
                 }
             },
             "Keen Hearing and Sight": {
-                "name": "",
+                "name": "敏锐视听觉Keen Hearing and Sight",
                 "system": {
                     "description": {
                         "value": ""
@@ -1414,7 +1414,7 @@
                 }
             },
             "Pounce": {
-                "name": "",
+                "name": "猛扑 Pounce",
                 "system": {
                     "description": {
                         "value": ""
@@ -1430,7 +1430,7 @@
         },
         "system": {
             "details": {
-                "alignment": "",
+                "alignment": "中立邪恶",
                 "biography": {
                     "value": ""
                 }
@@ -1438,7 +1438,7 @@
         },
         "items": {
             "Multiattack": {
-                "name": "",
+                "name": "多重攻击 Multiattack",
                 "system": {
                     "description": {
                         "value": ""
@@ -1446,7 +1446,7 @@
                 }
             },
             "Quarterstaff": {
-                "name": "",
+                "name": "长棍Quarterstaff",
                 "system": {
                     "description": {
                         "value": ""
@@ -1470,7 +1470,7 @@
                 }
             },
             "Pack Tactics": {
-                "name": "",
+                "name": "集群战术 Pack Tactics",
                 "system": {
                     "description": {
                         "value": ""
@@ -1478,7 +1478,7 @@
                 }
             },
             "Spider Climb": {
-                "name": "",
+                "name": "蛛行 Spider Climb",
                 "system": {
                     "description": {
                         "value": ""
@@ -1486,7 +1486,7 @@
                 }
             },
             "Animate Dead": {
-                "name": "",
+                "name": "操纵死尸Animate Dead",
                 "system": {
                     "description": {
                         "value": ""
@@ -1494,7 +1494,7 @@
                 }
             },
             "Blight": {
-                "name": "",
+                "name": "枯萎术Blight",
                 "system": {
                     "description": {
                         "value": ""
@@ -1510,7 +1510,7 @@
                 }
             },
             "Ray of Enfeeblement": {
-                "name": "",
+                "name": "衰弱射线Ray of Enfeeblement",
                 "system": {
                     "description": {
                         "value": ""
@@ -1542,7 +1542,7 @@
                 }
             },
             "Innate Spellcasting": {
-                "name": "",
+                "name": "天生施法Innate Spellcasting",
                 "system": {
                     "description": {
                         "value": ""
@@ -1566,7 +1566,7 @@
         },
         "items": {
             "Multiattack": {
-                "name": "",
+                "name": "多重攻击Multiattack",
                 "system": {
                     "description": {
                         "value": ""
@@ -1574,7 +1574,7 @@
                 }
             },
             "Slam": {
-                "name": "",
+                "name": "挥击 Slam",
                 "system": {
                     "description": {
                         "value": ""
@@ -1582,7 +1582,7 @@
                 }
             },
             "Rock": {
-                "name": "",
+                "name": "掷石Rock",
                 "system": {
                     "description": {
                         "value": ""
@@ -1590,7 +1590,7 @@
                 }
             },
             "Reckless": {
-                "name": "",
+                "name": "鲁莽Reckless",
                 "system": {
                     "description": {
                         "value": ""
@@ -1598,7 +1598,7 @@
                 }
             },
             "Siege Monster": {
-                "name": "",
+                "name": "攻城怪物Siege Monster",
                 "system": {
                     "description": {
                         "value": ""
@@ -1606,7 +1606,7 @@
                 }
             },
             "Stone Camouflage": {
-                "name": "",
+                "name": "岩地伪装Stone Camouflage",
                 "system": {
                     "description": {
                         "value": ""
@@ -1622,7 +1622,7 @@
         },
         "system": {
             "details": {
-                "alignment": "",
+                "alignment": "无阵营",
                 "biography": {
                     "value": ""
                 }
@@ -1630,7 +1630,7 @@
         },
         "items": {
             "Multiattack": {
-                "name": "",
+                "name": "多重攻击 Multiattack",
                 "system": {
                     "description": {
                         "value": ""
@@ -1638,7 +1638,7 @@
                 }
             },
             "Bite": {
-                "name": "",
+                "name": "啃咬Bite",
                 "system": {
                     "description": {
                         "value": ""
@@ -1646,7 +1646,7 @@
                 }
             },
             "Claws": {
-                "name": "",
+                "name": "爪击 Claws",
                 "system": {
                     "description": {
                         "value": ""
@@ -1654,7 +1654,7 @@
                 }
             },
             "Amphibious": {
-                "name": "",
+                "name": "水陆两栖 Amphibious",
                 "system": {
                     "description": {
                         "value": ""
@@ -1678,7 +1678,7 @@
         },
         "items": {
             "Longsword": {
-                "name": "",
+                "name": "长剑 Longsword",
                 "system": {
                     "description": {
                         "value": ""
@@ -1702,7 +1702,7 @@
                 }
             },
             "Plate Armor": {
-                "name": "",
+                "name": "板甲 Plate Armor",
                 "system": {
                     "description": {
                         "value": ""
@@ -1718,7 +1718,7 @@
                 }
             },
             "Light": {
-                "name": "",
+                "name": "光亮术Light",
                 "system": {
                     "description": {
                         "value": ""
@@ -1734,7 +1734,7 @@
                 }
             },
             "Shocking Grasp": {
-                "name": "",
+                "name": "电爪Shocking Grasp",
                 "system": {
                     "description": {
                         "value": ""
@@ -1742,7 +1742,7 @@
                 }
             },
             "Guiding Bolt": {
-                "name": "",
+                "name": "曳光弹Guiding Bolt",
                 "system": {
                     "description": {
                         "value": ""
@@ -1750,7 +1750,7 @@
                 }
             },
             "Shield": {
-                "name": "",
+                "name": "护盾术Shield",
                 "system": {
                     "description": {
                         "value": ""
@@ -1758,7 +1758,7 @@
                 }
             },
             "Thunderwave": {
-                "name": "",
+                "name": "雷鸣波Thunderwave",
                 "system": {
                     "description": {
                         "value": ""
@@ -1774,7 +1774,7 @@
                 }
             },
             "Blur": {
-                "name": "",
+                "name": "朦胧术Blur",
                 "system": {
                     "description": {
                         "value": ""
@@ -1782,7 +1782,7 @@
                 }
             },
             "Levitate": {
-                "name": "",
+                "name": "浮空术Levitate",
                 "system": {
                     "description": {
                         "value": ""
@@ -1790,7 +1790,7 @@
                 }
             },
             "Lightning Bolt": {
-                "name": "",
+                "name": "闪电束Lightning Bolt",
                 "system": {
                     "description": {
                         "value": ""
@@ -1798,7 +1798,7 @@
                 }
             },
             "Spellcasting": {
-                "name": "",
+                "name": "施法Spellcasting",
                 "system": {
                     "description": {
                         "value": ""
@@ -1822,7 +1822,7 @@
         },
         "items": {
             "Multiattack": {
-                "name": "",
+                "name": "多重攻击Multiattack",
                 "system": {
                     "description": {
                         "value": ""
@@ -1830,7 +1830,7 @@
                 }
             },
             "Shortsword": {
-                "name": "",
+                "name": "短剑 Shortsword",
                 "system": {
                     "description": {
                         "value": ""
@@ -1846,7 +1846,7 @@
                 }
             },
             "Spider Climb": {
-                "name": "",
+                "name": "蛛行 Spider Climb",
                 "system": {
                     "description": {
                         "value": ""
@@ -1870,7 +1870,7 @@
         },
         "items": {
             "Slam": {
-                "name": "",
+                "name": "猛击 Slam",
                 "system": {
                     "description": {
                         "value": ""
@@ -1894,7 +1894,7 @@
                 }
             },
             "Heated Body": {
-                "name": "",
+                "name": "灼热之躯Heated Body",
                 "system": {
                     "description": {
                         "value": ""
@@ -1902,7 +1902,7 @@
                 }
             },
             "Illumination": {
-                "name": "",
+                "name": "照明 Illumination",
                 "system": {
                     "description": {
                         "value": ""
@@ -1926,7 +1926,7 @@
         },
         "items": {
             "Rapier": {
-                "name": "",
+                "name": "刺剑Rapier",
                 "system": {
                     "description": {
                         "value": ""
@@ -1942,7 +1942,7 @@
                 }
             },
             "Counterspell": {
-                "name": "",
+                "name": "法术反制Counterspell",
                 "system": {
                     "description": {
                         "value": ""
@@ -1950,7 +1950,7 @@
                 }
             },
             "Dispel Magic": {
-                "name": "",
+                "name": "解除魔法Dispel Magic",
                 "system": {
                     "description": {
                         "value": ""
@@ -1966,7 +1966,7 @@
                 }
             },
             "Enlarge/Reduce": {
-                "name": "",
+                "name": "变巨/缩小术 Enlarge/Reduce",
                 "system": {
                     "description": {
                         "value": ""
@@ -1974,7 +1974,7 @@
                 }
             },
             "Mage Armor": {
-                "name": "",
+                "name": "法师护甲Mage Armor",
                 "system": {
                     "description": {
                         "value": ""
@@ -1990,7 +1990,7 @@
                 }
             },
             "Innate Spellcasting": {
-                "name": "",
+                "name": "天生施法Innate Spellcasting",
                 "system": {
                     "description": {
                         "value": ""
@@ -2014,7 +2014,7 @@
         },
         "items": {
             "Multiattack": {
-                "name": "",
+                "name": "多重攻击Multiattack",
                 "system": {
                     "description": {
                         "value": ""
@@ -2022,7 +2022,7 @@
                 }
             },
             "Shortsword": {
-                "name": "",
+                "name": "短剑 Shortsword",
                 "system": {
                     "description": {
                         "value": ""
@@ -2030,7 +2030,7 @@
                 }
             },
             "Ambusher": {
-                "name": "",
+                "name": "伏击Ambusher",
                 "system": {
                     "description": {
                         "value": ""
@@ -2038,7 +2038,7 @@
                 }
             },
             "Nimble Escape": {
-                "name": "",
+                "name": "迅捷逃逸 Nimble Escape",
                 "system": {
                     "description": {
                         "value": ""
@@ -2054,7 +2054,7 @@
                 }
             },
             "Siege Monster": {
-                "name": "",
+                "name": "攻城怪物Siege Monster",
                 "system": {
                     "description": {
                         "value": ""
@@ -2078,7 +2078,7 @@
         },
         "items": {
             "Multiattack": {
-                "name": "",
+                "name": "多重攻击Multiattack",
                 "system": {
                     "description": {
                         "value": ""
@@ -2126,7 +2126,7 @@
                 }
             },
             "Magic Resistance": {
-                "name": "",
+                "name": "魔法抗性Magic Resistance",
                 "system": {
                     "description": {
                         "value": ""
@@ -2134,7 +2134,7 @@
                 }
             },
             "Plate Armor": {
-                "name": "",
+                "name": "板甲 Plate Armor",
                 "system": {
                     "description": {
                         "value": ""
@@ -2142,7 +2142,7 @@
                 }
             },
             "Dominate Person": {
-                "name": "",
+                "name": "支配人类Dominate Person",
                 "system": {
                     "description": {
                         "value": ""
@@ -2150,7 +2150,7 @@
                 }
             },
             "Charm Person": {
-                "name": "",
+                "name": "魅惑人类Charm Person",
                 "system": {
                     "description": {
                         "value": ""
@@ -2166,7 +2166,7 @@
                 }
             },
             "Innate Spellcasting": {
-                "name": "",
+                "name": "天生施法Innate Spellcasting",
                 "system": {
                     "description": {
                         "value": ""
@@ -2190,7 +2190,7 @@
         },
         "items": {
             "Multiattack": {
-                "name": "",
+                "name": "多重攻击Multiattack",
                 "system": {
                     "description": {
                         "value": ""
@@ -2198,7 +2198,7 @@
                 }
             },
             "Claw": {
-                "name": "",
+                "name": "爪击 Claw",
                 "system": {
                     "description": {
                         "value": ""
@@ -2206,7 +2206,7 @@
                 }
             },
             "Amphibious": {
-                "name": "",
+                "name": "水陆两栖 Amphibious",
                 "system": {
                     "description": {
                         "value": ""
@@ -2230,7 +2230,7 @@
         },
         "items": {
             "Chain": {
-                "name": "",
+                "name": "链击Chain",
                 "system": {
                     "description": {
                         "value": ""
@@ -2238,7 +2238,7 @@
                 }
             },
             "Rock": {
-                "name": "",
+                "name": "掷石Rock",
                 "system": {
                     "description": {
                         "value": ""
@@ -2278,7 +2278,7 @@
                 }
             },
             "Aggressive": {
-                "name": "",
+                "name": "好斗Aggressive",
                 "system": {
                     "description": {
                         "value": ""
@@ -2286,7 +2286,7 @@
                 }
             },
             "Siege Monster": {
-                "name": "",
+                "name": "攻城怪物Siege Monster",
                 "system": {
                     "description": {
                         "value": ""
@@ -2294,7 +2294,7 @@
                 }
             },
             "Hide Armor": {
-                "name": "",
+                "name": "兽皮甲Hide Armor",
                 "system": {
                     "description": {
                         "value": ""
@@ -2318,7 +2318,7 @@
         },
         "items": {
             "Multiattack": {
-                "name": "",
+                "name": "多重攻击 Multiattack",
                 "system": {
                     "description": {
                         "value": ""
@@ -2334,7 +2334,7 @@
                 }
             },
             "Longbow": {
-                "name": "",
+                "name": "长弓 Longbow",
                 "system": {
                     "description": {
                         "value": ""
@@ -2358,7 +2358,7 @@
                 }
             },
             "Magic Resistance": {
-                "name": "",
+                "name": "魔法抗性 Magic Resistance",
                 "system": {
                     "description": {
                         "value": ""
@@ -2366,7 +2366,7 @@
                 }
             },
             "Speak with Beasts and Plants": {
-                "name": "",
+                "name": "动植物交谈Speak with Beasts and Plants",
                 "system": {
                     "description": {
                         "value": ""
@@ -2398,7 +2398,7 @@
                 }
             },
             "Dispel Magic": {
-                "name": "",
+                "name": "解除魔法Dispel Magic",
                 "system": {
                     "description": {
                         "value": ""
@@ -2406,7 +2406,7 @@
                 }
             },
             "Entangle": {
-                "name": "",
+                "name": "纠缠术Entangle",
                 "system": {
                     "description": {
                         "value": ""
@@ -2430,7 +2430,7 @@
                 }
             },
             "Druidcraft": {
-                "name": "",
+                "name": "德鲁伊伎俩Druidcraft",
                 "system": {
                     "description": {
                         "value": ""
@@ -2438,7 +2438,7 @@
                 }
             },
             "Innate Spellcasting": {
-                "name": "",
+                "name": "天生施法Innate Spellcasting",
                 "system": {
                     "description": {
                         "value": ""
@@ -2454,7 +2454,7 @@
         },
         "system": {
             "details": {
-                "alignment": "",
+                "alignment": "中立邪恶",
                 "biography": {
                     "value": ""
                 }
@@ -2462,7 +2462,7 @@
         },
         "items": {
             "Multiattack": {
-                "name": "",
+                "name": "多重攻击Multiattack",
                 "system": {
                     "description": {
                         "value": ""
@@ -2470,7 +2470,7 @@
                 }
             },
             "Shortsword": {
-                "name": "",
+                "name": "短剑 Shortsword",
                 "system": {
                     "description": {
                         "value": ""
@@ -2486,7 +2486,7 @@
                 }
             },
             "Legendary Resistance": {
-                "name": "",
+                "name": "传奇抗性Legendary Resistance",
                 "system": {
                     "description": {
                         "value": ""
@@ -2510,7 +2510,7 @@
                 }
             },
             "Attack": {
-                "name": "",
+                "name": "攻击Attack",
                 "system": {
                     "description": {
                         "value": ""
@@ -2518,7 +2518,7 @@
                 }
             },
             "Cast a Spell": {
-                "name": "",
+                "name": "施展法术Cast a Spell",
                 "system": {
                     "description": {
                         "value": ""
@@ -2534,7 +2534,7 @@
                 }
             },
             "Legendary Actions": {
-                "name": "",
+                "name": "传奇动作 Legendary Actions",
                 "system": {
                     "description": {
                         "value": ""
@@ -2558,7 +2558,7 @@
                 }
             },
             "Blur": {
-                "name": "",
+                "name": "朦胧术Blur",
                 "system": {
                     "description": {
                         "value": ""
@@ -2566,7 +2566,7 @@
                 }
             },
             "Confusion": {
-                "name": "",
+                "name": "困惑术Confusion",
                 "system": {
                     "description": {
                         "value": ""
@@ -2574,7 +2574,7 @@
                 }
             },
             "Mirror Image": {
-                "name": "",
+                "name": "镜影术Mirror Image",
                 "system": {
                     "description": {
                         "value": ""
@@ -2582,7 +2582,7 @@
                 }
             },
             "Detect Thoughts": {
-                "name": "",
+                "name": "侦测思想Detect Thoughts",
                 "system": {
                     "description": {
                         "value": ""
@@ -2598,7 +2598,7 @@
                 }
             },
             "Freedom of Movement": {
-                "name": "",
+                "name": "行动自如Freedom of Movement",
                 "system": {
                     "description": {
                         "value": ""
@@ -2606,7 +2606,7 @@
                 }
             },
             "Vicious Mockery": {
-                "name": "",
+                "name": "恶言相加Vicious Mockery",
                 "system": {
                     "description": {
                         "value": ""
@@ -2614,7 +2614,7 @@
                 }
             },
             "Innate Spellcasting": {
-                "name": "",
+                "name": "天生施法Innate Spellcasting",
                 "system": {
                     "description": {
                         "value": ""
@@ -2630,7 +2630,7 @@
         },
         "system": {
             "details": {
-                "alignment": "",
+                "alignment": "无阵营",
                 "biography": {
                     "value": ""
                 }
@@ -2638,7 +2638,7 @@
         },
         "items": {
             "Multiattack": {
-                "name": "",
+                "name": "多重攻击 Multiattack",
                 "system": {
                     "description": {
                         "value": ""
@@ -2646,7 +2646,7 @@
                 }
             },
             "Beak": {
-                "name": "",
+                "name": "喙啄Beak",
                 "system": {
                     "description": {
                         "value": ""
@@ -2654,7 +2654,7 @@
                 }
             },
             "Talons": {
-                "name": "",
+                "name": "禽爪Talons",
                 "system": {
                     "description": {
                         "value": ""
@@ -2662,7 +2662,7 @@
                 }
             },
             "Keen Sight": {
-                "name": "",
+                "name": "敏锐视觉Keen Sight",
                 "system": {
                     "description": {
                         "value": ""
@@ -2670,7 +2670,7 @@
                 }
             },
             "Breastplate": {
-                "name": "",
+                "name": "胸甲Breastplate",
                 "system": {
                     "description": {
                         "value": ""
@@ -2694,7 +2694,7 @@
         },
         "items": {
             "Multiattack": {
-                "name": "",
+                "name": "多重攻击Multiattack",
                 "system": {
                     "description": {
                         "value": ""
@@ -2702,7 +2702,7 @@
                 }
             },
             "Constrict": {
-                "name": "",
+                "name": "绞缠Constrict",
                 "system": {
                     "description": {
                         "value": ""
@@ -2726,7 +2726,7 @@
                 }
             },
             "Legendary Resistance": {
-                "name": "",
+                "name": "传奇抗性Legendary Resistance",
                 "system": {
                     "description": {
                         "value": ""
@@ -2734,7 +2734,7 @@
                 }
             },
             "Magic Resistance": {
-                "name": "",
+                "name": "魔法抗性Magic Resistance",
                 "system": {
                     "description": {
                         "value": ""
@@ -2742,7 +2742,7 @@
                 }
             },
             "Magic Weapons": {
-                "name": "",
+                "name": "魔法武器 Magic Weapons",
                 "system": {
                     "description": {
                         "value": ""
@@ -2750,7 +2750,7 @@
                 }
             },
             "Speak with Beasts and Plants": {
-                "name": "",
+                "name": "动植物交谈Speak with Beasts and Plants",
                 "system": {
                     "description": {
                         "value": ""
@@ -2758,7 +2758,7 @@
                 }
             },
             "Tree Stride": {
-                "name": "",
+                "name": "树跃Tree Stride",
                 "system": {
                     "description": {
                         "value": ""
@@ -2806,7 +2806,7 @@
                 }
             },
             "Legendary Actions": {
-                "name": "",
+                "name": "传奇动作 Legendary Actions",
                 "system": {
                     "description": {
                         "value": ""
@@ -2830,7 +2830,7 @@
                 }
             },
             "Bless": {
-                "name": "",
+                "name": "祝福术Bless",
                 "system": {
                     "description": {
                         "value": ""
@@ -2878,7 +2878,7 @@
                 }
             },
             "Suggestion": {
-                "name": "",
+                "name": "暗示术Suggestion",
                 "system": {
                     "description": {
                         "value": ""
@@ -2886,7 +2886,7 @@
                 }
             },
             "Dispel Magic": {
-                "name": "",
+                "name": "解除魔法Dispel Magic",
                 "system": {
                     "description": {
                         "value": ""
@@ -2894,7 +2894,7 @@
                 }
             },
             "Druidcraft": {
-                "name": "",
+                "name": "德鲁伊伎俩Druidcraft",
                 "system": {
                     "description": {
                         "value": ""
@@ -2902,7 +2902,7 @@
                 }
             },
             "Innate Spellcasting": {
-                "name": "",
+                "name": "天生施法Innate Spellcasting",
                 "system": {
                     "description": {
                         "value": ""
@@ -2926,7 +2926,7 @@
         },
         "items": {
             "Multiattack": {
-                "name": "",
+                "name": "多重攻击Multiattack",
                 "system": {
                     "description": {
                         "value": ""
@@ -2934,7 +2934,7 @@
                 }
             },
             "Bite": {
-                "name": "",
+                "name": "啃咬Bite",
                 "system": {
                     "description": {
                         "value": ""
@@ -2942,7 +2942,7 @@
                 }
             },
             "Claw": {
-                "name": "",
+                "name": "爪击 Claw",
                 "system": {
                     "description": {
                         "value": ""
@@ -2950,7 +2950,7 @@
                 }
             },
             "Tail": {
-                "name": "",
+                "name": "尾击 Tail",
                 "system": {
                     "description": {
                         "value": ""
@@ -2958,7 +2958,7 @@
                 }
             },
             "Fire Breath": {
-                "name": "",
+                "name": "火焰吐息Fire Breath",
                 "system": {
                     "description": {
                         "value": ""
@@ -2966,7 +2966,7 @@
                 }
             },
             "Legendary Resistance": {
-                "name": "",
+                "name": "传奇抗性 Legendary Resistance",
                 "system": {
                     "description": {
                         "value": ""
@@ -2982,7 +2982,7 @@
                 }
             },
             "Magic Resistance": {
-                "name": "",
+                "name": "魔法抗性Magic Resistance",
                 "system": {
                     "description": {
                         "value": ""
@@ -2998,7 +2998,7 @@
                 }
             },
             "Cantrip": {
-                "name": "",
+                "name": "戏法Cantrip",
                 "system": {
                     "description": {
                         "value": ""
@@ -3006,7 +3006,7 @@
                 }
             },
             "Tail Attack": {
-                "name": "",
+                "name": "尾击攻击 Tail Attack",
                 "system": {
                     "description": {
                         "value": ""
@@ -3014,7 +3014,7 @@
                 }
             },
             "Wing Attack": {
-                "name": "",
+                "name": "振翅攻击 Wing Attack",
                 "system": {
                     "description": {
                         "value": ""
@@ -3030,7 +3030,7 @@
                 }
             },
             "Legendary Actions": {
-                "name": "",
+                "name": "传奇动作 Legendary Actions",
                 "system": {
                     "description": {
                         "value": ""
@@ -3038,7 +3038,7 @@
                 }
             },
             "Fire Bolt": {
-                "name": "",
+                "name": "火焰箭Fire Bolt",
                 "system": {
                     "description": {
                         "value": ""
@@ -3046,7 +3046,7 @@
                 }
             },
             "Light": {
-                "name": "",
+                "name": "光亮术Light",
                 "system": {
                     "description": {
                         "value": ""
@@ -3054,7 +3054,7 @@
                 }
             },
             "Prestidigitation": {
-                "name": "",
+                "name": "魔法伎俩Prestidigitation",
                 "system": {
                     "description": {
                         "value": ""
@@ -3062,7 +3062,7 @@
                 }
             },
             "Ray of Frost": {
-                "name": "",
+                "name": "冷冻射线Ray of Frost",
                 "system": {
                     "description": {
                         "value": ""
@@ -3070,7 +3070,7 @@
                 }
             },
             "Shocking Grasp": {
-                "name": "",
+                "name": "电爪Shocking Grasp",
                 "system": {
                     "description": {
                         "value": ""
@@ -3078,7 +3078,7 @@
                 }
             },
             "Detect Magic": {
-                "name": "",
+                "name": "侦测魔法Detect Magic",
                 "system": {
                     "description": {
                         "value": ""
@@ -3086,7 +3086,7 @@
                 }
             },
             "Magic Missile": {
-                "name": "",
+                "name": "魔法飞弹Magic Missile",
                 "system": {
                     "description": {
                         "value": ""
@@ -3094,7 +3094,7 @@
                 }
             },
             "Shield": {
-                "name": "",
+                "name": "护卫Shield",
                 "system": {
                     "description": {
                         "value": ""
@@ -3102,7 +3102,7 @@
                 }
             },
             "Thunderwave": {
-                "name": "",
+                "name": "雷鸣波Thunderwave",
                 "system": {
                     "description": {
                         "value": ""
@@ -3118,7 +3118,7 @@
                 }
             },
             "Blur": {
-                "name": "",
+                "name": "朦胧术Blur",
                 "system": {
                     "description": {
                         "value": ""
@@ -3126,7 +3126,7 @@
                 }
             },
             "Enlarge/Reduce": {
-                "name": "",
+                "name": "变巨/缩小术 Enlarge/Reduce",
                 "system": {
                     "description": {
                         "value": ""
@@ -3142,7 +3142,7 @@
                 }
             },
             "Hold Person": {
-                "name": "",
+                "name": "人类定身术Hold Person",
                 "system": {
                     "description": {
                         "value": ""
@@ -3158,7 +3158,7 @@
                 }
             },
             "Counterspell": {
-                "name": "",
+                "name": "法术反制Counterspell",
                 "system": {
                     "description": {
                         "value": ""
@@ -3166,7 +3166,7 @@
                 }
             },
             "Fireball": {
-                "name": "",
+                "name": "火球术Fireball",
                 "system": {
                     "description": {
                         "value": ""
@@ -3174,7 +3174,7 @@
                 }
             },
             "Lightning Bolt": {
-                "name": "",
+                "name": "闪电束Lightning Bolt",
                 "system": {
                     "description": {
                         "value": ""
@@ -3190,7 +3190,7 @@
                 }
             },
             "Confusion": {
-                "name": "",
+                "name": "困惑术Confusion",
                 "system": {
                     "description": {
                         "value": ""
@@ -3198,7 +3198,7 @@
                 }
             },
             "Dimension Door": {
-                "name": "",
+                "name": "任意门Dimension Door",
                 "system": {
                     "description": {
                         "value": ""
@@ -3222,7 +3222,7 @@
                 }
             },
             "Polymorph": {
-                "name": "",
+                "name": "变形",
                 "system": {
                     "description": {
                         "value": ""
@@ -3230,7 +3230,7 @@
                 }
             },
             "Wall of Fire": {
-                "name": "",
+                "name": "火墙术Wall of Fire",
                 "system": {
                     "description": {
                         "value": ""
@@ -3238,7 +3238,7 @@
                 }
             },
             "Wall of Force": {
-                "name": "",
+                "name": "力场墙Wall of Force",
                 "system": {
                     "description": {
                         "value": ""
@@ -3254,7 +3254,7 @@
                 }
             },
             "Disintegrate": {
-                "name": "",
+                "name": "解离术Disintegrate",
                 "system": {
                     "description": {
                         "value": ""
@@ -3262,7 +3262,7 @@
                 }
             },
             "True Seeing": {
-                "name": "",
+                "name": "真知术True Seeing",
                 "system": {
                     "description": {
                         "value": ""
@@ -3286,7 +3286,7 @@
                 }
             },
             "Teleport": {
-                "name": "",
+                "name": "传送 Teleport",
                 "system": {
                     "description": {
                         "value": ""
@@ -3294,7 +3294,7 @@
                 }
             },
             "Control Weather": {
-                "name": "",
+                "name": "操控天气Control Weather",
                 "system": {
                     "description": {
                         "value": ""
@@ -3310,7 +3310,7 @@
                 }
             },
             "Power Word Stun": {
-                "name": "",
+                "name": "律令震慑Power Word Stun",
                 "system": {
                     "description": {
                         "value": ""
@@ -3326,7 +3326,7 @@
                 }
             },
             "Spellcasting": {
-                "name": "",
+                "name": "施法Spellcasting",
                 "system": {
                     "description": {
                         "value": ""
@@ -3350,7 +3350,7 @@
         },
         "items": {
             "Multiattack": {
-                "name": "",
+                "name": "多重攻击Multiattack",
                 "system": {
                     "description": {
                         "value": ""
@@ -3358,7 +3358,7 @@
                 }
             },
             "Longsword": {
-                "name": "",
+                "name": "长剑 Longsword",
                 "system": {
                     "description": {
                         "value": ""
@@ -3374,7 +3374,7 @@
                 }
             },
             "Flyby": {
-                "name": "",
+                "name": "飞掠Flyby",
                 "system": {
                     "description": {
                         "value": ""
@@ -3382,7 +3382,7 @@
                 }
             },
             "Magic Resistance": {
-                "name": "",
+                "name": "魔法抗性Magic Resistance",
                 "system": {
                     "description": {
                         "value": ""
@@ -3390,7 +3390,7 @@
                 }
             },
             "Plate Armor": {
-                "name": "",
+                "name": "板甲 Plate Armor",
                 "system": {
                     "description": {
                         "value": ""
@@ -3414,7 +3414,7 @@
         },
         "items": {
             "Multiattack": {
-                "name": "",
+                "name": "多重攻击 Multiattack",
                 "system": {
                     "description": {
                         "value": ""
@@ -3430,7 +3430,7 @@
                 }
             },
             "Tentacles": {
-                "name": "",
+                "name": "触须 Tentacles",
                 "system": {
                     "description": {
                         "value": ""
@@ -3446,7 +3446,7 @@
                 }
             },
             "Illumination": {
-                "name": "",
+                "name": "照明Illumination",
                 "system": {
                     "description": {
                         "value": ""
@@ -3470,7 +3470,7 @@
         },
         "items": {
             "Quarterstaff": {
-                "name": "",
+                "name": "长棍Quarterstaff",
                 "system": {
                     "description": {
                         "value": ""
@@ -3486,7 +3486,7 @@
                 }
             },
             "Banishment": {
-                "name": "",
+                "name": "放逐术Banishment",
                 "system": {
                     "description": {
                         "value": ""
@@ -3494,7 +3494,7 @@
                 }
             },
             "Cone of Cold": {
-                "name": "",
+                "name": "寒冰锥Cone of Cold",
                 "system": {
                     "description": {
                         "value": ""
@@ -3502,7 +3502,7 @@
                 }
             },
             "Dimension Door": {
-                "name": "",
+                "name": "任意门Dimension Door",
                 "system": {
                     "description": {
                         "value": ""
@@ -3510,7 +3510,7 @@
                 }
             },
             "Fireball": {
-                "name": "",
+                "name": "火球术Fireball",
                 "system": {
                     "description": {
                         "value": ""
@@ -3518,7 +3518,7 @@
                 }
             },
             "Ice Storm": {
-                "name": "",
+                "name": "冰风暴Ice Storm",
                 "system": {
                     "description": {
                         "value": ""
@@ -3526,7 +3526,7 @@
                 }
             },
             "Mage Armor": {
-                "name": "",
+                "name": "法师护甲Mage Armor",
                 "system": {
                     "description": {
                         "value": ""
@@ -3542,7 +3542,7 @@
                 }
             },
             "Innate Spellcasting": {
-                "name": "",
+                "name": "天生施法Innate Spellcasting",
                 "system": {
                     "description": {
                         "value": ""
@@ -3558,7 +3558,7 @@
         },
         "system": {
             "details": {
-                "alignment": "",
+                "alignment": "无阵营",
                 "biography": {
                     "value": ""
                 }
@@ -3566,7 +3566,7 @@
         },
         "items": {
             "Claws": {
-                "name": "",
+                "name": "爪击 Claws",
                 "system": {
                     "description": {
                         "value": ""
@@ -3590,7 +3590,7 @@
         },
         "system": {
             "details": {
-                "alignment": "",
+                "alignment": "中立邪恶",
                 "biography": {
                     "value": ""
                 }
@@ -3598,7 +3598,7 @@
         },
         "items": {
             "Multiattack": {
-                "name": "",
+                "name": "多重攻击 Multiattack",
                 "system": {
                     "description": {
                         "value": ""
@@ -3606,7 +3606,7 @@
                 }
             },
             "Bite": {
-                "name": "",
+                "name": "啃咬 Bite",
                 "system": {
                     "description": {
                         "value": ""
@@ -3614,7 +3614,7 @@
                 }
             },
             "Unarmed Strike": {
-                "name": "",
+                "name": "徒手打击Unarmed Strike",
                 "system": {
                     "description": {
                         "value": ""
@@ -3630,7 +3630,7 @@
                 }
             },
             "Shadow Stealth": {
-                "name": "",
+                "name": "幽影隐匿Shadow Stealth",
                 "system": {
                     "description": {
                         "value": ""
@@ -3638,7 +3638,7 @@
                 }
             },
             "Sunlight Sensitivity": {
-                "name": "",
+                "name": "日照敏感 Sunlight Sensitivity",
                 "system": {
                     "description": {
                         "value": ""
@@ -3646,7 +3646,7 @@
                 }
             },
             "Gaseous Form": {
-                "name": "",
+                "name": "气化形体Gaseous Form",
                 "system": {
                     "description": {
                         "value": ""
@@ -3654,7 +3654,7 @@
                 }
             },
             "Major Image": {
-                "name": "",
+                "name": "高等幻影Major Image",
                 "system": {
                     "description": {
                         "value": ""
@@ -3662,7 +3662,7 @@
                 }
             },
             "Charm Person": {
-                "name": "",
+                "name": "魅惑人类Charm Person",
                 "system": {
                     "description": {
                         "value": ""
@@ -3670,7 +3670,7 @@
                 }
             },
             "Hold Person": {
-                "name": "",
+                "name": "人类定身术Hold Person",
                 "system": {
                     "description": {
                         "value": ""
@@ -3678,7 +3678,7 @@
                 }
             },
             "Mirror Image": {
-                "name": "",
+                "name": "镜影术Mirror Image",
                 "system": {
                     "description": {
                         "value": ""
@@ -3686,7 +3686,7 @@
                 }
             },
             "Sleep": {
-                "name": "",
+                "name": "睡眠术Sleep",
                 "system": {
                     "description": {
                         "value": ""
@@ -3718,7 +3718,7 @@
         },
         "system": {
             "details": {
-                "alignment": "",
+                "alignment": "中立邪恶",
                 "biography": {
                     "value": ""
                 }
@@ -3726,7 +3726,7 @@
         },
         "items": {
             "Claws": {
-                "name": "",
+                "name": "爪击 Claws",
                 "system": {
                     "description": {
                         "value": ""
@@ -3750,7 +3750,7 @@
                 }
             },
             "Sunlight Sensitivity": {
-                "name": "",
+                "name": "日照敏感 Sunlight Sensitivity",
                 "system": {
                     "description": {
                         "value": ""
@@ -3766,7 +3766,7 @@
         },
         "system": {
             "details": {
-                "alignment": "",
+                "alignment": "中立邪恶",
                 "biography": {
                     "value": ""
                 }
@@ -3806,7 +3806,7 @@
                 }
             },
             "Dominate Person": {
-                "name": "",
+                "name": "支配人类Dominate Person",
                 "system": {
                     "description": {
                         "value": ""
@@ -3830,7 +3830,7 @@
                 }
             },
             "Charm Person": {
-                "name": "",
+                "name": "魅惑人类Charm Person",
                 "system": {
                     "description": {
                         "value": ""
@@ -3838,7 +3838,7 @@
                 }
             },
             "Detect Thoughts": {
-                "name": "",
+                "name": "侦测思想Detect Thoughts",
                 "system": {
                     "description": {
                         "value": ""
@@ -3846,7 +3846,7 @@
                 }
             },
             "Mage Armor": {
-                "name": "",
+                "name": "法师护甲",
                 "system": {
                     "description": {
                         "value": ""
@@ -3854,7 +3854,7 @@
                 }
             },
             "Sleep": {
-                "name": "",
+                "name": "睡眠术Sleep",
                 "system": {
                     "description": {
                         "value": ""
@@ -3862,7 +3862,7 @@
                 }
             },
             "Suggestion": {
-                "name": "",
+                "name": "暗示术Suggestion",
                 "system": {
                     "description": {
                         "value": ""
@@ -3918,7 +3918,7 @@
                 }
             },
             "Assassinate": {
-                "name": "",
+                "name": "暗杀Assassinate",
                 "system": {
                     "description": {
                         "value": ""
@@ -3950,7 +3950,7 @@
         },
         "items": {
             "Club": {
-                "name": "",
+                "name": "短棍Club",
                 "system": {
                     "description": {
                         "value": ""
@@ -3958,7 +3958,7 @@
                 }
             },
             "Leather Armor": {
-                "name": "",
+                "name": "皮甲Leather Armor",
                 "system": {
                     "description": {
                         "value": ""
@@ -3966,7 +3966,7 @@
                 }
             },
             "Dancing Lights": {
-                "name": "",
+                "name": "舞光术 Dancing Lights",
                 "system": {
                     "description": {
                         "value": ""
@@ -3974,7 +3974,7 @@
                 }
             },
             "Minor Illusion": {
-                "name": "",
+                "name": "次级幻影Minor Illusion",
                 "system": {
                     "description": {
                         "value": ""
@@ -3982,7 +3982,7 @@
                 }
             },
             "Vicious Mockery": {
-                "name": "",
+                "name": "恶言相加Vicious Mockery",
                 "system": {
                     "description": {
                         "value": ""
@@ -4022,7 +4022,7 @@
                 }
             },
             "Thunderwave": {
-                "name": "",
+                "name": "雷鸣波Thunderwave",
                 "system": {
                     "description": {
                         "value": ""
@@ -4046,7 +4046,7 @@
                 }
             },
             "Suggestion": {
-                "name": "",
+                "name": "暗示术Suggestion",
                 "system": {
                     "description": {
                         "value": ""
@@ -4054,7 +4054,7 @@
                 }
             },
             "Spellcasting": {
-                "name": "",
+                "name": "施法Spellcasting",
                 "system": {
                     "description": {
                         "value": ""
@@ -4070,7 +4070,7 @@
         },
         "system": {
             "details": {
-                "alignment": "",
+                "alignment": "中立邪恶",
                 "biography": {
                     "value": ""
                 }
@@ -4078,7 +4078,7 @@
         },
         "items": {
             "Multiattack": {
-                "name": "",
+                "name": "多重攻击 Multiattack",
                 "system": {
                     "description": {
                         "value": ""
@@ -4086,7 +4086,7 @@
                 }
             },
             "Bite": {
-                "name": "",
+                "name": "啃咬 Bite",
                 "system": {
                     "description": {
                         "value": ""
@@ -4094,7 +4094,7 @@
                 }
             },
             "Claws": {
-                "name": "",
+                "name": "爪击 Claws",
                 "system": {
                     "description": {
                         "value": ""
@@ -4110,7 +4110,7 @@
                 }
             },
             "Spider Climb": {
-                "name": "",
+                "name": "蛛行 Spider Climb",
                 "system": {
                     "description": {
                         "value": ""
@@ -4118,7 +4118,7 @@
                 }
             },
             "Sunlight Sensitivity": {
-                "name": "",
+                "name": "日照敏感 Sunlight Sensitivity",
                 "system": {
                     "description": {
                         "value": ""
@@ -4134,7 +4134,7 @@
         },
         "system": {
             "details": {
-                "alignment": "",
+                "alignment": "中立邪恶",
                 "biography": {
                     "value": ""
                 }
@@ -4142,7 +4142,7 @@
         },
         "items": {
             "Multiattack": {
-                "name": "",
+                "name": "多重攻击Multiattack",
                 "system": {
                     "description": {
                         "value": ""
@@ -4150,7 +4150,7 @@
                 }
             },
             "Bite": {
-                "name": "",
+                "name": "啃咬Bite",
                 "system": {
                     "description": {
                         "value": ""
@@ -4158,7 +4158,7 @@
                 }
             },
             "Claw": {
-                "name": "",
+                "name": "爪击 Claw",
                 "system": {
                     "description": {
                         "value": ""
@@ -4174,7 +4174,7 @@
                 }
             },
             "Incorporeal Movement": {
-                "name": "",
+                "name": "虚体移动Incorporeal Movement",
                 "system": {
                     "description": {
                         "value": ""
@@ -4182,7 +4182,7 @@
                 }
             },
             "Shadow Stealth": {
-                "name": "",
+                "name": "幽影隐匿Shadow Stealth",
                 "system": {
                     "description": {
                         "value": ""
@@ -4198,7 +4198,7 @@
                 }
             },
             "Sunlight Sensitivity": {
-                "name": "",
+                "name": "日照敏感 Sunlight Sensitivity",
                 "system": {
                     "description": {
                         "value": ""
@@ -4222,7 +4222,7 @@
         },
         "items": {
             "Multiattack": {
-                "name": "",
+                "name": "多重攻击 Multiattack",
                 "system": {
                     "description": {
                         "value": ""
@@ -4278,7 +4278,7 @@
                 }
             },
             "Flyby": {
-                "name": "",
+                "name": "飞掠Flyby",
                 "system": {
                     "description": {
                         "value": ""
@@ -4294,7 +4294,7 @@
                 }
             },
             "Illumination": {
-                "name": "",
+                "name": "照明 Illumination",
                 "system": {
                     "description": {
                         "value": ""
@@ -4334,7 +4334,7 @@
         },
         "items": {
             "Quarterstaff": {
-                "name": "",
+                "name": "长棍Quarterstaff",
                 "system": {
                     "description": {
                         "value": ""
@@ -4342,7 +4342,7 @@
                 }
             },
             "Siege Monster": {
-                "name": "",
+                "name": "攻城怪物Siege Monster",
                 "system": {
                     "description": {
                         "value": ""
@@ -4350,7 +4350,7 @@
                 }
             },
             "Speak with Beasts and Plants": {
-                "name": "",
+                "name": "动植物交谈Speak with Beasts and Plants",
                 "system": {
                     "description": {
                         "value": ""
@@ -4358,7 +4358,7 @@
                 }
             },
             "Hide Armor": {
-                "name": "",
+                "name": "兽皮甲Hide Armor",
                 "system": {
                     "description": {
                         "value": ""
@@ -4366,7 +4366,7 @@
                 }
             },
             "Druidcraft": {
-                "name": "",
+                "name": "德鲁伊伎俩Druidcraft",
                 "system": {
                     "description": {
                         "value": ""
@@ -4374,7 +4374,7 @@
                 }
             },
             "Produce Flame": {
-                "name": "",
+                "name": "燃火术Produce Flame",
                 "system": {
                     "description": {
                         "value": ""
@@ -4398,7 +4398,7 @@
                 }
             },
             "Cure Wounds": {
-                "name": "",
+                "name": "疗伤术Cure Wounds",
                 "system": {
                     "description": {
                         "value": ""
@@ -4406,7 +4406,7 @@
                 }
             },
             "Faerie Fire": {
-                "name": "",
+                "name": "妖火 Faerie Fire",
                 "system": {
                     "description": {
                         "value": ""
@@ -4414,7 +4414,7 @@
                 }
             },
             "Thunderwave": {
-                "name": "",
+                "name": "雷鸣波Thunderwave",
                 "system": {
                     "description": {
                         "value": ""
@@ -4438,7 +4438,7 @@
                 }
             },
             "Pass without Trace": {
-                "name": "",
+                "name": "行动无踪Pass without Trace",
                 "system": {
                     "description": {
                         "value": ""
@@ -4454,7 +4454,7 @@
                 }
             },
             "Dispel Magic": {
-                "name": "",
+                "name": "解除魔法Dispel Magic",
                 "system": {
                     "description": {
                         "value": ""
@@ -4478,7 +4478,7 @@
                 }
             },
             "Freedom of Movement": {
-                "name": "",
+                "name": "行动自如Freedom of Movement",
                 "system": {
                     "description": {
                         "value": ""
@@ -4486,7 +4486,7 @@
                 }
             },
             "Wall of Fire": {
-                "name": "",
+                "name": "火墙术Wall of Fire",
                 "system": {
                     "description": {
                         "value": ""
@@ -4510,7 +4510,7 @@
                 }
             },
             "Scrying": {
-                "name": "",
+                "name": "探知Scrying",
                 "system": {
                     "description": {
                         "value": ""
@@ -4534,7 +4534,7 @@
                 }
             },
             "Spellcasting": {
-                "name": "",
+                "name": "施法Spellcasting",
                 "system": {
                     "description": {
                         "value": ""
@@ -4558,7 +4558,7 @@
         },
         "items": {
             "Multiattack": {
-                "name": "",
+                "name": "多重攻击 Multiattack",
                 "system": {
                     "description": {
                         "value": ""
@@ -4566,7 +4566,7 @@
                 }
             },
             "Slam": {
-                "name": "",
+                "name": "猛击 Slam",
                 "system": {
                     "description": {
                         "value": ""
@@ -4598,7 +4598,7 @@
         },
         "system": {
             "details": {
-                "alignment": "",
+                "alignment": "中立邪恶",
                 "biography": {
                     "value": ""
                 }
@@ -4606,7 +4606,7 @@
         },
         "items": {
             "Multiattack": {
-                "name": "",
+                "name": "多重攻击 Multiattack",
                 "system": {
                     "description": {
                         "value": ""
@@ -4654,7 +4654,7 @@
         },
         "system": {
             "details": {
-                "alignment": "",
+                "alignment": "中立邪恶",
                 "biography": {
                     "value": ""
                 }
@@ -4662,7 +4662,7 @@
         },
         "items": {
             "Quarterstaff": {
-                "name": "",
+                "name": "长棍Quarterstaff",
                 "system": {
                     "description": {
                         "value": ""
@@ -4678,7 +4678,7 @@
                 }
             },
             "Fey Ancestry": {
-                "name": "",
+                "name": "精类血统 Fey Ancestry",
                 "system": {
                     "description": {
                         "value": ""
@@ -4694,7 +4694,7 @@
                 }
             },
             "Hide Armor": {
-                "name": "",
+                "name": "兽皮甲Hide Armor",
                 "system": {
                     "description": {
                         "value": ""
@@ -4710,7 +4710,7 @@
                 }
             },
             "Shillelagh": {
-                "name": "",
+                "name": "橡棍术Shillelagh",
                 "system": {
                     "description": {
                         "value": ""
@@ -4726,7 +4726,7 @@
                 }
             },
             "Cure Wounds": {
-                "name": "",
+                "name": "疗伤术Cure Wounds",
                 "system": {
                     "description": {
                         "value": ""
@@ -4734,7 +4734,7 @@
                 }
             },
             "Entangle": {
-                "name": "",
+                "name": "纠缠术Entangle",
                 "system": {
                     "description": {
                         "value": ""
@@ -4750,7 +4750,7 @@
                 }
             },
             "Pass without Trace": {
-                "name": "",
+                "name": "行动无踪Pass without Trace",
                 "system": {
                     "description": {
                         "value": ""
@@ -4758,7 +4758,7 @@
                 }
             },
             "Ray of Enfeeblement": {
-                "name": "",
+                "name": "衰弱射线Ray of Enfeeblement",
                 "system": {
                     "description": {
                         "value": ""
@@ -4774,7 +4774,7 @@
                 }
             },
             "Animate Dead": {
-                "name": "",
+                "name": "操纵死尸Animate Dead",
                 "system": {
                     "description": {
                         "value": ""
@@ -4782,7 +4782,7 @@
                 }
             },
             "Dispel Magic": {
-                "name": "",
+                "name": "解除魔法Dispel Magic",
                 "system": {
                     "description": {
                         "value": ""
@@ -4798,7 +4798,7 @@
                 }
             },
             "Blight": {
-                "name": "",
+                "name": "枯萎术Blight",
                 "system": {
                     "description": {
                         "value": ""
@@ -4814,7 +4814,7 @@
                 }
             },
             "Spellcasting": {
-                "name": "",
+                "name": "施法Spellcasting",
                 "system": {
                     "description": {
                         "value": ""
@@ -4838,7 +4838,7 @@
         },
         "items": {
             "Multiattack": {
-                "name": "",
+                "name": "多重攻击Multiattack",
                 "system": {
                     "description": {
                         "value": ""
@@ -4870,7 +4870,7 @@
         },
         "system": {
             "details": {
-                "alignment": "",
+                "alignment": "无阵营",
                 "biography": {
                     "value": ""
                 }
@@ -4878,7 +4878,7 @@
         },
         "items": {
             "Multiattack": {
-                "name": "",
+                "name": "多重攻击Multiattack",
                 "system": {
                     "description": {
                         "value": ""
@@ -4886,7 +4886,7 @@
                 }
             },
             "Bite": {
-                "name": "",
+                "name": "啃咬 Bite",
                 "system": {
                     "description": {
                         "value": ""
@@ -4894,7 +4894,7 @@
                 }
             },
             "Slam": {
-                "name": "",
+                "name": "猛击Slam",
                 "system": {
                     "description": {
                         "value": ""
@@ -4902,7 +4902,7 @@
                 }
             },
             "Amphibious": {
-                "name": "",
+                "name": "水陆两栖 Amphibious",
                 "system": {
                     "description": {
                         "value": ""
@@ -4926,7 +4926,7 @@
         },
         "items": {
             "Multiattack": {
-                "name": "",
+                "name": "多重攻击 Multiattack",
                 "system": {
                     "description": {
                         "value": ""
@@ -4934,7 +4934,7 @@
                 }
             },
             "Bite": {
-                "name": "",
+                "name": "啃咬 Bite",
                 "system": {
                     "description": {
                         "value": ""
@@ -4942,7 +4942,7 @@
                 }
             },
             "Claws": {
-                "name": "",
+                "name": "爪击 Claws",
                 "system": {
                     "description": {
                         "value": ""
@@ -4958,7 +4958,7 @@
                 }
             },
             "Magic Resistance": {
-                "name": "",
+                "name": "魔法抗性 Magic Resistance",
                 "system": {
                     "description": {
                         "value": ""
@@ -4966,7 +4966,7 @@
                 }
             },
             "Confusion": {
-                "name": "",
+                "name": "困惑术Confusion",
                 "system": {
                     "description": {
                         "value": ""
@@ -4982,7 +4982,7 @@
                 }
             },
             "Clairvoyance": {
-                "name": "",
+                "name": "鹰眼术Clairvoyance",
                 "system": {
                     "description": {
                         "value": ""
@@ -4998,7 +4998,7 @@
                 }
             },
             "Major Image": {
-                "name": "",
+                "name": "高等幻影Major Image",
                 "system": {
                     "description": {
                         "value": ""
@@ -5006,7 +5006,7 @@
                 }
             },
             "Suggestion": {
-                "name": "",
+                "name": "暗示术Suggestion",
                 "system": {
                     "description": {
                         "value": ""
@@ -5014,7 +5014,7 @@
                 }
             },
             "Innate Spellcasting": {
-                "name": "",
+                "name": "天生施法Innate Spellcasting",
                 "system": {
                     "description": {
                         "value": ""
@@ -5054,7 +5054,7 @@
                 }
             },
             "Plate Armor": {
-                "name": "",
+                "name": "板甲 Plate Armor",
                 "system": {
                     "description": {
                         "value": ""
@@ -5062,7 +5062,7 @@
                 }
             },
             "Shield": {
-                "name": "",
+                "name": "护卫Shield",
                 "system": {
                     "description": {
                         "value": ""
@@ -5070,7 +5070,7 @@
                 }
             },
             "Mending": {
-                "name": "",
+                "name": "修复术Mending",
                 "system": {
                     "description": {
                         "value": ""
@@ -5086,7 +5086,7 @@
                 }
             },
             "Spare the Dying": {
-                "name": "",
+                "name": "维生术Spare the Dying",
                 "system": {
                     "description": {
                         "value": ""
@@ -5094,7 +5094,7 @@
                 }
             },
             "Cure Wounds": {
-                "name": "",
+                "name": "疗伤术Cure Wounds",
                 "system": {
                     "description": {
                         "value": ""
@@ -5102,7 +5102,7 @@
                 }
             },
             "Sanctuary": {
-                "name": "",
+                "name": "庇护术Sanctuary",
                 "system": {
                     "description": {
                         "value": ""
@@ -5118,7 +5118,7 @@
                 }
             },
             "Lesser Restoration": {
-                "name": "",
+                "name": "次级复原术Lesser Restoration",
                 "system": {
                     "description": {
                         "value": ""
@@ -5126,7 +5126,7 @@
                 }
             },
             "Spellcasting": {
-                "name": "",
+                "name": "施法Spellcasting",
                 "system": {
                     "description": {
                         "value": ""
@@ -5150,7 +5150,7 @@
         },
         "items": {
             "Multiattack": {
-                "name": "",
+                "name": "多重攻击 Multiattack",
                 "system": {
                     "description": {
                         "value": ""
@@ -5214,7 +5214,7 @@
                 }
             },
             "Legendary Actions": {
-                "name": "",
+                "name": "传奇动作 Legendary Actions",
                 "system": {
                     "description": {
                         "value": ""
@@ -5222,7 +5222,7 @@
                 }
             },
             "Plate Armor": {
-                "name": "",
+                "name": "板甲 Plate Armor",
                 "system": {
                     "description": {
                         "value": ""
@@ -5230,7 +5230,7 @@
                 }
             },
             "Calm Emotions": {
-                "name": "",
+                "name": "安定心神Calm Emotions",
                 "system": {
                     "description": {
                         "value": ""
@@ -5238,7 +5238,7 @@
                 }
             },
             "Command": {
-                "name": "",
+                "name": "命令术Command",
                 "system": {
                     "description": {
                         "value": ""
@@ -5254,7 +5254,7 @@
                 }
             },
             "Innate Spellcasting": {
-                "name": "",
+                "name": "天生施法Innate Spellcasting",
                 "system": {
                     "description": {
                         "value": ""
@@ -5278,7 +5278,7 @@
         },
         "items": {
             "Multiattack": {
-                "name": "",
+                "name": "多重攻击Multiattack",
                 "system": {
                     "description": {
                         "value": ""
@@ -5286,7 +5286,7 @@
                 }
             },
             "Greatsword": {
-                "name": "",
+                "name": "巨剑Greatsword",
                 "system": {
                     "description": {
                         "value": ""
@@ -5302,7 +5302,7 @@
                 }
             },
             "Plate Armor": {
-                "name": "",
+                "name": "板甲 Plate Armor",
                 "system": {
                     "description": {
                         "value": ""
@@ -5310,7 +5310,7 @@
                 }
             },
             "Fire Bolt": {
-                "name": "",
+                "name": "火焰箭Fire Bolt",
                 "system": {
                     "description": {
                         "value": ""
@@ -5318,7 +5318,7 @@
                 }
             },
             "Light": {
-                "name": "",
+                "name": "光亮术Light",
                 "system": {
                     "description": {
                         "value": ""
@@ -5326,7 +5326,7 @@
                 }
             },
             "Sacred Flame": {
-                "name": "",
+                "name": "圣火术Sacred Flame",
                 "system": {
                     "description": {
                         "value": ""
@@ -5334,7 +5334,7 @@
                 }
             },
             "Spare the Dying": {
-                "name": "",
+                "name": "维生术Spare the Dying",
                 "system": {
                     "description": {
                         "value": ""
@@ -5342,7 +5342,7 @@
                 }
             },
             "Guiding Bolt": {
-                "name": "",
+                "name": "曳光弹Guiding Bolt",
                 "system": {
                     "description": {
                         "value": ""
@@ -5366,7 +5366,7 @@
                 }
             },
             "Shield of Faith": {
-                "name": "",
+                "name": "虔诚护盾Shield of Faith",
                 "system": {
                     "description": {
                         "value": ""
@@ -5374,7 +5374,7 @@
                 }
             },
             "Lesser Restoration": {
-                "name": "",
+                "name": "次级复原术Lesser Restoration",
                 "system": {
                     "description": {
                         "value": ""
@@ -5414,7 +5414,7 @@
                 }
             },
             "Banishment": {
-                "name": "",
+                "name": "放逐术Banishment",
                 "system": {
                     "description": {
                         "value": ""
@@ -5422,7 +5422,7 @@
                 }
             },
             "Wall of Fire": {
-                "name": "",
+                "name": "火墙术Wall of Fire",
                 "system": {
                     "description": {
                         "value": ""
@@ -5430,7 +5430,7 @@
                 }
             },
             "Flame Strike": {
-                "name": "",
+                "name": "焰击术Flame Strike",
                 "system": {
                     "description": {
                         "value": ""
@@ -5438,7 +5438,7 @@
                 }
             },
             "Spellcasting": {
-                "name": "",
+                "name": "施法Spellcasting",
                 "system": {
                     "description": {
                         "value": ""
@@ -5462,7 +5462,7 @@
         },
         "items": {
             "Multiattack": {
-                "name": "",
+                "name": "多重攻击Multiattack",
                 "system": {
                     "description": {
                         "value": ""
@@ -5478,7 +5478,7 @@
                 }
             },
             "Claw": {
-                "name": "",
+                "name": "爪击 Claw",
                 "system": {
                     "description": {
                         "value": ""
@@ -5502,7 +5502,7 @@
                 }
             },
             "Legendary Resistance": {
-                "name": "",
+                "name": "传奇抗性 Legendary Resistance",
                 "system": {
                     "description": {
                         "value": ""
@@ -5510,7 +5510,7 @@
                 }
             },
             "Magic Resistance": {
-                "name": "",
+                "name": "魔法抗性 Magic Resistance",
                 "system": {
                     "description": {
                         "value": ""
@@ -5518,7 +5518,7 @@
                 }
             },
             "Magic Weapons": {
-                "name": "",
+                "name": "魔法武器 Magic Weapons",
                 "system": {
                     "description": {
                         "value": ""
@@ -5550,7 +5550,7 @@
                 }
             },
             "Legendary Actions": {
-                "name": "",
+                "name": "传奇动作 Legendary Actions",
                 "system": {
                     "description": {
                         "value": ""
@@ -5566,7 +5566,7 @@
                 }
             },
             "Innate Spellcasting": {
-                "name": "",
+                "name": "天生施法Innate Spellcasting",
                 "system": {
                     "description": {
                         "value": ""
@@ -5590,7 +5590,7 @@
         },
         "items": {
             "Quarterstaff": {
-                "name": "",
+                "name": "长棍Quarterstaff",
                 "system": {
                     "description": {
                         "value": ""
@@ -5614,7 +5614,7 @@
                 }
             },
             "Clairvoyance": {
-                "name": "",
+                "name": "鹰眼术Clairvoyance",
                 "system": {
                     "description": {
                         "value": ""
@@ -5622,7 +5622,7 @@
                 }
             },
             "Locate Object": {
-                "name": "",
+                "name": "物件定位术Locate Object",
                 "system": {
                     "description": {
                         "value": ""
@@ -5630,7 +5630,7 @@
                 }
             },
             "Detect Thoughts": {
-                "name": "",
+                "name": "侦测思想Detect Thoughts",
                 "system": {
                     "description": {
                         "value": ""
@@ -5638,7 +5638,7 @@
                 }
             },
             "Mage Armor": {
-                "name": "",
+                "name": "法师护甲Mage Armor",
                 "system": {
                     "description": {
                         "value": ""
@@ -5646,7 +5646,7 @@
                 }
             },
             "Innate Spellcasting": {
-                "name": "",
+                "name": "天生施法Innate Spellcasting",
                 "system": {
                     "description": {
                         "value": ""
@@ -5662,7 +5662,7 @@
         },
         "system": {
             "details": {
-                "alignment": "",
+                "alignment": "任意阵营",
                 "biography": {
                     "value": ""
                 }
@@ -5670,7 +5670,7 @@
         },
         "items": {
             "Withering Touch": {
-                "name": "",
+                "name": "枯萎触击Withering Touch",
                 "system": {
                     "description": {
                         "value": ""
@@ -5678,7 +5678,7 @@
                 }
             },
             "Incorporeal Movement": {
-                "name": "",
+                "name": "虚体移动Incorporeal Movement",
                 "system": {
                     "description": {
                         "value": ""
@@ -5702,7 +5702,7 @@
         },
         "items": {
             "Quarterstaff": {
-                "name": "",
+                "name": "长棍Quarterstaff",
                 "system": {
                     "description": {
                         "value": ""
@@ -5710,7 +5710,7 @@
                 }
             },
             "Breastplate": {
-                "name": "",
+                "name": "胸甲Breastplate",
                 "system": {
                     "description": {
                         "value": ""
@@ -5718,7 +5718,7 @@
                 }
             },
             "Fire Bolt": {
-                "name": "",
+                "name": "火焰箭Fire Bolt",
                 "system": {
                     "description": {
                         "value": ""
@@ -5734,7 +5734,7 @@
                 }
             },
             "Light": {
-                "name": "",
+                "name": "光亮术Light",
                 "system": {
                     "description": {
                         "value": ""
@@ -5766,7 +5766,7 @@
                 }
             },
             "Shield": {
-                "name": "",
+                "name": "护盾术Shield",
                 "system": {
                     "description": {
                         "value": ""
@@ -5782,7 +5782,7 @@
                 }
             },
             "Detect Thoughts": {
-                "name": "",
+                "name": "侦测思想Detect Thoughts",
                 "system": {
                     "description": {
                         "value": ""
@@ -5790,7 +5790,7 @@
                 }
             },
             "Hold Person": {
-                "name": "",
+                "name": "人类定身术Hold Person",
                 "system": {
                     "description": {
                         "value": ""
@@ -5798,7 +5798,7 @@
                 }
             },
             "Clairvoyance": {
-                "name": "",
+                "name": "鹰眼术Clairvoyance",
                 "system": {
                     "description": {
                         "value": ""
@@ -5806,7 +5806,7 @@
                 }
             },
             "Dispel Magic": {
-                "name": "",
+                "name": "解除魔法Dispel Magic",
                 "system": {
                     "description": {
                         "value": ""
@@ -5830,7 +5830,7 @@
                 }
             },
             "Stoneskin": {
-                "name": "",
+                "name": "石肤术Stoneskin",
                 "system": {
                     "description": {
                         "value": ""
@@ -5838,7 +5838,7 @@
                 }
             },
             "Spellcasting": {
-                "name": "",
+                "name": "施法Spellcasting",
                 "system": {
                     "description": {
                         "value": ""
@@ -5862,7 +5862,7 @@
         },
         "items": {
             "Multiattack": {
-                "name": "",
+                "name": "多重攻击 Multiattack",
                 "system": {
                     "description": {
                         "value": ""
@@ -5870,7 +5870,7 @@
                 }
             },
             "Claw": {
-                "name": "",
+                "name": "爪击 Claw",
                 "system": {
                     "description": {
                         "value": ""
@@ -5878,7 +5878,7 @@
                 }
             },
             "Inscrutable": {
-                "name": "",
+                "name": "神秘莫测Inscrutable",
                 "system": {
                     "description": {
                         "value": ""
@@ -5886,7 +5886,7 @@
                 }
             },
             "Magic Weapons": {
-                "name": "",
+                "name": "魔法武器 Magic Weapons",
                 "system": {
                     "description": {
                         "value": ""
@@ -5894,7 +5894,7 @@
                 }
             },
             "Claw Attack": {
-                "name": "",
+                "name": "爪击攻击Claw Attack",
                 "system": {
                     "description": {
                         "value": ""
@@ -5902,7 +5902,7 @@
                 }
             },
             "Teleport": {
-                "name": "",
+                "name": "传送术Teleport",
                 "system": {
                     "description": {
                         "value": ""
@@ -5910,7 +5910,7 @@
                 }
             },
             "Cast a Spell": {
-                "name": "",
+                "name": "施展法术Cast a Spell",
                 "system": {
                     "description": {
                         "value": ""
@@ -5918,7 +5918,7 @@
                 }
             },
             "Legendary Actions": {
-                "name": "",
+                "name": "传奇动作 Legendary Actions",
                 "system": {
                     "description": {
                         "value": ""
@@ -5934,7 +5934,7 @@
                 }
             },
             "Mage Hand": {
-                "name": "",
+                "name": "法师之手Mage Hand",
                 "system": {
                     "description": {
                         "value": ""
@@ -5950,7 +5950,7 @@
                 }
             },
             "Command": {
-                "name": "",
+                "name": "命令术Command",
                 "system": {
                     "description": {
                         "value": ""
@@ -5966,7 +5966,7 @@
                 }
             },
             "Shield": {
-                "name": "",
+                "name": "护盾术Shield",
                 "system": {
                     "description": {
                         "value": ""
@@ -5974,7 +5974,7 @@
                 }
             },
             "Calm Emotions": {
-                "name": "",
+                "name": "安定心神Calm Emotions",
                 "system": {
                     "description": {
                         "value": ""
@@ -5982,7 +5982,7 @@
                 }
             },
             "Hold Person": {
-                "name": "",
+                "name": "人类定身术Hold Person",
                 "system": {
                     "description": {
                         "value": ""
@@ -5990,7 +5990,7 @@
                 }
             },
             "Suggestion": {
-                "name": "",
+                "name": "暗示术Suggestion",
                 "system": {
                     "description": {
                         "value": ""
@@ -5998,7 +5998,7 @@
                 }
             },
             "Clairvoyance": {
-                "name": "",
+                "name": "鹰眼术Clairvoyance",
                 "system": {
                     "description": {
                         "value": ""
@@ -6006,7 +6006,7 @@
                 }
             },
             "Counterspell": {
-                "name": "",
+                "name": "法术反制Counterspell",
                 "system": {
                     "description": {
                         "value": ""
@@ -6014,7 +6014,7 @@
                 }
             },
             "Dispel Magic": {
-                "name": "",
+                "name": "解除魔法Dispel Magic",
                 "system": {
                     "description": {
                         "value": ""
@@ -6022,7 +6022,7 @@
                 }
             },
             "Banishment": {
-                "name": "",
+                "name": "放逐术Banishment",
                 "system": {
                     "description": {
                         "value": ""
@@ -6030,7 +6030,7 @@
                 }
             },
             "Divination": {
-                "name": "",
+                "name": "预言系",
                 "system": {
                     "description": {
                         "value": ""
@@ -6038,7 +6038,7 @@
                 }
             },
             "Dominate Person": {
-                "name": "",
+                "name": "支配人类Dominate Person",
                 "system": {
                     "description": {
                         "value": ""
@@ -6046,7 +6046,7 @@
                 }
             },
             "Spellcasting": {
-                "name": "",
+                "name": "施法Spellcasting",
                 "system": {
                     "description": {
                         "value": ""
@@ -6062,7 +6062,7 @@
         },
         "system": {
             "details": {
-                "alignment": "",
+                "alignment": "中立邪恶",
                 "biography": {
                     "value": ""
                 }
@@ -6094,7 +6094,7 @@
                 }
             },
             "Pack Tactics": {
-                "name": "",
+                "name": "集群战术Pack Tactics",
                 "system": {
                     "description": {
                         "value": ""
@@ -6102,7 +6102,7 @@
                 }
             },
             "Spider Climb": {
-                "name": "",
+                "name": "蛛行 Spider Climb",
                 "system": {
                     "description": {
                         "value": ""
@@ -6126,7 +6126,7 @@
         },
         "items": {
             "Multiattack": {
-                "name": "",
+                "name": "多重攻击Multiattack",
                 "system": {
                     "description": {
                         "value": ""
@@ -6134,7 +6134,7 @@
                 }
             },
             "Greataxe": {
-                "name": "",
+                "name": "巨斧Greataxe",
                 "system": {
                     "description": {
                         "value": ""
@@ -6142,7 +6142,7 @@
                 }
             },
             "Rock": {
-                "name": "",
+                "name": "掷石Rock",
                 "system": {
                     "description": {
                         "value": ""
@@ -6150,7 +6150,7 @@
                 }
             },
             "Focus": {
-                "name": "",
+                "name": "专注",
                 "system": {
                     "description": {
                         "value": ""
@@ -6158,7 +6158,7 @@
                 }
             },
             "Plate Armor": {
-                "name": "",
+                "name": "板甲 Plate Armor",
                 "system": {
                     "description": {
                         "value": ""
@@ -6182,7 +6182,7 @@
         },
         "items": {
             "Multiattack": {
-                "name": "",
+                "name": "多重攻击Multiattack",
                 "system": {
                     "description": {
                         "value": ""
@@ -6190,7 +6190,7 @@
                 }
             },
             "Longsword": {
-                "name": "",
+                "name": "长剑 Longsword",
                 "system": {
                     "description": {
                         "value": ""
@@ -6198,7 +6198,7 @@
                 }
             },
             "Shortsword": {
-                "name": "",
+                "name": "短剑 Shortsword",
                 "system": {
                     "description": {
                         "value": ""
@@ -6214,7 +6214,7 @@
                 }
             },
             "Devil's Sight": {
-                "name": "",
+                "name": "魔鬼视界 Devil's Sight",
                 "system": {
                     "description": {
                         "value": ""
@@ -6238,7 +6238,7 @@
                 }
             },
             "Suggestion": {
-                "name": "",
+                "name": "暗示术Suggestion",
                 "system": {
                     "description": {
                         "value": ""
@@ -6278,7 +6278,7 @@
                 }
             },
             "Detect Magic": {
-                "name": "",
+                "name": "侦测魔法Detect Magic",
                 "system": {
                     "description": {
                         "value": ""
@@ -6302,7 +6302,7 @@
                 }
             },
             "Levitate": {
-                "name": "",
+                "name": "浮空术Levitate",
                 "system": {
                     "description": {
                         "value": ""
@@ -6310,7 +6310,7 @@
                 }
             },
             "Mage Armor": {
-                "name": "",
+                "name": "法师护甲Mage Armor",
                 "system": {
                     "description": {
                         "value": ""
@@ -6318,7 +6318,7 @@
                 }
             },
             "Innate Spellcasting": {
-                "name": "",
+                "name": "天生施法Innate Spellcasting",
                 "system": {
                     "description": {
                         "value": ""
@@ -6342,7 +6342,7 @@
         },
         "items": {
             "Multiattack": {
-                "name": "",
+                "name": "多重攻击 Multiattack",
                 "system": {
                     "description": {
                         "value": ""
@@ -6350,7 +6350,7 @@
                 }
             },
             "Claw": {
-                "name": "",
+                "name": "爪击 Claw",
                 "system": {
                     "description": {
                         "value": ""
@@ -6366,7 +6366,7 @@
                 }
             },
             "Inscrutable": {
-                "name": "",
+                "name": "神秘莫测Inscrutable",
                 "system": {
                     "description": {
                         "value": ""
@@ -6374,7 +6374,7 @@
                 }
             },
             "Legendary Resistance": {
-                "name": "",
+                "name": "传奇抗性Legendary Resistance",
                 "system": {
                     "description": {
                         "value": ""
@@ -6382,7 +6382,7 @@
                 }
             },
             "Magic Resistance": {
-                "name": "",
+                "name": "魔法抗性Magic Resistance",
                 "system": {
                     "description": {
                         "value": ""
@@ -6390,7 +6390,7 @@
                 }
             },
             "Claw Attack": {
-                "name": "",
+                "name": "爪击攻击Claw Attack",
                 "system": {
                     "description": {
                         "value": ""
@@ -6398,7 +6398,7 @@
                 }
             },
             "Cast a Spell": {
-                "name": "",
+                "name": "施展法术Cast a Spell",
                 "system": {
                     "description": {
                         "value": ""
@@ -6406,7 +6406,7 @@
                 }
             },
             "Legendary Actions": {
-                "name": "",
+                "name": "传奇动作 Legendary Actions",
                 "system": {
                     "description": {
                         "value": ""
@@ -6430,7 +6430,7 @@
                 }
             },
             "Light": {
-                "name": "",
+                "name": "光亮术Light",
                 "system": {
                     "description": {
                         "value": ""
@@ -6446,7 +6446,7 @@
                 }
             },
             "Sacred Flame": {
-                "name": "",
+                "name": "圣火术Sacred Flame",
                 "system": {
                     "description": {
                         "value": ""
@@ -6454,7 +6454,7 @@
                 }
             },
             "Thaumaturgy": {
-                "name": "",
+                "name": "奇术Thaumaturgy",
                 "system": {
                     "description": {
                         "value": ""
@@ -6462,7 +6462,7 @@
                 }
             },
             "Command": {
-                "name": "",
+                "name": "命令术Command",
                 "system": {
                     "description": {
                         "value": ""
@@ -6470,7 +6470,7 @@
                 }
             },
             "Detect Evil and Good": {
-                "name": "",
+                "name": "侦测善恶Detect Evil and Good",
                 "system": {
                     "description": {
                         "value": ""
@@ -6486,7 +6486,7 @@
                 }
             },
             "Sanctuary": {
-                "name": "",
+                "name": "庇护术Sanctuary",
                 "system": {
                     "description": {
                         "value": ""
@@ -6494,7 +6494,7 @@
                 }
             },
             "Shield of Faith": {
-                "name": "",
+                "name": "虔诚护盾Shield of Faith",
                 "system": {
                     "description": {
                         "value": ""
@@ -6518,7 +6518,7 @@
                 }
             },
             "Calm Emotions": {
-                "name": "",
+                "name": "安定心神Calm Emotions",
                 "system": {
                     "description": {
                         "value": ""
@@ -6526,7 +6526,7 @@
                 }
             },
             "Hold Person": {
-                "name": "",
+                "name": "人类定身术Hold Person",
                 "system": {
                     "description": {
                         "value": ""
@@ -6534,7 +6534,7 @@
                 }
             },
             "Silence": {
-                "name": "",
+                "name": "沉默术Silence",
                 "system": {
                     "description": {
                         "value": ""
@@ -6542,7 +6542,7 @@
                 }
             },
             "Zone of Truth": {
-                "name": "",
+                "name": "诚实之域Zone of Truth",
                 "system": {
                     "description": {
                         "value": ""
@@ -6550,7 +6550,7 @@
                 }
             },
             "Bestow Curse": {
-                "name": "",
+                "name": "降咒Bestow Curse",
                 "system": {
                     "description": {
                         "value": ""
@@ -6558,7 +6558,7 @@
                 }
             },
             "Clairvoyance": {
-                "name": "",
+                "name": "鹰眼术Clairvoyance",
                 "system": {
                     "description": {
                         "value": ""
@@ -6566,7 +6566,7 @@
                 }
             },
             "Counterspell": {
-                "name": "",
+                "name": "法术反制Counterspell",
                 "system": {
                     "description": {
                         "value": ""
@@ -6574,7 +6574,7 @@
                 }
             },
             "Dispel Magic": {
-                "name": "",
+                "name": "解除魔法Dispel Magic",
                 "system": {
                     "description": {
                         "value": ""
@@ -6582,7 +6582,7 @@
                 }
             },
             "Tongues": {
-                "name": "",
+                "name": "巧言术Tongues",
                 "system": {
                     "description": {
                         "value": ""
@@ -6590,7 +6590,7 @@
                 }
             },
             "Divination": {
-                "name": "",
+                "name": "预言术Divination",
                 "system": {
                     "description": {
                         "value": ""
@@ -6606,7 +6606,7 @@
                 }
             },
             "Dispel Evil and Good": {
-                "name": "",
+                "name": "反制善恶Dispel Evil and Good",
                 "system": {
                     "description": {
                         "value": ""
@@ -6614,7 +6614,7 @@
                 }
             },
             "Scrying": {
-                "name": "",
+                "name": "探知Scrying",
                 "system": {
                     "description": {
                         "value": ""
@@ -6646,7 +6646,7 @@
                 }
             },
             "Innate Spellcasting": {
-                "name": "",
+                "name": "天生施法Innate Spellcasting",
                 "system": {
                     "description": {
                         "value": ""
@@ -6654,7 +6654,7 @@
                 }
             },
             "Spellcasting": {
-                "name": "",
+                "name": "施法Spellcasting",
                 "system": {
                     "description": {
                         "value": ""
@@ -6670,7 +6670,7 @@
         },
         "system": {
             "details": {
-                "alignment": "",
+                "alignment": "任意阵营",
                 "biography": {
                     "value": ""
                 }
@@ -6678,7 +6678,7 @@
         },
         "items": {
             "Multiattack": {
-                "name": "",
+                "name": "多重攻击 Multiattack",
                 "system": {
                     "description": {
                         "value": ""
@@ -6686,7 +6686,7 @@
                 }
             },
             "Longsword": {
-                "name": "",
+                "name": "长剑 Longsword",
                 "system": {
                     "description": {
                         "value": ""
@@ -6702,7 +6702,7 @@
                 }
             },
             "Chain Mail": {
-                "name": "",
+                "name": "链甲Chain Mail",
                 "system": {
                     "description": {
                         "value": ""
@@ -6710,7 +6710,7 @@
                 }
             },
             "Shield": {
-                "name": "",
+                "name": "护卫Shield",
                 "system": {
                     "description": {
                         "value": ""
@@ -6734,7 +6734,7 @@
         },
         "items": {
             "Multiattack": {
-                "name": "",
+                "name": "多重攻击 Multiattack",
                 "system": {
                     "description": {
                         "value": ""
@@ -6742,7 +6742,7 @@
                 }
             },
             "Bite": {
-                "name": "",
+                "name": "啃咬 Bite",
                 "system": {
                     "description": {
                         "value": ""
@@ -6750,7 +6750,7 @@
                 }
             },
             "Rapier": {
-                "name": "",
+                "name": "刺剑Rapier",
                 "system": {
                     "description": {
                         "value": ""
@@ -6758,7 +6758,7 @@
                 }
             },
             "Unarmed Strike": {
-                "name": "",
+                "name": "徒手打击Unarmed Strike",
                 "system": {
                     "description": {
                         "value": ""
@@ -6766,7 +6766,7 @@
                 }
             },
             "Parry": {
-                "name": "",
+                "name": "格挡Parry",
                 "system": {
                     "description": {
                         "value": ""
@@ -6790,7 +6790,7 @@
         },
         "items": {
             "Warhammer": {
-                "name": "",
+                "name": "战锤Warhammer",
                 "system": {
                     "description": {
                         "value": ""
@@ -6814,7 +6814,7 @@
                 }
             },
             "Chain Shirt": {
-                "name": "",
+                "name": "链甲衫Chain Shirt",
                 "system": {
                     "description": {
                         "value": ""
@@ -6822,7 +6822,7 @@
                 }
             },
             "Fireball": {
-                "name": "",
+                "name": "火球术Fireball",
                 "system": {
                     "description": {
                         "value": ""
@@ -6838,7 +6838,7 @@
                 }
             },
             "Shield": {
-                "name": "",
+                "name": "护卫Shield",
                 "system": {
                     "description": {
                         "value": ""
@@ -6846,7 +6846,7 @@
                 }
             },
             "Thunderwave": {
-                "name": "",
+                "name": "雷鸣波Thunderwave",
                 "system": {
                     "description": {
                         "value": ""
@@ -6854,7 +6854,7 @@
                 }
             },
             "Innate Spellcasting": {
-                "name": "",
+                "name": "天生施法Innate Spellcasting",
                 "system": {
                     "description": {
                         "value": ""
@@ -6910,7 +6910,7 @@
                 }
             },
             "Breastplate": {
-                "name": "",
+                "name": "胸甲Breastplate",
                 "system": {
                     "description": {
                         "value": ""
@@ -6926,7 +6926,7 @@
         },
         "system": {
             "details": {
-                "alignment": "",
+                "alignment": "中立邪恶",
                 "biography": {
                     "value": ""
                 }
@@ -6934,7 +6934,7 @@
         },
         "items": {
             "Multiattack": {
-                "name": "",
+                "name": "多重攻击 Multiattack",
                 "system": {
                     "description": {
                         "value": ""
@@ -6958,7 +6958,7 @@
                 }
             },
             "Legendary Resistance": {
-                "name": "",
+                "name": "传奇抗性 Legendary Resistance",
                 "system": {
                     "description": {
                         "value": ""
@@ -6966,7 +6966,7 @@
                 }
             },
             "Magic Resistance": {
-                "name": "",
+                "name": "魔法抗性 Magic Resistance",
                 "system": {
                     "description": {
                         "value": ""
@@ -6974,7 +6974,7 @@
                 }
             },
             "Regeneration": {
-                "name": "",
+                "name": "再生Regeneration",
                 "system": {
                     "description": {
                         "value": ""
@@ -6990,7 +6990,7 @@
                 }
             },
             "Turn Resistance": {
-                "name": "",
+                "name": "抵抗驱散Turn Resistance",
                 "system": {
                     "description": {
                         "value": ""
@@ -6998,7 +6998,7 @@
                 }
             },
             "Undead Fortitude": {
-                "name": "",
+                "name": "不死坚韧Undead Fortitude",
                 "system": {
                     "description": {
                         "value": ""
@@ -7006,7 +7006,7 @@
                 }
             },
             "Cantrip": {
-                "name": "",
+                "name": "戏法Cantrip",
                 "system": {
                     "description": {
                         "value": ""
@@ -7014,7 +7014,7 @@
                 }
             },
             "Disrupt Life": {
-                "name": "",
+                "name": "扰乱生命Disrupt Life",
                 "system": {
                     "description": {
                         "value": ""
@@ -7022,7 +7022,7 @@
                 }
             },
             "Legendary Actions": {
-                "name": "",
+                "name": "传奇动作 Legendary Actions",
                 "system": {
                     "description": {
                         "value": ""
@@ -7046,7 +7046,7 @@
                 }
             },
             "Mage Hand": {
-                "name": "",
+                "name": "法师之手Mage Hand",
                 "system": {
                     "description": {
                         "value": ""
@@ -7062,7 +7062,7 @@
                 }
             },
             "Prestidigitation": {
-                "name": "",
+                "name": "魔法伎俩Prestidigitation",
                 "system": {
                     "description": {
                         "value": ""
@@ -7070,7 +7070,7 @@
                 }
             },
             "Entangle": {
-                "name": "",
+                "name": "纠缠术Entangle",
                 "system": {
                     "description": {
                         "value": ""
@@ -7086,7 +7086,7 @@
                 }
             },
             "Sleep": {
-                "name": "",
+                "name": "睡眠术Sleep",
                 "system": {
                     "description": {
                         "value": ""
@@ -7102,7 +7102,7 @@
                 }
             },
             "Ray of Enfeeblement": {
-                "name": "",
+                "name": "衰弱射线Ray of Enfeeblement",
                 "system": {
                     "description": {
                         "value": ""
@@ -7110,7 +7110,7 @@
                 }
             },
             "Spider Climb": {
-                "name": "",
+                "name": "蛛行 Spider Climb",
                 "system": {
                     "description": {
                         "value": ""
@@ -7118,7 +7118,7 @@
                 }
             },
             "Web": {
-                "name": "",
+                "name": "蛛网Web",
                 "system": {
                     "description": {
                         "value": ""
@@ -7126,7 +7126,7 @@
                 }
             },
             "Animate Dead": {
-                "name": "",
+                "name": "操纵死尸Animate Dead",
                 "system": {
                     "description": {
                         "value": ""
@@ -7150,7 +7150,7 @@
                 }
             },
             "Blight": {
-                "name": "",
+                "name": "枯萎术Blight",
                 "system": {
                     "description": {
                         "value": ""
@@ -7174,7 +7174,7 @@
                 }
             },
             "Cloudkill": {
-                "name": "",
+                "name": "死云术Cloudkill",
                 "system": {
                     "description": {
                         "value": ""
@@ -7182,7 +7182,7 @@
                 }
             },
             "Insect Plague": {
-                "name": "",
+                "name": "疫病虫群Insect Plague",
                 "system": {
                     "description": {
                         "value": ""
@@ -7206,7 +7206,7 @@
                 }
             },
             "Finger of Death": {
-                "name": "",
+                "name": "死亡一指Finger of Death",
                 "system": {
                     "description": {
                         "value": ""
@@ -7222,7 +7222,7 @@
                 }
             },
             "Spellcasting": {
-                "name": "",
+                "name": "施法Spellcasting",
                 "system": {
                     "description": {
                         "value": ""
@@ -7246,7 +7246,7 @@
         },
         "items": {
             "Multiattack": {
-                "name": "",
+                "name": "多重攻击 Multiattack",
                 "system": {
                     "description": {
                         "value": ""
@@ -7278,7 +7278,7 @@
                 }
             },
             "Hide Armor": {
-                "name": "",
+                "name": "兽皮甲Hide Armor",
                 "system": {
                     "description": {
                         "value": ""
@@ -7286,7 +7286,7 @@
                 }
             },
             "Bless": {
-                "name": "",
+                "name": "祝福术Bless",
                 "system": {
                     "description": {
                         "value": ""
@@ -7302,7 +7302,7 @@
                 }
             },
             "Innate Spellcasting": {
-                "name": "",
+                "name": "天生施法Innate Spellcasting",
                 "system": {
                     "description": {
                         "value": ""
@@ -7318,7 +7318,7 @@
         },
         "system": {
             "details": {
-                "alignment": "",
+                "alignment": "无阵营",
                 "biography": {
                     "value": ""
                 }
@@ -7326,7 +7326,7 @@
         },
         "items": {
             "Bite": {
-                "name": "",
+                "name": "啃咬 Bite",
                 "system": {
                     "description": {
                         "value": ""
@@ -7334,7 +7334,7 @@
                 }
             },
             "Siege Monster": {
-                "name": "",
+                "name": "攻城怪物Siege Monster",
                 "system": {
                     "description": {
                         "value": ""
@@ -7350,7 +7350,7 @@
                 }
             },
             "Tunneler": {
-                "name": "",
+                "name": "掘道者Tunneler",
                 "system": {
                     "description": {
                         "value": ""
@@ -7374,7 +7374,7 @@
         },
         "items": {
             "Scimitar": {
-                "name": "",
+                "name": "弯刀Scimitar",
                 "system": {
                     "description": {
                         "value": ""
@@ -7390,7 +7390,7 @@
                 }
             },
             "Magic Resistance": {
-                "name": "",
+                "name": "魔法抗性Magic Resistance",
                 "system": {
                     "description": {
                         "value": ""
@@ -7398,7 +7398,7 @@
                 }
             },
             "Splint Armor": {
-                "name": "",
+                "name": "板条甲Splint Armor",
                 "system": {
                     "description": {
                         "value": ""
@@ -7414,7 +7414,7 @@
                 }
             },
             "Light": {
-                "name": "",
+                "name": "光亮术Light",
                 "system": {
                     "description": {
                         "value": ""
@@ -7422,7 +7422,7 @@
                 }
             },
             "Mending": {
-                "name": "",
+                "name": "修复术Mending",
                 "system": {
                     "description": {
                         "value": ""
@@ -7438,7 +7438,7 @@
                 }
             },
             "Shocking Grasp": {
-                "name": "",
+                "name": "电爪Shocking Grasp",
                 "system": {
                     "description": {
                         "value": ""
@@ -7446,7 +7446,7 @@
                 }
             },
             "Detect Magic": {
-                "name": "",
+                "name": "侦测魔法Detect Magic",
                 "system": {
                     "description": {
                         "value": ""
@@ -7462,7 +7462,7 @@
                 }
             },
             "Shield": {
-                "name": "",
+                "name": "护卫Shield",
                 "system": {
                     "description": {
                         "value": ""
@@ -7478,7 +7478,7 @@
                 }
             },
             "Darkvision": {
-                "name": "",
+                "name": "黑暗视觉",
                 "system": {
                     "description": {
                         "value": ""
@@ -7486,7 +7486,7 @@
                 }
             },
             "Enlarge/Reduce": {
-                "name": "",
+                "name": "变巨/缩小术 Enlarge/Reduce",
                 "system": {
                     "description": {
                         "value": ""
@@ -7494,7 +7494,7 @@
                 }
             },
             "Hold Person": {
-                "name": "",
+                "name": "人类定身术Hold Person",
                 "system": {
                     "description": {
                         "value": ""
@@ -7502,7 +7502,7 @@
                 }
             },
             "Counterspell": {
-                "name": "",
+                "name": "法术反制Counterspell",
                 "system": {
                     "description": {
                         "value": ""
@@ -7510,7 +7510,7 @@
                 }
             },
             "Dispel Magic": {
-                "name": "",
+                "name": "解除魔法Dispel Magic",
                 "system": {
                     "description": {
                         "value": ""
@@ -7518,7 +7518,7 @@
                 }
             },
             "Haste": {
-                "name": "",
+                "name": "加速Haste",
                 "system": {
                     "description": {
                         "value": ""
@@ -7534,7 +7534,7 @@
                 }
             },
             "Confusion": {
-                "name": "",
+                "name": "困惑术Confusion",
                 "system": {
                     "description": {
                         "value": ""
@@ -7550,7 +7550,7 @@
                 }
             },
             "Polymorph": {
-                "name": "",
+                "name": "变形",
                 "system": {
                     "description": {
                         "value": ""
@@ -7558,7 +7558,7 @@
                 }
             },
             "Cone of Cold": {
-                "name": "",
+                "name": "寒冰锥Cone of Cold",
                 "system": {
                     "description": {
                         "value": ""
@@ -7566,7 +7566,7 @@
                 }
             },
             "Creation": {
-                "name": "",
+                "name": "造物术Creation",
                 "system": {
                     "description": {
                         "value": ""
@@ -7574,7 +7574,7 @@
                 }
             },
             "Hold Monster": {
-                "name": "",
+                "name": "怪物定身术Hold Monster",
                 "system": {
                     "description": {
                         "value": ""
@@ -7590,7 +7590,7 @@
                 }
             },
             "Wall of Ice": {
-                "name": "",
+                "name": "冰墙Wall of Ice",
                 "system": {
                     "description": {
                         "value": ""
@@ -7606,7 +7606,7 @@
                 }
             },
             "Control Weather": {
-                "name": "",
+                "name": "操控天气Control Weather",
                 "system": {
                     "description": {
                         "value": ""
@@ -7614,7 +7614,7 @@
                 }
             },
             "Spellcasting": {
-                "name": "",
+                "name": "施法Spellcasting",
                 "system": {
                     "description": {
                         "value": ""
@@ -7638,7 +7638,7 @@
         },
         "items": {
             "Slam": {
-                "name": "",
+                "name": "猛击Slam",
                 "system": {
                     "description": {
                         "value": ""
@@ -7646,7 +7646,7 @@
                 }
             },
             "Death Burst": {
-                "name": "",
+                "name": "自爆Death Burst",
                 "system": {
                     "description": {
                         "value": ""
@@ -7670,7 +7670,7 @@
         },
         "items": {
             "Multiattack": {
-                "name": "",
+                "name": "多重攻击 Multiattack",
                 "system": {
                     "description": {
                         "value": ""
@@ -7678,7 +7678,7 @@
                 }
             },
             "Javelin (Melee)": {
-                "name": "",
+                "name": "标枪Javelin（近战）",
                 "system": {
                     "description": {
                         "value": ""
@@ -7686,7 +7686,7 @@
                 }
             },
             "Javelin (Ranged)": {
-                "name": "",
+                "name": "标枪 Javelin（远程）",
                 "system": {
                     "description": {
                         "value": ""
@@ -7710,7 +7710,7 @@
         },
         "system": {
             "details": {
-                "alignment": "",
+                "alignment": "无阵营",
                 "biography": {
                     "value": ""
                 }
@@ -7718,7 +7718,7 @@
         },
         "items": {
             "Multiattack": {
-                "name": "",
+                "name": "多重攻击 Multiattack",
                 "system": {
                     "description": {
                         "value": ""
@@ -7726,7 +7726,7 @@
                 }
             },
             "Slam": {
-                "name": "",
+                "name": "猛击Slam",
                 "system": {
                     "description": {
                         "value": ""
@@ -7734,7 +7734,7 @@
                 }
             },
             "Magic Resistance": {
-                "name": "",
+                "name": "魔法抗性Magic Resistance",
                 "system": {
                     "description": {
                         "value": ""
@@ -7766,7 +7766,7 @@
         },
         "system": {
             "details": {
-                "alignment": "",
+                "alignment": "无阵营",
                 "biography": {
                     "value": ""
                 }
@@ -7774,7 +7774,7 @@
         },
         "items": {
             "Multiattack": {
-                "name": "",
+                "name": "多重攻击 Multiattack",
                 "system": {
                     "description": {
                         "value": ""
@@ -7782,7 +7782,7 @@
                 }
             },
             "Bite": {
-                "name": "",
+                "name": "啃咬 Bite",
                 "system": {
                     "description": {
                         "value": ""
@@ -7790,7 +7790,7 @@
                 }
             },
             "Claws": {
-                "name": "",
+                "name": "爪击 Claws",
                 "system": {
                     "description": {
                         "value": ""
@@ -7798,7 +7798,7 @@
                 }
             },
             "Amphibious": {
-                "name": "",
+                "name": "水陆两栖 Amphibious",
                 "system": {
                     "description": {
                         "value": ""
@@ -7822,7 +7822,7 @@
         },
         "items": {
             "Multiattack": {
-                "name": "",
+                "name": "多重攻击Multiattack",
                 "system": {
                     "description": {
                         "value": ""
@@ -7838,7 +7838,7 @@
                 }
             },
             "Stomp": {
-                "name": "",
+                "name": "践踏Stomp",
                 "system": {
                     "description": {
                         "value": ""
@@ -7846,7 +7846,7 @@
                 }
             },
             "Rock": {
-                "name": "",
+                "name": "掷石Rock",
                 "system": {
                     "description": {
                         "value": ""
@@ -7854,7 +7854,7 @@
                 }
             },
             "Frightful Presence": {
-                "name": "",
+                "name": "骇人威仪 Frightful Presence",
                 "system": {
                     "description": {
                         "value": ""
@@ -7862,7 +7862,7 @@
                 }
             },
             "Legendary Resistance": {
-                "name": "",
+                "name": "传奇抗性Legendary Resistance",
                 "system": {
                     "description": {
                         "value": ""
@@ -7878,7 +7878,7 @@
                 }
             },
             "Siege Monster": {
-                "name": "",
+                "name": "攻城怪物Siege Monster",
                 "system": {
                     "description": {
                         "value": ""
@@ -7886,7 +7886,7 @@
                 }
             },
             "Attack": {
-                "name": "",
+                "name": "攻击Attack",
                 "system": {
                     "description": {
                         "value": ""
@@ -7910,7 +7910,7 @@
                 }
             },
             "Legendary Actions": {
-                "name": "",
+                "name": "传奇动作 Legendary Actions",
                 "system": {
                     "description": {
                         "value": ""
@@ -7950,7 +7950,7 @@
                 }
             },
             "Amphibious": {
-                "name": "",
+                "name": "水陆两栖 Amphibious",
                 "system": {
                     "description": {
                         "value": ""
@@ -7974,7 +7974,7 @@
         },
         "items": {
             "Multiattack": {
-                "name": "",
+                "name": "多重攻击 Multiattack",
                 "system": {
                     "description": {
                         "value": ""
@@ -8046,7 +8046,7 @@
                 }
             },
             "Amphibious": {
-                "name": "",
+                "name": "水陆两栖 Amphibious",
                 "system": {
                     "description": {
                         "value": ""
@@ -8054,7 +8054,7 @@
                 }
             },
             "Legendary Resistance": {
-                "name": "",
+                "name": "传奇抗性Legendary Resistance",
                 "system": {
                     "description": {
                         "value": ""
@@ -8062,7 +8062,7 @@
                 }
             },
             "Magic Resistance": {
-                "name": "",
+                "name": "魔法抗性Magic Resistance",
                 "system": {
                     "description": {
                         "value": ""
@@ -8086,7 +8086,7 @@
                 }
             },
             "Enlarge": {
-                "name": "",
+                "name": "变巨Enlarge",
                 "system": {
                     "description": {
                         "value": ""
@@ -8094,7 +8094,7 @@
                 }
             },
             "Legendary Actions": {
-                "name": "",
+                "name": "传奇动作 Legendary Actions",
                 "system": {
                     "description": {
                         "value": ""
@@ -8110,7 +8110,7 @@
                 }
             },
             "Druidcraft": {
-                "name": "",
+                "name": "德鲁伊伎俩Druidcraft",
                 "system": {
                     "description": {
                         "value": ""
@@ -8118,7 +8118,7 @@
                 }
             },
             "Ray of Frost": {
-                "name": "",
+                "name": "冷冻射线Ray of Frost",
                 "system": {
                     "description": {
                         "value": ""
@@ -8150,7 +8150,7 @@
                 }
             },
             "Fog Cloud": {
-                "name": "",
+                "name": "云雾术Fog Cloud",
                 "system": {
                     "description": {
                         "value": ""
@@ -8158,7 +8158,7 @@
                 }
             },
             "Shield": {
-                "name": "",
+                "name": "护卫Shield",
                 "system": {
                     "description": {
                         "value": ""
@@ -8166,7 +8166,7 @@
                 }
             },
             "Enlarge/Reduce": {
-                "name": "",
+                "name": "变巨/缩小术 Enlarge/Reduce",
                 "system": {
                     "description": {
                         "value": ""
@@ -8182,7 +8182,7 @@
                 }
             },
             "Counterspell": {
-                "name": "",
+                "name": "法术反制Counterspell",
                 "system": {
                     "description": {
                         "value": ""
@@ -8190,7 +8190,7 @@
                 }
             },
             "Fly": {
-                "name": "",
+                "name": "飞行术Fly",
                 "system": {
                     "description": {
                         "value": ""
@@ -8214,7 +8214,7 @@
                 }
             },
             "Ice Storm": {
-                "name": "",
+                "name": "冰风暴Ice Storm",
                 "system": {
                     "description": {
                         "value": ""
@@ -8222,7 +8222,7 @@
                 }
             },
             "Polymorph": {
-                "name": "",
+                "name": "变形",
                 "system": {
                     "description": {
                         "value": ""
@@ -8238,7 +8238,7 @@
                 }
             },
             "Creation": {
-                "name": "",
+                "name": "造物术Creation",
                 "system": {
                     "description": {
                         "value": ""
@@ -8254,7 +8254,7 @@
                 }
             },
             "Wall of Ice": {
-                "name": "",
+                "name": "冰墙Wall of Ice",
                 "system": {
                     "description": {
                         "value": ""
@@ -8270,7 +8270,7 @@
                 }
             },
             "Teleport": {
-                "name": "",
+                "name": "传送术Teleport",
                 "system": {
                     "description": {
                         "value": ""
@@ -8278,7 +8278,7 @@
                 }
             },
             "Control Weather": {
-                "name": "",
+                "name": "操控天气Control Weather",
                 "system": {
                     "description": {
                         "value": ""
@@ -8286,7 +8286,7 @@
                 }
             },
             "Dominate Monster": {
-                "name": "",
+                "name": "支配怪物Dominate Monster",
                 "system": {
                     "description": {
                         "value": ""
@@ -8294,7 +8294,7 @@
                 }
             },
             "Spellcasting": {
-                "name": "",
+                "name": "施法Spellcasting",
                 "system": {
                     "description": {
                         "value": ""
@@ -8358,7 +8358,7 @@
                 }
             },
             "Stoneskin": {
-                "name": "",
+                "name": "石肤术Stoneskin",
                 "system": {
                     "description": {
                         "value": ""
@@ -8366,7 +8366,7 @@
                 }
             },
             "Levitate": {
-                "name": "",
+                "name": "浮空术Levitate",
                 "system": {
                     "description": {
                         "value": ""
@@ -8374,7 +8374,7 @@
                 }
             },
             "Lightning Bolt": {
-                "name": "",
+                "name": "闪电束Lightning Bolt",
                 "system": {
                     "description": {
                         "value": ""
@@ -8382,7 +8382,7 @@
                 }
             },
             "Thunderwave": {
-                "name": "",
+                "name": "雷鸣波Thunderwave",
                 "system": {
                     "description": {
                         "value": ""
@@ -8390,7 +8390,7 @@
                 }
             },
             "Innate Spellcasting": {
-                "name": "",
+                "name": "天生施法Innate Spellcasting",
                 "system": {
                     "description": {
                         "value": ""

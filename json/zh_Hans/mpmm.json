@@ -3678,7 +3678,7 @@
                 }
             },
             "Javelin (Melee)": {
-                "name": "",
+                "name": "标枪Javelin（近战）",
                 "system": {
                     "description": {
                         "value": ""
@@ -3686,7 +3686,7 @@
                 }
             },
             "Javelin (Ranged)": {
-                "name": "",
+                "name": "标枪 Javelin（远程）",
                 "system": {
                     "description": {
                         "value": ""
@@ -6926,7 +6926,7 @@
                 }
             },
             "Javelin (Melee)": {
-                "name": "",
+                "name": "标枪Javelin（近战）",
                 "system": {
                     "description": {
                         "value": ""
@@ -6934,7 +6934,7 @@
                 }
             },
             "Javelin (Ranged)": {
-                "name": "",
+                "name": "标枪 Javelin（远程）",
                 "system": {
                     "description": {
                         "value": ""
@@ -17777,7 +17777,7 @@
                 "name": "弯刀Scimitar",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<div  class=\"rd__b  rd__b--3\"><p><i>近战武器攻击：</i>命中[[/r 1d20+4]]（+4），触及5尺，单一目标。<i>伤害：</i>5（[[/r 1d6 + 2]]）点挥砍伤害。</p><div class=\"rd__spc-inline-post\"></div></div>"
                     }
                 }
             },
@@ -23425,7 +23425,7 @@
                 "name": "爪击 Claws",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<div  class=\"rd__b  rd__b--3\"><p><i>近战武器攻击：</i>命中[[/r 1d20+4]]（+4），触及5尺，单一目标。<i>伤害：</i>5（[[/r 1d6 + 2]]）点挥砍伤害。</p><div class=\"rd__spc-inline-post\"></div></div>"
                     }
                 }
             },
@@ -25249,7 +25249,7 @@
                 "name": "爪击 Claws",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<div  class=\"rd__b  rd__b--3\"><p><i>近战武器攻击：</i>命中[[/r 1d20+4]]（+4），触及5尺，单一目标。<i>伤害：</i>5（[[/r 1d6 + 2]]）点挥砍伤害。</p><div class=\"rd__spc-inline-post\"></div></div>"
                     }
                 }
             },
@@ -25609,7 +25609,7 @@
                 "name": "爪击 Claw",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<div  class=\"rd__b  rd__b--3\"><p><i>近战武器攻击：</i>命中[[/r 1d20+4]]（+4），触及5尺，单一目标。<i>伤害：</i>5（[[/r 1d6 + 2]]）点挥砍伤害。</p><div class=\"rd__spc-inline-post\"></div></div>"
                     }
                 }
             },

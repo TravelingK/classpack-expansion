@@ -998,7 +998,7 @@
                 }
             },
             "Javelin (Melee)": {
-                "name": "",
+                "name": "标枪Javelin（近战）",
                 "system": {
                     "description": {
                         "value": ""
@@ -1006,7 +1006,7 @@
                 }
             },
             "Javelin (Ranged)": {
-                "name": "",
+                "name": "标枪 Javelin（远程）",
                 "system": {
                     "description": {
                         "value": ""
@@ -4006,7 +4006,7 @@
                 }
             },
             "Javelin (Melee)": {
-                "name": "",
+                "name": "标枪Javelin（近战）",
                 "system": {
                     "description": {
                         "value": ""
@@ -4014,7 +4014,7 @@
                 }
             },
             "Javelin (Ranged)": {
-                "name": "",
+                "name": "标枪 Javelin（远程）",
                 "system": {
                     "description": {
                         "value": ""
@@ -4150,7 +4150,7 @@
                 }
             },
             "Javelin (Melee)": {
-                "name": "",
+                "name": "标枪Javelin（近战）",
                 "system": {
                     "description": {
                         "value": ""
@@ -4158,7 +4158,7 @@
                 }
             },
             "Javelin (Ranged)": {
-                "name": "",
+                "name": "标枪 Javelin（远程）",
                 "system": {
                     "description": {
                         "value": ""
