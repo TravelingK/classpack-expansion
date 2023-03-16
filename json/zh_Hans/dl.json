@@ -1,12 +1,12 @@
 {
     "Knight": {
-        "name": "",
+        "name": "骑士 Knight",
         "prototypeToken": {
-            "name": ""
+            "name": "骑士 Knight"
         },
         "system": {
             "details": {
-                "alignment": "",
+                "alignment": "任意阵营",
                 "biography": {
                     "value": ""
                 }
@@ -742,7 +742,7 @@
         },
         "system": {
             "details": {
-                "alignment": "",
+                "alignment": "任意阵营",
                 "biography": {
                     "value": ""
                 }
@@ -1134,7 +1134,7 @@
         },
         "system": {
             "details": {
-                "alignment": "",
+                "alignment": "任意阵营",
                 "biography": {
                     "value": ""
                 }
@@ -1198,7 +1198,7 @@
         },
         "system": {
             "details": {
-                "alignment": "",
+                "alignment": "任意阵营",
                 "biography": {
                     "value": ""
                 }
@@ -1574,7 +1574,7 @@
         },
         "system": {
             "details": {
-                "alignment": "",
+                "alignment": "任意阵营",
                 "biography": {
                     "value": ""
                 }
@@ -2038,7 +2038,7 @@
         },
         "system": {
             "details": {
-                "alignment": "",
+                "alignment": "任意阵营",
                 "biography": {
                     "value": ""
                 }
@@ -2214,7 +2214,7 @@
         },
         "system": {
             "details": {
-                "alignment": "",
+                "alignment": "任意阵营",
                 "biography": {
                     "value": ""
                 }
@@ -2406,7 +2406,7 @@
         },
         "system": {
             "details": {
-                "alignment": "",
+                "alignment": "任意阵营",
                 "biography": {
                     "value": ""
                 }
@@ -2902,7 +2902,7 @@
         },
         "system": {
             "details": {
-                "alignment": "",
+                "alignment": "任意阵营",
                 "biography": {
                     "value": ""
                 }
@@ -4262,7 +4262,7 @@
         },
         "system": {
             "details": {
-                "alignment": "",
+                "alignment": "任意阵营",
                 "biography": {
                     "value": ""
                 }
@@ -4622,7 +4622,7 @@
         },
         "system": {
             "details": {
-                "alignment": "",
+                "alignment": "任意阵营",
                 "biography": {
                     "value": ""
                 }
@@ -5246,7 +5246,7 @@
         },
         "system": {
             "details": {
-                "alignment": "",
+                "alignment": "任意阵营",
                 "biography": {
                     "value": ""
                 }
@@ -6126,7 +6126,7 @@
         },
         "system": {
             "details": {
-                "alignment": "",
+                "alignment": "任意阵营",
                 "biography": {
                     "value": ""
                 }
@@ -6270,7 +6270,7 @@
         },
         "system": {
             "details": {
-                "alignment": "",
+                "alignment": "任意阵营",
                 "biography": {
                     "value": ""
                 }
@@ -7078,7 +7078,7 @@
         },
         "system": {
             "details": {
-                "alignment": "",
+                "alignment": "任意阵营",
                 "biography": {
                     "value": ""
                 }
@@ -7414,7 +7414,7 @@
         },
         "system": {
             "details": {
-                "alignment": "",
+                "alignment": "任意阵营",
                 "biography": {
                     "value": ""
                 }
@@ -7654,7 +7654,7 @@
         },
         "system": {
             "details": {
-                "alignment": "",
+                "alignment": "任意阵营",
                 "biography": {
                     "value": ""
                 }
