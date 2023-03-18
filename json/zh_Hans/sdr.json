@@ -4528,9 +4528,9 @@
         }
     },
     "Knight": {
-        "name": "骑士Knight",
+        "name": "骑士 Knight",
         "prototypeToken": {
-            "name": "骑士Knight"
+            "name": "骑士 Knight"
         },
         "system": {
             "details": {
