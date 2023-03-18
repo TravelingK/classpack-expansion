@@ -13,20 +13,6 @@
             }
         },
         "items": {
-            "Brave.": {
-                "system": {
-                    "description": {
-                        "value": "<p>骑士为抵抗恐慌而作的豁免检定具有优势。</p>"
-                    }
-                }
-            },
-            "Parry.": {
-                "system": {
-                    "description": {
-                        "value": "<p>骑士在被一次近战攻击命中时，其AC加上2。此时该骑士必须能看见攻击者，且持用一把近战武器。</p>"
-                    }
-                }
-            },
             "Multiattack": {
                 "name": "多重攻击 Multiattack",
                 "system": {
@@ -155,13 +141,6 @@
             }
         },
         "items": {
-            "Tunneler.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Multiattack": {
                 "name": "",
                 "system": {
@@ -298,13 +277,6 @@
             }
         },
         "items": {
-            "Trampling Charge.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Hooves": {
                 "name": "",
                 "system": {
@@ -425,13 +397,6 @@
             }
         },
         "items": {
-            "Standing Leap.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Bite": {
                 "name": "",
                 "system": {
@@ -464,20 +429,6 @@
             }
         },
         "items": {
-            "Undead Fortitude.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
-            "Unusual Nature.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Multiattack": {
                 "name": "",
                 "system": {
@@ -526,13 +477,6 @@
             }
         },
         "items": {
-            "Draconic Devotion.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Multiattack": {
                 "name": "",
                 "system": {
@@ -581,13 +525,6 @@
             }
         },
         "items": {
-            "Parry.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Multiattack": {
                 "name": "",
                 "system": {
@@ -636,20 +573,6 @@
             }
         },
         "items": {
-            "Incorporeal Movement.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
-            "Sunlight Sensitivity.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Life Drain": {
                 "name": "",
                 "system": {
@@ -682,27 +605,6 @@
             }
         },
         "items": {
-            "Controlled Fall.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
-            "Death Throes.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
-            "Draconic Devotion.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Multiattack": {
                 "name": "",
                 "system": {
@@ -735,13 +637,6 @@
             }
         },
         "items": {
-            "Keen Hearing and Sight.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Multiattack": {
                 "name": "",
                 "system": {
@@ -782,13 +677,6 @@
             }
         },
         "items": {
-            "Possessed.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Multiattack": {
                 "name": "",
                 "system": {
@@ -845,35 +733,7 @@
             }
         },
         "items": {
-            "Legendary Resistance (3/Day).": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
-            "Magic Resistance.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
-            "Marshal Undead.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Unusual Nature.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
-            "Spellcasting.": {
                 "system": {
                     "description": {
                         "value": ""
@@ -984,27 +844,6 @@
             }
         },
         "items": {
-            "Shapechanger.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
-            "Innate Spellcasting.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
-            "Magic Resistance.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Regeneration.": {
                 "system": {
                     "description": {
@@ -1116,20 +955,6 @@
             }
         },
         "items": {
-            "Brave.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
-            "Parry.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Multiattack": {
                 "name": "",
                 "system": {
@@ -1346,27 +1171,6 @@
             }
         },
         "items": {
-            "Death Throes.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
-            "Innate Spellcasting.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
-            "Magic Resistance.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Regeneration.": {
                 "system": {
                     "description": {
@@ -1478,27 +1282,6 @@
             }
         },
         "items": {
-            "Brave.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
-            "Possessed.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
-            "Parry.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Multiattack": {
                 "name": "",
                 "system": {
@@ -1587,13 +1370,6 @@
             }
         },
         "items": {
-            "Spellcasting.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Fire Bolt": {
                 "name": "",
                 "system": {
@@ -1754,27 +1530,6 @@
             }
         },
         "items": {
-            "Death Throes.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
-            "Glide.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
-            "Spellcasting.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Enlarge Reduce": {
                 "name": "",
                 "system": {
@@ -2007,27 +1762,6 @@
             }
         },
         "items": {
-            "Keen Hearing and Sight.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
-            "Fey Ancestry.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
-            "Amphibious.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Multiattack": {
                 "name": "",
                 "system": {
@@ -2068,13 +1802,6 @@
             }
         },
         "items": {
-            "Charge.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Greataxe": {
                 "name": "",
                 "system": {
@@ -2107,20 +1834,6 @@
             }
         },
         "items": {
-            "Devil's Sight.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
-            "Magic Resistance.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Multiattack": {
                 "name": "",
                 "system": {
@@ -2233,20 +1946,6 @@
             }
         },
         "items": {
-            "Death Throes.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
-            "Shape Theft.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Multiattack": {
                 "name": "",
                 "system": {
@@ -2287,35 +1986,7 @@
             }
         },
         "items": {
-            "Acid Absorption.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
-            "Berserk.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
-            "Immutable Form.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Magic Resistance.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
-            "Magic Weapons.": {
                 "system": {
                     "description": {
                         "value": ""
@@ -2442,20 +2113,6 @@
             }
         },
         "items": {
-            "Spider Climb.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
-            "Unusual Nature.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Multiattack": {
                 "name": "",
                 "system": {
@@ -2496,20 +2153,6 @@
             }
         },
         "items": {
-            "Brave.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
-            "Parry.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Multiattack": {
                 "name": "",
                 "system": {
@@ -2558,20 +2201,6 @@
             }
         },
         "items": {
-            "Death Throes.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
-            "Glide.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Multiattack": {
                 "name": "",
                 "system": {
@@ -2604,20 +2233,6 @@
             }
         },
         "items": {
-            "Amphibious.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
-            "Legendary Resistance (3/Day).": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Multiattack": {
                 "name": "",
                 "system": {
@@ -2730,27 +2345,6 @@
             }
         },
         "items": {
-            "Aura of Command.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
-            "Death Throes.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
-            "Spellcasting.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Mage Hand": {
                 "name": "",
                 "system": {
@@ -2903,20 +2497,6 @@
             }
         },
         "items": {
-            "Ethereal Sight.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
-            "Incorporeal Movement.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Withering Touch": {
                 "name": "",
                 "system": {
@@ -2973,35 +2553,7 @@
             }
         },
         "items": {
-            "Acid Absorption.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
-            "Berserk.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
-            "Immutable Form.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Magic Resistance.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
-            "Magic Weapons.": {
                 "system": {
                     "description": {
                         "value": ""
@@ -3048,27 +2600,6 @@
             }
         },
         "items": {
-            "Hold Breath.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
-            "Underwater Camouflage.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
-            "Water Breathing.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Tentacles": {
                 "name": "",
                 "system": {
@@ -3101,20 +2632,6 @@
             }
         },
         "items": {
-            "Death Throes.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
-            "Glide.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Multiattack": {
                 "name": "",
                 "system": {
@@ -3155,20 +2672,6 @@
             }
         },
         "items": {
-            "Invisible in Water.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
-            "Water Bound.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Constrict": {
                 "name": "",
                 "system": {
@@ -3193,27 +2696,6 @@
             }
         },
         "items": {
-            "Bound Haunting.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
-            "Incorporeal Movement.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
-            "Rejuvenation.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Unusual Nature.": {
                 "system": {
                     "description": {
@@ -3261,13 +2743,6 @@
             }
         },
         "items": {
-            "Undead Fortitude.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Slam": {
                 "name": "",
                 "system": {
@@ -3292,20 +2767,6 @@
             }
         },
         "items": {
-            "Possessed.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
-            "Parry.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Rapier": {
                 "name": "",
                 "system": {
@@ -3330,13 +2791,6 @@
             }
         },
         "items": {
-            "Tail Spike Regrowth.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Multiattack": {
                 "name": "",
                 "system": {
@@ -3433,13 +2887,6 @@
             }
         },
         "items": {
-            "Air Form.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Multiattack": {
                 "name": "",
                 "system": {
@@ -3536,27 +2983,6 @@
             }
         },
         "items": {
-            "Toxic Mastery.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
-            "Spellcasting.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
-            "Noxious Rebuke (3/Day).": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Light": {
                 "name": "",
                 "system": {
@@ -3669,20 +3095,6 @@
             }
         },
         "items": {
-            "Amphibious.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
-            "Legendary Resistance (3/Day).": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Multiattack": {
                 "name": "",
                 "system": {
@@ -3771,20 +3183,6 @@
             }
         },
         "items": {
-            "Undead Fortitude.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
-            "Unusual Nature.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Multiattack": {
                 "name": "",
                 "system": {
@@ -3833,13 +3231,6 @@
             }
         },
         "items": {
-            "Draconic Devotion.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Multiattack": {
                 "name": "",
                 "system": {
@@ -3944,27 +3335,6 @@
             }
         },
         "items": {
-            "Keen Hearing and Sight.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
-            "Fey Ancestry.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
-            "Amphibious.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Multiattack": {
                 "name": "",
                 "system": {
@@ -4005,27 +3375,6 @@
             }
         },
         "items": {
-            "Immutable Form.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
-            "Magic Resistance.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
-            "Magic Weapons.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Multiattack": {
                 "name": "",
                 "system": {
@@ -4066,20 +3415,6 @@
             }
         },
         "items": {
-            "Magic Resistance.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
-            "Regeneration.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Multiattack": {
                 "name": "",
                 "system": {
@@ -4120,13 +3455,6 @@
             }
         },
         "items": {
-            "Keen Hearing and Sight.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Multiattack": {
                 "name": "",
                 "system": {
@@ -4167,13 +3495,6 @@
             }
         },
         "items": {
-            "Parry.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Rapier": {
                 "name": "",
                 "system": {
@@ -4238,13 +3559,6 @@
             }
         },
         "items": {
-            "Parry.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Rapier": {
                 "name": "",
                 "system": {
@@ -4269,20 +3583,6 @@
             }
         },
         "items": {
-            "Legendary Resistance (3/Day).": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
-            "Unusual Nature.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Multiattack": {
                 "name": "",
                 "system": {
@@ -4339,27 +3639,6 @@
             }
         },
         "items": {
-            "Amphibious.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
-            "Elemental Demise.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
-            "Innate Spellcasting.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Create or Destroy Water": {
                 "name": "",
                 "system": {
@@ -4560,42 +3839,7 @@
             }
         },
         "items": {
-            "Shapechanger.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
-            "Legendary Resistance (3/Day).": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
-            "Misty Escape.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Regeneration.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
-            "Spider Climb.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
-            "Vampire Weaknesses.": {
                 "system": {
                     "description": {
                         "value": ""
@@ -4682,27 +3926,6 @@
             }
         },
         "items": {
-            "Spider Climb.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
-            "Web Sense.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
-            "Web Walker.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Bite": {
                 "name": "",
                 "system": {
@@ -4735,42 +3958,7 @@
             }
         },
         "items": {
-            "Shapechanger.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
-            "Legendary Resistance (3/Day).": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
-            "Misty Escape.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Regeneration.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
-            "Spider Climb.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
-            "Vampire Weaknesses.": {
                 "system": {
                     "description": {
                         "value": ""
@@ -4857,20 +4045,6 @@
             }
         },
         "items": {
-            "Blood Frenzy.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
-            "Water Breathing.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Bite": {
                 "name": "",
                 "system": {
@@ -4895,13 +4069,6 @@
             }
         },
         "items": {
-            "Sunlight Sensitivity.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Multiattack": {
                 "name": "",
                 "system": {
@@ -4958,13 +4125,6 @@
             }
         },
         "items": {
-            "Spellcasting.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Fire Bolt": {
                 "name": "",
                 "system": {
@@ -5181,13 +4341,6 @@
             }
         },
         "items": {
-            "Draconic Devotion.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Multiattack": {
                 "name": "",
                 "system": {
@@ -5236,27 +4389,6 @@
             }
         },
         "items": {
-            "Amorphous.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
-            "Corrosive Form.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
-            "Spider Climb.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Split.": {
                 "system": {
                     "description": {
@@ -5336,13 +4468,6 @@
             }
         },
         "items": {
-            "Martial Advantage.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Longsword (One-Handed)": {
                 "name": "",
                 "system": {
@@ -5383,13 +4508,6 @@
             }
         },
         "items": {
-            "Martial Advantage.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Multiattack": {
                 "name": "",
                 "system": {
@@ -5446,13 +4564,6 @@
             }
         },
         "items": {
-            "Flyby.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Multiattack": {
                 "name": "",
                 "system": {
@@ -5493,13 +4604,6 @@
             }
         },
         "items": {
-            "Parry.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Rapier": {
                 "name": "",
                 "system": {
@@ -5524,13 +4628,6 @@
             }
         },
         "items": {
-            "Stone Camouflage.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Multiattack": {
                 "name": "",
                 "system": {
@@ -5571,13 +4668,6 @@
             }
         },
         "items": {
-            "Unusual Nature.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Multiattack": {
                 "name": "",
                 "system": {
@@ -5650,27 +4740,6 @@
             }
         },
         "items": {
-            "Magic Resistance.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
-            "Spellcasting.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
-            "Special Equipment.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Fire Bolt": {
                 "name": "",
                 "system": {
@@ -5903,20 +4972,6 @@
             }
         },
         "items": {
-            "Martial Advantage.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
-            "Parry.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Multiattack": {
                 "name": "",
                 "system": {
@@ -5989,20 +5044,6 @@
             }
         },
         "items": {
-            "Ethereal Sight.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
-            "Incorporeal Movement.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Withering Touch": {
                 "name": "",
                 "system": {
@@ -6083,13 +5124,6 @@
             }
         },
         "items": {
-            "Poor Depth Perception.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Multiattack": {
                 "name": "",
                 "system": {
@@ -6170,27 +5204,6 @@
             }
         },
         "items": {
-            "Blood Frenzy.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
-            "Swarm.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
-            "Water Breathing.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Bites (swarm has more than half HP)": {
                 "name": "",
                 "system": {
@@ -6223,13 +5236,6 @@
             }
         },
         "items": {
-            "Nimble Escape.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Scimitar": {
                 "name": "",
                 "system": {
@@ -6262,27 +5268,6 @@
             }
         },
         "items": {
-            "Illumination.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
-            "Magic Resistance.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
-            "Rejuvenation.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Spellcasting.": {
                 "system": {
                     "description": {
@@ -6370,27 +5355,6 @@
             }
         },
         "items": {
-            "Shapechanger.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
-            "Innate Spellcasting.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
-            "Magic Resistance.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Regeneration.": {
                 "system": {
                     "description": {
@@ -6534,20 +5498,6 @@
             }
         },
         "items": {
-            "Special Equipment.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
-            "Spellcasting.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Light": {
                 "name": "",
                 "system": {
@@ -6652,13 +5602,6 @@
             }
         },
         "items": {
-            "Hold Breath.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Bite": {
                 "name": "",
                 "system": {
@@ -6683,20 +5626,6 @@
             }
         },
         "items": {
-            "Brave.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
-            "Parry.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Multiattack": {
                 "name": "",
                 "system": {
@@ -6745,13 +5674,6 @@
             }
         },
         "items": {
-            "Unusual Nature.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Multiattack": {
                 "name": "",
                 "system": {
@@ -6856,27 +5778,6 @@
             }
         },
         "items": {
-            "Draconic Devotion.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
-            "Mounted Combat Master.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
-            "Mounted Evasion.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Multiattack": {
                 "name": "",
                 "system": {
@@ -6917,13 +5818,6 @@
             }
         },
         "items": {
-            "Hold the Line.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Multiattack": {
                 "name": "",
                 "system": {
@@ -6964,20 +5858,6 @@
             }
         },
         "items": {
-            "Water Form.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
-            "Freeze.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Multiattack": {
                 "name": "",
                 "system": {
@@ -7018,13 +5898,6 @@
             }
         },
         "items": {
-            "Amphibious.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Multiattack": {
                 "name": "",
                 "system": {
@@ -7081,13 +5954,6 @@
             }
         },
         "items": {
-            "Stone Camouflage.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Multiattack": {
                 "name": "",
                 "system": {
@@ -7136,20 +6002,6 @@
             }
         },
         "items": {
-            "Stench.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
-            "Turn Defiance.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Bite": {
                 "name": "",
                 "system": {
@@ -7334,13 +6186,6 @@
             }
         },
         "items": {
-            "Magic Resistance.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Bite": {
                 "name": "",
                 "system": {
@@ -7365,27 +6210,6 @@
             }
         },
         "items": {
-            "Aura of Command.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
-            "Death Throes.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
-            "Spellcasting.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Mage Hand": {
                 "name": "",
                 "system": {
@@ -7562,27 +6386,6 @@
             }
         },
         "items": {
-            "Undead Fortitude.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
-            "Unusual Nature.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
-            "Spellcasting.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Dispel Magic": {
                 "name": "",
                 "system": {
@@ -7639,13 +6442,6 @@
             }
         },
         "items": {
-            "Flyby.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Multiattack": {
                 "name": "",
                 "system": {
