@@ -4550,7 +4550,7 @@
                 }
             },
             "Multiattack": {
-                "name": "多重攻击Multiattack",
+                "name": "多重攻击 Multiattack",
                 "system": {
                     "description": {
                         "value": "<p>骑士发动两次近战攻击。</p>"
@@ -4558,7 +4558,7 @@
                 }
             },
             "Greatsword": {
-                "name": "巨剑Greatsword",
+                "name": "巨剑 Greatsword",
                 "system": {
                     "description": {
                         "value": "<section class=\"secret\">\n<p><em>近战武器攻击：</em><strong>命中+5，触及5尺，</strong>单一目标。伤害：<strong>10（2d6+3）点<em>挥砍伤害</em></strong>。</p></section>\n<p>骑士使用巨剑攻击。</p>"

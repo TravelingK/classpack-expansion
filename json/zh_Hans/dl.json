@@ -14,31 +14,31 @@
         },
         "items": {
             "Brave.": {
-                "name": "",
+                "name": "勇气 Brave",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>骑士为抵抗恐慌而作的豁免检定具有优势。</p>"
                     }
                 }
             },
             "Parry.": {
-                "name": "",
+                "name": "格挡 Parry",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>骑士在被一次近战攻击命中时，其AC加上2。此时该骑士必须能看见攻击者，且持用一把近战武器。</p>"
                     }
                 }
             },
             "Multiattack": {
-                "name": "",
+                "name": "多重攻击 Multiattack",
                 "system": {
                     "description": {
-                        "value": ""
+                        "value": "<p>骑士进行两次近战攻击。</p>"
                     }
                 }
             },
             "Greatsword": {
-                "name": "",
+                "name": "巨剑 Greatsword",
                 "system": {
                     "description": {
                         "value": ""
