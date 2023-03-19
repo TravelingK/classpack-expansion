@@ -733,13 +733,6 @@
             }
         },
         "items": {
-            "Unusual Nature.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Command": {
                 "name": "",
                 "system": {
@@ -844,13 +837,6 @@
             }
         },
         "items": {
-            "Regeneration.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Mage Hand": {
                 "name": "",
                 "system": {
@@ -1171,13 +1157,6 @@
             }
         },
         "items": {
-            "Regeneration.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Mage Hand": {
                 "name": "",
                 "system": {
@@ -1986,13 +1965,6 @@
             }
         },
         "items": {
-            "Magic Resistance.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Multiattack": {
                 "name": "",
                 "system": {
@@ -2553,13 +2525,6 @@
             }
         },
         "items": {
-            "Magic Resistance.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Multiattack": {
                 "name": "",
                 "system": {
@@ -2696,13 +2661,6 @@
             }
         },
         "items": {
-            "Unusual Nature.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Multiattack": {
                 "name": "",
                 "system": {
@@ -3839,13 +3797,6 @@
             }
         },
         "items": {
-            "Regeneration.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Multiattack (Vampire Form Only)": {
                 "name": "",
                 "system": {
@@ -3958,13 +3909,6 @@
             }
         },
         "items": {
-            "Regeneration.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Multiattack (Vampire Form Only)": {
                 "name": "",
                 "system": {
@@ -4389,13 +4333,6 @@
             }
         },
         "items": {
-            "Split.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Pseudopod": {
                 "name": "",
                 "system": {
@@ -5268,13 +5205,6 @@
             }
         },
         "items": {
-            "Spellcasting.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Mage Hand": {
                 "name": "",
                 "system": {
@@ -5355,13 +5285,6 @@
             }
         },
         "items": {
-            "Regeneration.": {
-                "system": {
-                    "description": {
-                        "value": ""
-                    }
-                }
-            },
             "Mage Hand": {
                 "name": "",
                 "system": {
