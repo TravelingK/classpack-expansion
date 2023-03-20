@@ -78,7 +78,7 @@
                 }
             },
             "Hold the Line": {
-                "name": "",
+                "name": "Hold the Line",
                 "system": {
                     "description": {
                         "value": ""
@@ -1606,7 +1606,7 @@
                 }
             },
             "Staff": {
-                "name": "",
+                "name": "Staff",
                 "system": {
                     "description": {
                         "value": ""
@@ -3838,7 +3838,7 @@
                 }
             },
             "Spear (Ranged)": {
-                "name": "",
+                "name": "Spear (Ranged)",
                 "system": {
                     "description": {
                         "value": ""
@@ -4086,7 +4086,7 @@
                 }
             },
             "Invisible in Water": {
-                "name": "",
+                "name": "Invisible in Water",
                 "system": {
                     "description": {
                         "value": ""

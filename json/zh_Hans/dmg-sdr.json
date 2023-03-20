@@ -186,7 +186,7 @@
                 }
             },
             "Wall of Stone": {
-                "name": "",
+                "name": "Wall of Stone",
                 "system": {
                     "description": {
                         "value": ""
@@ -418,7 +418,7 @@
                 }
             },
             "Fear": {
-                "name": "",
+                "name": "Fear",
                 "system": {
                     "description": {
                         "value": ""
@@ -938,7 +938,7 @@
                 }
             },
             "Fear": {
-                "name": "",
+                "name": "Fear",
                 "system": {
                     "description": {
                         "value": ""
@@ -1114,7 +1114,7 @@
                 }
             },
             "Water Walk": {
-                "name": "",
+                "name": "Water Walk",
                 "system": {
                     "description": {
                         "value": ""
@@ -1122,7 +1122,7 @@
                 }
             },
             "Purify Food and Drink": {
-                "name": "",
+                "name": "Purify Food and Drink",
                 "system": {
                     "description": {
                         "value": ""
@@ -1130,7 +1130,7 @@
                 }
             },
             "Create or Destroy Water": {
-                "name": "",
+                "name": "Create or Destroy Water",
                 "system": {
                     "description": {
                         "value": ""
@@ -1138,7 +1138,7 @@
                 }
             },
             "Trident (Ranged)": {
-                "name": "",
+                "name": "Trident (Ranged)",
                 "system": {
                     "description": {
                         "value": ""
@@ -1146,7 +1146,7 @@
                 }
             },
             "Water Jet": {
-                "name": "",
+                "name": "Water Jet",
                 "system": {
                     "description": {
                         "value": ""
@@ -1170,7 +1170,7 @@
                 }
             },
             "Control Water": {
-                "name": "",
+                "name": "Control Water",
                 "system": {
                     "description": {
                         "value": ""
@@ -1399,10 +1399,10 @@
                         "value": ""
                     }
                 },
-                "name": ""
+                "name": "Claw (Slaad Form Only)"
             },
             "Staff": {
-                "name": "",
+                "name": "Staff",
                 "system": {
                     "description": {
                         "value": ""
@@ -1410,7 +1410,7 @@
                 }
             },
             "Fear": {
-                "name": "",
+                "name": "Fear",
                 "system": {
                     "description": {
                         "value": ""
@@ -1426,7 +1426,7 @@
                 "name": ""
             },
             "Bite (Slaad Form Only)": {
-                "name": "",
+                "name": "Bite (Slaad Form Only)",
                 "system": {
                     "description": {
                         "value": ""
@@ -1866,7 +1866,7 @@
                 }
             },
             "Bite (Slaad Form Only)": {
-                "name": "",
+                "name": "Bite (Slaad Form Only)",
                 "system": {
                     "description": {
                         "value": ""
@@ -1874,7 +1874,7 @@
                 }
             },
             "Claws (Slaad Form Only)": {
-                "name": "",
+                "name": "Claws (Slaad Form Only)",
                 "system": {
                     "description": {
                         "value": ""
@@ -1882,7 +1882,7 @@
                 }
             },
             "Fear": {
-                "name": "",
+                "name": "Fear",
                 "system": {
                     "description": {
                         "value": ""
@@ -2002,7 +2002,7 @@
                 }
             },
             "Create or Destroy Water": {
-                "name": "",
+                "name": "Create or Destroy Water",
                 "system": {
                     "description": {
                         "value": ""
@@ -2010,7 +2010,7 @@
                 }
             },
             "Purify Food and Drink": {
-                "name": "",
+                "name": "Purify Food and Drink",
                 "system": {
                     "description": {
                         "value": ""
@@ -2026,7 +2026,7 @@
                 }
             },
             "Trident (Ranged)": {
-                "name": "",
+                "name": "Trident (Ranged)",
                 "system": {
                     "description": {
                         "value": ""
@@ -2034,7 +2034,7 @@
                 }
             },
             "Water Jet": {
-                "name": "",
+                "name": "Water Jet",
                 "system": {
                     "description": {
                         "value": ""
@@ -2050,7 +2050,7 @@
                 }
             },
             "Water Walk": {
-                "name": "",
+                "name": "Water Walk",
                 "system": {
                     "description": {
                         "value": ""
@@ -2058,7 +2058,7 @@
                 }
             },
             "Control Water": {
-                "name": "",
+                "name": "Control Water",
                 "system": {
                     "description": {
                         "value": ""
@@ -2074,9 +2074,9 @@
                 "alignment": ""
             }
         },
-        "name": "",
+        "name": "Marid",
         "prototypeToken": {
-            "name": ""
+            "name": "Marid"
         }
     },
     "Blue Slaad (Control Gem)": {
@@ -2802,9 +2802,9 @@
                 }
             }
         },
-        "name": "",
+        "name": "Slaad Tadpole",
         "prototypeToken": {
-            "name": ""
+            "name": "Slaad Tadpole"
         }
     },
     "Helmed Horror": {
@@ -2986,7 +2986,7 @@
                 }
             },
             "Fear": {
-                "name": "",
+                "name": "Fear",
                 "system": {
                     "description": {
                         "value": ""
@@ -3146,7 +3146,7 @@
                 }
             },
             "Fear": {
-                "name": "",
+                "name": "Fear",
                 "system": {
                     "description": {
                         "value": ""
@@ -3466,7 +3466,7 @@
                 }
             },
             "Special Equipment": {
-                "name": "",
+                "name": "Special Equipment",
                 "system": {
                     "description": {
                         "value": ""
@@ -3578,7 +3578,7 @@
                 }
             },
             "Spear (Ranged)": {
-                "name": "",
+                "name": "Spear (Ranged)",
                 "system": {
                     "description": {
                         "value": ""
@@ -3586,7 +3586,7 @@
                 }
             },
             "Fire Ray": {
-                "name": "",
+                "name": "Fire Ray",
                 "system": {
                     "description": {
                         "value": ""
@@ -3682,9 +3682,9 @@
                 }
             }
         },
-        "name": "",
+        "name": "Grick Alpha",
         "prototypeToken": {
-            "name": ""
+            "name": "Grick Alpha"
         },
         "system": {
             "details": {
@@ -4146,7 +4146,7 @@
                 }
             },
             "Trident (Ranged)": {
-                "name": "",
+                "name": "Trident (Ranged)",
                 "system": {
                     "description": {
                         "value": ""
@@ -4266,7 +4266,7 @@
                 }
             },
             "Marshal Undead": {
-                "name": "",
+                "name": "Marshal Undead",
                 "system": {
                     "description": {
                         "value": ""
@@ -4738,7 +4738,7 @@
                 }
             },
             "Control Water": {
-                "name": "",
+                "name": "Control Water",
                 "system": {
                     "description": {
                         "value": ""
@@ -4754,7 +4754,7 @@
                 }
             },
             "Purify Food and Drink": {
-                "name": "",
+                "name": "Purify Food and Drink",
                 "system": {
                     "description": {
                         "value": ""
@@ -4770,7 +4770,7 @@
                 }
             },
             "Trident (Ranged)": {
-                "name": "",
+                "name": "Trident (Ranged)",
                 "system": {
                     "description": {
                         "value": ""
@@ -4778,7 +4778,7 @@
                 }
             },
             "Water Jet": {
-                "name": "",
+                "name": "Water Jet",
                 "system": {
                     "description": {
                         "value": ""
@@ -4802,7 +4802,7 @@
                 }
             },
             "Water Walk": {
-                "name": "",
+                "name": "Water Walk",
                 "system": {
                     "description": {
                         "value": ""
@@ -4810,7 +4810,7 @@
                 }
             },
             "Create or Destroy Water": {
-                "name": "",
+                "name": "Create or Destroy Water",
                 "system": {
                     "description": {
                         "value": ""
@@ -5290,7 +5290,7 @@
                 }
             },
             "Trident (Ranged)": {
-                "name": "",
+                "name": "Trident (Ranged)",
                 "system": {
                     "description": {
                         "value": ""
@@ -5546,7 +5546,7 @@
                 }
             },
             "Fear": {
-                "name": "",
+                "name": "Fear",
                 "system": {
                     "description": {
                         "value": ""
@@ -5810,7 +5810,7 @@
                 }
             },
             "Wall of Stone": {
-                "name": "",
+                "name": "Wall of Stone",
                 "system": {
                     "description": {
                         "value": ""
@@ -6066,7 +6066,7 @@
                 }
             },
             "Sending": {
-                "name": "",
+                "name": "Sending",
                 "system": {
                     "description": {
                         "value": ""
@@ -6530,7 +6530,7 @@
                 }
             },
             "Poor Depth Perception": {
-                "name": "",
+                "name": "Poor Depth Perception",
                 "system": {
                     "description": {
                         "value": ""
@@ -6539,7 +6539,7 @@
             }
         },
         "prototypeToken": {
-            "name": ""
+            "name": "Cyclops"
         },
         "system": {
             "details": {
@@ -6549,7 +6549,7 @@
                 "alignment": ""
             }
         },
-        "name": ""
+        "name": "Cyclops"
     },
     "Mind Flayer": {
         "items": {
@@ -6706,7 +6706,7 @@
                 }
             },
             "Spear (Ranged)": {
-                "name": "",
+                "name": "Spear (Ranged)",
                 "system": {
                     "description": {
                         "value": ""
@@ -7106,7 +7106,7 @@
                 }
             },
             "Control Water": {
-                "name": "",
+                "name": "Control Water",
                 "system": {
                     "description": {
                         "value": ""
@@ -7322,7 +7322,7 @@
                 }
             },
             "Trident (Ranged)": {
-                "name": "",
+                "name": "Trident (Ranged)",
                 "system": {
                     "description": {
                         "value": ""
@@ -7466,7 +7466,7 @@
                 }
             },
             "Spear (Ranged)": {
-                "name": "",
+                "name": "Spear (Ranged)",
                 "system": {
                     "description": {
                         "value": ""
@@ -7594,7 +7594,7 @@
                 }
             },
             "Flaming Sphere": {
-                "name": "",
+                "name": "Flaming Sphere",
                 "system": {
                     "description": {
                         "value": ""
@@ -7602,7 +7602,7 @@
                 }
             },
             "Fire Ray": {
-                "name": "",
+                "name": "Fire Ray",
                 "system": {
                     "description": {
                         "value": ""
@@ -7618,9 +7618,9 @@
                 }
             }
         },
-        "name": "",
+        "name": "Flameskull",
         "prototypeToken": {
-            "name": ""
+            "name": "Flameskull"
         }
     },
     "Vampire Spellcaster": {
@@ -8199,10 +8199,10 @@
                         "value": ""
                     }
                 },
-                "name": ""
+                "name": "Bite (Slaad Form Only)"
             },
             "Claws (Slaad Form Only)": {
-                "name": "",
+                "name": "Claws (Slaad Form Only)",
                 "system": {
                     "description": {
                         "value": ""
@@ -8210,7 +8210,7 @@
                 }
             },
             "Fear": {
-                "name": "",
+                "name": "Fear",
                 "system": {
                     "description": {
                         "value": ""
@@ -8226,9 +8226,9 @@
                 "alignment": ""
             }
         },
-        "name": "",
+        "name": "Death Slaad",
         "prototypeToken": {
-            "name": ""
+            "name": "Death Slaad"
         }
     },
     "Empyrean": {
@@ -8346,7 +8346,7 @@
                 }
             },
             "Water Walk": {
-                "name": "",
+                "name": "Water Walk",
                 "system": {
                     "description": {
                         "value": ""
@@ -8722,9 +8722,9 @@
                 }
             }
         },
-        "name": "",
+        "name": "Hobgoblin Captain",
         "prototypeToken": {
-            "name": ""
+            "name": "Hobgoblin Captain"
         }
     },
     "Yeti": {
@@ -8850,7 +8850,7 @@
                 }
             },
             "Trident (Ranged)": {
-                "name": "",
+                "name": "Trident (Ranged)",
                 "system": {
                     "description": {
                         "value": ""
@@ -9418,7 +9418,7 @@
                 }
             },
             "Trident (Ranged)": {
-                "name": "",
+                "name": "Trident (Ranged)",
                 "system": {
                     "description": {
                         "value": ""
@@ -9618,7 +9618,7 @@
                 }
             },
             "Staff": {
-                "name": "",
+                "name": "Staff",
                 "system": {
                     "description": {
                         "value": ""
@@ -9794,7 +9794,7 @@
                 }
             },
             "Claws (Slaad Form Only)": {
-                "name": "",
+                "name": "Claws (Slaad Form Only)",
                 "system": {
                     "description": {
                         "value": ""
@@ -9810,7 +9810,7 @@
                 }
             },
             "Bite (Slaad Form Only)": {
-                "name": "",
+                "name": "Bite (Slaad Form Only)",
                 "system": {
                     "description": {
                         "value": ""
@@ -9818,7 +9818,7 @@
                 }
             },
             "Fear": {
-                "name": "",
+                "name": "Fear",
                 "system": {
                     "description": {
                         "value": ""
@@ -10122,7 +10122,7 @@
                 }
             },
             "Special Equipment": {
-                "name": "",
+                "name": "Special Equipment",
                 "system": {
                     "description": {
                         "value": ""
@@ -10666,9 +10666,9 @@
                 "alignment": ""
             }
         },
-        "name": "",
+        "name": "Red Slaad",
         "prototypeToken": {
-            "name": ""
+            "name": "Red Slaad"
         }
     },
     "Myconid Sovereign": {
@@ -12250,7 +12250,7 @@
                 }
             },
             "Fear": {
-                "name": "",
+                "name": "Fear",
                 "system": {
                     "description": {
                         "value": ""
@@ -12258,7 +12258,7 @@
                 }
             },
             "Bite (Slaad Form Only)": {
-                "name": "",
+                "name": "Bite (Slaad Form Only)",
                 "system": {
                     "description": {
                         "value": ""
@@ -12266,7 +12266,7 @@
                 }
             },
             "Claws (Slaad Form Only)": {
-                "name": "",
+                "name": "Claws (Slaad Form Only)",
                 "system": {
                     "description": {
                         "value": ""
@@ -12674,7 +12674,7 @@
                 }
             },
             "Wall of Stone": {
-                "name": "",
+                "name": "Wall of Stone",
                 "system": {
                     "description": {
                         "value": ""
@@ -12866,7 +12866,7 @@
                 }
             },
             "Spear (Ranged)": {
-                "name": "",
+                "name": "Spear (Ranged)",
                 "system": {
                     "description": {
                         "value": ""
@@ -13562,9 +13562,9 @@
                 "alignment": ""
             }
         },
-        "name": "",
+        "name": "Hobgoblin Warlord",
         "prototypeToken": {
-            "name": ""
+            "name": "Hobgoblin Warlord"
         }
     },
     "Quaggoth Spore Servant": {
@@ -14130,7 +14130,7 @@
                 }
             },
             "Spear (Ranged)": {
-                "name": "",
+                "name": "Spear (Ranged)",
                 "system": {
                     "description": {
                         "value": ""
@@ -14290,7 +14290,7 @@
                 }
             },
             "Fear": {
-                "name": "",
+                "name": "Fear",
                 "system": {
                     "description": {
                         "value": ""
@@ -14298,7 +14298,7 @@
                 }
             },
             "Bite (Slaad Form Only)": {
-                "name": "",
+                "name": "Bite (Slaad Form Only)",
                 "system": {
                     "description": {
                         "value": ""
@@ -14306,7 +14306,7 @@
                 }
             },
             "Claw (Slaad Form Only)": {
-                "name": "",
+                "name": "Claw (Slaad Form Only)",
                 "system": {
                     "description": {
                         "value": ""
@@ -14314,7 +14314,7 @@
                 }
             },
             "Staff": {
-                "name": "",
+                "name": "Staff",
                 "system": {
                     "description": {
                         "value": ""
@@ -14330,9 +14330,9 @@
                 "alignment": ""
             }
         },
-        "name": "",
+        "name": "Green Slaad",
         "prototypeToken": {
-            "name": ""
+            "name": "Green Slaad"
         }
     },
     "Larva": {
@@ -14698,7 +14698,7 @@
                 }
             },
             "Invisible in Water": {
-                "name": "",
+                "name": "Invisible in Water",
                 "system": {
                     "description": {
                         "value": ""
@@ -14706,7 +14706,7 @@
                 }
             },
             "Water Bound": {
-                "name": "",
+                "name": "Water Bound",
                 "system": {
                     "description": {
                         "value": ""
@@ -14722,9 +14722,9 @@
                 "alignment": ""
             }
         },
-        "name": "",
+        "name": "Water Weird",
         "prototypeToken": {
-            "name": ""
+            "name": "Water Weird"
         }
     },
     "Myconid Adult": {

@@ -238,7 +238,7 @@
                 }
             },
             "Stinking Cloud": {
-                "name": "",
+                "name": "Stinking Cloud",
                 "system": {
                     "description": {
                         "value": ""
@@ -318,7 +318,7 @@
                 }
             },
             "Spear (Ranged)": {
-                "name": "",
+                "name": "Spear (Ranged)",
                 "system": {
                     "description": {
                         "value": ""
@@ -350,7 +350,7 @@
                 }
             },
             "Fear": {
-                "name": "",
+                "name": "Fear",
                 "system": {
                     "description": {
                         "value": ""
@@ -622,7 +622,7 @@
                 }
             },
             "Dagger (Melee)": {
-                "name": "",
+                "name": "Dagger (Melee)",
                 "system": {
                     "description": {
                         "value": ""
@@ -630,7 +630,7 @@
                 }
             },
             "Dagger (Ranged)": {
-                "name": "",
+                "name": "Dagger (Ranged)",
                 "system": {
                     "description": {
                         "value": ""
@@ -758,7 +758,7 @@
         },
         "items": {
             "Dagger (Melee)": {
-                "name": "",
+                "name": "Dagger (Melee)",
                 "system": {
                     "description": {
                         "value": ""
@@ -766,7 +766,7 @@
                 }
             },
             "Dagger (Ranged)": {
-                "name": "",
+                "name": "Dagger (Ranged)",
                 "system": {
                     "description": {
                         "value": ""
@@ -1022,7 +1022,7 @@
                 }
             },
             "Fear": {
-                "name": "",
+                "name": "Fear",
                 "system": {
                     "description": {
                         "value": ""
@@ -1110,7 +1110,7 @@
                 }
             },
             "Special Equipment": {
-                "name": "",
+                "name": "Special Equipment",
                 "system": {
                     "description": {
                         "value": ""
@@ -1470,7 +1470,7 @@
         },
         "items": {
             "Dagger (Melee)": {
-                "name": "",
+                "name": "Dagger (Melee)",
                 "system": {
                     "description": {
                         "value": ""
@@ -1478,7 +1478,7 @@
                 }
             },
             "Dagger (Ranged)": {
-                "name": "",
+                "name": "Dagger (Ranged)",
                 "system": {
                     "description": {
                         "value": ""
@@ -1630,7 +1630,7 @@
         },
         "items": {
             "Dagger (Melee)": {
-                "name": "",
+                "name": "Dagger (Melee)",
                 "system": {
                     "description": {
                         "value": ""
@@ -1638,7 +1638,7 @@
                 }
             },
             "Dagger (Ranged)": {
-                "name": "",
+                "name": "Dagger (Ranged)",
                 "system": {
                     "description": {
                         "value": ""
@@ -1742,7 +1742,7 @@
         },
         "items": {
             "Dagger (Melee)": {
-                "name": "",
+                "name": "Dagger (Melee)",
                 "system": {
                     "description": {
                         "value": ""
@@ -1750,7 +1750,7 @@
                 }
             },
             "Dagger (Ranged)": {
-                "name": "",
+                "name": "Dagger (Ranged)",
                 "system": {
                     "description": {
                         "value": ""
@@ -2014,7 +2014,7 @@
                 }
             },
             "Fear": {
-                "name": "",
+                "name": "Fear",
                 "system": {
                     "description": {
                         "value": ""
@@ -2454,7 +2454,7 @@
                 }
             },
             "Revivify": {
-                "name": "",
+                "name": "Revivify",
                 "system": {
                     "description": {
                         "value": ""
@@ -2646,7 +2646,7 @@
         },
         "items": {
             "Dagger (Melee)": {
-                "name": "",
+                "name": "Dagger (Melee)",
                 "system": {
                     "description": {
                         "value": ""
@@ -2654,7 +2654,7 @@
                 }
             },
             "Dagger (Ranged)": {
-                "name": "",
+                "name": "Dagger (Ranged)",
                 "system": {
                     "description": {
                         "value": ""
@@ -2838,7 +2838,7 @@
                 }
             },
             "Fear": {
-                "name": "",
+                "name": "Fear",
                 "system": {
                     "description": {
                         "value": ""
@@ -2910,7 +2910,7 @@
                 }
             },
             "Dagger (Melee)": {
-                "name": "",
+                "name": "Dagger (Melee)",
                 "system": {
                     "description": {
                         "value": ""
@@ -2918,7 +2918,7 @@
                 }
             },
             "Dagger (Ranged)": {
-                "name": "",
+                "name": "Dagger (Ranged)",
                 "system": {
                     "description": {
                         "value": ""
@@ -3142,7 +3142,7 @@
                 }
             },
             "Arcane Eye": {
-                "name": "",
+                "name": "Arcane Eye",
                 "system": {
                     "description": {
                         "value": ""
@@ -3270,7 +3270,7 @@
         },
         "items": {
             "Dagger (Melee)": {
-                "name": "",
+                "name": "Dagger (Melee)",
                 "system": {
                     "description": {
                         "value": ""
@@ -3278,7 +3278,7 @@
                 }
             },
             "Dagger (Ranged)": {
-                "name": "",
+                "name": "Dagger (Ranged)",
                 "system": {
                     "description": {
                         "value": ""
@@ -3350,7 +3350,7 @@
                 }
             },
             "Spear (Ranged)": {
-                "name": "",
+                "name": "Spear (Ranged)",
                 "system": {
                     "description": {
                         "value": ""
@@ -3614,7 +3614,7 @@
                 }
             },
             "Control Water": {
-                "name": "",
+                "name": "Control Water",
                 "system": {
                     "description": {
                         "value": ""
@@ -3638,7 +3638,7 @@
                 }
             },
             "Water Walk": {
-                "name": "",
+                "name": "Water Walk",
                 "system": {
                     "description": {
                         "value": ""
@@ -3654,7 +3654,7 @@
                 }
             },
             "Create or Destroy Water": {
-                "name": "",
+                "name": "Create or Destroy Water",
                 "system": {
                     "description": {
                         "value": ""
@@ -4318,7 +4318,7 @@
         },
         "items": {
             "Dagger (Melee)": {
-                "name": "",
+                "name": "Dagger (Melee)",
                 "system": {
                     "description": {
                         "value": ""
@@ -4326,7 +4326,7 @@
                 }
             },
             "Dagger (Ranged)": {
-                "name": "",
+                "name": "Dagger (Ranged)",
                 "system": {
                     "description": {
                         "value": ""
@@ -5694,7 +5694,7 @@
                 }
             },
             "Fear": {
-                "name": "",
+                "name": "Fear",
                 "system": {
                     "description": {
                         "value": ""
@@ -5758,7 +5758,7 @@
         },
         "items": {
             "Dagger (Melee)": {
-                "name": "",
+                "name": "Dagger (Melee)",
                 "system": {
                     "description": {
                         "value": ""
@@ -5766,7 +5766,7 @@
                 }
             },
             "Dagger (Ranged)": {
-                "name": "",
+                "name": "Dagger (Ranged)",
                 "system": {
                     "description": {
                         "value": ""
@@ -6086,7 +6086,7 @@
                 }
             },
             "Fear": {
-                "name": "",
+                "name": "Fear",
                 "system": {
                     "description": {
                         "value": ""
@@ -6190,7 +6190,7 @@
         },
         "items": {
             "Dagger (Melee)": {
-                "name": "",
+                "name": "Dagger (Melee)",
                 "system": {
                     "description": {
                         "value": ""
@@ -6198,7 +6198,7 @@
                 }
             },
             "Dagger (Ranged)": {
-                "name": "",
+                "name": "Dagger (Ranged)",
                 "system": {
                     "description": {
                         "value": ""
@@ -6358,7 +6358,7 @@
         },
         "items": {
             "Dagger (Melee)": {
-                "name": "",
+                "name": "Dagger (Melee)",
                 "system": {
                     "description": {
                         "value": ""
@@ -6366,7 +6366,7 @@
                 }
             },
             "Dagger (Ranged)": {
-                "name": "",
+                "name": "Dagger (Ranged)",
                 "system": {
                     "description": {
                         "value": ""
@@ -6830,7 +6830,7 @@
         },
         "items": {
             "Dagger (Melee)": {
-                "name": "",
+                "name": "Dagger (Melee)",
                 "system": {
                     "description": {
                         "value": ""
@@ -6838,7 +6838,7 @@
                 }
             },
             "Dagger (Ranged)": {
-                "name": "",
+                "name": "Dagger (Ranged)",
                 "system": {
                     "description": {
                         "value": ""
@@ -6966,7 +6966,7 @@
         },
         "items": {
             "Dagger (Melee)": {
-                "name": "",
+                "name": "Dagger (Melee)",
                 "system": {
                     "description": {
                         "value": ""
@@ -6974,7 +6974,7 @@
                 }
             },
             "Dagger (Ranged)": {
-                "name": "",
+                "name": "Dagger (Ranged)",
                 "system": {
                     "description": {
                         "value": ""
@@ -7726,7 +7726,7 @@
         },
         "items": {
             "Dagger (Melee)": {
-                "name": "",
+                "name": "Dagger (Melee)",
                 "system": {
                     "description": {
                         "value": ""
@@ -7734,7 +7734,7 @@
                 }
             },
             "Dagger (Ranged)": {
-                "name": "",
+                "name": "Dagger (Ranged)",
                 "system": {
                     "description": {
                         "value": ""
@@ -7838,7 +7838,7 @@
                 }
             },
             "Stinking Cloud": {
-                "name": "",
+                "name": "Stinking Cloud",
                 "system": {
                     "description": {
                         "value": ""
@@ -8270,7 +8270,7 @@
                 }
             },
             "Stinking Cloud": {
-                "name": "",
+                "name": "Stinking Cloud",
                 "system": {
                     "description": {
                         "value": ""
@@ -9030,7 +9030,7 @@
                 }
             },
             "Flaming Sphere": {
-                "name": "",
+                "name": "Flaming Sphere",
                 "system": {
                     "description": {
                         "value": ""
@@ -9318,7 +9318,7 @@
         },
         "items": {
             "Dagger (Melee)": {
-                "name": "",
+                "name": "Dagger (Melee)",
                 "system": {
                     "description": {
                         "value": ""
@@ -9326,7 +9326,7 @@
                 }
             },
             "Dagger (Ranged)": {
-                "name": "",
+                "name": "Dagger (Ranged)",
                 "system": {
                     "description": {
                         "value": ""
@@ -9678,7 +9678,7 @@
                 }
             },
             "Sending": {
-                "name": "",
+                "name": "Sending",
                 "system": {
                     "description": {
                         "value": ""
@@ -9990,7 +9990,7 @@
                 }
             },
             "Flaming Sphere": {
-                "name": "",
+                "name": "Flaming Sphere",
                 "system": {
                     "description": {
                         "value": ""
@@ -10614,7 +10614,7 @@
                 }
             },
             "Arcane Eye": {
-                "name": "",
+                "name": "Arcane Eye",
                 "system": {
                     "description": {
                         "value": ""
@@ -11014,7 +11014,7 @@
         },
         "items": {
             "Dagger (Melee)": {
-                "name": "",
+                "name": "Dagger (Melee)",
                 "system": {
                     "description": {
                         "value": ""
@@ -11022,7 +11022,7 @@
                 }
             },
             "Dagger (Ranged)": {
-                "name": "",
+                "name": "Dagger (Ranged)",
                 "system": {
                     "description": {
                         "value": ""
@@ -11430,7 +11430,7 @@
                 }
             },
             "Taunt": {
-                "name": "",
+                "name": "Taunt",
                 "system": {
                     "description": {
                         "value": ""
@@ -11550,7 +11550,7 @@
         },
         "items": {
             "Dagger (Melee)": {
-                "name": "",
+                "name": "Dagger (Melee)",
                 "system": {
                     "description": {
                         "value": ""
@@ -11558,7 +11558,7 @@
                 }
             },
             "Dagger (Ranged)": {
-                "name": "",
+                "name": "Dagger (Ranged)",
                 "system": {
                     "description": {
                         "value": ""
@@ -11806,7 +11806,7 @@
                 }
             },
             "Fear": {
-                "name": "",
+                "name": "Fear",
                 "system": {
                     "description": {
                         "value": ""
@@ -11878,7 +11878,7 @@
         },
         "items": {
             "Dagger (Melee)": {
-                "name": "",
+                "name": "Dagger (Melee)",
                 "system": {
                     "description": {
                         "value": ""
@@ -11886,7 +11886,7 @@
                 }
             },
             "Dagger (Ranged)": {
-                "name": "",
+                "name": "Dagger (Ranged)",
                 "system": {
                     "description": {
                         "value": ""
@@ -12094,7 +12094,7 @@
                 }
             },
             "Revivify": {
-                "name": "",
+                "name": "Revivify",
                 "system": {
                     "description": {
                         "value": ""
@@ -12110,7 +12110,7 @@
                 }
             },
             "Water Walk": {
-                "name": "",
+                "name": "Water Walk",
                 "system": {
                     "description": {
                         "value": ""
@@ -12198,7 +12198,7 @@
         },
         "items": {
             "Dagger (Melee)": {
-                "name": "",
+                "name": "Dagger (Melee)",
                 "system": {
                     "description": {
                         "value": ""
@@ -12206,7 +12206,7 @@
                 }
             },
             "Dagger (Ranged)": {
-                "name": "",
+                "name": "Dagger (Ranged)",
                 "system": {
                     "description": {
                         "value": ""
@@ -12438,7 +12438,7 @@
         },
         "items": {
             "Dagger (Melee)": {
-                "name": "",
+                "name": "Dagger (Melee)",
                 "system": {
                     "description": {
                         "value": ""
@@ -12446,7 +12446,7 @@
                 }
             },
             "Dagger (Ranged)": {
-                "name": "",
+                "name": "Dagger (Ranged)",
                 "system": {
                     "description": {
                         "value": ""
@@ -12606,7 +12606,7 @@
                 }
             },
             "Fear": {
-                "name": "",
+                "name": "Fear",
                 "system": {
                     "description": {
                         "value": ""
@@ -13054,7 +13054,7 @@
         },
         "items": {
             "Dagger (Melee)": {
-                "name": "",
+                "name": "Dagger (Melee)",
                 "system": {
                     "description": {
                         "value": ""
@@ -13062,7 +13062,7 @@
                 }
             },
             "Dagger (Ranged)": {
-                "name": "",
+                "name": "Dagger (Ranged)",
                 "system": {
                     "description": {
                         "value": ""
@@ -13166,7 +13166,7 @@
         },
         "items": {
             "Dagger (Melee)": {
-                "name": "",
+                "name": "Dagger (Melee)",
                 "system": {
                     "description": {
                         "value": ""
@@ -13174,7 +13174,7 @@
                 }
             },
             "Dagger (Ranged)": {
-                "name": "",
+                "name": "Dagger (Ranged)",
                 "system": {
                     "description": {
                         "value": ""
@@ -14150,7 +14150,7 @@
                 }
             },
             "Arcane Eye": {
-                "name": "",
+                "name": "Arcane Eye",
                 "system": {
                     "description": {
                         "value": ""
@@ -14326,7 +14326,7 @@
                 }
             },
             "Spear (Ranged)": {
-                "name": "",
+                "name": "Spear (Ranged)",
                 "system": {
                     "description": {
                         "value": ""
@@ -14582,7 +14582,7 @@
                 }
             },
             "Sending": {
-                "name": "",
+                "name": "Sending",
                 "system": {
                     "description": {
                         "value": ""
@@ -14926,7 +14926,7 @@
         },
         "items": {
             "Dagger (Melee)": {
-                "name": "",
+                "name": "Dagger (Melee)",
                 "system": {
                     "description": {
                         "value": ""
@@ -14934,7 +14934,7 @@
                 }
             },
             "Dagger (Ranged)": {
-                "name": "",
+                "name": "Dagger (Ranged)",
                 "system": {
                     "description": {
                         "value": ""
@@ -15726,7 +15726,7 @@
                 }
             },
             "Flaming Sphere": {
-                "name": "",
+                "name": "Flaming Sphere",
                 "system": {
                     "description": {
                         "value": ""
@@ -15814,7 +15814,7 @@
         },
         "items": {
             "Dagger (Melee)": {
-                "name": "",
+                "name": "Dagger (Melee)",
                 "system": {
                     "description": {
                         "value": ""
@@ -15822,7 +15822,7 @@
                 }
             },
             "Dagger (Ranged)": {
-                "name": "",
+                "name": "Dagger (Ranged)",
                 "system": {
                     "description": {
                         "value": ""
@@ -16102,7 +16102,7 @@
         },
         "items": {
             "Dagger (Melee)": {
-                "name": "",
+                "name": "Dagger (Melee)",
                 "system": {
                     "description": {
                         "value": ""
@@ -16110,7 +16110,7 @@
                 }
             },
             "Dagger (Ranged)": {
-                "name": "",
+                "name": "Dagger (Ranged)",
                 "system": {
                     "description": {
                         "value": ""
@@ -16158,7 +16158,7 @@
         },
         "items": {
             "Dagger (Melee)": {
-                "name": "",
+                "name": "Dagger (Melee)",
                 "system": {
                     "description": {
                         "value": ""
@@ -16166,7 +16166,7 @@
                 }
             },
             "Dagger (Ranged)": {
-                "name": "",
+                "name": "Dagger (Ranged)",
                 "system": {
                     "description": {
                         "value": ""
@@ -16318,7 +16318,7 @@
                 }
             },
             "Fear": {
-                "name": "",
+                "name": "Fear",
                 "system": {
                     "description": {
                         "value": ""
@@ -16846,7 +16846,7 @@
         },
         "items": {
             "Dagger (Melee)": {
-                "name": "",
+                "name": "Dagger (Melee)",
                 "system": {
                     "description": {
                         "value": ""
@@ -16854,7 +16854,7 @@
                 }
             },
             "Dagger (Ranged)": {
-                "name": "",
+                "name": "Dagger (Ranged)",
                 "system": {
                     "description": {
                         "value": ""
@@ -16918,7 +16918,7 @@
         },
         "items": {
             "Dagger (Melee)": {
-                "name": "",
+                "name": "Dagger (Melee)",
                 "system": {
                     "description": {
                         "value": ""
@@ -16926,7 +16926,7 @@
                 }
             },
             "Dagger (Ranged)": {
-                "name": "",
+                "name": "Dagger (Ranged)",
                 "system": {
                     "description": {
                         "value": ""
@@ -17398,7 +17398,7 @@
         },
         "items": {
             "Dagger (Melee)": {
-                "name": "",
+                "name": "Dagger (Melee)",
                 "system": {
                     "description": {
                         "value": ""
@@ -17406,7 +17406,7 @@
                 }
             },
             "Dagger (Ranged)": {
-                "name": "",
+                "name": "Dagger (Ranged)",
                 "system": {
                     "description": {
                         "value": ""
@@ -17558,7 +17558,7 @@
                 }
             },
             "Spear (Ranged)": {
-                "name": "",
+                "name": "Spear (Ranged)",
                 "system": {
                     "description": {
                         "value": ""
@@ -17614,7 +17614,7 @@
                 }
             },
             "Dagger (Melee)": {
-                "name": "",
+                "name": "Dagger (Melee)",
                 "system": {
                     "description": {
                         "value": ""
@@ -17622,7 +17622,7 @@
                 }
             },
             "Dagger (Ranged)": {
-                "name": "",
+                "name": "Dagger (Ranged)",
                 "system": {
                     "description": {
                         "value": ""
@@ -17798,7 +17798,7 @@
                 }
             },
             "Fear": {
-                "name": "",
+                "name": "Fear",
                 "system": {
                     "description": {
                         "value": ""
@@ -18294,7 +18294,7 @@
         },
         "items": {
             "Dagger (Melee)": {
-                "name": "",
+                "name": "Dagger (Melee)",
                 "system": {
                     "description": {
                         "value": ""
@@ -18302,7 +18302,7 @@
                 }
             },
             "Dagger (Ranged)": {
-                "name": "",
+                "name": "Dagger (Ranged)",
                 "system": {
                     "description": {
                         "value": ""
@@ -18574,7 +18574,7 @@
         },
         "items": {
             "Dagger (Melee)": {
-                "name": "",
+                "name": "Dagger (Melee)",
                 "system": {
                     "description": {
                         "value": ""
@@ -18582,7 +18582,7 @@
                 }
             },
             "Dagger (Ranged)": {
-                "name": "",
+                "name": "Dagger (Ranged)",
                 "system": {
                     "description": {
                         "value": ""
@@ -19158,7 +19158,7 @@
                 }
             },
             "Fear": {
-                "name": "",
+                "name": "Fear",
                 "system": {
                     "description": {
                         "value": ""
@@ -19510,7 +19510,7 @@
                 }
             },
             "Revivify": {
-                "name": "",
+                "name": "Revivify",
                 "system": {
                     "description": {
                         "value": ""
@@ -19598,7 +19598,7 @@
         },
         "items": {
             "Dagger (Melee)": {
-                "name": "",
+                "name": "Dagger (Melee)",
                 "system": {
                     "description": {
                         "value": ""
@@ -19606,7 +19606,7 @@
                 }
             },
             "Dagger (Ranged)": {
-                "name": "",
+                "name": "Dagger (Ranged)",
                 "system": {
                     "description": {
                         "value": ""
@@ -20118,7 +20118,7 @@
                 }
             },
             "Fear": {
-                "name": "",
+                "name": "Fear",
                 "system": {
                     "description": {
                         "value": ""
