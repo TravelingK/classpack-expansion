@@ -1938,7 +1938,7 @@
                 }
             },
             "Invisibility": {
-                "name": "隐形Invisibility",
+                "name": "隐形术 Invisibility",
                 "system": {
                     "description": {
                         "value": ""
@@ -1970,7 +1970,7 @@
                 }
             },
             "Detect Magic": {
-                "name": "侦测魔法Detect Magic",
+                "name": "侦测魔法 Detect Magic",
                 "system": {
                     "description": {
                         "value": ""
@@ -1978,7 +1978,7 @@
                 }
             },
             "Innate Spellcasting": {
-                "name": "天生施法Innate Spellcasting",
+                "name": "天生施法 Innate Spellcasting",
                 "system": {
                     "description": {
                         "value": ""
@@ -2786,7 +2786,7 @@
                 }
             },
             "Magic Resistance": {
-                "name": "魔法抗性Magic Resistance",
+                "name": "魔法抗性 Magic Resistance",
                 "system": {
                     "description": {
                         "value": ""
@@ -6514,7 +6514,7 @@
                 }
             },
             "Rock": {
-                "name": "掷石Rock",
+                "name": "掷石 Rock",
                 "system": {
                     "description": {
                         "value": ""
@@ -6522,7 +6522,7 @@
                 }
             },
             "Greatclub": {
-                "name": "巨棒Greatclub",
+                "name": "巨棒 Greatclub",
                 "system": {
                     "description": {
                         "value": ""
@@ -6530,7 +6530,7 @@
                 }
             },
             "Poor Depth Perception": {
-                "name": "Poor Depth Perception",
+                "name": "纵感欠缺 Poor Depth Perception",
                 "system": {
                     "description": {
                         "value": ""
@@ -6539,7 +6539,7 @@
             }
         },
         "prototypeToken": {
-            "name": "Cyclops"
+            "name": "独眼巨人 Cyclops"
         },
         "system": {
             "details": {
@@ -6549,7 +6549,7 @@
                 "alignment": ""
             }
         },
-        "name": "Cyclops"
+        "name": "独眼巨人 Cyclops"
     },
     "Mind Flayer": {
         "items": {
@@ -7530,7 +7530,7 @@
                 }
             },
             "Magic Resistance": {
-                "name": "魔法抗性Magic Resistance",
+                "name": "魔法抗性 Magic Resistance",
                 "system": {
                     "description": {
                         "value": ""
@@ -7538,7 +7538,7 @@
                 }
             },
             "Shield": {
-                "name": "盾牌Shield",
+                "name": "护盾术 Shield",
                 "system": {
                     "description": {
                         "value": ""
@@ -7554,7 +7554,7 @@
                 }
             },
             "Mage Hand": {
-                "name": "法师之手Mage Hand",
+                "name": "法师之手 Mage Hand",
                 "system": {
                     "description": {
                         "value": ""
@@ -7562,7 +7562,7 @@
                 }
             },
             "Magic Missile": {
-                "name": "魔法飞弹Magic Missile",
+                "name": "魔法飞弹 Magic Missile",
                 "system": {
                     "description": {
                         "value": ""
@@ -7578,7 +7578,7 @@
                 }
             },
             "Fireball": {
-                "name": "火球术Fireball",
+                "name": "火球术 Fireball",
                 "system": {
                     "description": {
                         "value": ""
@@ -8066,7 +8066,7 @@
                 }
             },
             "Detect Magic": {
-                "name": "侦测魔法Detect Magic",
+                "name": "侦测魔法 Detect Magic",
                 "system": {
                     "description": {
                         "value": ""
@@ -8090,7 +8090,7 @@
                 }
             },
             "Magic Resistance": {
-                "name": "魔法抗性Magic Resistance",
+                "name": "魔法抗性 Magic Resistance",
                 "system": {
                     "description": {
                         "value": ""
@@ -8106,7 +8106,7 @@
                 }
             },
             "Invisibility": {
-                "name": "隐形Invisibility",
+                "name": "隐形术 Invisibility",
                 "system": {
                     "description": {
                         "value": ""
@@ -8122,7 +8122,7 @@
                 }
             },
             "Innate Spellcasting": {
-                "name": "天生施法Innate Spellcasting",
+                "name": "天生施法 Innate Spellcasting",
                 "system": {
                     "description": {
                         "value": ""
@@ -8130,7 +8130,7 @@
                 }
             },
             "Shapechanger": {
-                "name": "变形生物Shapechanger",
+                "name": "变形生物 Shapechanger",
                 "system": {
                     "description": {
                         "value": ""
@@ -8138,7 +8138,7 @@
                 }
             },
             "Fireball": {
-                "name": "火球术Fireball",
+                "name": "火球术 Fireball",
                 "system": {
                     "description": {
                         "value": ""
@@ -8146,7 +8146,7 @@
                 }
             },
             "Fly": {
-                "name": "飞行术Fly",
+                "name": "飞行术 Fly",
                 "system": {
                     "description": {
                         "value": ""
@@ -8162,7 +8162,7 @@
                 }
             },
             "Regeneration": {
-                "name": "再生Regeneration",
+                "name": "再生 Regeneration",
                 "system": {
                     "description": {
                         "value": ""
@@ -8178,7 +8178,7 @@
                 }
             },
             "Detect Thoughts": {
-                "name": "侦测思想Detect Thoughts",
+                "name": "侦测思想 Detect Thoughts",
                 "system": {
                     "description": {
                         "value": ""
@@ -8186,7 +8186,7 @@
                 }
             },
             "Mage Hand": {
-                "name": "法师之手Mage Hand",
+                "name": "法师之手 Mage Hand",
                 "system": {
                     "description": {
                         "value": ""
@@ -8199,7 +8199,7 @@
                         "value": ""
                     }
                 },
-                "name": "Bite (Slaad Form Only)"
+                "name": "啃咬 Bite（仅史拉蟾形态）"
             },
             "Claws (Slaad Form Only)": {
                 "name": "Claws (Slaad Form Only)",
@@ -8210,7 +8210,7 @@
                 }
             },
             "Fear": {
-                "name": "Fear",
+                "name": "恐惧术 Fear",
                 "system": {
                     "description": {
                         "value": ""
@@ -10642,7 +10642,7 @@
                 }
             },
             "Magic Resistance": {
-                "name": "魔法抗性Magic Resistance",
+                "name": "魔法抗性 Magic Resistance",
                 "system": {
                     "description": {
                         "value": ""
@@ -10650,7 +10650,7 @@
                 }
             },
             "Regeneration": {
-                "name": "再生Regeneration",
+                "name": "再生 Regeneration",
                 "system": {
                     "description": {
                         "value": ""
@@ -14210,7 +14210,7 @@
                 }
             },
             "Magic Resistance": {
-                "name": "魔法抗性Magic Resistance",
+                "name": "魔法抗性 Magic Resistance",
                 "system": {
                     "description": {
                         "value": ""
@@ -14218,7 +14218,7 @@
                 }
             },
             "Invisibility": {
-                "name": "隐形Invisibility",
+                "name": "隐形术 Invisibility",
                 "system": {
                     "description": {
                         "value": ""
@@ -14226,7 +14226,7 @@
                 }
             },
             "Detect Magic": {
-                "name": "侦测魔法Detect Magic",
+                "name": "侦测魔法 Detect Magic",
                 "system": {
                     "description": {
                         "value": ""
@@ -14234,7 +14234,7 @@
                 }
             },
             "Innate Spellcasting": {
-                "name": "天生施法Innate Spellcasting",
+                "name": "天生施法 Innate Spellcasting",
                 "system": {
                     "description": {
                         "value": ""
@@ -14242,7 +14242,7 @@
                 }
             },
             "Hurl Flame": {
-                "name": "投掷烈焰Hurl Flame",
+                "name": "投掷烈焰 Hurl Flame",
                 "system": {
                     "description": {
                         "value": ""
@@ -14250,7 +14250,7 @@
                 }
             },
             "Shapechanger": {
-                "name": "变形生物Shapechanger",
+                "name": "变形生物 Shapechanger",
                 "system": {
                     "description": {
                         "value": ""
@@ -14258,7 +14258,7 @@
                 }
             },
             "Regeneration": {
-                "name": "再生Regeneration",
+                "name": "再生 Regeneration",
                 "system": {
                     "description": {
                         "value": ""
@@ -14266,7 +14266,7 @@
                 }
             },
             "Fireball": {
-                "name": "火球术Fireball",
+                "name": "火球术 Fireball",
                 "system": {
                     "description": {
                         "value": ""
@@ -14274,7 +14274,7 @@
                 }
             },
             "Detect Thoughts": {
-                "name": "侦测思想Detect Thoughts",
+                "name": "侦测思想 Detect Thoughts",
                 "system": {
                     "description": {
                         "value": ""
@@ -14282,7 +14282,7 @@
                 }
             },
             "Mage Hand": {
-                "name": "法师之手Mage Hand",
+                "name": "法师之手 Mage Hand",
                 "system": {
                     "description": {
                         "value": ""
@@ -14290,7 +14290,7 @@
                 }
             },
             "Fear": {
-                "name": "Fear",
+                "name": "恐惧术 Fear",
                 "system": {
                     "description": {
                         "value": ""
@@ -14298,7 +14298,7 @@
                 }
             },
             "Bite (Slaad Form Only)": {
-                "name": "Bite (Slaad Form Only)",
+                "name": "啃咬 Bite（仅史拉蟾形态）",
                 "system": {
                     "description": {
                         "value": ""
@@ -14306,7 +14306,7 @@
                 }
             },
             "Claw (Slaad Form Only)": {
-                "name": "Claw (Slaad Form Only)",
+                "name": "爪击 Claws（仅史拉蟾形态）",
                 "system": {
                     "description": {
                         "value": ""
@@ -14314,7 +14314,7 @@
                 }
             },
             "Staff": {
-                "name": "Staff",
+                "name": "法杖 Staff",
                 "system": {
                     "description": {
                         "value": ""
@@ -14330,9 +14330,9 @@
                 "alignment": ""
             }
         },
-        "name": "Green Slaad",
+        "name": "史拉绿蟾 Green Slaad",
         "prototypeToken": {
-            "name": "Green Slaad"
+            "name": "史拉绿蟾 Green Slaad"
         }
     },
     "Larva": {

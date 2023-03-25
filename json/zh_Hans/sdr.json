@@ -3558,7 +3558,7 @@
                 }
             },
             "Magic Resistance": {
-                "name": "魔法抗性Magic Resistance",
+                "name": "魔法抗性 Magic Resistance",
                 "system": {
                     "description": {
                         "value": "<p>魔鬼为抵抗法术和其它魔法效应而作的豁免检定具有<strong> 优势</strong>。</p>"
@@ -4686,7 +4686,7 @@
         },
         "items": {
             "Shapechanger": {
-                "name": "变形生物Shapechanger",
+                "name": "变形生物 Shapechanger",
                 "system": {
                     "description": {
                         "value": "<section class=\"secret\">\n<p>假如吸血鬼没有暴露在日光下或身处流水中，它就可以用自己的动作<strong>变形</strong>为微型的蝙蝠bat或中型的迷雾cloud of mist，或以同样的动作变回其真实形态。</p>\n<p>在蝙蝠型态下，吸血鬼不能说话，且其移动速度为<strong>5尺</strong>，飞行速度<strong>30尺</strong>。除速度和体型外，吸血鬼的其它资料不变。其着装的东西会随之变化，但其携带物品则不然。一旦它死亡，便会恢复其真实形态。</p><p>在迷雾形态下，吸血鬼无法执行任何动作，包括说话或影响其他物件。迷雾没有重量，且拥有<strong>20尺</strong>的飞行速度，它可以原地徘徊，也可以进入敌对生物所在的空间停留。只要是空气可以进入的空间，迷雾也可以如常通过而不需要挤入，只是不能穿过水源。它进行力量、敏捷与体质豁免时具有<strong>优势</strong>，同时免疫一切<strong>非魔法伤害</strong>，但仍会被日光所伤。</p>\n</section>\n<p>吸血鬼可以用一个动作<strong>变身</strong> ，或者以同样的动作变回其真实形态。</p>"
@@ -4710,7 +4710,7 @@
                 }
             },
             "Regeneration": {
-                "name": "再生Regeneration",
+                "name": "再生 Regeneration",
                 "system": {
                     "description": {
                         "value": "<section class=\"secret\"><p>吸血鬼在其自己的回合开始时恢复<strong>20点生命值</strong>，前提是它至少有<strong>1点生命值</strong>且并未处于日光中或流水里。如果其受到<em>光耀伤害</em>或受圣水的伤害，则该吸血鬼的该特质在其下一回合开始时无法生效。</p></section><p>吸血鬼在其自己的回合开始时恢复<strong>20点生命值</strong>。</p>"
@@ -4824,9 +4824,9 @@
         }
     },
     "Guard": {
-        "name": "警卫Guard",
+        "name": "警卫 Guard",
         "prototypeToken": {
-            "name": "警卫Guard"
+            "name": "警卫 Guard"
         },
         "system": {
             "details": {
@@ -5056,9 +5056,9 @@
         }
     },
     "Wraith": {
-        "name": "缚灵Wraith",
+        "name": "缚灵 Wraith",
         "prototypeToken": {
-            "name": "缚灵Wraith"
+            "name": "缚灵 Wraith"
         },
         "system": {
             "details": {
@@ -5070,7 +5070,7 @@
         },
         "items": {
             "Create Specter": {
-                "name": "生成幽灵Create Specter",
+                "name": "生成幽灵 Create Specter",
                 "system": {
                     "description": {
                         "value": "<section class=\"secret\"><p>缚灵指定其周边10尺范围内一个因暴力而死且死亡时间不超过1分钟的类人生物。</p><p>该目标的精魄将被唤起为一只幽灵specter，并出现在其尸体所在的空间位置，或者邻近一处未被占据的空间位置。该幽灵受该缚灵控制。缚灵不能同时控制超过七只幽灵。</p></section><p>目标的精魄将被唤起为一只幽灵specter，并出现在其尸体所在的空间位置，或者邻近一处未被占据的空间位置。</p>"
@@ -5078,7 +5078,7 @@
                 }
             },
             "Incorporeal Movement": {
-                "name": "虚体移动Incorporeal Movement",
+                "name": "虚体移动 Incorporeal Movement",
                 "system": {
                     "description": {
                         "value": "<section class=\"secret\"><p>缚灵可以如同穿过困难地形一样穿过其他生物和物件。</p><p>如果它在自己的回合结束时仍处在物件内部则受到<strong>5（1d10）点<em>力场伤害</em></strong>。</p></section><p>缚灵可以如同穿过困难地形一样穿过其他生物和物件。</p>"
@@ -6441,7 +6441,7 @@
                 "name": "多重攻击Multiattack",
                 "system": {
                     "description": {
-                        "value": "<p>老兵发动两次长剑攻击。如果它拔出了一柄短剑，那么它还可以发动一次短剑攻击。</p>"
+                        "value": "<p>老兵发动两次长剑攻击。如果其短剑已出鞘，则可再发动一次短剑攻击。</p>"
                     }
                 }
             },
@@ -8536,9 +8536,9 @@
         }
     },
     "Scout": {
-        "name": "斥候Scout",
+        "name": "斥候 Scout",
         "prototypeToken": {
-            "name": "斥候Scout"
+            "name": "斥候 Scout"
         },
         "system": {
             "details": {
@@ -8558,10 +8558,10 @@
                 }
             },
             "Keen Hearing and Sight": {
-                "name": "敏锐视听觉Keen Hearing and Sight",
+                "name": "敏锐视听觉 Keen Hearing and Sight",
                 "system": {
                     "description": {
-                        "value": "<p>斥候依赖听觉或视觉所作的感知（察觉）检定具有<strong>优势</strong>。</p>"
+                        "value": "<p>斥候依赖听觉或视觉所作的感知（察觉）检定具有优势。</p>"
                     }
                 }
             },
@@ -11254,7 +11254,7 @@
                 }
             },
             "Magic Resistance": {
-                "name": "魔法抗性Magic Resistance",
+                "name": "魔法抗性 Magic Resistance",
                 "system": {
                     "description": {
                         "value": "<p>魔像为抵抗法术和其它魔法效应而作的豁免检定具有<strong> 优势</strong>。</p>"
@@ -16168,9 +16168,9 @@
         }
     },
     "Mage": {
-        "name": "魔法师Mage",
+        "name": "魔法师 Mage",
         "prototypeToken": {
-            "name": "魔法师Mage"
+            "name": "魔法师 Mage"
         },
         "system": {
             "details": {
@@ -16198,7 +16198,7 @@
                 }
             },
             "Fire Bolt": {
-                "name": "火焰箭Fire Bolt",
+                "name": "火焰箭 Fire Bolt",
                 "system": {
                     "description": {
                         "value": "<p>你对施法距离内一个生物或物件掷出一把火焰。对目标进行一次远程法术攻击。若命中，则目标受到 1d10 点<em>火焰伤害</em>.。未被着装或携带的可燃物件被该法术命中时将被点燃。</p>\n<p>你到达 5 级时，该法术的伤害增加 1d10（变为 2d10）。11 级时再加 1d10（变为 3d10），17 级时再加 1d10（变为 4d10）。</p>"
@@ -16214,7 +16214,7 @@
                 }
             },
             "Mage Hand": {
-                "name": "法师之手Mage Hand",
+                "name": "法师之手 Mage Hand",
                 "system": {
                     "description": {
                         "value": "<p>一只漂浮的幽灵手出现在施法距离内你指定的一点。幽灵手持续存在至法术终止，或直至你以一个动作解散该法术。如果幽灵手距你的距离超过 30 尺，或者当你再次施展了该法术时，则现存的幽灵手消失不见。</p>\n<p>你可以用动作控制幽灵手。你可以通过幽灵手实现一个行为：你可以操控一个物件，或者打开一扇未上锁的门或容器，或者将一件物品放入容器或从容器中取出，或者将小瓶中的内容物倾倒出来。你每次你使用幽灵手时可以令其移动至多 30 尺。</p>\n<p>该幽灵手不能攻击，也不能激活魔法物品或承载超过 10 磅重的物质。</p>"
@@ -16222,7 +16222,7 @@
                 }
             },
             "Prestidigitation": {
-                "name": "魔法伎俩Prestidigitation",
+                "name": "魔法伎俩 Prestidigitation",
                 "system": {
                     "description": {
                         "value": "<p>该法术是一个初级施法者用来练习的魔法小伎俩。你在施法距离内创造下列魔法效果中的一种： </p>\n<ul>\n<li>你创造一个立即生效的，无害的感观效应，比如一束火花，一阵风，微弱音乐或古怪的臭味。</li>\n<li>你立即点燃或熄灭一支蜡烛，一支火把或一小型营火。</li>\n<li>你立即使一个不大于1立方尺的物件变得清洁或肮脏。</li>\n<li>你立即使一个不大于 1 立方尺的非活体物质变得冰冷、温暖或对其调味，其效应持续 1 小时。</li>\n<li>你在一个物件或一个表面上创造一块色斑，或者一个记号，又或者一个标志，其效应持续 1 小时。</li>\n<li>你创造一个巴掌大小的非魔法小玩意或一个虚幻图像，其效应持续到你下回合结束。</li>\n</ul>\n<p>如果你多次施展该法术，则可以同时维持至多三个不同的非即时效应，并且可以用一个动作解散其中一种效应。</p>"
@@ -16230,7 +16230,7 @@
                 }
             },
             "Detect Magic": {
-                "name": "侦测魔法Detect Magic",
+                "name": "侦测魔法 Detect Magic",
                 "system": {
                     "description": {
                         "value": "<p>你在法术持续时间内能感测到30尺内存在的魔法。感测到魔法的存在后，你可以使用动作，来看到任何你能看见的具有魔法的生物或物件周围环绕着微弱的灵光，并分辨出其所属的魔法学派（若有）。</p><p>该法术可以穿透大多障碍，但仍会被 1 尺厚石质或 1 寸厚金属质，或一层薄铅质，或 3 尺厚木质或泥质材料阻隔。</p>"
@@ -16238,7 +16238,7 @@
                 }
             },
             "Mage Armor": {
-                "name": "法师护甲Mage Armor",
+                "name": "法师护甲 Mage Armor",
                 "system": {
                     "description": {
                         "value": "<p>你触碰一个未着装护甲的自愿生物，使其受一个保护性魔法力场环绕直至法术终止。目标的基础 AC 变为 13+它的敏捷调整值。目标着装护甲或你以一个动作解散该法术后法术随之终止。</p>"
@@ -16246,7 +16246,7 @@
                 }
             },
             "Magic Missile": {
-                "name": "魔法飞弹Magic Missile",
+                "name": "魔法飞弹 Magic Missile",
                 "system": {
                     "description": {
                         "value": "<p>你创造三枚由魔法力场形成的闪光飞镖。每发飞镖命中施法距离内你能看见的指定生物。每发飞镖对目标造成 1d4+<strong>1 的<em>力场伤害</em> </strong>。所有飞镖将同时命中目标，而你还可以指定它们击中同一个目标或是分别击中几个目标。</p>\n<p><strong>升环施法效应。</strong>使用二环或更高法术位施展该法术时，你使用的法术位每比一环高一环，该法术就会多制造出一支飞镖。</p>"
@@ -16254,23 +16254,23 @@
                 }
             },
             "Shield": {
-                "name": "护盾术Shield",
+                "name": "护盾术 Shield",
                 "system": {
                     "description": {
-                        "value": "<p>一道看不见的法力护盾浮现在你身边，保护着你。在你的下一回合开始前，你的 AC 具有+5 加值（在触发该法术的攻击之前生效），并且不会受到魔法飞弹的伤害。</p>"
+                        "value": "<p>一道看不见的法力护盾浮现在你身边，保护着你。在你的下一回合开始前，你的&nbsp;AC&nbsp;具有+5&nbsp;加值（在触发该法术的攻击之前生效），并且不会受到魔法飞弹的伤害。</p>"
                     }
                 }
             },
             "Misty Step": {
-                "name": "迷踪步Misty Step",
+                "name": "迷踪步 Misty Step",
                 "system": {
                     "description": {
-                        "value": "<p>你短暂地被银白的雾气所笼罩，传送到至多 30 尺内一个你能看见且未被占据的位置。</p>"
+                        "value": "<p>你短暂地被银白的雾气所笼罩，传送到至多&nbsp;30 尺内一个你能看见且未被占据的位置。</p>"
                     }
                 }
             },
             "Suggestion": {
-                "name": "暗示术Suggestion",
+                "name": "暗示术 Suggestion",
                 "system": {
                     "description": {
                         "value": "<p>你以魔法影响施法距离内一个你能看见的生物，并对其施以某种行动暗示（至多以一两句话的形式）。由你指定的受术目标必须能听到并理解你的话语。而不能被魅惑的生物也将免疫此效应。你的暗示言辞必须能让其行为听起来合乎情理。要求生物刺伤它自己，自己撞向矛尖上，让它自我牺牲，或是让它做任何明显有害的行为都会直接取消该法术所产生的效应。</p>\n<p>该目标必须进行一次<strong>感知</strong>豁免。豁免失败者将尽其所能地从事你所描述的行为。你所暗示的行为可能会在法术持续时间内始终一直进行。而如果你所暗示的活动可以用更短的时间完成，则此法术会在目标完成了你的要求后随即终止。</p>\n<p>你也可以描述一种在持续时间内发生的特定状况，作为触发特殊行为的条件。例如，你可以暗示一队士兵将所有的钱交给他们遇到的第一个乞丐。如果在法术终止前条件始终没有满足，则指定的行为不会被执行。</p>\n<p>若你或你同伴中任何人伤害了受术者，则该法术随即终止。</p>"
@@ -16278,7 +16278,7 @@
                 }
             },
             "Counterspell": {
-                "name": "法术反制Counterspell",
+                "name": "法术反制 Counterspell",
                 "system": {
                     "description": {
                         "value": "<p>你试图打断一个生物正在施展的一个法术。如果该生物正在施展三环或更低环阶法术，则其法术失败且不产生任何效应。如果该生物正在施展四环或更高环阶法术，则你以施法关键属性进行一次属性检定。其 DC 等于 10+目标法术的环阶。检定成功则目标法术失败且不产生任何效应。</p>\n<p><strong>升环施法效应。</strong>使用四环或更高法术位施展该法术时，如果被打断法术的环阶不高于你所用的法术位环阶，则该目标法术直接被打断。</p>"
@@ -16286,7 +16286,7 @@
                 }
             },
             "Fireball": {
-                "name": "火球术Fireball",
+                "name": "火球术 Fireball",
                 "system": {
                     "description": {
                         "value": "<p>明亮的闪光从你的指间飞驰向施法距离内你指定的一点，并随着一声低吼迸成一片烈焰。目标点周围半径 20 尺球状区域内的每个生物必须进行一次<strong>敏捷</strong>豁免。豁免失败者将受到 8d6 点<em>火焰伤害</em>，豁免成功则伤害减半。</p>\n<p>迸发的火焰将绕过拐角扩散。并点燃区域内所有未被着装或携带的可燃物件。</p>\n<p><strong>升环施法效应。</strong>使用四环或更高法术位施展该法术时，你使用的法术位每比三环高一环，其伤害就增加 1d6。</p>"
@@ -16294,7 +16294,7 @@
                 }
             },
             "Fly": {
-                "name": "飞行术Fly",
+                "name": "飞行术 Fly",
                 "system": {
                     "description": {
                         "value": "<p>你触碰一个自愿生物。并使该目标在法术持续时间内获得 60 尺的飞行速度。法术终止时，如果目标仍在空中则随即坠落。</p>\n<p><strong>升环施法效应。</strong> 使用四环或更高法术位施展该法术时，你使用的法术位每比三环高一环，就可以额外再指定一个生物作为法术目标。</p>"
@@ -16302,7 +16302,7 @@
                 }
             },
             "Greater Invisibility": {
-                "name": "高等隐形术Greater Invisibility",
+                "name": "高等隐形术 Greater Invisibility",
                 "system": {
                     "description": {
                         "value": "<p>你或一个你触碰的生物变为隐形，直至法术终止。任何保持在目标身上的着装物和携带物也可以维持隐形状态。 </p>"
@@ -16310,7 +16310,7 @@
                 }
             },
             "Ice Storm": {
-                "name": "冰风暴Ice Storm",
+                "name": "冰风暴 Ice Storm",
                 "system": {
                     "description": {
                         "value": "<p>以施法距离内一点为中心的一处半径 20 尺，高 40 尺的柱状区域内，岩石般坚硬的冰雹重重地砸向地面。每个处在范围内的生物都必须进行一次<strong>敏捷</strong> 豁免。豁免失败者将受到 2d8 的<em>钝击伤害</em>和 4d6 点<em>冷冻伤害</em>，豁免成功则伤害减半。</p>\n<p>冰雹使风暴影响的区域变为困难地形，直至你的下一回合结束。</p>\n<p><strong>升环施法效应。</strong> 使用五环或更高法术位施展该法术时，你使用的法术位每比四环高一环，钝击伤害就增加 1d8。</p>"
@@ -16318,7 +16318,7 @@
                 }
             },
             "Cone of Cold": {
-                "name": "寒冰锥Cone of Cold",
+                "name": "寒冰锥 Cone of Cold",
                 "system": {
                     "description": {
                         "value": "<p>一片冷空气从你手上迸发而出。在 60 尺锥状区域内的每个生物必须进行一次<strong>体质</strong>豁免。豁免失败者将受到 8d8 点<em>冷冻伤害</em>，豁免成功则伤害减半。</p>\n<p>被该法术杀死的生物将成为一尊冰冻塑像并持续至被解冻。</p>\n<p><strong>升环施法效应。</strong>使用六环或更高法术位施展该法术时，你使用的法术位每比五环高一环，法术伤害就增加 1d8。 </p>"
@@ -18144,9 +18144,9 @@
         }
     },
     "Ghost": {
-        "name": "幽魂Ghost",
+        "name": "幽魂 Ghost",
         "prototypeToken": {
-            "name": "幽魂Ghost"
+            "name": "幽魂 Ghost"
         },
         "system": {
             "details": {
@@ -18166,7 +18166,7 @@
                 }
             },
             "Incorporeal Movement": {
-                "name": "虚体移动Incorporeal Movement",
+                "name": "虚体移动 Incorporeal Movement",
                 "system": {
                     "description": {
                         "value": "<section class=\"secret\">\n<p>幽魂可以如同穿过困难地形一样穿过其他生物和物件。</p>\n<p>如果它在自己的回合结束时仍处在物件内部则受到<strong>5（1d10）点<em>力场伤害</em></strong>。</p>\n</section>\n<p>幽魂可以如同穿过困难地形一样穿过其他生物和物件。</p>"
@@ -18185,7 +18185,7 @@
                 "name": "以太化Etherealness",
                 "system": {
                     "description": {
-                        "value": "<p>幽魂从主物质位面进入以太位面，或者从该位面返回。</p>身处以太边境时，物质位面中也可以看到它，反之亦然。幽魂身处其中某一位面时，无法影响另一位面之物或被另一位面之物影响。</p>"
+                        "value": "<p>幽魂可以在物质位面和以太位面之间转换。身处以太边境时，物质位面中也可以看到它，反之亦然。幽魂身处其中某一位面时，无法影响另一位面之物或被另一位面之物影响。</p>"
                     }
                 }
             },
@@ -18430,7 +18430,7 @@
                 }
             },
             "Life Drain": {
-                "name": "吸取生命Life Drain",
+                "name": "吸取生命 Life Drain",
                 "system": {
                     "description": {
                         "value": "<section class=\"secret\">\n<p><em>近战武器攻击：</em><strong>命中+4，触及5尺，</strong>单一生物。伤害：<strong>5（1d6 + 2）点<em>黯蚀伤害</em></strong>。</p>\n<p>目标必须成功通过一次<strong>DC 13的体质</strong>豁免检定，否则其生命值上限将承受等于该伤害数值的减损。该减损效应持续至该目标完成一次长休。如果该攻击将目标的生命值上限降至0，则目标死亡。</p>\n<p>被该攻击杀死的类人生物将在24小时后变为由该尸妖控制的僵尸zombie，除非该类人生物被复活或其身体被摧毁。尸妖不能同时控制超过十二只僵尸。</p>\n</section>\n<p>尸妖吸取生命攻击。目标必须进行一次<strong>体质</strong>豁免。</p>"
@@ -19768,9 +19768,9 @@
         }
     },
     "Minotaur Skeleton": {
-        "name": "骷髅牛头人Minotaur Skeleton",
+        "name": "骷髅牛头人 Minotaur Skeleton",
         "prototypeToken": {
-            "name": "骷髅牛头人Minotaur Skeleton"
+            "name": "骷髅牛头人 Minotaur Skeleton"
         },
         "system": {
             "details": {
@@ -20166,7 +20166,7 @@
                 }
             },
             "Magic Resistance": {
-                "name": "魔法抗性Magic Resistance",
+                "name": "魔法抗性 Magic Resistance",
                 "system": {
                     "description": {
                         "value": "<p>魔像为抵抗法术和其它魔法效应而作的豁免检定具有<strong> 优势</strong>。</p>"
@@ -20400,9 +20400,9 @@
         }
     },
     "Red Dragon Wyrmling": {
-        "name": "红龙雏龙Red Dragon Wyrmling",
+        "name": "红龙雏龙 Red Dragon Wyrmling",
         "prototypeToken": {
-            "name": "红龙雏龙Red Dragon Wyrmling"
+            "name": "红龙雏龙 Red Dragon Wyrmling"
         },
         "system": {
             "details": {
