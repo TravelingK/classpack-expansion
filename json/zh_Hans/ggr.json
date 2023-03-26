@@ -206,7 +206,7 @@
                 }
             },
             "Spear (Ranged)": {
-                "name": "",
+                "name": "矛 Spear（远程 Ranged）",
                 "system": {
                     "description": {
                         "value": ""
@@ -454,7 +454,7 @@
                 }
             },
             "Dagger (Melee)": {
-                "name": "",
+                "name": "匕首 Dagger（近战 Melee）",
                 "system": {
                     "description": {
                         "value": ""
@@ -462,7 +462,7 @@
                 }
             },
             "Dagger (Ranged)": {
-                "name": "",
+                "name": "匕首 Dagger（远程 Ranged）",
                 "system": {
                     "description": {
                         "value": ""
@@ -806,7 +806,7 @@
                 }
             },
             "Fear": {
-                "name": "",
+                "name": "恐惧术 Fear",
                 "system": {
                     "description": {
                         "value": ""
@@ -1030,7 +1030,7 @@
                 }
             },
             "Spear (Ranged)": {
-                "name": "",
+                "name": "矛 Spear（远程 Ranged）",
                 "system": {
                     "description": {
                         "value": ""
@@ -2094,7 +2094,7 @@
                 }
             },
             "Spear (Ranged)": {
-                "name": "",
+                "name": "矛 Spear（远程 Ranged）",
                 "system": {
                     "description": {
                         "value": ""
@@ -3134,7 +3134,7 @@
                 }
             },
             "Flaming Sphere": {
-                "name": "",
+                "name": "Flaming Sphere",
                 "system": {
                     "description": {
                         "value": ""
@@ -3774,7 +3774,7 @@
         },
         "items": {
             "Dagger (Melee)": {
-                "name": "",
+                "name": "匕首 Dagger（近战 Melee）",
                 "system": {
                     "description": {
                         "value": ""
@@ -3782,7 +3782,7 @@
                 }
             },
             "Dagger (Ranged)": {
-                "name": "",
+                "name": "匕首 Dagger（远程 Ranged）",
                 "system": {
                     "description": {
                         "value": ""
@@ -3790,7 +3790,7 @@
                 }
             },
             "Special Equipment": {
-                "name": "",
+                "name": "Special Equipment",
                 "system": {
                     "description": {
                         "value": ""
@@ -5046,7 +5046,7 @@
                 }
             },
             "Spear (Ranged)": {
-                "name": "",
+                "name": "矛 Spear（远程 Ranged）",
                 "system": {
                     "description": {
                         "value": ""
@@ -5406,7 +5406,7 @@
                 }
             },
             "Revivify": {
-                "name": "",
+                "name": "Revivify",
                 "system": {
                     "description": {
                         "value": ""
@@ -6078,7 +6078,7 @@
                 }
             },
             "Spear (Ranged)": {
-                "name": "",
+                "name": "矛 Spear（远程 Ranged）",
                 "system": {
                     "description": {
                         "value": ""
@@ -7254,7 +7254,7 @@
                 }
             },
             "Staff": {
-                "name": "",
+                "name": "法杖 Staff",
                 "system": {
                     "description": {
                         "value": ""
@@ -7870,7 +7870,7 @@
                 }
             },
             "Poor Depth Perception": {
-                "name": "",
+                "name": "Poor Depth Perception",
                 "system": {
                     "description": {
                         "value": ""
@@ -7942,7 +7942,7 @@
                 }
             },
             "Spear (Ranged)": {
-                "name": "",
+                "name": "矛 Spear（远程 Ranged）",
                 "system": {
                     "description": {
                         "value": ""
@@ -7982,7 +7982,7 @@
                 }
             },
             "Dagger (Melee)": {
-                "name": "",
+                "name": "匕首 Dagger（近战 Melee）",
                 "system": {
                     "description": {
                         "value": ""
@@ -7990,7 +7990,7 @@
                 }
             },
             "Dagger (Ranged)": {
-                "name": "",
+                "name": "匕首 Dagger（远程 Ranged）",
                 "system": {
                     "description": {
                         "value": ""
@@ -8206,7 +8206,7 @@
                 }
             },
             "Control Water": {
-                "name": "",
+                "name": "Control Water",
                 "system": {
                     "description": {
                         "value": ""
@@ -8326,7 +8326,7 @@
                 }
             },
             "Spear (Ranged)": {
-                "name": "",
+                "name": "矛 Spear（远程 Ranged）",
                 "system": {
                     "description": {
                         "value": ""
