@@ -1152,9 +1152,9 @@
         }
     },
     "Plesiosaurus": {
-        "name": "蛇颈龙Plesiosaurus",
+        "name": "蛇颈龙 Plesiosaurus",
         "prototypeToken": {
-            "name": "蛇颈龙Plesiosaurus"
+            "name": "蛇颈龙 Plesiosaurus"
         },
         "system": {
             "details": {
@@ -1174,7 +1174,7 @@
                 }
             },
             "Hold Breath": {
-                "name": "屏息Hold Breath",
+                "name": "屏息 Hold Breath",
                 "system": {
                     "description": {
                         "value": "<p>蛇颈龙可以憋气1小时。</p>"
@@ -1984,9 +1984,9 @@
         }
     },
     "Hobgoblin": {
-        "name": "大地精Hobgoblin",
+        "name": "大地精 Hobgoblin",
         "prototypeToken": {
-            "name": "大地精Hobgoblin"
+            "name": "大地精 Hobgoblin"
         },
         "system": {
             "details": {
@@ -1998,7 +1998,7 @@
         },
         "items": {
             "Martial Advantage": {
-                "name": "成军优势Martial Advantage",
+                "name": "成军优势 Martial Advantage",
                 "system": {
                     "description": {
                         "value": "<section class=\"secret\"><p>大地精每回合有一次机会在命中目标时造成额外7（2d6）点伤害，此时该大地精必须至少有一个未处于失能状态的盟友在该目标生物5尺距离内。</p></section><p>大地精每回合有一次机会在命中目标时造成额外伤害，此时该大地精必须至少有一个未处于失能状态的盟友在该目标生物5尺距离内。</p>"
@@ -2352,9 +2352,9 @@
         }
     },
     "Warhorse Skeleton": {
-        "name": "骷髅战马Warhorse Skeleton",
+        "name": "骷髅战马 Warhorse Skeleton",
         "prototypeToken": {
-            "name": "骷髅战马Warhorse Skeleton"
+            "name": "骷髅战马 Warhorse Skeleton"
         },
         "system": {
             "details": {
@@ -3520,9 +3520,9 @@
         }
     },
     "Bone Devil": {
-        "name": "骨魔Bone Devil",
+        "name": "骨魔 Bone Devil",
         "prototypeToken": {
-            "name": "骨魔Bone Devil"
+            "name": "骨魔 Bone Devil"
         },
         "system": {
             "details": {
@@ -3561,7 +3561,7 @@
                 "name": "魔法抗性 Magic Resistance",
                 "system": {
                     "description": {
-                        "value": "<p>魔鬼为抵抗法术和其它魔法效应而作的豁免检定具有<strong> 优势</strong>。</p>"
+                        "value": "<p>该魔鬼为抵抗法术和其它魔法效应而作的豁免检定具有优势。</p>"
                     }
                 }
             },
@@ -4672,9 +4672,9 @@
         }
     },
     "Vampire": {
-        "name": "吸血鬼Vampire",
+        "name": "吸血鬼 Vampire",
         "prototypeToken": {
-            "name": "吸血鬼Vampire"
+            "name": "吸血鬼 Vampire"
         },
         "system": {
             "details": {
@@ -4702,7 +4702,7 @@
                 }
             },
             "Misty Escape": {
-                "name": "雾遁Misty Escape",
+                "name": "雾遁 Misty Escape",
                 "system": {
                     "description": {
                         "value": "<section class=\"secret\"><p>吸血鬼在休眠地之外，生命值被降至0</strong>时会转化为迷雾形态（如变形生物特质所述），而不是陷入昏迷，前提是其必须未处于日光中或流水里。如果其不能变形，则被摧毁。</p><p>于<strong>0生命值</strong>维持迷雾形态的吸血鬼无法变回吸血鬼形态，并且必须在2小时内回到其休眠地，否则将被摧毁。到达休眠地后，它便可以恢复其吸血鬼形态。并在生命值回复至少<strong>1点</strong>前始终处于麻痹状态。吸血鬼维持<strong>0生命值</strong>在休眠地停留1小时后将回复为<strong>1点生命值</strong>。</p></section><p>被杀的吸血鬼会转化为迷雾形态（如变形生物特质所述），而不是陷入昏迷。</p>"
@@ -4726,7 +4726,7 @@
                 }
             },
             "Vampire Weaknesses": {
-                "name": "吸血鬼弱点Vampire Weaknesses",
+                "name": "吸血鬼弱点 Vampire Weaknesses",
                 "system": {
                     "description": {
                         "value": "<p>吸血鬼拥有以下弱点：</p>\n<p><em>禁入Forbiddance</em>。吸血鬼得不到一位居住者的邀请时无法进入相应的民宅。</p>\n<p><em>流水之伤Harmed by Running Water</em>。吸血鬼在自己的回合结束时，如果身处流水中则将受20点<em>强酸伤害</em>。</p>\n<p><em>木桩穿心Stake to the Heart</em>。吸血鬼在其休眠地处于失能状态时，如果以木质穿刺伤害武器刺穿其心脏，则该吸血鬼将陷入麻痹，效应直至穿刺物被移除为止。</p>\n<p><em>日照过敏Sunlight Hypersensitivity</em>。吸血鬼在其自己的回合开始时若处于阳光直射下，则受20点<em>光耀伤害</em>。此外，他的攻击检定与属性检定也具有<strong>劣势</strong>。</p>"
@@ -4758,7 +4758,7 @@
                 }
             },
             "Charm": {
-                "name": "魅惑Charm",
+                "name": "魅惑 Charm",
                 "system": {
                     "description": {
                         "value": "<section class=\"secret\"><p>吸血鬼指定其周边30尺一个它能看见的类人生物。如果目标也能看见该吸血鬼，则其必须成功通过一次<strong>DC 17的感知</strong>豁免以抵抗该魔法，否则将被吸血鬼魅惑。受魅惑的目标会把吸血鬼视作需要重视与保护的挚友。尽管目标并未在吸血鬼控制之下，但仍会听从吸血鬼的请求，或以对吸血鬼最有利的方式行动，也会自愿作为吸血鬼啃咬的攻击对象。</p><p>每当吸血鬼或吸血鬼的同伴对目标实施伤害举动时，该目标都可以再次进行该豁免，豁免成功则终止该魅惑效应。否则，该效应将持续24小时，或持续至吸血鬼被摧毁，吸血鬼与目标处于不同存在位面。吸血鬼本人也可以用一个附赠动作主动解除该效应。</p></section><p>吸血鬼指定其周边30尺一个它能看见的类人生物。如果目标也能看见该吸血鬼，则其必须成功通过一次<strong>感知</strong>豁免以抵抗该魔法。</p>"
@@ -4798,7 +4798,7 @@
                 }
             },
             "Move": {
-                "name": "移动Move",
+                "name": "移动 Move",
                 "system": {
                     "description": {
                         "value": "<p>吸血鬼移动至多等于其自身速度的距离，且不会因此引发借机攻击。</p>"
@@ -4806,7 +4806,7 @@
                 }
             },
             "Unarmed Strike": {
-                "name": "徒手打击Unarmed Strike",
+                "name": "徒手打击 Unarmed Strike",
                 "system": {
                     "description": {
                         "value": "<p>吸血鬼进行一次徒手打击。</p>"
@@ -5744,9 +5744,9 @@
         }
     },
     "Noble": {
-        "name": "贵族Noble",
+        "name": "贵族 Noble",
         "prototypeToken": {
-            "name": "贵族Noble"
+            "name": "贵族 Noble"
         },
         "system": {
             "details": {
@@ -5766,7 +5766,7 @@
                 }
             },
             "Rapier": {
-                "name": "刺剑Rapier",
+                "name": "刺剑 Rapier",
                 "system": {
                     "description": {
                         "value": "<section class=\"secret\"><p><em>近战武器攻击：</em><strong>命中+3，触及5尺，</strong>单一目标。伤害：<strong>5（1d8+1）点<em>穿刺伤害</em></strong>。</p></section><p>贵族使用刺剑攻击。</p>"
@@ -5832,9 +5832,9 @@
         }
     },
     "Giant Scorpion": {
-        "name": "巨蝎Giant Scorpion",
+        "name": "巨蝎 Giant Scorpion",
         "prototypeToken": {
-            "name": "巨蝎Giant Scorpion"
+            "name": "巨蝎 Giant Scorpion"
         },
         "system": {
             "details": {
@@ -6312,9 +6312,9 @@
         }
     },
     "Ghast": {
-        "name": "妖鬼Ghast",
+        "name": "妖鬼 Ghast",
         "prototypeToken": {
-            "name": "妖鬼Ghast"
+            "name": "妖鬼 Ghast"
         },
         "system": {
             "details": {
@@ -6326,7 +6326,7 @@
         },
         "items": {
             "Stench": {
-                "name": "恶臭Stench",
+                "name": "恶臭 Stench",
                 "system": {
                     "description": {
                         "value": "<section class=\"secret\"><p>所有在妖鬼身边<strong>5尺</strong>内开始其自己回合的生物都必须进行一次<strong>DC 10的体质</strong>豁免，豁免失败者直到其下一回合开始前陷入中毒。豁免成功的生物在随后的24小时内免疫该妖鬼的恶臭。</p></section><p>所有在妖鬼身边<strong>5尺</strong>内开始其自己回合的生物都必须进行一次<strong>体质</strong>豁免。</p>"
@@ -6334,7 +6334,7 @@
                 }
             },
             "Turn Defiance": {
-                "name": "硬受驱散Turn Defiance",
+                "name": "硬受驱散 Turn Defiance",
                 "system": {
                     "description": {
                         "value": "<p>妖鬼和其身边<strong>30尺</strong>内的食尸鬼们对抗驱散效应时，进行的豁免检定具有<strong>优势</strong>。</p>"
@@ -6408,9 +6408,9 @@
         }
     },
     "Veteran": {
-        "name": "老兵Veteran",
+        "name": "老兵 Veteran",
         "prototypeToken": {
-            "name": "老兵Veteran"
+            "name": "老兵 Veteran"
         },
         "system": {
             "details": {
@@ -7192,9 +7192,9 @@
         }
     },
     "Swarm of Quippers": {
-        "name": "食人鱼群Swarm of Quippers",
+        "name": "食人鱼群 Swarm of Quippers",
         "prototypeToken": {
-            "name": "食人鱼群Swarm of Quippers"
+            "name": "食人鱼群 Swarm of Quippers"
         },
         "system": {
             "details": {
@@ -7206,7 +7206,7 @@
         },
         "items": {
             "Blood Frenzy": {
-                "name": "血腥狂怒Blood Frenzy",
+                "name": "血腥狂怒 Blood Frenzy",
                 "system": {
                     "description": {
                         "value": "<p>集群对<strong>生命值</strong>没有全满的生物发动近战攻击时，其攻击检定具有<strong>优势</strong>。</p>"
@@ -7214,7 +7214,7 @@
                 }
             },
             "Swarm": {
-                "name": "集群Swarm",
+                "name": "集群 Swarm",
                 "system": {
                     "description": {
                         "value": "<p>集群可以进驻另一生物身处的空间位置，反之亦然。而且集群可以通过任何足够一只食人鱼通过的通道。集群不能恢复<strong>生命值</strong>也不能获得临时<strong>生命值</strong>。</p>"
@@ -7784,9 +7784,9 @@
         }
     },
     "Manticore": {
-        "name": "蝎尾狮Manticore",
+        "name": "蝎尾狮 Manticore",
         "prototypeToken": {
-            "name": "蝎尾狮Manticore"
+            "name": "蝎尾狮 Manticore"
         },
         "system": {
             "details": {
@@ -7798,7 +7798,7 @@
         },
         "items": {
             "Tail Spike Regrowth": {
-                "name": "尾钉再生Tail Spike Regrowth",
+                "name": "尾钉再生 Tail Spike Regrowth",
                 "system": {
                     "description": {
                         "value": "<p>蝎尾狮拥有二十四根尾刺。耗用掉的尾刺在其完成一次长休后得以再生。</p>"
@@ -7830,7 +7830,7 @@
                 }
             },
             "Tail Spike": {
-                "name": "尾钉Tail Spike",
+                "name": "尾钉 Tail Spike",
                 "system": {
                     "description": {
                         "value": "<section class=\"secret\"><p>远程武器攻击：命中+5，射程100/200尺，单一目标。伤害：<strong>7（1d8+3）点<em>穿刺伤害</em></strong>。</p></section><p>蝎尾狮使用尾钉攻击。</p>"
@@ -8048,9 +8048,9 @@
         }
     },
     "Giant Shark": {
-        "name": "巨鲨Giant Shark",
+        "name": "巨鲨 Giant Shark",
         "prototypeToken": {
-            "name": "巨鲨Giant Shark"
+            "name": "巨鲨 Giant Shark"
         },
         "system": {
             "details": {
@@ -8062,7 +8062,7 @@
         },
         "items": {
             "Blood Frenzy": {
-                "name": "血腥狂怒Blood Frenzy",
+                "name": "血腥狂怒 Blood Frenzy",
                 "system": {
                     "description": {
                         "value": "<p>鲨鱼对<strong>生命值</strong>没有全满的生物发动近战攻击时，其攻击检定具有<strong>优势</strong>。</p>"
@@ -8280,9 +8280,9 @@
         }
     },
     "Zombie": {
-        "name": "僵尸Zombie",
+        "name": "僵尸 Zombie",
         "prototypeToken": {
-            "name": "僵尸Zombie"
+            "name": "僵尸 Zombie"
         },
         "system": {
             "details": {
@@ -8294,7 +8294,7 @@
         },
         "items": {
             "Slam": {
-                "name": "猛击Slam",
+                "name": "猛击 Slam",
                 "system": {
                     "description": {
                         "value": "<section class=\"secret\"><p><em>近战武器攻击：</em><strong>命中+3，触及5尺，</strong>单一目标。伤害：<strong>4（1d6+1）点<em>钝击伤害</em></strong>。</p></section><p>僵尸进行猛击。</p>"
@@ -8480,9 +8480,9 @@
         }
     },
     "Black Pudding": {
-        "name": "黑布丁Black Pudding",
+        "name": "黑布丁 Black Pudding",
         "prototypeToken": {
-            "name": "黑布丁Black Pudding"
+            "name": "黑布丁 Black Pudding"
         },
         "system": {
             "details": {
@@ -8494,7 +8494,7 @@
         },
         "items": {
             "Amorphous": {
-                "name": "无定形Amorphous",
+                "name": "无定形 Amorphous",
                 "system": {
                     "description": {
                         "value": "<p>布丁怪能够轻松穿过最窄1寸宽的狭窄空间而不用挤进去。</p>"
@@ -8502,7 +8502,7 @@
                 }
             },
             "Corrosive Form": {
-                "name": "腐蚀形态Corrosive Form",
+                "name": "腐蚀形态 Corrosive Form",
                 "system": {
                     "description": {
                         "value": "<section class=\"secret\">\n在布丁怪身边5尺范围内的生物触碰或用近战武器攻击命中布丁怪时，该生物将受<strong>4（1d8）点<em>强酸伤害</em></strong>。</p>任何以金属或木料制作的非魔法攻击其攻击命中布丁怪后将被腐蚀。</p>\n<p>造成伤害后，该武器所作的伤害掷骰将永久承受-1减值且累计叠加。如果减值总和达到-5，则该武器被摧毁。由金属或木料制作的非魔法弹药在击中布丁怪并造成伤害后将随即被摧毁。布丁怪在1轮时间里可以吃掉2寸厚的非魔法木料或金属。</p>\n</section>\n<p>在布丁怪身边5尺范围内的生物触碰或用近战武器攻击命中布丁怪时，该生物将受到<em>强酸伤害</em>></em>。任何以金属或木料制作的非魔法攻击其攻击命中布丁怪后将被腐蚀。</p>"
@@ -8518,7 +8518,7 @@
                 }
             },
             "Pseudopod": {
-                "name": "伪足Pseudopod",
+                "name": "伪足 Pseudopod",
                 "system": {
                     "description": {
                         "value": "<section class=\"secret\">\n<p><em>近战武器攻击：</em><strong>命中+5，触及5尺，</strong>单一目标。伤害：<strong>6（1d6+3）点<em>钝击伤害</em></strong>，外加<strong>18（4d8）点<em>强酸伤害</em></strong>。</p></section>\n<p>此外，目标着装的非魔法护甲将被部分溶解，其提供的AC将永久遭受-1减值且累计叠加。AC被降至10时，则该护甲被摧毁。</p>\n</section>\n<p>黑布丁使用伪足攻击。此外，目标着装的非魔法护甲将被部分溶解，其提供的AC将永久遭受-1减值且累计叠加。</p>"
@@ -8526,7 +8526,7 @@
                 }
             },
             "Split": {
-                "name": "分裂Split",
+                "name": "分裂 Split",
                 "system": {
                     "description": {
                         "value": "<section class=\"secret\">\n<p>当一只中型或更大体型的布丁怪受到<em>闪电或挥砍伤害</em>，而此时其生命值至少为10时，它将分裂成两个新的布丁怪。每一只新的布丁怪拥有原布丁怪一半的生命值（向下取整）。新的布丁怪比原来的体型小一级。</p>\n</section>\n<p>布丁怪分裂成两个新的布丁怪。新的布丁怪比原来的体型小一级。</p>"
@@ -9094,7 +9094,7 @@
         },
         "items": {
             "Tunneler": {
-                "name": "掘道者Tunneler",
+                "name": "掘道者 Tunneler",
                 "system": {
                     "description": {
                         "value": "<p>紫虫能够以其一半的掘穴速度通过坚硬的岩层，并在其身后留下直径10尺的地道。</p>"
@@ -9118,7 +9118,7 @@
                 }
             },
             "Tail Stinger": {
-                "name": "尾刺Tail Stinger",
+                "name": "尾刺 Tail Stinger",
                 "system": {
                     "description": {
                         "value": "<section class=\"secret\"><p><em>近战武器攻击：</em><strong>命中+9，触及10尺，</strong>单一生物。伤害：<strong>19（3d6+9）点<em>穿刺伤害</em></strong>。</p><p>目标还必须进行一次<strong>DC 19的体质</strong> 豁免，豁免失败者将受到<strong>42（12d6）点<em>毒素伤害</em></strong>，豁免成功则伤害减半。</p></section><p>紫虫使用尾刺攻击。目标必须进行一次<strong>体质</strong>豁免。</p>"
@@ -9904,9 +9904,9 @@
         }
     },
     "Commoner": {
-        "name": "平民Commoner",
+        "name": "平民 Commoner",
         "prototypeToken": {
-            "name": "平民Commoner"
+            "name": "平民 Commoner"
         },
         "system": {
             "details": {
@@ -10080,9 +10080,9 @@
         }
     },
     "Goblin": {
-        "name": "地精Goblin",
+        "name": "地精 Goblin",
         "prototypeToken": {
-            "name": "地精Goblin"
+            "name": "地精 Goblin"
         },
         "system": {
             "details": {
@@ -10110,7 +10110,7 @@
                 }
             },
             "Nimble Escape": {
-                "name": "迅捷逃逸Nimble Escape",
+                "name": "迅捷逃逸 Nimble Escape",
                 "system": {
                     "description": {
                         "value": "<p>地精可在自己的回合，以一个附赠动作来执行撤离Disengage或躲藏Hide动作。</p>"
@@ -10118,7 +10118,7 @@
                 }
             },
             "Scimitar": {
-                "name": "弯刀Scimitar",
+                "name": "弯刀 Scimitar",
                 "system": {
                     "description": {
                         "value": "<section class=\"secret\">\n<p><em>近战武器攻击：</em><strong>命中+4</strong>，<strong>触及5尺，</strong>单一目标。伤害：<strong>5（1d6+2）点<em>挥砍伤害</em></strong>。</p></section>\n<p>地精使用弯刀攻击。</p>"
@@ -10126,7 +10126,7 @@
                 }
             },
             "Shortbow": {
-                "name": "短弓Shortbow",
+                "name": "短弓 Shortbow",
                 "system": {
                     "description": {
                         "value": "<section class=\"secret\">\n<p>远程武器攻击：命中+4，射程80/320尺，单一目标。伤害：<strong>5（1d6+2）点<em>穿刺伤害</em></strong>。</p></section>\n<p>地精使用短弓攻击。</p>"
@@ -10576,9 +10576,9 @@
         }
     },
     "Adult Bronze Dragon": {
-        "name": "成年青铜龙Adult Bronze Dragon",
+        "name": "成年青铜龙 Adult Bronze Dragon",
         "prototypeToken": {
-            "name": "成年青铜龙Adult Bronze Dragon"
+            "name": "成年青铜龙 Adult Bronze Dragon"
         },
         "system": {
             "details": {
@@ -11224,9 +11224,9 @@
         }
     },
     "Clay Golem": {
-        "name": "粘土魔像Clay Golem",
+        "name": "粘土魔像 Clay Golem",
         "prototypeToken": {
-            "name": "粘土魔像Clay Golem"
+            "name": "粘土魔像 Clay Golem"
         },
         "system": {
             "details": {
@@ -11238,7 +11238,7 @@
         },
         "items": {
             "Slam": {
-                "name": "猛击Slam",
+                "name": "猛击 Slam",
                 "system": {
                     "description": {
                         "value": "<section class=\"secret\">\n<p><em>近战武器攻击：</em><strong>命中+8，触及5尺，</strong>单一目标。伤害：<strong>16（2d10+5）点<em>钝击伤害</em></strong>。</p>\n<p>如果目标为一个生物，则它必须进行一次<strong>DC 15的体质</strong>豁免，豁免失败者的生命值上限将受到数值等同于伤害值的减损。如果该攻击使目标的生命值上限降至0，则目标死亡。该减损将一直持续至被法术高等复原术greater restoration或其他魔法移除。</p>\n</section>\n<p>粘土魔像进行猛击。</p>如果目标是生物，则其必须成功通过一次<strong>体质</strong>豁免。</p>"
@@ -11262,7 +11262,7 @@
                 }
             },
             "Berserk": {
-                "name": "失心狂怒Berserk",
+                "name": "失心狂怒 Berserk",
                 "system": {
                     "description": {
                         "value": "<section class=\"secret\">\n<p>魔像以<strong>60或更低生命值</strong>开始其自己回合时骰一次[[/r d6]]。骰值为6时，魔像开始失心狂怒。魔像将在狂怒持续期间每个自己回合里攻击距离它最近且它能看见的生物。</p>\n<p>如果在其移动并攻击的范围内没有符合条件的生物，则该魔像将攻击一个物件，并且会优先选择比自己体型尺寸更小的物件。魔像一旦开始狂怒，便会一直持续到被破坏或回复所有<strong>生命值</strong>为止。</p>\n</section>\n<p>魔像开始失心狂怒。魔像将在狂怒持续期间每个自己回合里攻击距离它最近且它能看见的生物。如果在其移动并攻击的范围内没有符合条件的生物，则该魔像将攻击一个物件，并且会优先选择比自己体型尺寸更小的物件。</p>"
@@ -11270,7 +11270,7 @@
                 }
             },
             "Immutable Form": {
-                "name": "不变形态Immutable Form",
+                "name": "不变形态 Immutable Form",
                 "system": {
                     "description": {
                         "value": "<p>魔像免疫任何可以改变其形态的法术或效应。</p>"
@@ -11278,7 +11278,7 @@
                 }
             },
             "Magic Weapons": {
-                "name": "魔法武器Magic Weapons",
+                "name": "魔法武器 Magic Weapons",
                 "system": {
                     "description": {
                         "value": "<p>魔像的武器攻击视为魔法攻击。</p>"
@@ -11286,7 +11286,7 @@
                 }
             },
             "Acid Absorption": {
-                "name": "强酸吸收Acid Absorption",
+                "name": "强酸吸收 Acid Absorption",
                 "system": {
                     "description": {
                         "value": "<p>魔像受<em>强酸伤害</em>时不会损伤，反而会恢复与伤害值相等的<strong>生命值</strong>。</p>"
@@ -12176,9 +12176,9 @@
         }
     },
     "Air Elemental": {
-        "name": "气元素Air Elemental",
+        "name": "气元素 Air Elemental",
         "prototypeToken": {
-            "name": "气元素Air Elemental"
+            "name": "气元素 Air Elemental"
         },
         "system": {
             "details": {
@@ -12190,10 +12190,10 @@
         },
         "items": {
             "Air Form": {
-                "name": "空气形态Air Form",
+                "name": "空气形态 Air Form",
                 "system": {
                     "description": {
-                        "value": "<p>元素生物可以进入并停留在敌对生物所在的位置。它可以穿过一个只有1寸宽的狭缝而不受挤压。</p>"
+                        "value": "<p>元素可以进入并停留在一个敌对生物所在的位置。它可以通过一个只有1寸宽的狭缝而不会受到挤压。</p>"
                     }
                 }
             },
@@ -12201,12 +12201,12 @@
                 "name": "多重攻击Multiattack",
                 "system": {
                     "description": {
-                        "value": "<p>元素生物发动两次猛击攻击。</p>"
+                        "value": "<p>元素发动两次猛击。</p>"
                     }
                 }
             },
             "Slam": {
-                "name": "猛击Slam",
+                "name": "猛击 Slam",
                 "system": {
                     "description": {
                         "value": "<section class=\"secret\">\n<p><em>近战武器攻击：</em><strong>命中+8，触及5尺，</strong>单一目标。伤害：<strong>14（2d8+5）点<em>钝击伤害</em></strong>。</p></section>\n<p>气元素进行猛击。</p>"
@@ -13546,7 +13546,7 @@
     "Young Silver Dragon": {
         "name": "青年银龙 Young Silver Dragon",
         "prototypeToken": {
-            "name": "青年银龙Young Silver Dragon"
+            "name": "青年银龙 Young Silver Dragon"
         },
         "system": {
             "details": {
@@ -16392,9 +16392,9 @@
         }
     },
     "Bandit": {
-        "name": "强盗Bandit",
+        "name": "强盗 Bandit",
         "prototypeToken": {
-            "name": "强盗Bandit"
+            "name": "强盗 Bandit"
         },
         "system": {
             "details": {
@@ -16406,7 +16406,7 @@
         },
         "items": {
             "Scimitar": {
-                "name": "弯刀Scimitar",
+                "name": "弯刀 Scimitar",
                 "system": {
                     "description": {
                         "value": "<section class=\"secret\">\n<p><em>近战武器攻击：</em><strong>命中+3，触及5尺，</strong>单一目标。伤害：<strong>4（1d6+1）点<em>挥砍伤害</em></strong>。</p></section>\n<p>强盗使用弯刀攻击。</p>"
@@ -16414,7 +16414,7 @@
                 }
             },
             "Light Crossbow": {
-                "name": "轻弩Light Crossbow",
+                "name": "轻弩 Light Crossbow",
                 "system": {
                     "description": {
                         "value": "<section class=\"secret\">\n<p>远程武器攻击：命中+3，射程80/320尺，单一目标。伤害：<strong>5（1d8+1）点<em>穿刺伤害</em></strong>。</p></section>\n<p>强盗使用轻弩攻击。"
@@ -16896,9 +16896,9 @@
         }
     },
     "Water Elemental": {
-        "name": "水元素Water Elemental",
+        "name": "水元素 Water Elemental",
         "prototypeToken": {
-            "name": "水元素Water Elemental"
+            "name": "水元素 Water Elemental"
         },
         "system": {
             "details": {
@@ -16910,7 +16910,7 @@
         },
         "items": {
             "Freeze": {
-                "name": "冻结Freeze",
+                "name": "冻结 Freeze",
                 "system": {
                     "description": {
                         "value": "<section class=\"secret\"><p>水元素受到<em>冷冻伤害</em>时会结冰。此后直至其下一回合结束，它的速度降至<strong>20尺</strong>。</p></section><p>水元素受到<em>冷冻伤害</em>时会结冰。</p>"
@@ -16918,10 +16918,10 @@
                 }
             },
             "Water Form": {
-                "name": "流水形态Water Form",
+                "name": "流水形态 Water Form",
                 "system": {
                     "description": {
-                        "value": "<p>元素生物可以进入并停留在敌对生物所在的位置。它可以穿过一个只有1寸宽的狭缝而不受挤压。</p>"
+                        "value": "<p>元素可以进入并停留在一个敌对生物所在的位置。它可以通过一个只有1寸宽的狭缝而不会受到挤压。</p>"
                     }
                 }
             },
@@ -16929,12 +16929,12 @@
                 "name": "多重攻击Multiattack",
                 "system": {
                     "description": {
-                        "value": "<p>元素生物发动两次猛击攻击。</p>"
+                        "value": "<p>元素发动两次猛击。</p>"
                     }
                 }
             },
             "Slam": {
-                "name": "猛击Slam",
+                "name": "猛击 Slam",
                 "system": {
                     "description": {
                         "value": "<section class=\"secret\"><p><em>近战武器攻击：</em><strong>命中+7，触及5尺，</strong>单一目标。伤害：<strong>13（2d8+4）点<em>钝击伤害</em></strong>。</p></section><p>水元素进行猛击。</p>"
@@ -17296,9 +17296,9 @@
         }
     },
     "Giant Octopus": {
-        "name": "巨章鱼Giant Octopus",
+        "name": "巨章鱼 Giant Octopus",
         "prototypeToken": {
-            "name": "巨章鱼Giant Octopus"
+            "name": "巨章鱼 Giant Octopus"
         },
         "system": {
             "details": {
@@ -17310,10 +17310,10 @@
         },
         "items": {
             "Hold Breath": {
-                "name": "屏息Hold Breath",
+                "name": "屏息 Hold Breath",
                 "system": {
                     "description": {
-                        "value": "<p>离水后，章鱼可以憋气<strong>1小时</strong>。</p>"
+                        "value": "<p>离水后，章鱼可以憋气1小时。</p>"
                     }
                 }
             },
@@ -18158,7 +18158,7 @@
         },
         "items": {
             "Ethereal Sight": {
-                "name": "以太视界Ethereal Sight",
+                "name": "以太视界 Ethereal Sight",
                 "system": {
                     "description": {
                         "value": "<p>幽魂在物质位面时可以看见身边<strong>60尺</strong>以太位面的景色，在以太位面时可以看见身边60尺内物质位面的景色。</p>"
@@ -18174,7 +18174,7 @@
                 }
             },
             "Withering Touch": {
-                "name": "枯萎触击Withering Touch",
+                "name": "枯萎触击 Withering Touch",
                 "system": {
                     "description": {
                         "value": "<section class=\"secret\"><p><em>近战武器攻击：</em><strong>命中+5，触及5尺，</strong>单一目标。伤害：<strong>17（4d6+3）点<em>黯蚀伤害</em></strong>。</p></section><p>幽魂进行枯萎触击。</p>"
@@ -18182,7 +18182,7 @@
                 }
             },
             "Etherealness": {
-                "name": "以太化Etherealness",
+                "name": "以太化 Etherealness",
                 "system": {
                     "description": {
                         "value": "<p>幽魂可以在物质位面和以太位面之间转换。身处以太边境时，物质位面中也可以看到它，反之亦然。幽魂身处其中某一位面时，无法影响另一位面之物或被另一位面之物影响。</p>"
@@ -18190,7 +18190,7 @@
                 }
             },
             "Horrifying Visage": {
-                "name": "恐惧面容Horrifying Visage",
+                "name": "恐惧面容 Horrifying Visage",
                 "system": {
                     "description": {
                         "value": "<section class=\"secret\"><p>幽魂周边60尺内能看见它的非不死生物必须分别进行一次<strong>DC 13的感知</strong>豁免。豁免失败者将陷入1分钟的恐慌状态。若豁免失败且差值为5或更低，则目标还将衰老[[/r 1d4]]×10年。</p><p>该受恐慌目标可以在每个其自身回合结束时重复进行一次该豁免。豁免成功则终止自身的恐慌状态，而该目标也将在未来24小时内免疫该幽魂的恐惧面容。该衰老效应产生后的24小时内，可用高等复原术greater restoration抵消。</p></section><p>幽魂周边60尺内能看见它的非不死生物必须分别进行一次<strong>感知</strong>豁免。该目标可以在每个其自身回合结束时重复进行一次该豁免，豁免成功则终止自身的状态。</p>"
@@ -18208,9 +18208,9 @@
         }
     },
     "Young Red Dragon": {
-        "name": "青年红龙Young Red Dragon",
+        "name": "青年红龙 Young Red Dragon",
         "prototypeToken": {
-            "name": "青年红龙Young Red Dragon"
+            "name": "青年红龙 Young Red Dragon"
         },
         "system": {
             "details": {
@@ -18376,9 +18376,9 @@
         }
     },
     "Wight": {
-        "name": "尸妖Wight",
+        "name": "尸妖 Wight",
         "prototypeToken": {
-            "name": "尸妖Wight"
+            "name": "尸妖 Wight"
         },
         "system": {
             "details": {
@@ -18880,9 +18880,9 @@
         }
     },
     "Mummy": {
-        "name": "木乃伊Mummy",
+        "name": "木乃伊 Mummy",
         "prototypeToken": {
-            "name": "木乃伊Mummy"
+            "name": "木乃伊 Mummy"
         },
         "system": {
             "details": {
@@ -18902,7 +18902,7 @@
                 }
             },
             "Rotting Fist": {
-                "name": "腐朽拳击Rotting Fist",
+                "name": "腐朽拳击 Rotting Fist",
                 "system": {
                     "description": {
                         "value": "<section class=\"secret\"><p><em>近战武器攻击：</em><strong>命中+5，触及5尺，</strong>单一目标。伤害：<strong>10（2d6+2）点<em>钝击伤害</em></strong>，外加<strong>10（3d6）点<em>黯蚀伤害</em></strong>。</p><p>如果目标是生物，则其必须成功通过一次<strong>DC 12的体质</strong>豁免，否则将承受木乃伊的腐烂诅咒。被诅咒目标不能恢复生命值，且该诅咒每持续24小时其生命值上限将降低10（3d6）。如果诅咒使目标的生命值上限降至0，则该目标死亡，且其尸体化作尘土。该诅咒效应持续直至被法术移除诅咒remove curse或其他魔法移除。</p></section><p>木乃伊进行腐朽拳击攻击。如果目标是生物，则其必须成功通过一次<strong>体质</strong>豁免。</p>"
@@ -18910,7 +18910,7 @@
                 }
             },
             "Dreadful Glare": {
-                "name": "恐怖怒视Dreadful Glare",
+                "name": "恐怖怒视 Dreadful Glare",
                 "system": {
                     "description": {
                         "value": "<section class=\"secret\"><p>木乃伊指定自身60尺范围内一个它能看见的生物。如果目标生物可以看到木乃伊，则该生物必须成功通过一次<strong>DC 11</strong>的感知豁免以抵抗该魔法，豁免失败则目标生物受恐慌，其效应持续至该木乃伊的下一个回合结束。</p><p>若目标生物豁免失败且差值为5或更高，则目标生物同时陷入麻痹。豁免成功的生物在接下来的24小时免疫所有木乃伊（除了木乃伊领主）的恐怖凝视。</p></section><p>木乃伊指定60尺内一个它能看见的生物。如果该目标可以看到木乃伊，则它必须进行一次<strong>感知</strong>豁免以抵抗该魔法。</p>"
@@ -18920,9 +18920,9 @@
         }
     },
     "Grick": {
-        "name": "穴居攫怪Grick",
+        "name": "穴居攫怪 Grick",
         "prototypeToken": {
-            "name": "穴居攫怪Grick"
+            "name": "穴居攫怪 Grick"
         },
         "system": {
             "details": {
@@ -18934,7 +18934,7 @@
         },
         "items": {
             "Stone Camouflage": {
-                "name": "岩地伪装Stone Camouflage",
+                "name": "岩地伪装 Stone Camouflage",
                 "system": {
                     "description": {
                         "value": "<p>穴居攫怪在岩地地形中为进行躲藏而作的敏捷（隐匿）检定具有<strong> 优势</strong>。</p>"
@@ -18958,7 +18958,7 @@
                 }
             },
             "Beak": {
-                "name": "喙啄Beak",
+                "name": "喙啄 Beak",
                 "system": {
                     "description": {
                         "value": "<section class=\"secret\"><p><em>近战武器攻击：</em><strong>命中+4，触及5尺</strong>，<strong>单一目标</strong>。伤害：<strong>5（1d6+2）点<em>穿刺伤害</em></strong>。</p></section><p>穴居攫怪进行喙啄攻击。</p>"
@@ -19456,9 +19456,9 @@
         }
     },
     "Giant Spider": {
-        "name": "巨蜘蛛Giant Spider",
+        "name": "巨蜘蛛 Giant Spider",
         "prototypeToken": {
-            "name": "巨蜘蛛Giant Spider"
+            "name": "巨蜘蛛 Giant Spider"
         },
         "system": {
             "details": {
@@ -19478,7 +19478,7 @@
                 }
             },
             "Web Sense": {
-                "name": "蛛网感知Web Sense",
+                "name": "蛛网感知 Web Sense",
                 "system": {
                     "description": {
                         "value": "<p>与蛛网接触时，蜘蛛可以知晓其他与该蛛网接触生物的准确位置。</p>"
@@ -19782,7 +19782,7 @@
         },
         "items": {
             "Charge": {
-                "name": "冲锋Charge",
+                "name": "冲锋 Charge",
                 "system": {
                     "description": {
                         "value": "<section class=\"secret\"><p>若骷髅牛头人向其目标直线移动至少10尺，且在同一回合里以顶撞攻击命中该目标，则该目标受额外<strong>9（2d8）点<em>穿刺伤害</em></strong>。</p><p>如果目标是一个生物，则它必须进行一次<strong>DC 14的力量</strong>豁免，否则被推后至多10尺并应击倒地。</p></section><p>若骷髅牛头人向其目标直线移动至少10尺，且在同一回合里以顶撞攻击命中该目标，则该目标受额外<em>穿刺伤害</em>。如果目标是一个生物，则它必须进行一次<strong>力量</strong>豁免，否则被推后至多10尺并应击倒地。</p>"
@@ -19790,7 +19790,7 @@
                 }
             },
             "Greataxe": {
-                "name": "巨斧Greataxe",
+                "name": "巨斧 Greataxe",
                 "system": {
                     "description": {
                         "value": "<section class=\"secret\"><p><em>近战武器攻击：</em><strong>命中+6，触及5尺，</strong>单一目标。伤害：<strong>17（2d12+4）点<em>挥砍伤害</em></strong>。</p></section><p>骷髅牛头人使用巨斧攻击。</p>"
@@ -19798,7 +19798,7 @@
                 }
             },
             "Gore": {
-                "name": "顶撞Gore",
+                "name": "顶撞 Gore",
                 "system": {
                     "description": {
                         "value": "<section class=\"secret\"><p><em>近战武器攻击：</em><strong>命中+6，触及5尺，</strong>单一目标。伤害：<strong>13（2d8+4）点<em>穿刺伤害</em></strong>。</p></section><p>骷髅牛头人进行顶撞攻击。</p>"
@@ -20144,9 +20144,9 @@
         }
     },
     "Stone Golem": {
-        "name": "石魔像Stone Golem",
+        "name": "石魔像 Stone Golem",
         "prototypeToken": {
-            "name": "石魔像Stone Golem"
+            "name": "石魔像 Stone Golem"
         },
         "system": {
             "details": {
@@ -20158,7 +20158,7 @@
         },
         "items": {
             "Immutable Form": {
-                "name": "不变形态Immutable Form",
+                "name": "不变形态 Immutable Form",
                 "system": {
                     "description": {
                         "value": "<p>魔像免疫任何可以改变其形态的法术或效应。</p>"
@@ -20174,7 +20174,7 @@
                 }
             },
             "Magic Weapons": {
-                "name": "魔法武器Magic Weapons",
+                "name": "魔法武器 Magic Weapons",
                 "system": {
                     "description": {
                         "value": "<p>魔像的武器攻击视为魔法攻击。</p>"
@@ -20190,7 +20190,7 @@
                 }
             },
             "Slam": {
-                "name": "猛击Slam",
+                "name": "猛击 Slam",
                 "system": {
                     "description": {
                         "value": "<section class=\"secret\"><p><em>近战武器攻击：</em><strong>命中+10，触及5尺，</strong>单一目标。伤害：<strong>19（3d8+6）点<em>钝击伤害</em></strong>。</p></section><p>石魔像进行猛击。</p>"

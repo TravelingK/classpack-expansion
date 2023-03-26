@@ -1906,7 +1906,7 @@
     "Marid": {
         "items": {
             "Elemental Demise": {
-                "name": "元素消亡Elemental Demise",
+                "name": "元素消亡 Elemental Demise",
                 "system": {
                     "description": {
                         "value": ""
@@ -1914,7 +1914,7 @@
                 }
             },
             "Gaseous Form": {
-                "name": "气化形体Gaseous Form",
+                "name": "气化形体 Gaseous Form",
                 "system": {
                     "description": {
                         "value": ""
@@ -1922,7 +1922,7 @@
                 }
             },
             "Tongues": {
-                "name": "巧言术Tongues",
+                "name": "巧言术 Tongues",
                 "system": {
                     "description": {
                         "value": ""
@@ -1946,7 +1946,7 @@
                 }
             },
             "Plane Shift": {
-                "name": "异界传送Plane Shift",
+                "name": "异界传送 Plane Shift",
                 "system": {
                     "description": {
                         "value": ""
@@ -1962,7 +1962,7 @@
                 }
             },
             "Detect Evil and Good": {
-                "name": "侦测善恶Detect Evil and Good",
+                "name": "侦测善恶 Detect Evil and Good",
                 "system": {
                     "description": {
                         "value": ""
@@ -1994,7 +1994,7 @@
                 }
             },
             "Fog Cloud": {
-                "name": "云雾术Fog Cloud",
+                "name": "云雾术 Fog Cloud",
                 "system": {
                     "description": {
                         "value": ""
@@ -2074,9 +2074,9 @@
                 "alignment": ""
             }
         },
-        "name": "Marid",
+        "name": "水巨灵 Marid",
         "prototypeToken": {
-            "name": "Marid"
+            "name": "水巨灵 Marid"
         }
     },
     "Blue Slaad (Control Gem)": {
@@ -2802,9 +2802,9 @@
                 }
             }
         },
-        "name": "Slaad Tadpole",
+        "name": "史拉蟾蝌蚪 Slaad Tadpole",
         "prototypeToken": {
-            "name": "Slaad Tadpole"
+            "name": "史拉蟾蝌蚪 Slaad Tadpole"
         }
     },
     "Helmed Horror": {
@@ -3666,7 +3666,7 @@
                 }
             },
             "Beak": {
-                "name": "喙啄Beak",
+                "name": "喙啄 Beak",
                 "system": {
                     "description": {
                         "value": ""
@@ -3674,7 +3674,7 @@
                 }
             },
             "Stone Camouflage": {
-                "name": "岩地伪装Stone Camouflage",
+                "name": "岩地伪装 Stone Camouflage",
                 "system": {
                     "description": {
                         "value": ""
@@ -7522,7 +7522,7 @@
                 }
             },
             "Illumination": {
-                "name": "照明Illumination",
+                "name": "照明 Illumination",
                 "system": {
                     "description": {
                         "value": ""
@@ -7546,7 +7546,7 @@
                 }
             },
             "Rejuvenation": {
-                "name": "复生Rejuvenation",
+                "name": "复生 Rejuvenation",
                 "system": {
                     "description": {
                         "value": ""
@@ -7570,7 +7570,7 @@
                 }
             },
             "Blur": {
-                "name": "朦胧术Blur",
+                "name": "朦胧术 Blur",
                 "system": {
                     "description": {
                         "value": ""
@@ -7594,7 +7594,7 @@
                 }
             },
             "Flaming Sphere": {
-                "name": "Flaming Sphere",
+                "name": "炽焰法球 Flaming Sphere",
                 "system": {
                     "description": {
                         "value": ""
@@ -7602,7 +7602,7 @@
                 }
             },
             "Fire Ray": {
-                "name": "Fire Ray",
+                "name": "火焰射线 Fire Ray",
                 "system": {
                     "description": {
                         "value": ""
@@ -7618,9 +7618,9 @@
                 }
             }
         },
-        "name": "Flameskull",
+        "name": "燃焰之颅 Flameskull",
         "prototypeToken": {
-            "name": "Flameskull"
+            "name": "燃焰之颅 Flameskull"
         }
     },
     "Vampire Spellcaster": {
@@ -8058,7 +8058,7 @@
     "Death Slaad": {
         "items": {
             "Tongues": {
-                "name": "巧言术Tongues",
+                "name": "巧言术 Tongues",
                 "system": {
                     "description": {
                         "value": ""
@@ -8098,7 +8098,7 @@
                 }
             },
             "Plane Shift": {
-                "name": "异界传送Plane Shift",
+                "name": "异界传送 Plane Shift",
                 "system": {
                     "description": {
                         "value": ""
@@ -8114,7 +8114,7 @@
                 }
             },
             "Major Image": {
-                "name": "高等幻影Major Image",
+                "name": "高等幻影 Major Image",
                 "system": {
                     "description": {
                         "value": ""
@@ -8170,7 +8170,7 @@
                 }
             },
             "Cloudkill": {
-                "name": "死云术Cloudkill",
+                "name": "死云术 Cloudkill",
                 "system": {
                     "description": {
                         "value": ""
@@ -8202,7 +8202,7 @@
                 "name": "啃咬 Bite（仅史拉蟾形态）"
             },
             "Claws (Slaad Form Only)": {
-                "name": "Claws (Slaad Form Only)",
+                "name": "爪击 Claws（仅史拉蟾形态）",
                 "system": {
                     "description": {
                         "value": ""
@@ -8226,9 +8226,9 @@
                 "alignment": ""
             }
         },
-        "name": "Death Slaad",
+        "name": "史拉亡蟾 Death Slaad",
         "prototypeToken": {
-            "name": "Death Slaad"
+            "name": "史拉亡蟾 Death Slaad"
         }
     },
     "Empyrean": {
@@ -8674,7 +8674,7 @@
                 }
             },
             "Javelin (Melee)": {
-                "name": "标枪Javelin（近战）",
+                "name": "标枪 Javelin（近战）",
                 "system": {
                     "description": {
                         "value": ""
@@ -8698,7 +8698,7 @@
                 }
             },
             "Martial Advantage": {
-                "name": "成军优势Martial Advantage",
+                "name": "成军优势 Martial Advantage",
                 "system": {
                     "description": {
                         "value": ""
@@ -8722,9 +8722,9 @@
                 }
             }
         },
-        "name": "Hobgoblin Captain",
+        "name": "大地精长官 Hobgoblin Captain",
         "prototypeToken": {
-            "name": "Hobgoblin Captain"
+            "name": "大地精长官 Hobgoblin Captain"
         }
     },
     "Yeti": {
@@ -10666,9 +10666,9 @@
                 "alignment": ""
             }
         },
-        "name": "Red Slaad",
+        "name": "史拉红蟾 Red Slaad",
         "prototypeToken": {
-            "name": "Red Slaad"
+            "name": "史拉红蟾 Red Slaad"
         }
     },
     "Myconid Sovereign": {
@@ -13514,7 +13514,7 @@
                 }
             },
             "Shield Bash": {
-                "name": "盾击Shield Bash",
+                "name": "盾击 Shield Bash",
                 "system": {
                     "description": {
                         "value": ""
@@ -13522,7 +13522,7 @@
                 }
             },
             "Javelin (Melee)": {
-                "name": "标枪Javelin（近战）",
+                "name": "标枪 Javelin（近战）",
                 "system": {
                     "description": {
                         "value": ""
@@ -13546,7 +13546,7 @@
                 }
             },
             "Martial Advantage": {
-                "name": "成军优势Martial Advantage",
+                "name": "成军优势 Martial Advantage",
                 "system": {
                     "description": {
                         "value": ""
@@ -13562,9 +13562,9 @@
                 "alignment": ""
             }
         },
-        "name": "Hobgoblin Warlord",
+        "name": "大地精军阀 Hobgoblin Warlord",
         "prototypeToken": {
-            "name": "Hobgoblin Warlord"
+            "name": "大地精军阀 Hobgoblin Warlord"
         }
     },
     "Quaggoth Spore Servant": {
@@ -14690,7 +14690,7 @@
     "Water Weird": {
         "items": {
             "Constrict": {
-                "name": "绞缠Constrict",
+                "name": "绞缠 Constrict",
                 "system": {
                     "description": {
                         "value": ""
@@ -14698,7 +14698,7 @@
                 }
             },
             "Invisible in Water": {
-                "name": "Invisible in Water",
+                "name": "水中隐形 Invisible in Water",
                 "system": {
                     "description": {
                         "value": ""
@@ -14706,7 +14706,7 @@
                 }
             },
             "Water Bound": {
-                "name": "Water Bound",
+                "name": "水体约束 Water Bound",
                 "system": {
                     "description": {
                         "value": ""
@@ -14722,9 +14722,9 @@
                 "alignment": ""
             }
         },
-        "name": "Water Weird",
+        "name": "水诡 Water Weird",
         "prototypeToken": {
-            "name": "Water Weird"
+            "name": "水诡 Water Weird"
         }
     },
     "Myconid Adult": {
