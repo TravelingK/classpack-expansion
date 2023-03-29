@@ -326,7 +326,7 @@
         },
         "items": {
             "Dagger (Melee)": {
-                "name": "",
+                "name": "匕首 Dagger（近战 Melee）",
                 "system": {
                     "description": {
                         "value": ""
@@ -334,7 +334,7 @@
                 }
             },
             "Dagger (Ranged)": {
-                "name": "",
+                "name": "匕首 Dagger（远程 Ranged）",
                 "system": {
                     "description": {
                         "value": ""
@@ -406,7 +406,7 @@
                 }
             },
             "Spear (Ranged)": {
-                "name": "",
+                "name": "矛 Spear（远程 Ranged）",
                 "system": {
                     "description": {
                         "value": ""
@@ -534,7 +534,7 @@
         },
         "items": {
             "Dagger (Melee)": {
-                "name": "",
+                "name": "匕首 Dagger（近战 Melee）",
                 "system": {
                     "description": {
                         "value": ""
@@ -542,7 +542,7 @@
                 }
             },
             "Dagger (Ranged)": {
-                "name": "",
+                "name": "匕首 Dagger（远程 Ranged）",
                 "system": {
                     "description": {
                         "value": ""
@@ -830,7 +830,7 @@
         },
         "items": {
             "Dagger (Melee)": {
-                "name": "",
+                "name": "匕首 Dagger（近战 Melee）",
                 "system": {
                     "description": {
                         "value": ""
@@ -838,7 +838,7 @@
                 }
             },
             "Dagger (Ranged)": {
-                "name": "",
+                "name": "匕首 Dagger（远程 Ranged）",
                 "system": {
                     "description": {
                         "value": ""
@@ -910,7 +910,7 @@
                 }
             },
             "Unusual Nature": {
-                "name": "",
+                "name": "Unusual Nature",
                 "system": {
                     "description": {
                         "value": ""
@@ -1110,7 +1110,7 @@
                 }
             },
             "Unusual Nature": {
-                "name": "",
+                "name": "Unusual Nature",
                 "system": {
                     "description": {
                         "value": ""
@@ -1478,7 +1478,7 @@
                 }
             },
             "Unusual Nature": {
-                "name": "",
+                "name": "Unusual Nature",
                 "system": {
                     "description": {
                         "value": ""
@@ -1550,7 +1550,7 @@
                 }
             },
             "Fear": {
-                "name": "",
+                "name": "恐惧术 Fear",
                 "system": {
                     "description": {
                         "value": ""
@@ -1974,7 +1974,7 @@
                 }
             },
             "Unusual Nature": {
-                "name": "",
+                "name": "Unusual Nature",
                 "system": {
                     "description": {
                         "value": ""
@@ -2222,7 +2222,7 @@
                 }
             },
             "Fear": {
-                "name": "",
+                "name": "恐惧术 Fear",
                 "system": {
                     "description": {
                         "value": ""
@@ -2414,7 +2414,7 @@
                 }
             },
             "Sending": {
-                "name": "",
+                "name": "Sending",
                 "system": {
                     "description": {
                         "value": ""
@@ -3334,7 +3334,7 @@
         },
         "items": {
             "Dagger (Melee)": {
-                "name": "",
+                "name": "匕首 Dagger（近战 Melee）",
                 "system": {
                     "description": {
                         "value": ""
@@ -3342,7 +3342,7 @@
                 }
             },
             "Dagger (Ranged)": {
-                "name": "",
+                "name": "匕首 Dagger（远程 Ranged）",
                 "system": {
                     "description": {
                         "value": ""
@@ -3398,7 +3398,7 @@
         },
         "items": {
             "Dagger (Melee)": {
-                "name": "",
+                "name": "匕首 Dagger（近战 Melee）",
                 "system": {
                     "description": {
                         "value": ""
@@ -3406,7 +3406,7 @@
                 }
             },
             "Dagger (Ranged)": {
-                "name": "",
+                "name": "匕首 Dagger（远程 Ranged）",
                 "system": {
                     "description": {
                         "value": ""
@@ -3806,7 +3806,7 @@
                 }
             },
             "Unusual Nature": {
-                "name": "",
+                "name": "Unusual Nature",
                 "system": {
                     "description": {
                         "value": ""
@@ -4342,7 +4342,7 @@
                 }
             },
             "Unusual Nature": {
-                "name": "",
+                "name": "Unusual Nature",
                 "system": {
                     "description": {
                         "value": ""
@@ -4630,7 +4630,7 @@
                 }
             },
             "Unusual Nature": {
-                "name": "",
+                "name": "Unusual Nature",
                 "system": {
                     "description": {
                         "value": ""
@@ -5766,7 +5766,7 @@
         },
         "items": {
             "Dagger (Melee)": {
-                "name": "",
+                "name": "匕首 Dagger（近战 Melee）",
                 "system": {
                     "description": {
                         "value": ""
@@ -5774,7 +5774,7 @@
                 }
             },
             "Dagger (Ranged)": {
-                "name": "",
+                "name": "匕首 Dagger（远程 Ranged）",
                 "system": {
                     "description": {
                         "value": ""
@@ -5870,7 +5870,7 @@
                 }
             },
             "Unusual Nature": {
-                "name": "",
+                "name": "Unusual Nature",
                 "system": {
                     "description": {
                         "value": ""
@@ -5998,7 +5998,7 @@
         },
         "items": {
             "Dagger (Melee)": {
-                "name": "",
+                "name": "匕首 Dagger（近战 Melee）",
                 "system": {
                     "description": {
                         "value": ""
@@ -6006,7 +6006,7 @@
                 }
             },
             "Dagger (Ranged)": {
-                "name": "",
+                "name": "匕首 Dagger（远程 Ranged）",
                 "system": {
                     "description": {
                         "value": ""
@@ -6222,7 +6222,7 @@
         },
         "items": {
             "Dagger (Melee)": {
-                "name": "",
+                "name": "匕首 Dagger（近战 Melee）",
                 "system": {
                     "description": {
                         "value": ""
@@ -6230,7 +6230,7 @@
                 }
             },
             "Dagger (Ranged)": {
-                "name": "",
+                "name": "匕首 Dagger（远程 Ranged）",
                 "system": {
                     "description": {
                         "value": ""
@@ -6454,7 +6454,7 @@
                 }
             },
             "Unusual Nature": {
-                "name": "",
+                "name": "Unusual Nature",
                 "system": {
                     "description": {
                         "value": ""
@@ -7222,7 +7222,7 @@
         },
         "items": {
             "Dagger (Melee)": {
-                "name": "",
+                "name": "匕首 Dagger（近战 Melee）",
                 "system": {
                     "description": {
                         "value": ""
@@ -7230,7 +7230,7 @@
                 }
             },
             "Dagger (Ranged)": {
-                "name": "",
+                "name": "匕首 Dagger（远程 Ranged）",
                 "system": {
                     "description": {
                         "value": ""
@@ -7766,7 +7766,7 @@
                 }
             },
             "Unusual Nature": {
-                "name": "",
+                "name": "Unusual Nature",
                 "system": {
                     "description": {
                         "value": ""
@@ -8230,7 +8230,7 @@
                 }
             },
             "Control Water": {
-                "name": "",
+                "name": "Control Water",
                 "system": {
                     "description": {
                         "value": ""
@@ -8254,7 +8254,7 @@
                 }
             },
             "Water Walk": {
-                "name": "",
+                "name": "Water Walk",
                 "system": {
                     "description": {
                         "value": ""
@@ -8270,7 +8270,7 @@
                 }
             },
             "Create or Destroy Water": {
-                "name": "",
+                "name": "Create or Destroy Water",
                 "system": {
                     "description": {
                         "value": ""
@@ -8302,7 +8302,7 @@
         },
         "items": {
             "Dagger (Melee)": {
-                "name": "",
+                "name": "匕首 Dagger（近战 Melee）",
                 "system": {
                     "description": {
                         "value": ""
@@ -8310,7 +8310,7 @@
                 }
             },
             "Dagger (Ranged)": {
-                "name": "",
+                "name": "匕首 Dagger（远程 Ranged）",
                 "system": {
                     "description": {
                         "value": ""
@@ -8494,7 +8494,7 @@
                 }
             },
             "Trident (Ranged)": {
-                "name": "",
+                "name": "Trident (Ranged)",
                 "system": {
                     "description": {
                         "value": ""
@@ -8670,7 +8670,7 @@
                 }
             },
             "Stinking Cloud": {
-                "name": "",
+                "name": "臭云术 Stinking Cloud",
                 "system": {
                     "description": {
                         "value": ""
@@ -9118,7 +9118,7 @@
                 }
             },
             "Unusual Nature": {
-                "name": "",
+                "name": "Unusual Nature",
                 "system": {
                     "description": {
                         "value": ""
@@ -9542,7 +9542,7 @@
                 }
             },
             "Staff": {
-                "name": "",
+                "name": "法杖 Staff",
                 "system": {
                     "description": {
                         "value": ""
@@ -9734,7 +9734,7 @@
         },
         "items": {
             "Dagger (Melee)": {
-                "name": "",
+                "name": "匕首 Dagger（近战 Melee）",
                 "system": {
                     "description": {
                         "value": ""
@@ -9742,7 +9742,7 @@
                 }
             },
             "Dagger (Ranged)": {
-                "name": "",
+                "name": "匕首 Dagger（远程 Ranged）",
                 "system": {
                     "description": {
                         "value": ""
@@ -9854,7 +9854,7 @@
                 }
             },
             "Unusual Nature": {
-                "name": "",
+                "name": "Unusual Nature",
                 "system": {
                     "description": {
                         "value": ""
@@ -10518,7 +10518,7 @@
                 }
             },
             "Wall of Stone": {
-                "name": "",
+                "name": "Wall of Stone",
                 "system": {
                     "description": {
                         "value": ""
@@ -10606,7 +10606,7 @@
                 }
             },
             "Stinking Cloud": {
-                "name": "",
+                "name": "臭云术 Stinking Cloud",
                 "system": {
                     "description": {
                         "value": ""
@@ -10966,7 +10966,7 @@
                 }
             },
             "Dagger (Melee)": {
-                "name": "",
+                "name": "匕首 Dagger（近战 Melee）",
                 "system": {
                     "description": {
                         "value": ""
@@ -10974,7 +10974,7 @@
                 }
             },
             "Dagger (Ranged)": {
-                "name": "",
+                "name": "匕首 Dagger（远程 Ranged）",
                 "system": {
                     "description": {
                         "value": ""
@@ -11422,7 +11422,7 @@
                 }
             },
             "Fear": {
-                "name": "",
+                "name": "恐惧术 Fear",
                 "system": {
                     "description": {
                         "value": ""
@@ -11582,7 +11582,7 @@
                 }
             },
             "Staff": {
-                "name": "",
+                "name": "法杖 Staff",
                 "system": {
                     "description": {
                         "value": ""
@@ -12134,7 +12134,7 @@
                 }
             },
             "Spear (Ranged)": {
-                "name": "",
+                "name": "矛 Spear（远程 Ranged）",
                 "system": {
                     "description": {
                         "value": ""
@@ -12678,7 +12678,7 @@
                 }
             },
             "Fear": {
-                "name": "",
+                "name": "恐惧术 Fear",
                 "system": {
                     "description": {
                         "value": ""
@@ -12766,7 +12766,7 @@
                 }
             },
             "Unusual Nature": {
-                "name": "",
+                "name": "Unusual Nature",
                 "system": {
                     "description": {
                         "value": ""
@@ -12822,7 +12822,7 @@
         },
         "items": {
             "Dagger (Melee)": {
-                "name": "",
+                "name": "匕首 Dagger（近战 Melee）",
                 "system": {
                     "description": {
                         "value": ""
@@ -12830,7 +12830,7 @@
                 }
             },
             "Dagger (Ranged)": {
-                "name": "",
+                "name": "匕首 Dagger（远程 Ranged）",
                 "system": {
                     "description": {
                         "value": ""
@@ -13086,7 +13086,7 @@
         },
         "items": {
             "Dagger (Melee)": {
-                "name": "",
+                "name": "匕首 Dagger（近战 Melee）",
                 "system": {
                     "description": {
                         "value": ""
@@ -13094,7 +13094,7 @@
                 }
             },
             "Dagger (Ranged)": {
-                "name": "",
+                "name": "匕首 Dagger（远程 Ranged）",
                 "system": {
                     "description": {
                         "value": ""
@@ -13430,7 +13430,7 @@
                 }
             },
             "Unusual Nature": {
-                "name": "",
+                "name": "Unusual Nature",
                 "system": {
                     "description": {
                         "value": ""
@@ -13590,7 +13590,7 @@
                 }
             },
             "Stinking Cloud": {
-                "name": "",
+                "name": "臭云术 Stinking Cloud",
                 "system": {
                     "description": {
                         "value": ""
@@ -13678,7 +13678,7 @@
         },
         "items": {
             "Dagger (Melee)": {
-                "name": "",
+                "name": "匕首 Dagger（近战 Melee）",
                 "system": {
                     "description": {
                         "value": ""
@@ -13686,7 +13686,7 @@
                 }
             },
             "Dagger (Ranged)": {
-                "name": "",
+                "name": "匕首 Dagger（远程 Ranged）",
                 "system": {
                     "description": {
                         "value": ""
@@ -13950,7 +13950,7 @@
                 }
             },
             "Fear": {
-                "name": "",
+                "name": "恐惧术 Fear",
                 "system": {
                     "description": {
                         "value": ""
@@ -14246,7 +14246,7 @@
                 }
             },
             "Revivify": {
-                "name": "",
+                "name": "Revivify",
                 "system": {
                     "description": {
                         "value": ""
@@ -14286,7 +14286,7 @@
                 }
             },
             "Sending": {
-                "name": "",
+                "name": "Sending",
                 "system": {
                     "description": {
                         "value": ""
@@ -14358,7 +14358,7 @@
                 }
             },
             "Unusual Nature": {
-                "name": "",
+                "name": "Unusual Nature",
                 "system": {
                     "description": {
                         "value": ""
@@ -14758,7 +14758,7 @@
                 }
             },
             "Arcane Eye": {
-                "name": "",
+                "name": "Arcane Eye",
                 "system": {
                     "description": {
                         "value": ""
@@ -15206,7 +15206,7 @@
                 }
             },
             "Unusual Nature": {
-                "name": "",
+                "name": "Unusual Nature",
                 "system": {
                     "description": {
                         "value": ""
@@ -15462,7 +15462,7 @@
                 }
             },
             "Control Water": {
-                "name": "",
+                "name": "Control Water",
                 "system": {
                     "description": {
                         "value": ""
@@ -15478,7 +15478,7 @@
                 }
             },
             "Fear": {
-                "name": "",
+                "name": "恐惧术 Fear",
                 "system": {
                     "description": {
                         "value": ""
@@ -15558,7 +15558,7 @@
                 }
             },
             "Dagger (Melee)": {
-                "name": "",
+                "name": "匕首 Dagger（近战 Melee）",
                 "system": {
                     "description": {
                         "value": ""
@@ -15566,7 +15566,7 @@
                 }
             },
             "Dagger (Ranged)": {
-                "name": "",
+                "name": "匕首 Dagger（远程 Ranged）",
                 "system": {
                     "description": {
                         "value": ""
@@ -15726,7 +15726,7 @@
                 }
             },
             "Unusual Nature": {
-                "name": "",
+                "name": "Unusual Nature",
                 "system": {
                     "description": {
                         "value": ""
@@ -16150,7 +16150,7 @@
         },
         "items": {
             "Dagger (Melee)": {
-                "name": "",
+                "name": "匕首 Dagger（近战 Melee）",
                 "system": {
                     "description": {
                         "value": ""
@@ -16158,7 +16158,7 @@
                 }
             },
             "Dagger (Ranged)": {
-                "name": "",
+                "name": "匕首 Dagger（远程 Ranged）",
                 "system": {
                     "description": {
                         "value": ""
@@ -16462,7 +16462,7 @@
                 }
             },
             "Unusual Nature": {
-                "name": "",
+                "name": "Unusual Nature",
                 "system": {
                     "description": {
                         "value": ""
@@ -16518,7 +16518,7 @@
                 }
             },
             "Unusual Nature": {
-                "name": "",
+                "name": "Unusual Nature",
                 "system": {
                     "description": {
                         "value": ""
@@ -16846,7 +16846,7 @@
                 }
             },
             "Unusual Nature": {
-                "name": "",
+                "name": "Unusual Nature",
                 "system": {
                     "description": {
                         "value": ""
@@ -16854,7 +16854,7 @@
                 }
             },
             "Fear": {
-                "name": "",
+                "name": "恐惧术 Fear",
                 "system": {
                     "description": {
                         "value": ""
@@ -17038,7 +17038,7 @@
         },
         "items": {
             "Dagger (Melee)": {
-                "name": "",
+                "name": "匕首 Dagger（近战 Melee）",
                 "system": {
                     "description": {
                         "value": ""
@@ -17046,7 +17046,7 @@
                 }
             },
             "Dagger (Ranged)": {
-                "name": "",
+                "name": "匕首 Dagger（远程 Ranged）",
                 "system": {
                     "description": {
                         "value": ""
@@ -17150,7 +17150,7 @@
         },
         "items": {
             "Dagger (Melee)": {
-                "name": "",
+                "name": "匕首 Dagger（近战 Melee）",
                 "system": {
                     "description": {
                         "value": ""
@@ -17158,7 +17158,7 @@
                 }
             },
             "Dagger (Ranged)": {
-                "name": "",
+                "name": "匕首 Dagger（远程 Ranged）",
                 "system": {
                     "description": {
                         "value": ""
@@ -17270,7 +17270,7 @@
                 }
             },
             "Dagger (Melee)": {
-                "name": "",
+                "name": "匕首 Dagger（近战 Melee）",
                 "system": {
                     "description": {
                         "value": ""
@@ -17278,7 +17278,7 @@
                 }
             },
             "Dagger (Ranged)": {
-                "name": "",
+                "name": "匕首 Dagger（远程 Ranged）",
                 "system": {
                     "description": {
                         "value": ""
@@ -17390,7 +17390,7 @@
                 }
             },
             "Dagger (Melee)": {
-                "name": "",
+                "name": "匕首 Dagger（近战 Melee）",
                 "system": {
                     "description": {
                         "value": ""
@@ -17398,7 +17398,7 @@
                 }
             },
             "Dagger (Ranged)": {
-                "name": "",
+                "name": "匕首 Dagger（远程 Ranged）",
                 "system": {
                     "description": {
                         "value": ""
@@ -17494,7 +17494,7 @@
         },
         "items": {
             "Dagger (Melee)": {
-                "name": "",
+                "name": "匕首 Dagger（近战 Melee）",
                 "system": {
                     "description": {
                         "value": ""
@@ -17502,7 +17502,7 @@
                 }
             },
             "Dagger (Ranged)": {
-                "name": "",
+                "name": "匕首 Dagger（远程 Ranged）",
                 "system": {
                     "description": {
                         "value": ""
@@ -17942,7 +17942,7 @@
                 }
             },
             "Fear": {
-                "name": "",
+                "name": "恐惧术 Fear",
                 "system": {
                     "description": {
                         "value": ""
@@ -18246,7 +18246,7 @@
                 }
             },
             "Special Equipment": {
-                "name": "",
+                "name": "Special Equipment",
                 "system": {
                     "description": {
                         "value": ""
@@ -18942,7 +18942,7 @@
                 }
             },
             "Unusual Nature": {
-                "name": "",
+                "name": "Unusual Nature",
                 "system": {
                     "description": {
                         "value": ""
@@ -19030,7 +19030,7 @@
         },
         "items": {
             "Dagger (Melee)": {
-                "name": "",
+                "name": "匕首 Dagger（近战 Melee）",
                 "system": {
                     "description": {
                         "value": ""
@@ -19038,7 +19038,7 @@
                 }
             },
             "Dagger (Ranged)": {
-                "name": "",
+                "name": "匕首 Dagger（远程 Ranged）",
                 "system": {
                     "description": {
                         "value": ""
@@ -19294,7 +19294,7 @@
         },
         "items": {
             "Dagger (Melee)": {
-                "name": "",
+                "name": "匕首 Dagger（近战 Melee）",
                 "system": {
                     "description": {
                         "value": ""
@@ -19302,7 +19302,7 @@
                 }
             },
             "Dagger (Ranged)": {
-                "name": "",
+                "name": "匕首 Dagger（远程 Ranged）",
                 "system": {
                     "description": {
                         "value": ""
@@ -19510,7 +19510,7 @@
                 }
             },
             "Spear (Ranged)": {
-                "name": "",
+                "name": "矛 Spear（远程 Ranged）",
                 "system": {
                     "description": {
                         "value": ""
@@ -19854,7 +19854,7 @@
         },
         "items": {
             "Dagger (Melee)": {
-                "name": "",
+                "name": "匕首 Dagger（近战 Melee）",
                 "system": {
                     "description": {
                         "value": ""
@@ -19862,7 +19862,7 @@
                 }
             },
             "Dagger (Ranged)": {
-                "name": "",
+                "name": "匕首 Dagger（远程 Ranged）",
                 "system": {
                     "description": {
                         "value": ""
@@ -19990,7 +19990,7 @@
                 }
             },
             "Control Water": {
-                "name": "",
+                "name": "Control Water",
                 "system": {
                     "description": {
                         "value": ""
@@ -20142,7 +20142,7 @@
         },
         "items": {
             "Dagger (Melee)": {
-                "name": "",
+                "name": "匕首 Dagger（近战 Melee）",
                 "system": {
                     "description": {
                         "value": ""
@@ -20150,7 +20150,7 @@
                 }
             },
             "Dagger (Ranged)": {
-                "name": "",
+                "name": "匕首 Dagger（远程 Ranged）",
                 "system": {
                     "description": {
                         "value": ""
@@ -20254,7 +20254,7 @@
                 }
             },
             "Unusual Nature": {
-                "name": "",
+                "name": "Unusual Nature",
                 "system": {
                     "description": {
                         "value": ""
@@ -20358,7 +20358,7 @@
                 }
             },
             "Dagger (Melee)": {
-                "name": "",
+                "name": "匕首 Dagger（近战 Melee）",
                 "system": {
                     "description": {
                         "value": ""
@@ -20366,7 +20366,7 @@
                 }
             },
             "Dagger (Ranged)": {
-                "name": "",
+                "name": "匕首 Dagger（远程 Ranged）",
                 "system": {
                     "description": {
                         "value": ""
@@ -21430,7 +21430,7 @@
                 }
             },
             "Unusual Nature": {
-                "name": "",
+                "name": "Unusual Nature",
                 "system": {
                     "description": {
                         "value": ""
@@ -21606,7 +21606,7 @@
                 }
             },
             "Unusual Nature": {
-                "name": "",
+                "name": "Unusual Nature",
                 "system": {
                     "description": {
                         "value": ""
@@ -22046,7 +22046,7 @@
                 }
             },
             "Fear": {
-                "name": "",
+                "name": "恐惧术 Fear",
                 "system": {
                     "description": {
                         "value": ""
@@ -22070,7 +22070,7 @@
                 }
             },
             "Arcane Eye": {
-                "name": "",
+                "name": "Arcane Eye",
                 "system": {
                     "description": {
                         "value": ""
@@ -22270,7 +22270,7 @@
                 }
             },
             "Sending": {
-                "name": "",
+                "name": "Sending",
                 "system": {
                     "description": {
                         "value": ""
@@ -22406,7 +22406,7 @@
                 }
             },
             "Revivify": {
-                "name": "",
+                "name": "Revivify",
                 "system": {
                     "description": {
                         "value": ""
@@ -22478,7 +22478,7 @@
                 }
             },
             "Fire Ray": {
-                "name": "",
+                "name": "火焰射线 Fire Ray",
                 "system": {
                     "description": {
                         "value": ""
@@ -22614,7 +22614,7 @@
                 }
             },
             "Special Equipment": {
-                "name": "",
+                "name": "Special Equipment",
                 "system": {
                     "description": {
                         "value": ""
@@ -22942,7 +22942,7 @@
                 }
             },
             "Unusual Nature": {
-                "name": "",
+                "name": "Unusual Nature",
                 "system": {
                     "description": {
                         "value": ""
@@ -23110,7 +23110,7 @@
                 }
             },
             "Unusual Nature": {
-                "name": "",
+                "name": "Unusual Nature",
                 "system": {
                     "description": {
                         "value": ""
@@ -23302,7 +23302,7 @@
         },
         "items": {
             "Dagger (Melee)": {
-                "name": "",
+                "name": "匕首 Dagger（近战 Melee）",
                 "system": {
                     "description": {
                         "value": ""
@@ -23310,7 +23310,7 @@
                 }
             },
             "Dagger (Ranged)": {
-                "name": "",
+                "name": "匕首 Dagger（远程 Ranged）",
                 "system": {
                     "description": {
                         "value": ""
@@ -23438,7 +23438,7 @@
                 }
             },
             "Spear (Ranged)": {
-                "name": "",
+                "name": "矛 Spear（远程 Ranged）",
                 "system": {
                     "description": {
                         "value": ""
@@ -24342,7 +24342,7 @@
                 }
             },
             "Unusual Nature": {
-                "name": "",
+                "name": "Unusual Nature",
                 "system": {
                     "description": {
                         "value": ""
@@ -24478,7 +24478,7 @@
                 }
             },
             "Taunt": {
-                "name": "",
+                "name": "Taunt",
                 "system": {
                     "description": {
                         "value": ""
@@ -24678,7 +24678,7 @@
                 }
             },
             "Unusual Nature": {
-                "name": "",
+                "name": "Unusual Nature",
                 "system": {
                     "description": {
                         "value": ""
@@ -24958,7 +24958,7 @@
         },
         "items": {
             "Dagger (Melee)": {
-                "name": "",
+                "name": "匕首 Dagger（近战 Melee）",
                 "system": {
                     "description": {
                         "value": ""
@@ -24966,7 +24966,7 @@
                 }
             },
             "Dagger (Ranged)": {
-                "name": "",
+                "name": "匕首 Dagger（远程 Ranged）",
                 "system": {
                     "description": {
                         "value": ""
@@ -25150,7 +25150,7 @@
                 }
             },
             "Unusual Nature": {
-                "name": "",
+                "name": "Unusual Nature",
                 "system": {
                     "description": {
                         "value": ""
@@ -25206,7 +25206,7 @@
                 }
             },
             "Unusual Nature": {
-                "name": "",
+                "name": "Unusual Nature",
                 "system": {
                     "description": {
                         "value": ""
@@ -25358,7 +25358,7 @@
                 }
             },
             "Revivify": {
-                "name": "",
+                "name": "Revivify",
                 "system": {
                     "description": {
                         "value": ""
@@ -25534,7 +25534,7 @@
                 }
             },
             "Fear": {
-                "name": "",
+                "name": "恐惧术 Fear",
                 "system": {
                     "description": {
                         "value": ""
@@ -25854,7 +25854,7 @@
                 }
             },
             "Fear": {
-                "name": "",
+                "name": "恐惧术 Fear",
                 "system": {
                     "description": {
                         "value": ""

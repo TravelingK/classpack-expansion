@@ -390,7 +390,7 @@
                 }
             },
             "Stinking Cloud": {
-                "name": "",
+                "name": "臭云术 Stinking Cloud",
                 "system": {
                     "description": {
                         "value": ""
@@ -1430,7 +1430,7 @@
                 }
             },
             "Sending": {
-                "name": "",
+                "name": "Sending",
                 "system": {
                     "description": {
                         "value": ""
@@ -2054,7 +2054,7 @@
                 }
             },
             "Stinking Cloud": {
-                "name": "",
+                "name": "臭云术 Stinking Cloud",
                 "system": {
                     "description": {
                         "value": ""
@@ -3062,7 +3062,7 @@
                 }
             },
             "Wall of Stone": {
-                "name": "",
+                "name": "Wall of Stone",
                 "system": {
                     "description": {
                         "value": ""
@@ -3190,7 +3190,7 @@
                 }
             },
             "Fear": {
-                "name": "",
+                "name": "恐惧术 Fear",
                 "system": {
                     "description": {
                         "value": ""
@@ -4174,7 +4174,7 @@
                 }
             },
             "Spear (Ranged)": {
-                "name": "",
+                "name": "矛 Spear（远程 Ranged）",
                 "system": {
                     "description": {
                         "value": ""
@@ -4182,7 +4182,7 @@
                 }
             },
             "Fire Ray": {
-                "name": "",
+                "name": "火焰射线 Fire Ray",
                 "system": {
                     "description": {
                         "value": ""
@@ -4806,7 +4806,7 @@
                 }
             },
             "Fear": {
-                "name": "",
+                "name": "恐惧术 Fear",
                 "system": {
                     "description": {
                         "value": ""
@@ -5166,7 +5166,7 @@
                 }
             },
             "Trident (Ranged)": {
-                "name": "",
+                "name": "Trident (Ranged)",
                 "system": {
                     "description": {
                         "value": ""
@@ -5542,7 +5542,7 @@
                 }
             },
             "Fear": {
-                "name": "",
+                "name": "恐惧术 Fear",
                 "system": {
                     "description": {
                         "value": ""
@@ -6102,7 +6102,7 @@
                 }
             },
             "Control Water": {
-                "name": "",
+                "name": "Control Water",
                 "system": {
                     "description": {
                         "value": ""
@@ -6118,7 +6118,7 @@
                 }
             },
             "Fear": {
-                "name": "",
+                "name": "恐惧术 Fear",
                 "system": {
                     "description": {
                         "value": ""
@@ -6174,7 +6174,7 @@
                 }
             },
             "Water Walk": {
-                "name": "",
+                "name": "Water Walk",
                 "system": {
                     "description": {
                         "value": ""
@@ -6494,7 +6494,7 @@
                 }
             },
             "Fear": {
-                "name": "",
+                "name": "恐惧术 Fear",
                 "system": {
                     "description": {
                         "value": ""
@@ -8350,7 +8350,7 @@
                 }
             },
             "Fear": {
-                "name": "",
+                "name": "恐惧术 Fear",
                 "system": {
                     "description": {
                         "value": ""
@@ -10782,7 +10782,7 @@
         },
         "items": {
             "Staff": {
-                "name": "",
+                "name": "法杖 Staff",
                 "system": {
                     "description": {
                         "value": ""
@@ -11118,7 +11118,7 @@
                 }
             },
             "Arcane Eye": {
-                "name": "",
+                "name": "Arcane Eye",
                 "system": {
                     "description": {
                         "value": ""
@@ -11214,7 +11214,7 @@
                 }
             },
             "Fear": {
-                "name": "",
+                "name": "恐惧术 Fear",
                 "system": {
                     "description": {
                         "value": ""
@@ -11974,7 +11974,7 @@
                 }
             },
             "Stinking Cloud": {
-                "name": "",
+                "name": "臭云术 Stinking Cloud",
                 "system": {
                     "description": {
                         "value": ""
@@ -12462,7 +12462,7 @@
                 }
             },
             "Spear (Ranged)": {
-                "name": "",
+                "name": "矛 Spear（远程 Ranged）",
                 "system": {
                     "description": {
                         "value": ""
@@ -12470,7 +12470,7 @@
                 }
             },
             "Fire Ray": {
-                "name": "",
+                "name": "Fire Ray",
                 "system": {
                     "description": {
                         "value": ""
@@ -13478,7 +13478,7 @@
                 }
             },
             "Fear": {
-                "name": "",
+                "name": "恐惧术 Fear",
                 "system": {
                     "description": {
                         "value": ""
@@ -13614,7 +13614,7 @@
                 }
             },
             "Control Water": {
-                "name": "",
+                "name": "Control Water",
                 "system": {
                     "description": {
                         "value": ""
@@ -14014,7 +14014,7 @@
                 }
             },
             "Fear": {
-                "name": "",
+                "name": "恐惧术 Fear",
                 "system": {
                     "description": {
                         "value": ""
@@ -14454,7 +14454,7 @@
                 }
             },
             "Fear": {
-                "name": "",
+                "name": "恐惧术 Fear",
                 "system": {
                     "description": {
                         "value": ""
@@ -16070,7 +16070,7 @@
                 }
             },
             "Sending": {
-                "name": "",
+                "name": "Sending",
                 "system": {
                     "description": {
                         "value": ""
@@ -16390,7 +16390,7 @@
                 }
             },
             "Fear": {
-                "name": "",
+                "name": "恐惧术 Fear",
                 "system": {
                     "description": {
                         "value": ""
@@ -17358,7 +17358,7 @@
                 }
             },
             "Fear": {
-                "name": "",
+                "name": "恐惧术 Fear",
                 "system": {
                     "description": {
                         "value": ""
