@@ -2002,7 +2002,7 @@
                 }
             },
             "Create or Destroy Water": {
-                "name": "Create or Destroy Water",
+                "name": "造水/枯水术 Create or Destroy Water",
                 "system": {
                     "description": {
                         "value": ""
@@ -2010,7 +2010,7 @@
                 }
             },
             "Purify Food and Drink": {
-                "name": "Purify Food and Drink",
+                "name": "净化食粮 Purify Food and Drink",
                 "system": {
                     "description": {
                         "value": ""
@@ -2026,7 +2026,7 @@
                 }
             },
             "Trident (Ranged)": {
-                "name": "Trident (Ranged)",
+                "name": "三叉戟 Trident（远程 Ranged）",
                 "system": {
                     "description": {
                         "value": ""
@@ -2034,7 +2034,7 @@
                 }
             },
             "Water Jet": {
-                "name": "Water Jet",
+                "name": "射水 Water Jet",
                 "system": {
                     "description": {
                         "value": ""
@@ -2050,7 +2050,7 @@
                 }
             },
             "Water Walk": {
-                "name": "Water Walk",
+                "name": "水上行走 Water Walk",
                 "system": {
                     "description": {
                         "value": ""
@@ -2058,7 +2058,7 @@
                 }
             },
             "Control Water": {
-                "name": "Control Water",
+                "name": "操控水体 Control Water",
                 "system": {
                     "description": {
                         "value": ""
@@ -8674,7 +8674,7 @@
                 }
             },
             "Javelin (Melee)": {
-                "name": "标枪 Javelin（近战）",
+                "name": "标枪 Javelin（近战 Melee）",
                 "system": {
                     "description": {
                         "value": ""
@@ -8682,7 +8682,7 @@
                 }
             },
             "Javelin (Ranged)": {
-                "name": "标枪 Javelin（远程）",
+                "name": "标枪 Javelin（远程 Ranged）",
                 "system": {
                     "description": {
                         "value": ""
@@ -13522,7 +13522,7 @@
                 }
             },
             "Javelin (Melee)": {
-                "name": "标枪 Javelin（近战）",
+                "name": "标枪 Javelin（近战 Melee）",
                 "system": {
                     "description": {
                         "value": ""
@@ -13530,7 +13530,7 @@
                 }
             },
             "Javelin (Ranged)": {
-                "name": "标枪 Javelin（远程）",
+                "name": "标枪 Javelin（远程 Ranged）",
                 "system": {
                     "description": {
                         "value": ""
