@@ -30,7 +30,7 @@
                 }
             },
             "Special Equipment": {
-                "name": "",
+                "name": "Special Equipment",
                 "system": {
                     "description": {
                         "value": ""
@@ -526,7 +526,7 @@
                 }
             },
             "Dagger (Melee)": {
-                "name": "",
+                "name": "匕首 Dagger（近战 Melee）",
                 "system": {
                     "description": {
                         "value": ""
@@ -534,7 +534,7 @@
                 }
             },
             "Dagger (Ranged)": {
-                "name": "",
+                "name": "匕首 Dagger（远程 Ranged）",
                 "system": {
                     "description": {
                         "value": ""
@@ -1334,7 +1334,7 @@
                 }
             },
             "Special Equipment": {
-                "name": "",
+                "name": "Special Equipment",
                 "system": {
                     "description": {
                         "value": ""
@@ -1542,7 +1542,7 @@
                 }
             },
             "Revivify": {
-                "name": "",
+                "name": "Revivify",
                 "system": {
                     "description": {
                         "value": ""
@@ -1702,7 +1702,7 @@
                 }
             },
             "Dagger (Melee)": {
-                "name": "",
+                "name": "匕首 Dagger（近战 Melee）",
                 "system": {
                     "description": {
                         "value": ""
@@ -1710,7 +1710,7 @@
                 }
             },
             "Dagger (Ranged)": {
-                "name": "",
+                "name": "匕首 Dagger（远程 Ranged）",
                 "system": {
                     "description": {
                         "value": ""
@@ -1982,7 +1982,7 @@
                 }
             },
             "Fear": {
-                "name": "",
+                "name": "恐惧术 Fear",
                 "system": {
                     "description": {
                         "value": ""
@@ -2766,7 +2766,7 @@
                 }
             },
             "Dagger (Melee)": {
-                "name": "",
+                "name": "匕首 Dagger（近战 Melee）",
                 "system": {
                     "description": {
                         "value": ""
@@ -2774,7 +2774,7 @@
                 }
             },
             "Dagger (Ranged)": {
-                "name": "",
+                "name": "匕首 Dagger（远程 Ranged）",
                 "system": {
                     "description": {
                         "value": ""
@@ -3030,7 +3030,7 @@
         },
         "items": {
             "Harpoon (Melee)": {
-                "name": "",
+                "name": "Harpoon (Melee)",
                 "system": {
                     "description": {
                         "value": ""
@@ -3038,7 +3038,7 @@
                 }
             },
             "Harpoon (Ranged)": {
-                "name": "",
+                "name": "Harpoon (Ranged)",
                 "system": {
                     "description": {
                         "value": ""
@@ -3862,7 +3862,7 @@
                 }
             },
             "Fear": {
-                "name": "",
+                "name": "恐惧术 Fear",
                 "system": {
                     "description": {
                         "value": ""
@@ -4046,7 +4046,7 @@
                 }
             },
             "Arcane Eye": {
-                "name": "",
+                "name": "Arcane Eye",
                 "system": {
                     "description": {
                         "value": ""
