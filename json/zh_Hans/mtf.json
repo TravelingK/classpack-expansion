@@ -782,7 +782,7 @@
                 }
             },
             "Musket": {
-                "name": "",
+                "name": "滑膛枪",
                 "system": {
                     "description": {
                         "value": ""
@@ -790,7 +790,7 @@
                 }
             },
             "Pistol": {
-                "name": "",
+                "name": "手枪",
                 "system": {
                     "description": {
                         "value": ""
@@ -1310,7 +1310,7 @@
                 }
             },
             "Ventriloquism": {
-                "name": "",
+                "name": "腹语术",
                 "system": {
                     "description": {
                         "value": ""
@@ -4278,7 +4278,7 @@
         },
         "items": {
             "Garrote": {
-                "name": "",
+                "name": "绞杀",
                 "system": {
                     "description": {
                         "value": ""
@@ -8238,7 +8238,7 @@
                 }
             },
             "Gaze": {
-                "name": "",
+                "name": "凝视",
                 "system": {
                     "description": {
                         "value": ""
@@ -13350,7 +13350,7 @@
                 }
             },
             "Flail": {
-                "name": "",
+                "name": "连枷",
                 "system": {
                     "description": {
                         "value": ""
@@ -15470,7 +15470,7 @@
                 }
             },
             "Flail": {
-                "name": "",
+                "name": "连枷",
                 "system": {
                     "description": {
                         "value": ""
