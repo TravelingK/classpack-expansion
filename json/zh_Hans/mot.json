@@ -518,7 +518,7 @@
                 }
             },
             "Augury": {
-                "name": "",
+                "name": "占卜",
                 "system": {
                     "description": {
                         "value": ""
@@ -1878,7 +1878,7 @@
                 }
             },
             "Dart": {
-                "name": "",
+                "name": "Dart",
                 "system": {
                     "description": {
                         "value": ""
@@ -2262,7 +2262,7 @@
                 }
             },
             "Mount": {
-                "name": "",
+                "name": "坐骑",
                 "system": {
                     "description": {
                         "value": ""
@@ -3046,7 +3046,7 @@
                 }
             },
             "Head": {
-                "name": "",
+                "name": "Head",
                 "system": {
                     "description": {
                         "value": ""
@@ -3182,7 +3182,7 @@
                 }
             },
             "Mount": {
-                "name": "",
+                "name": "坐骑",
                 "system": {
                     "description": {
                         "value": ""

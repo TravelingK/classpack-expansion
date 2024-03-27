@@ -178,7 +178,7 @@
                 }
             },
             "Maul": {
-                "name": "",
+                "name": "大锤",
                 "system": {
                     "description": {
                         "value": ""
@@ -4386,7 +4386,7 @@
                 }
             },
             "Flight": {
-                "name": "",
+                "name": "飞行",
                 "system": {
                     "description": {
                         "value": ""
@@ -5818,7 +5818,7 @@
                 }
             },
             "Maul": {
-                "name": "",
+                "name": "大锤",
                 "system": {
                     "description": {
                         "value": ""
@@ -6146,7 +6146,7 @@
                 }
             },
             "Hook": {
-                "name": "",
+                "name": "钩",
                 "system": {
                     "description": {
                         "value": ""
@@ -7450,7 +7450,7 @@
                 }
             },
             "Net": {
-                "name": "",
+                "name": "网",
                 "system": {
                     "description": {
                         "value": ""
@@ -8354,7 +8354,7 @@
                 }
             },
             "Maul": {
-                "name": "",
+                "name": "大锤",
                 "system": {
                     "description": {
                         "value": ""
@@ -11130,7 +11130,7 @@
                 }
             },
             "Flight": {
-                "name": "",
+                "name": "飞行",
                 "system": {
                     "description": {
                         "value": ""
@@ -12706,7 +12706,7 @@
                 }
             },
             "Maul": {
-                "name": "",
+                "name": "大锤",
                 "system": {
                     "description": {
                         "value": ""
@@ -12850,7 +12850,7 @@
                 "name": ""
             },
             "Augury": {
-                "name": "",
+                "name": "占卜",
                 "system": {
                     "description": {
                         "value": ""
