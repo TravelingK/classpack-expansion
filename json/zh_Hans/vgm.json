@@ -830,7 +830,7 @@
                 }
             },
             "Dart": {
-                "name": "",
+                "name": "Dart",
                 "system": {
                     "description": {
                         "value": ""
@@ -1134,7 +1134,7 @@
                 }
             },
             "Necklace of Fireballs": {
-                "name": "",
+                "name": "Necklace of Fireballs",
                 "system": {
                     "description": {
                         "value": ""
@@ -3102,7 +3102,7 @@
                 }
             },
             "Augury": {
-                "name": "",
+                "name": "占卜",
                 "system": {
                     "description": {
                         "value": ""
@@ -4078,7 +4078,7 @@
                 }
             },
             "Dart": {
-                "name": "",
+                "name": "Dart",
                 "system": {
                     "description": {
                         "value": ""
@@ -4264,9 +4264,9 @@
         }
     },
     "Dolphin": {
-        "name": "",
+        "name": "海豚",
         "prototypeToken": {
-            "name": ""
+            "name": "海豚"
         },
         "system": {
             "details": {
@@ -10190,7 +10190,7 @@
                 }
             },
             "Augury": {
-                "name": "",
+                "name": "占卜",
                 "system": {
                     "description": {
                         "value": ""
@@ -11392,9 +11392,9 @@
         }
     },
     "Bard": {
-        "name": "",
+        "name": "Bard",
         "prototypeToken": {
-            "name": ""
+            "name": "Bard"
         },
         "system": {
             "details": {
@@ -11942,7 +11942,7 @@
                 }
             },
             "Maul": {
-                "name": "",
+                "name": "大锤",
                 "system": {
                     "description": {
                         "value": ""
@@ -13742,7 +13742,7 @@
                 }
             },
             "Dart": {
-                "name": "",
+                "name": "Dart",
                 "system": {
                     "description": {
                         "value": ""
@@ -14110,7 +14110,7 @@
                 }
             },
             "Augury": {
-                "name": "",
+                "name": "占卜",
                 "system": {
                     "description": {
                         "value": ""
