@@ -86,7 +86,7 @@
                 }
             },
             "Scythe": {
-                "name": "",
+                "name": "巨镰",
                 "system": {
                     "description": {
                         "value": ""
@@ -4614,7 +4614,7 @@
                 }
             },
             "Scythe": {
-                "name": "",
+                "name": "巨镰",
                 "system": {
                     "description": {
                         "value": ""
@@ -4638,7 +4638,7 @@
                 }
             },
             "Mount": {
-                "name": "",
+                "name": "坐骑",
                 "system": {
                     "description": {
                         "value": ""
@@ -5182,7 +5182,7 @@
                 }
             },
             "Mount": {
-                "name": "",
+                "name": "坐骑",
                 "system": {
                     "description": {
                         "value": ""
@@ -5534,7 +5534,7 @@
                 }
             },
             "Scythe": {
-                "name": "",
+                "name": "巨镰",
                 "system": {
                     "description": {
                         "value": ""
@@ -6414,7 +6414,7 @@
                 }
             },
             "Imprisonment": {
-                "name": "",
+                "name": "Imprisonment",
                 "system": {
                     "description": {
                         "value": ""
@@ -6510,7 +6510,7 @@
                 }
             },
             "Augury": {
-                "name": "",
+                "name": "占卜",
                 "system": {
                     "description": {
                         "value": ""
@@ -6664,9 +6664,9 @@
         }
     },
     "Soldier": {
-        "name": "",
+        "name": "Soldier",
         "prototypeToken": {
-            "name": ""
+            "name": "Soldier"
         },
         "system": {
             "details": {
@@ -7830,7 +7830,7 @@
                 }
             },
             "Maul": {
-                "name": "",
+                "name": "大锤",
                 "system": {
                     "description": {
                         "value": ""
