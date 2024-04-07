@@ -1136,9 +1136,9 @@
         }
     },
     "Inspired": {
-        "name": "",
+        "name": "Inspired",
         "prototypeToken": {
-            "name": ""
+            "name": "Inspired"
         },
         "system": {
             "details": {
@@ -2318,7 +2318,7 @@
                 }
             },
             "Flail": {
-                "name": "",
+                "name": "连枷",
                 "system": {
                     "description": {
                         "value": ""
@@ -3550,7 +3550,7 @@
                 }
             },
             "Augury": {
-                "name": "",
+                "name": "占卜",
                 "system": {
                     "description": {
                         "value": ""
