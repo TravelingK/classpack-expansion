@@ -142,7 +142,7 @@
                 }
             },
             "Augury": {
-                "name": "",
+                "name": "占卜",
                 "system": {
                     "description": {
                         "value": ""
@@ -1430,7 +1430,7 @@
                 }
             },
             "Maul": {
-                "name": "",
+                "name": "大锤",
                 "system": {
                     "description": {
                         "value": ""
@@ -1918,7 +1918,7 @@
                 }
             },
             "Bane": {
-                "name": "",
+                "name": "祸根",
                 "system": {
                     "description": {
                         "value": ""
@@ -2038,7 +2038,7 @@
         },
         "items": {
             "Maul": {
-                "name": "",
+                "name": "大锤",
                 "system": {
                     "description": {
                         "value": ""
