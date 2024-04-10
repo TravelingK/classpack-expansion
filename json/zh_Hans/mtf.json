@@ -1094,7 +1094,7 @@
                 }
             },
             "Hammer": {
-                "name": "",
+                "name": "Hammer",
                 "system": {
                     "description": {
                         "value": ""
@@ -1478,7 +1478,7 @@
                 }
             },
             "Halberd": {
-                "name": "",
+                "name": "戟",
                 "system": {
                     "description": {
                         "value": ""
@@ -2374,7 +2374,7 @@
                 }
             },
             "Bane": {
-                "name": "",
+                "name": "祸根",
                 "system": {
                     "description": {
                         "value": ""
@@ -4982,7 +4982,7 @@
                 }
             },
             "Cavalry Training": {
-                "name": "",
+                "name": "骑兵训练",
                 "system": {
                     "description": {
                         "value": ""
@@ -5630,7 +5630,7 @@
                 }
             },
             "Spike": {
-                "name": "",
+                "name": "盾刺",
                 "system": {
                     "description": {
                         "value": ""
@@ -9294,7 +9294,7 @@
                 }
             },
             "Bane": {
-                "name": "",
+                "name": "祸根",
                 "system": {
                     "description": {
                         "value": ""
@@ -9526,7 +9526,7 @@
                 }
             },
             "Spike": {
-                "name": "",
+                "name": "盾刺",
                 "system": {
                     "description": {
                         "value": ""
@@ -10070,7 +10070,7 @@
                 }
             },
             "Hook": {
-                "name": "",
+                "name": "钩",
                 "system": {
                     "description": {
                         "value": ""
@@ -10118,7 +10118,7 @@
                 }
             },
             "Maul": {
-                "name": "",
+                "name": "大锤",
                 "system": {
                     "description": {
                         "value": ""
@@ -10798,7 +10798,7 @@
                 }
             },
             "Paralysis": {
-                "name": "",
+                "name": "麻痹",
                 "system": {
                     "description": {
                         "value": ""
@@ -11086,7 +11086,7 @@
                 }
             },
             "Bane": {
-                "name": "",
+                "name": "祸根",
                 "system": {
                     "description": {
                         "value": ""
@@ -13774,7 +13774,7 @@
                 }
             },
             "Imprisonment": {
-                "name": "",
+                "name": "Imprisonment",
                 "system": {
                     "description": {
                         "value": ""
@@ -15198,7 +15198,7 @@
                 }
             },
             "Imprisonment": {
-                "name": "",
+                "name": "Imprisonment",
                 "system": {
                     "description": {
                         "value": ""
@@ -15774,7 +15774,7 @@
                 }
             },
             "Bane": {
-                "name": "",
+                "name": "祸根",
                 "system": {
                     "description": {
                         "value": ""
@@ -16646,7 +16646,7 @@
                 }
             },
             "Strike": {
-                "name": "",
+                "name": "Strike",
                 "system": {
                     "description": {
                         "value": ""
